@@ -1,0 +1,41 @@
+name: Actualizar datos Biwenger
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # datos cada 6h
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Ejecutar script de Biwenger
+        env:
+          BIWENGER_EMAIL:     ${{ secrets.BIWENGER_EMAIL }}
+          BIWENGER_PASSWORD:  ${{ secrets.BIWENGER_PASSWORD }}
+          BIWENGER_LEAGUE_ID: ${{ secrets.BIWENGER_LEAGUE_ID }}
+          ODDS_API_KEY:       ${{ secrets.ODDS_API_KEY }}
+        run: node scripts/fetch-biwenger.js
+
+      # Fotos: solo se descargan las que no existen todavía.
+      # El script es idempotente — si ya están, no hace nada.
+      - name: Descargar fotos de jugadores
+        run: node scripts/fetch-photos.js
+
+      - name: Guardar datos y fotos en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/data.json data/history.json data/prices.json
+          git add img/players/ || true
+          git diff --staged --quiet || git commit -m "datos: actualización automática $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
