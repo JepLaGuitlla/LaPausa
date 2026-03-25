@@ -1,0 +1,139 @@
+/* styles/base.css — La Pausa Fantasy
+   Variables, reset y tipografía.
+   NO contiene layout ni componentes.
+   ══════════════════════════════════════════════════════════ */
+
+/* ─── GOOGLE FONTS ─────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600&family=IBM+Plex+Mono:wght@300;400;500&family=Barlow+Condensed:wght@300;400;500;600;700;800&family=Barlow:wght@300;400;500;600&display=swap');
+
+/* ─── VARIABLES ─────────────────────────────────────────────── */
+:root {
+  /* Fondos */
+  --bg:  #ffffff;
+  --bg2: #f8f8f8;
+  --bg3: #f0f0f0;
+  --bg4: #e8e8e8;
+
+  /* Bordes */
+  --border:  #e0e0e0;
+  --border2: #d0d0d0;
+
+  /* Acento principal */
+  --accent:     #e63329;
+  --accent2:    #c0261d;
+  --accent-dim: rgba(230, 51, 41, 0.08);
+
+  /* Texto */
+  --text:  #111111;
+  --text2: #555555;
+  --text3: #999999;
+
+  /* Colores de posición */
+  --pt: #d97706;
+  --df: #1d6fce;
+  --mc: #16a34a;
+  --dl: #e63329;
+  --md: #7c3aed;
+
+  /* Semáforo */
+  --green: #16a34a;
+  --red:   #e63329;
+  --blue:  #1d6fce;
+  --lime:  #e63329;
+
+  /* Puntuación jForm */
+  --c-top:  #1a56db;
+  --c-good: #0e9f6e;
+  --c-mid:  #c27803;
+  --c-low:  #e3342f;
+
+  /* Líneas de campo */
+  --field-line: rgba(0, 0, 0, 0.15);
+
+  /* Clasificación Liga */
+  --c-champ:  #1d6fce;
+  --c-europa: #16a34a;
+  --c-conf:   #d97706;
+  --c-rel:    #e63329;
+}
+
+/* ─── RESET ─────────────────────────────────────────────────── */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ─── BASE ───────────────────────────────────────────────────── */
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Figtree', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── TIPOGRAFÍA BASE ───────────────────────────────────────── */
+h1, h2, h3, h4 {
+  font-family: 'Figtree', sans-serif;
+  font-weight: 800;
+  line-height: 1.1;
+  color: var(--text);
+}
+
+code, pre, .mono {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+/* ─── SCROLLBAR GLOBAL ──────────────────────────────────────── */
+::-webkit-scrollbar         { width: 4px; height: 4px; }
+::-webkit-scrollbar-track   { background: transparent; }
+::-webkit-scrollbar-thumb   { background: var(--border2); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text3); }
+
+/* ─── ANIMACIONES GLOBALES ──────────────────────────────────── */
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.5; transform: scale(0.8); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideIn {
+  from { transform: translateX(100%); }
+  to   { transform: translateX(0); }
+}
+
+@keyframes cmIn {
+  from { opacity: 0; transform: scale(0.96) translateY(12px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ─── HELPERS DE COLOR ──────────────────────────────────────── */
+.color-green  { color: var(--green); }
+.color-red    { color: var(--red); }
+.color-blue   { color: var(--blue); }
+.color-text3  { color: var(--text3); }
+.color-accent { color: var(--accent); }
+
+/* ─── ESTADO DE DISPONIBILIDAD ──────────────────────────────── */
+.status-ok         { color: var(--green); }
+.status-doubt      { color: var(--pt); }
+.status-injured    { color: var(--red); }
+.status-sanctioned { color: var(--blue); }
