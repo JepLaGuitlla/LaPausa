@@ -59,7 +59,20 @@ function downloadPhoto(playerId) {
     const url      = `${CDN_BASE}/${playerId}.avif`;
     const filePath = path.join(OUTPUT_DIR, `${playerId}.avif`);
 
-    const req = https.get(url, { timeout: 8000 }, (res) => {
+    const req = https.get(url, {
+      timeout: 10000,
+      headers: {
+        'User-Agent':      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept':          'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+        'Accept-Language': 'es-ES,es;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Referer':         'https://biwenger.as.com/',
+        'Origin':          'https://biwenger.as.com',
+        'Sec-Fetch-Dest':  'image',
+        'Sec-Fetch-Mode':  'no-cors',
+        'Sec-Fetch-Site':  'cross-site',
+      }
+    }, (res) => {
       if (res.statusCode === 200) {
         const chunks = [];
         res.on('data', chunk => chunks.push(chunk));
