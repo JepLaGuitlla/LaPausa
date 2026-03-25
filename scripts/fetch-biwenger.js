@@ -22,7 +22,6 @@ const FD_TOKEN = '00308a91cfc84b248611ecc22550c9de';
 
 const RSS_SOURCES = [
   { id:'jp', label:'Jornada Perfecta', url:'https://www.jornadaperfecta.com/feed/' },
-  { id:'as', label:'AS Fantasy',       url:'https://fantasy.as.com/feed/' },
   { id:'cm', label:'Comuniate',        url:'https://www.comuniate.com/feed/' },
   { id:'rv', label:'Relevo Fantasy',   url:'https://www.relevo.com/rss/noticias/' },
 ];
