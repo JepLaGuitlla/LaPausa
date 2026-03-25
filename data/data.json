@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T12:10:27.008Z",
+  "updatedAt": "2026-03-25T15:53:39.882Z",
   "players": [
     {
       "id": 11,
@@ -11932,6 +11932,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Ya se conoce la sanción a Fede Valverde",
+      "link": "https://www.jornadaperfecta.com/blog/valverde-sancion-roja-derbi/",
+      "date": "Wed, 25 Mar 2026 15:50:28 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Ayoze Pérez vuelve a entrenar en una sesión sin Comesaña",
+      "link": "https://www.jornadaperfecta.com/blog/ayoze-perez-estado-j30-25-26/",
+      "date": "Wed, 25 Mar 2026 15:46:56 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción YoSports Eliminatorias Europeas Mundial: ¡consigue 10€ en apuestas gratis!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-yosports-eliminatorias-europeas-mundial/",
+      "date": "Wed, 25 Mar 2026 13:52:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Luis García Plaza: Beneficiados y perjudicados fantasy en el Sevilla",
       "link": "https://www.jornadaperfecta.com/blog/luis-garcia-plaza-sevilla-analisis-26/",
       "date": "Wed, 25 Mar 2026 12:00:44 +0000"
@@ -11959,29 +11977,11 @@
       "title": "Lo Celso vuelve a hacer parte con el grupo, ¿llega a la jornada 30?",
       "link": "https://www.jornadaperfecta.com/blog/lo-celso-vuelta-lesion-26/",
       "date": "Wed, 25 Mar 2026 10:05:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¿Cómo actuar con cláusulas en LaLiga Fantasy durante el parón?",
-      "link": "https://www.jornadaperfecta.com/blog/clausulas-laliga-fantasy-paron-marzo-26/",
-      "date": "Wed, 25 Mar 2026 10:00:02 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Fecha de vuelta de los lesionados del FC Barcelona",
-      "link": "https://www.jornadaperfecta.com/blog/fecha-vuelta-lesionados-barcelona/",
-      "date": "Wed, 25 Mar 2026 09:20:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Grandes subidas y bajadas del mercado fantasy para el parón de marzo",
-      "link": "https://www.jornadaperfecta.com/blog/subidas-bajadas-fantasy-paron-marzo-26/",
-      "date": "Wed, 25 Mar 2026 08:00:32 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-03-25T12:10:23.391Z",
+    "updatedAt": "2026-03-25T15:53:36.668Z",
     "players": [
       {
         "id": "3374",
