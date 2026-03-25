@@ -2,7 +2,7 @@ name: Actualizar datos Biwenger
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # datos cada 6h
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Descargar repositorio
+      - name: Descargar repositorio LaPausa
         uses: actions/checkout@v4
 
       - name: Instalar Node.js
@@ -20,18 +20,22 @@ jobs:
 
       - name: Ejecutar script de Biwenger
         env:
-          BIWENGER_EMAIL:     ${{ secrets.BIWENGER_EMAIL }}
-          BIWENGER_PASSWORD:  ${{ secrets.BIWENGER_PASSWORD }}
-          BIWENGER_LEAGUE_ID: ${{ secrets.BIWENGER_LEAGUE_ID }}
-          ODDS_API_KEY:       ${{ secrets.ODDS_API_KEY }}
+          BIWENGER_EMAIL:    ${{ secrets.BIWENGER_EMAIL }}
+          BIWENGER_PASSWORD: ${{ secrets.BIWENGER_PASSWORD }}
         run: node scripts/fetch-biwenger.js
 
-      # Fotos: solo se descargan las que no existen todavía.
-      # El script es idempotente — si ya están, no hace nada.
-      - name: Descargar fotos de jugadores
-        run: node scripts/fetch-photos.js
+      - name: Copiar fotos desde repo tomaquet
+        run: |
+          git clone --depth=1 https://github.com/JepLaGuitlla/tomaquet.git /tmp/tomaquet
+          if [ -d "/tmp/tomaquet/img/players" ]; then
+            mkdir -p img/players
+            cp -n /tmp/tomaquet/img/players/*.avif img/players/ 2>/dev/null || true
+            echo "✅ Fotos copiadas: $(ls img/players/*.avif 2>/dev/null | wc -l)"
+          else
+            echo "⚠️ No se encontró img/players en tomaquet"
+          fi
 
-      - name: Guardar datos y fotos en el repositorio
+      - name: Guardar cambios
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
