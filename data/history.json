@@ -1,0 +1,449 @@
+{
+  "tomaquet": [
+    {
+      "date": "2025-08-15",
+      "jornada": 1,
+      "pts": 42,
+      "ptsAcum": 42,
+      "pos": 8,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-08-22",
+      "jornada": 2,
+      "pts": 45,
+      "ptsAcum": 87,
+      "pos": 4,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-08-29",
+      "jornada": 3,
+      "pts": 60,
+      "ptsAcum": 147,
+      "pos": 1,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-09-05",
+      "jornada": 4,
+      "pts": 33,
+      "ptsAcum": 180,
+      "pos": 11,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-09-12",
+      "jornada": 5,
+      "pts": 57,
+      "ptsAcum": 237,
+      "pos": 4,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-09-19",
+      "jornada": 6,
+      "pts": 36,
+      "ptsAcum": 273,
+      "pos": 9,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-09-26",
+      "jornada": 7,
+      "pts": 50,
+      "ptsAcum": 323,
+      "pos": 5,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-10-03",
+      "jornada": 8,
+      "pts": 54,
+      "ptsAcum": 377,
+      "pos": 3,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-10-10",
+      "jornada": 9,
+      "pts": 59,
+      "ptsAcum": 436,
+      "pos": 2,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-10-17",
+      "jornada": 10,
+      "pts": 49,
+      "ptsAcum": 485,
+      "pos": 6,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-10-24",
+      "jornada": 11,
+      "pts": 52,
+      "ptsAcum": 537,
+      "pos": 6,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-10-31",
+      "jornada": 12,
+      "pts": 47,
+      "ptsAcum": 584,
+      "pos": 8,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-11-07",
+      "jornada": 13,
+      "pts": 50,
+      "ptsAcum": 634,
+      "pos": 5,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-11-14",
+      "jornada": 14,
+      "pts": 28,
+      "ptsAcum": 662,
+      "pos": 13,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-11-21",
+      "jornada": 15,
+      "pts": 33,
+      "ptsAcum": 695,
+      "pos": 10,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-11-28",
+      "jornada": 16,
+      "pts": 51,
+      "ptsAcum": 746,
+      "pos": 6,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-12-05",
+      "jornada": 17,
+      "pts": 39,
+      "ptsAcum": 785,
+      "pos": 11,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-12-12",
+      "jornada": 18,
+      "pts": 62,
+      "ptsAcum": 847,
+      "pos": 2,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-12-19",
+      "jornada": 19,
+      "pts": 47,
+      "ptsAcum": 894,
+      "pos": 5,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2025-12-26",
+      "jornada": 20,
+      "pts": 56,
+      "ptsAcum": 950,
+      "pos": 4,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2026-01-02",
+      "jornada": 21,
+      "pts": 70,
+      "ptsAcum": 1020,
+      "pos": 2,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2026-01-09",
+      "jornada": 22,
+      "pts": 55,
+      "ptsAcum": 1075,
+      "pos": 2,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2026-01-16",
+      "jornada": 23,
+      "pts": 38,
+      "ptsAcum": 1113,
+      "pos": 11,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2026-01-23",
+      "jornada": 24,
+      "pts": 48,
+      "ptsAcum": 1161,
+      "pos": 7,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2026-01-30",
+      "jornada": 25,
+      "pts": 52,
+      "ptsAcum": 1213,
+      "pos": 6,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2026-02-06",
+      "jornada": 26,
+      "pts": 65,
+      "ptsAcum": 1278,
+      "pos": 1,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2026-02-13",
+      "jornada": 27,
+      "pts": 41,
+      "ptsAcum": 1319,
+      "pos": 13,
+      "teamValue": null,
+      "trend": null
+    },
+    {
+      "date": "2026-03-12",
+      "jornada": null,
+      "pts": null,
+      "ptsAcum": 1319,
+      "pos": 3,
+      "teamValue": 75040000,
+      "trend": 420000
+    },
+    {
+      "date": "2026-03-13",
+      "teamValue": null,
+      "trend": null,
+      "pts": 1319,
+      "pos": null
+    },
+    {
+      "date": "2026-03-14",
+      "teamValue": 75840000,
+      "trend": 250000,
+      "pts": 1319,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-15",
+      "teamValue": 77620000,
+      "trend": 560000,
+      "pts": 1319,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-16",
+      "teamValue": 78000000,
+      "trend": 380000,
+      "pts": 1319,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-17",
+      "teamValue": 78880000,
+      "trend": 190000,
+      "pts": 1366,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-18",
+      "teamValue": 77480000,
+      "trend": 260000,
+      "pts": 1366,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-19",
+      "teamValue": 78750000,
+      "trend": 450000,
+      "pts": 1366,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-20",
+      "teamValue": 77920000,
+      "trend": 590000,
+      "pts": 1366,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-21",
+      "teamValue": 78390000,
+      "trend": 470000,
+      "pts": 1366,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-22",
+      "teamValue": 79060000,
+      "trend": 670000,
+      "pts": 1366,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-23",
+      "teamValue": 79390000,
+      "trend": 690000,
+      "pts": 1437,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-24",
+      "teamValue": 79730000,
+      "trend": 580000,
+      "pts": 1437,
+      "pos": 3
+    },
+    {
+      "date": "2026-03-25",
+      "teamValue": 80260000,
+      "trend": 530000,
+      "pts": 1437,
+      "pos": 3
+    }
+  ],
+  "enbas": [
+    {
+      "date": "2026-03-12",
+      "jornada": null,
+      "pts": null,
+      "ptsAcum": null,
+      "pos": 4,
+      "teamValue": 87900000,
+      "trend": -60000
+    },
+    {
+      "date": "2026-03-13",
+      "teamValue": null,
+      "trend": null,
+      "pts": 1214,
+      "pos": null
+    },
+    {
+      "date": "2026-03-14",
+      "teamValue": 88120000,
+      "trend": 10000,
+      "pts": 1214,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-15",
+      "teamValue": 88460000,
+      "trend": 340000,
+      "pts": 1214,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-16",
+      "teamValue": 88110000,
+      "trend": 410000,
+      "pts": 1214,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-17",
+      "teamValue": 88330000,
+      "trend": 370000,
+      "pts": 1254,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-18",
+      "teamValue": 88840000,
+      "trend": 510000,
+      "pts": 1254,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-19",
+      "teamValue": 89190000,
+      "trend": 350000,
+      "pts": 1254,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-20",
+      "teamValue": 89590000,
+      "trend": 400000,
+      "pts": 1254,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-21",
+      "teamValue": 95770000,
+      "trend": 190000,
+      "pts": 1254,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-22",
+      "teamValue": 96370000,
+      "trend": 450000,
+      "pts": 1254,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-23",
+      "teamValue": 96450000,
+      "trend": 80000,
+      "pts": 1296,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-24",
+      "teamValue": 90800000,
+      "trend": 280000,
+      "pts": 1296,
+      "pos": 4
+    },
+    {
+      "date": "2026-03-25",
+      "teamValue": 91000000,
+      "trend": 200000,
+      "pts": 1296,
+      "pos": 4
+    }
+  ]
+}
