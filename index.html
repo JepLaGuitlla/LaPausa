@@ -771,36 +771,63 @@ function cD(){document.getElementById('dov').classList.remove('open');document.g
 function rDr(p){
   const bg=pcol(p),ps=pos(p),mediaVal=med(p),numPJ=(p.playedHome||0)+(p.playedAway||0),tr=fK(p.trend),trC=p.trend>0?'var(--green)':p.trend<0?'var(--red)':'var(--text3)';
   const jfI=(p.jForm||[]).slice(0,5).map((v,i)=>{const c=v===null||v===undefined?'var(--text3)':v>=10?'#b45309':v>=6?'#166534':v>=3?'#64748b':'#991b1b';return`<div class="djf"><div class="djfv" style="color:${c}">${v===null||v===undefined?'—':v}</div><div class="djfl">J-${i+1}</div></div>`;}).join('');
-  const estado=Engine.calcEstadoMercado(p,AP,window._pricesData||{});
-  const precioJusto=Engine.calcPrecioJusto(p,AP);
-  const rec=Engine.calcRecomendacion(p,AP,window._pricesData||{});
-  const sigs=rec?[...rec.reasons]:[];
-  const warns=rec?[...rec.warnings]:[];
-  if(p.status==='injured')sigs.unshift('⚠️ Lesionado');
-  if(p.status==='doubt')sigs.unshift('⚠️ En duda');
-  if(p.status==='sanctioned')sigs.unshift('⚠️ Sancionado');
-  const estadoHtml=estado?`<div class="dsec">Señal de mercado</div><div class="dsig" style="background:${estado.colorFondo};border-left:3px solid ${estado.colorTexto};color:${estado.colorTexto}">${estado.icono} <strong>${estado.label}</strong><br><span style="color:var(--text2);font-size:0.65rem">${estado.desc}</span></div>`:'';
-  const pjHtml=precioJusto?`<div class="dsec">Precio justo</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px"><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${(precioJusto.precioJusto/1e6).toFixed(2)}M€</div><div class="dkl">Precio justo</div></div><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${precioJusto.difEuros>=0?'+':''}${(precioJusto.difEuros/1e6).toFixed(2)}M€</div><div class="dkl">Diferencia</div></div></div>`:'';
-  // Explicación en lenguaje claro
-  const pj2=(player.playedHome||0)+(player.playedAway||0);
-  const mediaVal2=pj2>0?(player.pts||0)/pj2:0;
-  const efic2=Engine.calcEficiencia(player,Engine.calcMediasEsperadas(AP));
-  const explLines=[];
-  if(mediaVal2>0)explLines.push(`Promedia <strong>${mediaVal2.toFixed(1)} pts por jornada</strong> en ${pj2} partidos esta temporada.`);
-  if(precioJusto){
-    if(precioJusto.difEuros>0)explLines.push(`Su precio justo estimado es <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${precioJusto.difPct}% por debajo. El mercado aún no lo ha descubierto.`);
-    else explLines.push(`Su precio justo estimado es <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${Math.abs(precioJusto.difPct)}% por encima de lo que debería costar.`);
-  }
-  if(efic2!==null){
-    if(efic2>0)explLines.push(`Rinde un <strong>+${efic2}% por encima</strong> de lo esperado para jugadores de su posición y precio.`);
-    else explLines.push(`Rinde un <strong>${efic2}% por debajo</strong> de lo esperado para su posición y precio.`);
-  }
-  if(player.trend>100000)explLines.push(`El mercado lo está comprando — sube <strong>${fK(player.trend)}</strong> hoy.`);
-  else if(player.trend<-100000)explLines.push(`El mercado lo está vendiendo — baja <strong>${fK(player.trend)}</strong> hoy.`);
-  const explHtml=explLines.length?`<div class="dsec">¿Qué dicen los números?</div><div style="background:var(--surface2);border-radius:8px;padding:10px 12px;margin-bottom:14px;font-size:0.72rem;color:var(--text2);line-height:1.7">${explLines.map(l=>`<div style="margin-bottom:4px">→ ${l}</div>`).join('')}</div>`:'';
 
-  const sigsHtml=sigs.length?`<div class="dsec">Análisis</div><div class="dsig">${sigs.map(s=>`• ${s}`).join('<br>')}${warns.length?'<br><br>'+warns.map(w=>`⚠️ ${w}`).join('<br>'):''}</div>`:'';
-  document.getElementById('db').innerHTML=`<div class="dtop"><div class="dphoto"><img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.parentNode.innerHTML='<div style=\\'width:100%;height:100%;background:${bg};display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.3rem;font-weight:900\\'>${ps}</div>'" alt=""></div><div><div class="pos-badge ${pcls(p)}" style="margin-bottom:5px">${ps}</div><div class="dname">${p.name}</div><div class="dclub">${p.teamName||'—'}</div></div></div><div class="dkpis"><div class="dkpi"><div class="dkv">${fM(p.price)}</div><div class="dkl">Precio</div></div><div class="dkpi"><div class="dkv">${p.pts||0}</div><div class="dkl">Puntos</div></div><div class="dkpi"><div class="dkv">${mediaVal>0?mediaVal.toFixed(1):'—'}</div><div class="dkl">Media</div></div></div><div class="dsec">Últimas 5 jornadas</div><div class="djform">${jfI}</div><div class="dsec">Mercado</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px"><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="color:${trC}">${tr||'—'}</div><div class="dkl">Tendencia</div></div><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv">${numPJ}</div><div class="dkl">PJ</div></div></div>${explHtml}${estadoHtml}${pjHtml}${sigsHtml}`;
+  // Render básico instantáneo
+  document.getElementById('db').innerHTML=`
+    <div class="dtop">
+      <div class="dphoto"><img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.parentNode.innerHTML='<div style=\\'width:100%;height:100%;background:${bg};display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.3rem;font-weight:900\\'>${ps}</div>'" alt=""></div>
+      <div><div class="pos-badge ${pcls(p)}" style="margin-bottom:5px">${ps}</div><div class="dname">${p.name}</div><div class="dclub">${p.teamName||'—'}</div></div>
+    </div>
+    <div class="dkpis">
+      <div class="dkpi"><div class="dkv">${fM(p.price)}</div><div class="dkl">Precio</div></div>
+      <div class="dkpi"><div class="dkv">${p.pts||0}</div><div class="dkl">Puntos</div></div>
+      <div class="dkpi"><div class="dkv">${mediaVal>0?mediaVal.toFixed(1):'—'}</div><div class="dkl">Media</div></div>
+    </div>
+    <div class="dsec">Últimas 5 jornadas</div>
+    <div class="djform">${jfI}</div>
+    <div class="dsec">Mercado</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px">
+      <div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="color:${trC}">${tr||'—'}</div><div class="dkl">Tendencia</div></div>
+      <div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv">${numPJ}</div><div class="dkl">PJ</div></div>
+    </div>
+    <div id="db-analysis"><div style="padding:12px;text-align:center;font-size:0.65rem;color:var(--text3)">Calculando análisis...</div></div>`;
+
+  // Cálculos pesados en segundo plano
+  setTimeout(()=>{
+    const mediasEsp=Engine.calcMediasEsperadas(AP);
+    const estado=Engine.calcEstadoMercado(p,AP,window._pricesData||{});
+    const precioJusto=Engine.calcPrecioJusto(p,AP);
+    const rec=Engine.calcRecomendacion(p,AP,window._pricesData||{});
+    const sigs=rec?[...rec.reasons]:[];
+    const warns=rec?[...rec.warnings]:[];
+    if(p.status==='injured')sigs.unshift('⚠️ Lesionado');
+    if(p.status==='doubt')sigs.unshift('⚠️ En duda');
+    if(p.status==='sanctioned')sigs.unshift('⚠️ Sancionado');
+
+    const pj2=(p.playedHome||0)+(p.playedAway||0);
+    const mediaVal2=pj2>0?(p.pts||0)/pj2:0;
+    const efic2=Engine.calcEficiencia(p,mediasEsp);
+    const explLines=[];
+    if(mediaVal2>0)explLines.push(`Promedia <strong>${mediaVal2.toFixed(1)} pts por jornada</strong> en ${pj2} partidos.`);
+    if(precioJusto){
+      if(precioJusto.difEuros>0)explLines.push(`Precio justo estimado: <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${precioJusto.difPct}% por debajo. El mercado aún no lo ha descubierto.`);
+      else explLines.push(`Precio justo estimado: <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${Math.abs(precioJusto.difPct)}% por encima de lo que debería costar.`);
+    }
+    if(efic2!==null){
+      if(efic2>0)explLines.push(`Rinde <strong>+${efic2}% sobre lo esperado</strong> para su posición y precio.`);
+      else explLines.push(`Rinde <strong>${efic2}% bajo lo esperado</strong> para su posición y precio.`);
+    }
+    if(p.trend>100000)explLines.push(`El mercado lo compra — sube <strong>${fK(p.trend)}</strong> hoy.`);
+    else if(p.trend<-100000)explLines.push(`El mercado lo vende — baja <strong>${fK(p.trend)}</strong> hoy.`);
+
+    const explHtml=explLines.length?`<div class="dsec">¿Qué dicen los números?</div><div style="background:var(--surface2);border-radius:8px;padding:10px 12px;margin-bottom:14px;font-size:0.72rem;color:var(--text2);line-height:1.7">${explLines.map(l=>`<div style="margin-bottom:4px">→ ${l}</div>`).join('')}</div>`:'';
+    const estadoHtml=estado?`<div class="dsec">Señal de mercado</div><div class="dsig" style="background:${estado.colorFondo};border-left:3px solid ${estado.colorTexto};color:${estado.colorTexto}">${estado.icono} <strong>${estado.label}</strong><br><span style="color:var(--text2);font-size:0.65rem">${estado.desc}</span></div>`:'';
+    const pjHtml=precioJusto?`<div class="dsec">Precio justo</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px"><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${(precioJusto.precioJusto/1e6).toFixed(2)}M€</div><div class="dkl">Precio justo</div></div><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${precioJusto.difEuros>=0?'+':''}${(precioJusto.difEuros/1e6).toFixed(2)}M€</div><div class="dkl">Diferencia</div></div></div>`:'';
+    const sigsHtml=sigs.length?`<div class="dsec">Análisis</div><div class="dsig">${sigs.map(s=>`• ${s}`).join('<br>')}${warns.length?'<br><br>'+warns.map(w=>`⚠️ ${w}`).join('<br>'):''}</div>`:'';
+
+    const el=document.getElementById('db-analysis');
+    if(el)el.innerHTML=explHtml+estadoHtml+pjHtml+sigsHtml;
+  },80);
 }
 
 document.querySelectorAll('.ni').forEach(b=>b.addEventListener('click',()=>sTab(b.dataset.tab)));
