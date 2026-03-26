@@ -6,7 +6,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#111111">
-<title>La Pausa — cortita y al pie</title>
+<title>La Pausa — Fantasy Intelligence</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -562,7 +562,41 @@ function rInicio(){
 }
 
 function openLectura(id){
-  const l=window._lecturas?.[id];if(!l)return;
+  const l=window._lecturas?.[id]; if(!l)return;
+
+  // Calcular lista completa de esa lectura
+  const mediasEsp=Engine.calcMediasEsperadas(AP);
+  let allData=[];
+
+  if(id==='perlas'){
+    allData=AP.filter(p=>p.price>300000&&p.status!=='injured'&&p.status!=='sanctioned')
+      .map(p=>{const pj=Engine.calcPrecioJusto(p,AP);const efic=Engine.calcEficiencia(p,mediasEsp);return pj&&pj.difPct>25&&(efic===null||efic>5)?{...p,_val:`+${pj.difPct}%`,_pj:pj}:null;})
+      .filter(Boolean).sort((a,b)=>b._pj.difPct-a._pj.difPct);
+  } else if(id==='seguros'){
+    allData=AP.filter(p=>p.price>1000000&&p.status!=='injured')
+      .map(p=>{const jf=(p.jForm||[]).filter(v=>v!==null&&v!==undefined&&v>0);const m=jf.length?jf.reduce((s,v)=>s+v,0)/jf.length:0;return jf.length>=4&&jf.every(v=>v>=4)&&m>=5?{...p,_val:`⌀${m.toFixed(1)}pts`,_m:m}:null;})
+      .filter(Boolean).sort((a,b)=>b._m-a._m);
+  } else if(id==='infra'){
+    allData=AP.map(p=>({...p,efic:Engine.calcEficiencia(p,mediasEsp)}))
+      .filter(p=>p.efic!==null&&p.efic>15&&p.status!=='injured')
+      .sort((a,b)=>b.efic-a.efic).map(p=>({...p,_val:`+${p.efic}%`}));
+  } else if(id==='revenants'){
+    allData=AP.filter(p=>{const jf=p.jForm||[];return(jf[0]===null||jf[0]===undefined)&&(jf[1]===null||jf[1]===undefined)&&p.trend>5000;})
+      .sort((a,b)=>b.trend-a.trend).map(p=>({...p,_val:fK(p.trend)}));
+  } else if(id==='parches'){
+    allData=AP.filter(p=>p.price>0&&p.price<1500000&&p.status!=='injured')
+      .map(p=>{const jf=(p.jForm||[]).filter(v=>v!==null&&v!==undefined&&v>0);const m=jf.length?jf.reduce((s,v)=>s+v,0)/jf.length:0;return jf.length>=3&&m>=2?{...p,_val:`⌀${m.toFixed(1)}pts`,_m:m}:null;})
+      .filter(Boolean).sort((a,b)=>b._m-a._m);
+  } else if(id==='sobre'){
+    allData=AP.map(p=>({...p,efic:Engine.calcEficiencia(p,mediasEsp)}))
+      .filter(p=>p.efic!==null&&p.efic<-15)
+      .sort((a,b)=>a.efic-b.efic).map(p=>({...p,_val:`${p.efic}%`}));
+  } else if(id==='factor'){
+    allData=AP.filter(p=>p.price>500000&&p.status!=='injured')
+      .map(p=>{const jf=(p.jForm||[]).filter(v=>v!==null&&v!==undefined&&v>0).slice(0,5);const m=jf.length?jf.reduce((s,v)=>s+v,0)/jf.length:0;const roi=m/(p.price/1e6);return roi>1.2?{...p,_val:`${roi.toFixed(1)} ROI`,_roi:roi}:null;})
+      .filter(Boolean).sort((a,b)=>b._roi-a._roi);
+  }
+
   let modal=document.getElementById('lectModal');
   if(!modal){
     modal=document.createElement('div');
@@ -571,42 +605,67 @@ function openLectura(id){
     modal.onclick=e=>{if(e.target===modal)closeLectura();};
     document.body.appendChild(modal);
   }
+
+  function renderList(query=''){
+    const filtered=query
+      ? allData.filter(p=>p.name.toLowerCase().includes(query)||( p.teamName||'').toLowerCase().includes(query))
+      : allData;
+    return filtered.map((p,i)=>`
+      <div style="display:flex;align-items:center;gap:10px;padding:10px 16px;border-bottom:1px solid var(--surface2);cursor:pointer;active:background:var(--accent-dim)" onclick="closeLectura();setTimeout(()=>oD(${AP.indexOf(p)}),200)">
+        <div style="font-family:var(--mono);font-size:0.6rem;color:#ccc;width:20px;text-align:center;flex-shrink:0">${i+1}</div>
+        <div style="width:36px;height:36px;border-radius:50%;background:var(--surface2);overflow:hidden;flex-shrink:0">
+          <img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.style.display='none'" alt="">
+        </div>
+        <div style="width:24px;height:24px;border-radius:4px;background:${pcol(p)}18;color:${pcol(p)};display:flex;align-items:center;justify-content:center;font-size:0.48rem;font-weight:800;flex-shrink:0">${pos(p)}</div>
+        <div style="flex:1;min-width:0">
+          <div style="font-size:0.82rem;font-weight:800;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.name}</div>
+          <div style="font-size:0.6rem;color:var(--text3)">${p.teamName||'—'}</div>
+        </div>
+        <div style="text-align:right;flex-shrink:0">
+          <div style="font-family:var(--mono);font-size:0.75rem;font-weight:700;color:${l.color}">${p._val||''}</div>
+          <div style="font-family:var(--mono);font-size:0.6rem;color:var(--text3)">${fM(p.price)}</div>
+        </div>
+      </div>`).join('') || '<div style="padding:24px;text-align:center;font-size:0.72rem;color:var(--text3)">Sin resultados</div>';
+  }
+
   modal.innerHTML=`
-    <div style="background:var(--surface);border-radius:20px 20px 0 0;width:100%;max-width:430px;max-height:88vh;overflow-y:auto;padding-bottom:calc(20px + var(--safe-bot))">
-      <div style="width:36px;height:4px;background:var(--border2);border-radius:2px;margin:10px auto 0"></div>
-      <div style="padding:12px 16px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;background:var(--surface);z-index:10">
+    <div style="background:var(--surface);border-radius:20px 20px 0 0;width:100%;max-width:430px;max-height:90vh;display:flex;flex-direction:column;overflow:hidden">
+      <div style="width:36px;height:4px;background:var(--border2);border-radius:2px;margin:10px auto 0;flex-shrink:0"></div>
+
+      <div style="padding:12px 16px 10px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-shrink:0">
         <div style="display:flex;align-items:center;gap:8px">
-          <span style="font-size:1.3rem">${l.emoji}</span>
+          <span style="font-size:1.4rem">${l.emoji}</span>
           <div>
-            <div style="font-size:0.8rem;font-weight:800;text-transform:uppercase">${l.label}</div>
-            <div style="font-size:0.6rem;color:var(--text3)">${l.data.length} jugadores</div>
+            <div style="font-size:0.85rem;font-weight:900;text-transform:uppercase">${l.label}</div>
+            <div style="font-size:0.6rem;color:var(--text3)">${allData.length} jugadores</div>
           </div>
         </div>
-        <button onclick="closeLectura()" style="background:var(--surface2);border:none;border-radius:50%;width:28px;height:28px;font-size:0.75rem;color:var(--text3);cursor:pointer">✕</button>
+        <button onclick="closeLectura()" style="background:var(--surface2);border:none;border-radius:50%;width:30px;height:30px;font-size:0.8rem;color:var(--text3);cursor:pointer;flex-shrink:0">✕</button>
       </div>
-      <div>
-        ${l.data.map((p,i)=>{const tr=fK(p.trend);const trC=p.trend>0?'var(--green)':p.trend<0?'var(--red)':'var(--text3)';
-          return`<div style="display:flex;align-items:center;gap:10px;padding:10px 16px;border-bottom:1px solid var(--surface2);cursor:pointer" onclick="closeLectura();oD(${AP.indexOf(p)})">
-            <div style="font-family:var(--mono);font-size:0.6rem;color:#ccc;width:18px;text-align:center">${i+1}</div>
-            <div style="width:36px;height:36px;border-radius:50%;background:var(--surface2);overflow:hidden;flex-shrink:0">
-              <img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.style.display='none'" alt="">
-            </div>
-            <div style="width:24px;height:24px;border-radius:4px;background:${pcol(p)}18;color:${pcol(p)};display:flex;align-items:center;justify-content:center;font-size:0.48rem;font-weight:800;flex-shrink:0">${pos(p)}</div>
-            <div style="flex:1;min-width:0">
-              <div style="font-size:0.82rem;font-weight:800;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.name}</div>
-              <div style="font-size:0.6rem;color:var(--text3)">${p.teamName||'—'}</div>
-            </div>
-            <div style="text-align:right;flex-shrink:0">
-              <div style="font-family:var(--mono);font-size:0.75rem;font-weight:600;color:${l.color}">${p._val||''}</div>
-              <div style="font-family:var(--mono);font-size:0.6rem;color:var(--text3)">${fM(p.price)}</div>
-            </div>
-          </div>`;}).join('')}
+
+      <div style="padding:10px 16px;border-bottom:1px solid var(--border);flex-shrink:0">
+        <div style="position:relative">
+          <span style="position:absolute;left:10px;top:50%;transform:translateY(-50%);font-size:0.85rem;color:var(--text3)">🔍</span>
+          <input id="lectSearch" type="text" placeholder="Buscar jugador o club..."
+            style="width:100%;background:var(--surface2);border:1px solid var(--border2);border-radius:8px;padding:9px 12px 9px 32px;font-family:var(--font);font-size:0.82rem;color:var(--text);outline:none"
+            oninput="document.getElementById('lectList').innerHTML=renderLectList(this.value.toLowerCase())">
+        </div>
+      </div>
+
+      <div id="lectList" style="overflow-y:auto;flex:1;-webkit-overflow-scrolling:touch">
+        ${renderList()}
       </div>
     </div>`;
+
+  // Exponer renderList para el input
+  window.renderLectList=(q)=>renderList(q);
   modal.style.display='flex';
 }
 
-function closeLectura(){const m=document.getElementById('lectModal');if(m)m.style.display='none';}
+function closeLectura(){
+  const m=document.getElementById('lectModal');
+  if(m)m.style.display='none';
+}
 
 
 function tTab(btn,tipo){
@@ -714,8 +773,26 @@ function rDr(p){
   if(p.status==='sanctioned')sigs.unshift('⚠️ Sancionado');
   const estadoHtml=estado?`<div class="dsec">Señal de mercado</div><div class="dsig" style="background:${estado.colorFondo};border-left:3px solid ${estado.colorTexto};color:${estado.colorTexto}">${estado.icono} <strong>${estado.label}</strong><br><span style="color:var(--text2);font-size:0.65rem">${estado.desc}</span></div>`:'';
   const pjHtml=precioJusto?`<div class="dsec">Precio justo</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px"><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${(precioJusto.precioJusto/1e6).toFixed(2)}M€</div><div class="dkl">Precio justo</div></div><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${precioJusto.difEuros>=0?'+':''}${(precioJusto.difEuros/1e6).toFixed(2)}M€</div><div class="dkl">Diferencia</div></div></div>`:'';
+  // Explicación en lenguaje claro
+  const pj2=(player.playedHome||0)+(player.playedAway||0);
+  const mediaVal2=pj2>0?(player.pts||0)/pj2:0;
+  const efic2=Engine.calcEficiencia(player,Engine.calcMediasEsperadas(AP));
+  const explLines=[];
+  if(mediaVal2>0)explLines.push(`Promedia <strong>${mediaVal2.toFixed(1)} pts por jornada</strong> en ${pj2} partidos esta temporada.`);
+  if(precioJusto){
+    if(precioJusto.difEuros>0)explLines.push(`Su precio justo estimado es <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${precioJusto.difPct}% por debajo. El mercado aún no lo ha descubierto.`);
+    else explLines.push(`Su precio justo estimado es <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${Math.abs(precioJusto.difPct)}% por encima de lo que debería costar.`);
+  }
+  if(efic2!==null){
+    if(efic2>0)explLines.push(`Rinde un <strong>+${efic2}% por encima</strong> de lo esperado para jugadores de su posición y precio.`);
+    else explLines.push(`Rinde un <strong>${efic2}% por debajo</strong> de lo esperado para su posición y precio.`);
+  }
+  if(player.trend>100000)explLines.push(`El mercado lo está comprando — sube <strong>${fK(player.trend)}</strong> hoy.`);
+  else if(player.trend<-100000)explLines.push(`El mercado lo está vendiendo — baja <strong>${fK(player.trend)}</strong> hoy.`);
+  const explHtml=explLines.length?`<div class="dsec">¿Qué dicen los números?</div><div style="background:var(--surface2);border-radius:8px;padding:10px 12px;margin-bottom:14px;font-size:0.72rem;color:var(--text2);line-height:1.7">${explLines.map(l=>`<div style="margin-bottom:4px">→ ${l}</div>`).join('')}</div>`:'';
+
   const sigsHtml=sigs.length?`<div class="dsec">Análisis</div><div class="dsig">${sigs.map(s=>`• ${s}`).join('<br>')}${warns.length?'<br><br>'+warns.map(w=>`⚠️ ${w}`).join('<br>'):''}</div>`:'';
-  document.getElementById('db').innerHTML=`<div class="dtop"><div class="dphoto"><img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.parentNode.innerHTML='<div style=\\'width:100%;height:100%;background:${bg};display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.3rem;font-weight:900\\'>${ps}</div>'" alt=""></div><div><div class="pos-badge ${pcls(p)}" style="margin-bottom:5px">${ps}</div><div class="dname">${p.name}</div><div class="dclub">${p.teamName||'—'}</div></div></div><div class="dkpis"><div class="dkpi"><div class="dkv">${fM(p.price)}</div><div class="dkl">Precio</div></div><div class="dkpi"><div class="dkv">${p.pts||0}</div><div class="dkl">Puntos</div></div><div class="dkpi"><div class="dkv">${mediaVal>0?mediaVal.toFixed(1):'—'}</div><div class="dkl">Media</div></div></div><div class="dsec">Últimas 5 jornadas</div><div class="djform">${jfI}</div><div class="dsec">Mercado</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px"><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="color:${trC}">${tr||'—'}</div><div class="dkl">Tendencia</div></div><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv">${numPJ}</div><div class="dkl">PJ</div></div></div>${estadoHtml}${pjHtml}${sigsHtml}`;
+  document.getElementById('db').innerHTML=`<div class="dtop"><div class="dphoto"><img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.parentNode.innerHTML='<div style=\\'width:100%;height:100%;background:${bg};display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.3rem;font-weight:900\\'>${ps}</div>'" alt=""></div><div><div class="pos-badge ${pcls(p)}" style="margin-bottom:5px">${ps}</div><div class="dname">${p.name}</div><div class="dclub">${p.teamName||'—'}</div></div></div><div class="dkpis"><div class="dkpi"><div class="dkv">${fM(p.price)}</div><div class="dkl">Precio</div></div><div class="dkpi"><div class="dkv">${p.pts||0}</div><div class="dkl">Puntos</div></div><div class="dkpi"><div class="dkv">${mediaVal>0?mediaVal.toFixed(1):'—'}</div><div class="dkl">Media</div></div></div><div class="dsec">Últimas 5 jornadas</div><div class="djform">${jfI}</div><div class="dsec">Mercado</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px"><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="color:${trC}">${tr||'—'}</div><div class="dkl">Tendencia</div></div><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv">${numPJ}</div><div class="dkl">PJ</div></div></div>${explHtml}${estadoHtml}${pjHtml}${sigsHtml}`;
 }
 
 document.querySelectorAll('.ni').forEach(b=>b.addEventListener('click',()=>sTab(b.dataset.tab)));
