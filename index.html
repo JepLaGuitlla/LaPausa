@@ -401,7 +401,7 @@ function buildCarousel(el, players, emoji, color){
     const p=players[i];
     const tr=fK(p.trend);const trC=p.trend>0?'var(--green)':p.trend<0?'var(--red)':'var(--text3)';
     el.innerHTML=`
-      <div style="position:relative;height:140px;overflow:hidden;border-radius:10px;cursor:pointer" onclick="oD(${AP.indexOf(p)})">
+      <div style="position:relative;height:140px;overflow:hidden;border-radius:10px;cursor:pointer" onclick="oD(AP.findIndex(x=>x.id===${p.id}))">
         <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:6rem;opacity:0.08;line-height:1;pointer-events:none;user-select:none">${emoji}</div>
         <div style="position:absolute;inset:0;background:${pcol(p)}12"></div>
         <img src="./img/players/${p.id}.avif"
@@ -611,7 +611,7 @@ function openLectura(id){
       ? allData.filter(p=>p.name.toLowerCase().includes(query)||( p.teamName||'').toLowerCase().includes(query))
       : allData;
     return filtered.map((p,i)=>`
-      <div style="display:flex;align-items:center;gap:10px;padding:10px 16px;border-bottom:1px solid var(--surface2);cursor:pointer;active:background:var(--accent-dim)" onclick="closeLectura();setTimeout(()=>oD(${AP.indexOf(p)}),200)">
+      <div style="display:flex;align-items:center;gap:10px;padding:10px 16px;border-bottom:1px solid var(--surface2);cursor:pointer;active:background:var(--accent-dim)" onclick="closeLectura();setTimeout(()=>oD(AP.findIndex(x=>x.id===${p.id})),200)">
         <div style="font-family:var(--mono);font-size:0.6rem;color:#ccc;width:20px;text-align:center;flex-shrink:0">${i+1}</div>
         <div style="width:36px;height:36px;border-radius:50%;background:var(--surface2);overflow:hidden;flex-shrink:0">
           <img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.style.display='none'" alt="">
@@ -686,7 +686,7 @@ function tRows(rows,tipo){
     if(tipo==='b')val=`<div class="tval d">${fK(p.trend)}</div>`;
     if(tipo==='r')val=`<div class="tval b">${p.rs}p</div>`;
     if(tipo==='i')val=`<div class="tval b">${(med(p)/(p.price/1e6)).toFixed(1)}</div>`;
-    return`<div class="trow" onclick="oD(${AP.indexOf(p)})"><div class="tnum">${i+1}</div><div class="tphoto">${ph(p,32)}</div><div class="tinfo"><div class="tname">${p.name}</div><div class="tclub">${p.teamName} · ${fM(p.price)}</div></div><div class="tjf">${jfH(p.jForm)}</div>${val}</div>`;
+    return`<div class="trow" onclick="oD(AP.findIndex(x=>x.id===${p.id}))"><div class="tnum">${i+1}</div><div class="tphoto">${ph(p,32)}</div><div class="tinfo"><div class="tname">${p.name}</div><div class="tclub">${p.teamName} · ${fM(p.price)}</div></div><div class="tjf">${jfH(p.jForm)}</div>${val}</div>`;
   }).join('');
 }
 
@@ -716,7 +716,7 @@ function rP(){
   const sl=filt.slice((pg-1)*PP,pg*PP);
   const cnt=document.getElementById('cnt');if(cnt)cnt.textContent=`${tot} jugadores`;
   const pl=document.getElementById('pl');if(!pl)return;
-  pl.innerHTML=sl.map((p,i)=>{const idx=AP.indexOf(p);const tr=fK(p.trend);const trC=p.trend>0?'u':p.trend<0?'d':'f';const bg=pcol(p);const ps=pos(p);return`<div class="plrow" onclick="oD(${idx})"><div class="plnum">${(pg-1)*PP+i+1}</div><div class="plphoto">${ph(p,36)}</div><div class="plbadge" style="background:${bg}18;color:${bg}">${ps}</div><div class="plinfo"><div class="plname">${p.name}</div><div class="plclub">${p.teamName||'—'}</div></div><div class="plright"><div class="plprice">${fM(p.price)}</div>${tr?`<div class="pltrend ${trC}">${tr}</div>`:'<div class="pltrend f">—</div>'}</div></div>`;}).join('');
+  pl.innerHTML=sl.map((p,i)=>{const idx=AP.findIndex(x=>x.id===p.id);const tr=fK(p.trend);const trC=p.trend>0?'u':p.trend<0?'d':'f';const bg=pcol(p);const ps=pos(p);return`<div class="plrow" onclick="oD(${idx})"><div class="plnum">${(pg-1)*PP+i+1}</div><div class="plphoto">${ph(p,36)}</div><div class="plbadge" style="background:${bg}18;color:${bg}">${ps}</div><div class="plinfo"><div class="plname">${p.name}</div><div class="plclub">${p.teamName||'—'}</div></div><div class="plright"><div class="plprice">${fM(p.price)}</div>${tr?`<div class="pltrend ${trC}">${tr}</div>`:'<div class="pltrend f">—</div>'}</div></div>`;}).join('');
   const pgr=document.getElementById('pgr');if(!pgr||pgs<=1){if(pgr)pgr.innerHTML='';return;}
   let h=`<button class="pbtn" onclick="gP(${pg-1})" ${pg===1?'disabled':''}>←</button>`;
   for(let i=1;i<=pgs;i++){if(i===1||i===pgs||Math.abs(i-pg)<=1)h+=`<button class="pbtn ${i===pg?'active':''}" onclick="gP(${i})">${i}</button>`;else if(h.slice(-3)!=='...')h+=`<span style="font-size:0.7rem;color:var(--text3);padding:0 4px">…</span>`;}
@@ -758,7 +758,7 @@ function cV(){const obj=parseFloat(document.getElementById('b1').value)||0,sal=p
 function cR(){const pr=parseFloat(document.getElementById('c1').value)||0,pts=parseFloat(document.getElementById('c2').value)||0,pj=parseFloat(document.getElementById('c3').value)||1;if(!pr||!pts)return;const m=pts/pj,roi=m/(pr/1e6),rat=roi>=2?'🟢 Excelente':roi>=1.2?'🟡 Bueno':roi>=0.8?'🟠 Regular':'🔴 Bajo';document.getElementById('r3v').textContent=roi.toFixed(2);document.getElementById('r3d').innerHTML=`Media: <strong>${m.toFixed(1)} pts/J</strong><br>Valoración: <strong>${rat}</strong><br>Referencia: >1.5 = buena inversión.`;document.getElementById('r3').classList.add('v');}
 
 /* DRAWER */
-function oD(idx){const p=AP[idx];if(!p)return;document.getElementById('dov').classList.add('open');document.getElementById('drw').classList.add('open');rDr(p);}
+function oD(idx){if(idx===-1||idx===undefined||idx===null)return;const p=AP[idx];if(!p)return;document.getElementById('dov').classList.add('open');document.getElementById('drw').classList.add('open');rDr(p);}
 function cD(){document.getElementById('dov').classList.remove('open');document.getElementById('drw').classList.remove('open');}
 function rDr(p){
   const bg=pcol(p),ps=pos(p),mediaVal=med(p),numPJ=(p.playedHome||0)+(p.playedAway||0),tr=fK(p.trend),trC=p.trend>0?'var(--green)':p.trend<0?'var(--red)':'var(--text3)';
