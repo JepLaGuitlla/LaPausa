@@ -260,7 +260,7 @@ html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--text);fon
 .mc-body{padding:6px 7px 7px;}
 
 /* LCARD — card de lectura con carrusel */
-.lcard{position:relative;background:var(--surface);border:1px solid var(--border);border-radius:14px;overflow:hidden;cursor:pointer;transition:transform 0.15s;border-left:3px solid var(--lc);}
+.lcard{position:relative;background:var(--surface);border:1px solid var(--border);border-radius:14px;overflow:hidden;cursor:pointer;transition:transform 0.15s;border-left:3px solid var(--lc);flex-shrink:0;width:200px;}
 .lcard:active{transform:scale(0.98);}
 .lcard-emoji{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-size:5rem;opacity:0.05;line-height:1;pointer-events:none;user-select:none;}
 .lcard-slide{border-radius:10px;}
@@ -317,7 +317,7 @@ function ph(p,s=36){const bg=pcol(p);const ps=pos(p);return`<img src="./img/play
 async function load(){
   try{
     const r=await fetch('./data/data.json');const j=await r.json();
-    AP=(j.players||[]).map(p=>({...p,pts:p.pts||p.points||0,pos:PM[p.position]||'?'}));
+    AP=(j.players||[]).filter(p=>p.position!==5&&p.position!=='5').map(p=>({...p,pts:p.pts||p.points||0,pos:PM[p.position]||'?'}));
     if(j.updatedAt){const d=new Date(j.updatedAt);document.getElementById('upd').textContent=d.toLocaleDateString('es-ES',{day:'2-digit',month:'short'})+' '+d.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});}
     try{window._pricesData=await(await fetch('./data/prices.json')).json();}catch(e){window._pricesData={};}
     try{window._jornadasData=await(await fetch('./data/history.json')).json();}catch(e){window._jornadasData={};}
@@ -490,7 +490,7 @@ function rInicio(){
 
     <div class="sh" style="margin-bottom:12px"><div class="st">Lecturas del mercado</div></div>
 
-    <div style="display:flex;flex-direction:column;gap:10px;margin-bottom:20px">
+    <div style="display:flex;flex-direction:row;gap:10px;overflow-x:auto;overflow-y:hidden;padding-bottom:6px;margin-bottom:20px;-webkit-overflow-scrolling:touch;scrollbar-width:none;">
       ${lecturas.filter(l=>l.data.length>0).map(l=>`
         <div class="lcard" id="lc-${l.id}" onclick="openLectura('${l.id}')" style="--lc:${l.color}">
           <div class="lcard-emoji">${l.emoji}</div>
