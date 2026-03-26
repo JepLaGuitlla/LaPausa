@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T19:58:14.521Z",
+  "updatedAt": "2026-03-26T05:52:44.320Z",
   "players": [
     {
       "id": 11,
@@ -6529,7 +6529,7 @@
     {
       "id": 28012,
       "slug": "pep-chavarria",
-      "name": "Chavarr��a",
+      "name": "Chavarría",
       "position": 2,
       "price": 2670000,
       "points": 117,
@@ -11932,6 +11932,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-25-3-26/",
+      "date": "Wed, 25 Mar 2026 22:00:22 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "TOP Defensas que debes fichar en este parón de selecciones",
+      "link": "https://www.jornadaperfecta.com/blog/top-defensas-fantasy-paron-marzo-26/",
+      "date": "Wed, 25 Mar 2026 20:00:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Dani Ceballos vuelve a entrenar en el Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/dani-ceballos-vuelta-lesion-26/",
       "date": "Wed, 25 Mar 2026 18:40:13 +0000"
@@ -11965,23 +11977,11 @@
       "title": "Chollos Fantasy que no puedes dejar escapar durante el parón de selecciones",
       "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-paron-marzo-26/",
       "date": "Wed, 25 Mar 2026 16:18:41 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para el parón",
-      "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-paron-marzo-26/",
-      "date": "Wed, 25 Mar 2026 16:15:31 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Nico Williams y Yuri no entrena, mientras Paredes ya se prueba",
-      "link": "https://www.jornadaperfecta.com/blog/nico-williams-vuelta-pubalgia-26/",
-      "date": "Wed, 25 Mar 2026 16:05:54 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-03-25T19:58:11.639Z",
+    "updatedAt": "2026-03-26T05:52:41.503Z",
     "players": [
       {
         "id": "3374",
