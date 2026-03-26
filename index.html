@@ -27,12 +27,12 @@ html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--text);fon
 .app{display:flex;flex-direction:column;height:100vh;height:100dvh;max-width:430px;margin:0 auto;background:var(--bg);position:relative;overflow:hidden;}
 
 /* TOPBAR */
-.topbar{background:#111;padding:calc(var(--safe-top) + 10px) 16px 10px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0;z-index:50;}
+.topbar{background:var(--bg);padding:calc(var(--safe-top) + 8px) 16px 8px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0;z-index:50;border-bottom:1px solid var(--border);}
 .brand{display:flex;align-items:center;gap:8px;}
 .brand-icon{font-size:1.4rem;line-height:1;}
-.brand-name{font-size:1.2rem;font-weight:900;color:#fff;letter-spacing:-0.3px;line-height:1;}
-.brand-sub{font-size:0.45rem;font-weight:700;color:var(--accent);letter-spacing:2.5px;text-transform:uppercase;margin-top:2px;}
-.topbar-right{display:flex;align-items:center;gap:6px;font-family:var(--mono);font-size:0.52rem;color:rgba(255,255,255,0.35);letter-spacing:1px;}
+.brand-name{font-size:1.2rem;font-weight:900;color:var(--text);letter-spacing:-0.3px;line-height:1;}
+.brand-sub{font-size:0.45rem;font-weight:700;color:var(--text3);letter-spacing:2.5px;text-transform:uppercase;margin-top:2px;}
+.topbar-right{display:flex;align-items:center;gap:6px;font-family:var(--mono);font-size:0.52rem;color:var(--text3);letter-spacing:1px;}
 .live-dot{width:5px;height:5px;background:var(--accent);border-radius:50%;box-shadow:0 0 6px var(--accent);animation:pulse 2s infinite;}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
 
@@ -219,23 +219,20 @@ html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--text);fon
 .dsec::before{content:'//';color:var(--accent);}
 
 /* LECTURAS */
-.lect-scroll{display:flex;gap:12px;overflow-x:auto;overflow-y:hidden;padding-bottom:6px;margin-bottom:4px;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
-.lect-scroll::-webkit-scrollbar{display:none;}
-.lect-card{position:relative;background:var(--surface);border:1px solid var(--border);border-radius:16px;overflow:hidden;cursor:pointer;flex-shrink:0;width:220px;padding:14px 14px 10px;border-top:3px solid var(--lc);transition:transform 0.15s;}
-.lect-card:active{transform:scale(0.97);}
-.lect-emoji-bg{position:absolute;bottom:-10px;right:-5px;font-size:5rem;opacity:0.07;line-height:1;pointer-events:none;user-select:none;}
-.lect-header{display:flex;align-items:flex-start;gap:8px;margin-bottom:12px;position:relative;z-index:1;}
-.lect-emoji-sm{font-size:1.4rem;line-height:1;flex-shrink:0;}
-.lect-label{font-size:0.78rem;font-weight:900;text-transform:uppercase;letter-spacing:0.3px;color:var(--text);line-height:1;margin-bottom:2px;}
-.lect-sub{font-size:0.55rem;color:var(--text3);font-weight:500;line-height:1.3;}
-.lect-count{margin-left:auto;font-family:var(--mono);font-size:1rem;font-weight:700;color:var(--lc);flex-shrink:0;line-height:1;}
-.lect-players{display:flex;gap:8px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none;position:relative;z-index:1;}
-.lect-players::-webkit-scrollbar{display:none;}
-.lect-mini{display:flex;flex-direction:column;align-items:center;gap:3px;flex-shrink:0;cursor:pointer;width:42px;}
-.lect-mini-photo{width:36px;height:36px;border-radius:50%;background:var(--surface2);overflow:hidden;border:1px solid var(--border);}
-.lect-mini-photo img{width:100%;height:100%;object-fit:contain;object-position:center top;}
-.lect-mini-name{font-size:0.45rem;font-weight:700;text-transform:uppercase;color:var(--text);text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100%;}
-.lect-mini-val{font-family:var(--mono);font-size:0.45rem;font-weight:600;text-align:center;white-space:nowrap;}
+.inicio-header{display:flex;align-items:center;gap:10px;padding:4px 0 12px;}
+.logo-img{height:44px;width:auto;object-fit:contain;}
+.logo-texts{}
+.logo-main{font-size:1.4rem;font-weight:900;color:var(--text);letter-spacing:-0.5px;line-height:1;}
+.logo-sub{font-size:0.5rem;font-weight:700;color:var(--text3);letter-spacing:2px;text-transform:uppercase;margin-top:2px;}
+.lecturas-wrap{display:flex;gap:12px;overflow-x:auto;overflow-y:hidden;padding-bottom:6px;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
+.lecturas-wrap::-webkit-scrollbar{display:none;}
+.lcard{background:var(--surface);border:1px solid var(--border);border-radius:14px;overflow:hidden;cursor:pointer;flex-shrink:0;width:180px;transition:transform 0.15s;}
+.lcard:active{transform:scale(0.97);}
+.lcard-emoji{font-size:1.3rem;line-height:1;}
+.lcard-info{padding:10px 12px 0;}
+.lcard-title{font-size:0.72rem;font-weight:900;text-transform:uppercase;letter-spacing:0.3px;color:var(--text);line-height:1;margin-bottom:2px;}
+.lcard-sub{font-size:0.52rem;color:var(--text3);line-height:1.3;margin-bottom:8px;}
+.lcard-players{padding:0 8px 10px;}
 
 /* INICIO HEADER */
 .inicio-header{display:flex;align-items:center;gap:12px;padding:4px 0 16px;}
@@ -261,15 +258,18 @@ html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--text);fon
 .mc:active{transform:scale(0.96);}
 .mc-img{height:70px;display:flex;align-items:flex-end;justify-content:center;overflow:hidden;}
 .mc-body{padding:6px 7px 7px;}
+
+/* LCARD — card de lectura con carrusel */
+.lcard{position:relative;background:var(--surface);border:1px solid var(--border);border-radius:14px;overflow:hidden;cursor:pointer;transition:transform 0.15s;border-left:3px solid var(--lc);}
+.lcard:active{transform:scale(0.98);}
+.lcard-emoji{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-size:5rem;opacity:0.05;line-height:1;pointer-events:none;user-select:none;}
+.lcard-slide{border-radius:10px;}
 </style>
 </head>
 <body>
 <div class="app">
   <div class="topbar">
-    <div class="brand">
-      <img src="./img/logo.png" alt="La Pausa" style="height:32px;width:auto;object-fit:contain;filter:brightness(0)invert(1)">
-      <div><div class="brand-name">La Pausa</div><div class="brand-sub">Cortita y al pie</div></div>
-    </div>
+    <div style="font-family:var(--mono);font-size:0.6rem;color:var(--text2);font-weight:600;letter-spacing:0.5px">La Pausa Fantasy</div>
     <div class="topbar-right"><div class="live-dot"></div><span id="upd">LIVE</span></div>
   </div>
 
@@ -388,22 +388,36 @@ function calcMediasEsp(){
   try{return Engine.calcMediasEsperadas(AP);}catch(e){return{};}
 }
 
-function miniCard(p,i){
-  const tr=fK(p.trend);const trC=p.trend>0?'u':p.trend<0?'d':'';const bg=pcol(p)+'20';
-  return`<div class="mc" onclick="oD(${AP.indexOf(p)})">
-    <div class="mc-img" style="background:${bg}">
-      <img src="./img/players/${p.id}.avif" style="width:52px;height:62px;object-fit:contain;object-position:center bottom;position:relative;z-index:1" onerror="this.style.display='none'" alt="">
-    </div>
-    <div class="mc-body">
-      <div class="pos-badge ${pcls(p)}" style="font-size:0.42rem;padding:1px 5px;margin-bottom:3px">${pos(p)}</div>
-      <div style="font-size:0.72rem;font-weight:900;text-transform:uppercase;line-height:1;margin-bottom:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.name}</div>
-      <div style="font-size:0.55rem;color:var(--text3);margin-bottom:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.teamName||'—'}</div>
-      <div style="display:flex;align-items:center;justify-content:space-between">
-        <div style="font-family:var(--mono);font-size:0.65rem;font-weight:600">${fM(p.price)}</div>
-        ${tr?`<div style="font-family:var(--mono);font-size:0.55rem" class="pctrend ${trC}">${tr}</div>`:''}
+function buildCarousel(el, players, emoji, color){
+  if(!players.length){el.innerHTML='<div style="height:140px;display:flex;align-items:center;justify-content:center;color:var(--text3);font-size:0.65rem">Sin datos</div>';return;}
+  let idx=0;
+  function slide(i){
+    const p=players[i];
+    const tr=fK(p.trend);const trC=p.trend>0?'var(--green)':p.trend<0?'var(--red)':'var(--text3)';
+    el.innerHTML=`
+      <div style="position:relative;height:140px;overflow:hidden;border-radius:10px;cursor:pointer" onclick="oD(${AP.indexOf(p)})">
+        <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:6rem;opacity:0.08;line-height:1;pointer-events:none;user-select:none">${emoji}</div>
+        <div style="position:absolute;inset:0;background:${pcol(p)}12"></div>
+        <img src="./img/players/${p.id}.avif"
+          style="position:absolute;bottom:0;left:50%;transform:translateX(-50%);height:120px;object-fit:contain;object-position:center bottom;z-index:1"
+          onerror="this.style.display='none'" alt="">
+        <div style="position:absolute;bottom:0;left:0;right:0;padding:8px 10px;background:linear-gradient(transparent,rgba(0,0,0,0.7));z-index:2">
+          <div style="font-size:0.7rem;font-weight:900;color:#fff;text-transform:uppercase;line-height:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.name}</div>
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-top:2px">
+            <div style="font-size:0.55rem;color:rgba(255,255,255,0.7)">${p.teamName||'—'}</div>
+            <div style="font-family:var(--mono);font-size:0.6rem;font-weight:700;color:${color}">${fM(p.price)}</div>
+          </div>
+          ${tr?`<div style="font-family:var(--mono);font-size:0.55rem;color:${trC};margin-top:1px">${tr}</div>`:''}
+        </div>
+        <div style="position:absolute;top:6px;right:6px;font-size:0.55rem;font-weight:700;font-family:var(--mono);background:rgba(0,0,0,0.5);color:#fff;padding:2px 5px;border-radius:4px;z-index:3">${i+1}/${players.length}</div>
       </div>
-    </div>
-  </div>`;
+      <div style="display:flex;justify-content:center;gap:4px;margin-top:6px">
+        ${players.map((_,j)=>`<div style="width:${j===i?'16px':'6px'};height:4px;border-radius:2px;background:${j===i?color:'var(--border2)'};transition:all 0.3s"></div>`).join('')}
+      </div>`;
+  }
+  slide(0);
+  const timer=setInterval(()=>{idx=(idx+1)%players.length;slide(idx);},3000);
+  el._timer=timer;
 }
 
 const LECTURAS=[
@@ -417,46 +431,98 @@ const LECTURAS=[
 ];
 
 function rInicio(){
-  const prices=window._pricesData||{};
-  const totalSuben=AP.filter(p=>p.trend>0).length;
-  const totalBajan=AP.filter(p=>p.trend<0).length;
-  const senales=AP.filter(p=>{try{return Engine.calcEstadoMercado(p,AP,prices)!==null;}catch(e){return false;}}).length;
+  const pd=window._pricesData||{};
+  const mediasEsp=Engine.calcMediasEsperadas(AP);
+
+  const perlas=AP.filter(p=>p.price>300000&&p.status!=='injured'&&p.status!=='sanctioned')
+    .map(p=>{const pj=Engine.calcPrecioJusto(p,AP);const efic=Engine.calcEficiencia(p,mediasEsp);return pj&&pj.difPct>25&&(efic===null||efic>5)?{...p,_val:`+${pj.difPct}%`}:null;})
+    .filter(Boolean).slice(0,5);
+
+  const seguros=AP.filter(p=>p.price>1000000&&p.status!=='injured')
+    .map(p=>{const jf=(p.jForm||[]).filter(v=>v!==null&&v!==undefined&&v>0);const m=jf.length?jf.reduce((s,v)=>s+v,0)/jf.length:0;return jf.length>=4&&jf.every(v=>v>=4)&&m>=5?{...p,_val:`⌀${m.toFixed(1)}pts`}:null;})
+    .filter(Boolean).slice(0,5);
+
+  const infra=AP.map(p=>({...p,efic:Engine.calcEficiencia(p,mediasEsp)}))
+    .filter(p=>p.efic!==null&&p.efic>15&&p.status!=='injured')
+    .sort((a,b)=>b.efic-a.efic).slice(0,5)
+    .map(p=>({...p,_val:`+${p.efic}%`}));
+
+  const revenants=AP.filter(p=>{const jf=p.jForm||[];return(jf[0]===null||jf[0]===undefined)&&(jf[1]===null||jf[1]===undefined)&&p.trend>5000;})
+    .sort((a,b)=>b.trend-a.trend).slice(0,5)
+    .map(p=>({...p,_val:fK(p.trend)}));
+
+  const parches=AP.filter(p=>p.price>0&&p.price<1500000&&p.status!=='injured')
+    .map(p=>{const jf=(p.jForm||[]).filter(v=>v!==null&&v!==undefined&&v>0);const m=jf.length?jf.reduce((s,v)=>s+v,0)/jf.length:0;return jf.length>=3&&m>=2?{...p,_val:`⌀${m.toFixed(1)}pts`}:null;})
+    .filter(Boolean).sort((a,b)=>b._val-a._val).slice(0,5);
+
+  const sobre=AP.map(p=>({...p,efic:Engine.calcEficiencia(p,mediasEsp)}))
+    .filter(p=>p.efic!==null&&p.efic<-15)
+    .sort((a,b)=>a.efic-b.efic).slice(0,5)
+    .map(p=>({...p,_val:`${p.efic}%`}));
+
+  const factorEq=AP.filter(p=>p.price>500000&&p.status!=='injured')
+    .map(p=>{const jf=(p.jForm||[]).filter(v=>v!==null&&v!==undefined&&v>0).slice(0,5);const m=jf.length?jf.reduce((s,v)=>s+v,0)/jf.length:0;const roi=m/(p.price/1e6);return roi>1.2?{...p,_val:`${roi.toFixed(1)} ROI`}:null;})
+    .filter(Boolean).sort((a,b)=>parseFloat(b._val)-parseFloat(a._val)).slice(0,5);
+
+  const lecturas=[
+    {id:'perlas',    emoji:'💎', label:'Perlas',          color:'#818cf8', data:perlas},
+    {id:'seguros',   emoji:'✅', label:'Valores seguros', color:'#16a34a', data:seguros},
+    {id:'infra',     emoji:'📈', label:'Infravalorados',  color:'#1d6fce', data:infra},
+    {id:'revenants', emoji:'👁️', label:'Revenants',       color:'#a855f7', data:revenants},
+    {id:'parches',   emoji:'🩹', label:'Parches',         color:'#d97706', data:parches},
+    {id:'sobre',     emoji:'📉', label:'Sobrevalorados',  color:'#e63329', data:sobre},
+    {id:'factor',    emoji:'⚡', label:'Factor Equipo',   color:'#0e9f6e', data:factorEq},
+  ];
+
+  window._lecturas={};
+  lecturas.forEach(l=>window._lecturas[l.id]=l);
+
+  const totalSenales=lecturas.reduce((s,l)=>s+l.data.length,0);
   const suben=[...AP].filter(p=>p.trend>0).sort((a,b)=>b.trend-a.trend).slice(0,8);
 
   document.getElementById('ic').innerHTML=`
-    <div class="inicio-header">
-      <img src="./img/logo.png" class="logo-img" alt="La Pausa" onerror="this.style.display='none'">
-      <div class="logo-texts">
-        <div class="logo-main">La Pausa</div>
-        <div class="logo-sub">Cortita y al pie</div>
-      </div>
-    </div>
-
-    <div class="krow" style="margin-bottom:16px">
+    <div class="krow" style="margin-bottom:18px">
       <div class="kpi"><div class="kv">${AP.length}</div><div class="kl">Jugadores</div></div>
-      <div class="kpi" style="cursor:pointer" onclick="sTab('jugadores')"><div class="kv r">${senales}</div><div class="kl">Señales ›</div></div>
-      <div class="kpi"><div class="kv g">${totalSuben}</div><div class="kl">Suben</div></div>
-      <div class="kpi"><div class="kv">${totalBajan}</div><div class="kl">Bajan</div></div>
+      <div class="kpi" style="cursor:pointer"><div class="kv r">${totalSenales}</div><div class="kl">Señales</div></div>
+      <div class="kpi"><div class="kv g">${AP.filter(p=>p.trend>0).length}</div><div class="kl">Suben</div></div>
+      <div class="kpi"><div class="kv">${AP.filter(p=>p.trend<0).length}</div><div class="kl">Bajan</div></div>
     </div>
 
     <div class="sh" style="margin-bottom:12px"><div class="st">Lecturas del mercado</div></div>
 
-    <div class="lecturas-wrap" id="lecturasWrap">
-      ${LECTURAS.map(l=>`
-        <div class="lcard" onclick="openRanking('${l.id}')">
+    <div style="display:flex;flex-direction:column;gap:10px;margin-bottom:20px">
+      ${lecturas.filter(l=>l.data.length>0).map(l=>`
+        <div class="lcard" id="lc-${l.id}" onclick="openLectura('${l.id}')" style="--lc:${l.color}">
           <div class="lcard-emoji">${l.emoji}</div>
-          <div class="lcard-info">
-            <div class="lcard-title">${l.label}</div>
-            <div class="lcard-sub">${l.sub}</div>
+          <div style="display:flex;align-items:center;justify-content:space-between;padding:12px 14px 8px;position:relative;z-index:1">
+            <div style="display:flex;align-items:center;gap:8px">
+              <span style="font-size:1.2rem">${l.emoji}</span>
+              <div style="font-size:0.78rem;font-weight:900;text-transform:uppercase;letter-spacing:0.3px;color:var(--text)">${l.label}</div>
+            </div>
+            <div style="font-family:var(--mono);font-size:0.85rem;font-weight:700;color:${l.color}">${l.data.length}</div>
           </div>
-          <div class="lcard-players" id="lp-${l.id}">
-            <div style="display:flex;align-items:center;justify-content:center;height:90px;color:var(--text3);font-size:0.65rem">Cargando...</div>
+          <div class="lcard-carousel" id="car-${l.id}" style="position:relative;height:110px;overflow:hidden;margin:0 14px 12px;border-radius:10px;background:var(--surface2)">
+            ${l.data.map((p,i)=>`
+              <div class="lcard-slide" data-idx="${i}" style="position:absolute;inset:0;opacity:${i===0?1:0};transition:opacity 0.5s ease;display:flex;align-items:center;gap:12px;padding:10px 12px">
+                <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:5rem;opacity:0.06;pointer-events:none;user-select:none">${l.emoji}</div>
+                <div style="width:70px;height:90px;flex-shrink:0;position:relative;z-index:1">
+                  <img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center bottom" onerror="this.style.display='none'" alt="">
+                </div>
+                <div style="flex:1;min-width:0;position:relative;z-index:1">
+                  <div style="font-size:0.7rem;font-weight:900;text-transform:uppercase;letter-spacing:0.2px;margin-bottom:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.name}</div>
+                  <div style="font-size:0.58rem;color:var(--text3);margin-bottom:6px">${p.teamName||'—'}</div>
+                  <div style="font-family:var(--mono);font-size:0.75rem;font-weight:700;color:${l.color};margin-bottom:4px">${p._val||fM(p.price)}</div>
+                  <div style="font-family:var(--mono);font-size:0.62rem;color:var(--text3)">${fM(p.price)}</div>
+                </div>
+                <div style="position:absolute;bottom:8px;right:10px;display:flex;gap:3px;z-index:1">
+                  ${l.data.map((_,di)=>`<div style="width:${di===i?12:4}px;height:3px;border-radius:2px;background:${di===i?l.color:'var(--border2)'};transition:all 0.3s"></div>`).join('')}
+                </div>
+              </div>`).join('')}
           </div>
         </div>`).join('')}
     </div>
 
-    <div class="sh" style="margin:20px 0 12px"><div class="st">Tendencias</div></div>
-
+    <div class="sh" style="margin-bottom:12px"><div class="st">Tendencias</div></div>
     <div class="tcard">
       <div class="ttabs">
         <button class="ttab active" onclick="tTab(this,'s')">↑ Suben</button>
@@ -466,64 +532,75 @@ function rInicio(){
       <div id="tl">${tRows(suben,'s')}</div>
     </div>`;
 
-  // Cargar mini players en cada lectura (async para no bloquear render)
-  setTimeout(()=>{
-    LECTURAS.forEach(l=>{
-      const players=getLectura(l.id);
-      const el=document.getElementById('lp-'+l.id);
-      if(!el)return;
-      if(!players.length){el.innerHTML='<div style="display:flex;align-items:center;justify-content:center;height:90px;color:var(--text3);font-size:0.65rem">Sin datos</div>';return;}
-      el.innerHTML=`<div class="mc-scroll">${players.slice(0,5).map((p,i)=>miniCard(p,i)).join('')}</div>`;
-    });
-  },50);
+  // Arrancar carruseles
+  lecturas.filter(l=>l.data.length>1).forEach(l=>{
+    let cur=0;
+    setInterval(()=>{
+      const car=document.getElementById('car-'+l.id);
+      if(!car)return;
+      const slides=car.querySelectorAll('.lcard-slide');
+      if(!slides.length)return;
+      slides[cur].style.opacity='0';
+      cur=(cur+1)%slides.length;
+      slides[cur].style.opacity='1';
+      // update dots
+      slides.forEach((s,i)=>{
+        const dots=s.querySelectorAll('div[style*="border-radius:2px"]');
+        dots.forEach((d,di)=>{
+          d.style.width=di===cur?'12px':'4px';
+          d.style.background=di===cur?l.color:'var(--border2)';
+        });
+      });
+    },3000);
+  });
 }
 
-// Panel ranking por lectura
-function openRanking(tipo){
-  const l=LECTURAS.find(x=>x.id===tipo);
-  if(!l)return;
-  const players=getLectura(tipo);
-  let overlay=document.getElementById('rkOverlay');
-  if(!overlay){
-    overlay=document.createElement('div');
-    overlay.id='rkOverlay';
-    overlay.style.cssText='position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:100;backdrop-filter:blur(2px);display:flex;flex-direction:column;justify-content:flex-end;';
-    overlay.onclick=e=>{if(e.target===overlay)overlay.classList.remove('open'),document.getElementById('rkPanel').style.transform='translateY(100%)';setTimeout(()=>overlay.remove(),300);};
-    const panel=document.createElement('div');
-    panel.id='rkPanel';
-    panel.style.cssText='background:var(--surface);border-radius:20px 20px 0 0;max-height:85vh;overflow-y:auto;transform:translateY(100%);transition:transform 0.3s cubic-bezier(0.32,0.72,0,1);';
-    panel.innerHTML='<div style="width:36px;height:4px;background:var(--border2);border-radius:2px;margin:10px auto 0"></div><div id="rkPanelContent"></div>';
-    overlay.appendChild(panel);
-    document.body.appendChild(overlay);
-    requestAnimationFrame(()=>requestAnimationFrame(()=>panel.style.transform='translateY(0)'));
-  } else {
-    document.getElementById('rkPanel').style.transform='translateY(0)';
+function openLectura(id){
+  const l=window._lecturas?.[id];if(!l)return;
+  let modal=document.getElementById('lectModal');
+  if(!modal){
+    modal=document.createElement('div');
+    modal.id='lectModal';
+    modal.style.cssText='position:fixed;inset:0;z-index:200;background:rgba(0,0,0,0.5);backdrop-filter:blur(2px);display:flex;align-items:flex-end;justify-content:center';
+    modal.onclick=e=>{if(e.target===modal)closeLectura();};
+    document.body.appendChild(modal);
   }
-
-  document.getElementById('rkPanelContent').innerHTML=`
-    <div style="padding:14px 16px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;background:var(--surface);z-index:10">
-      <div>
-        <div style="font-size:1.1rem;font-weight:900;display:flex;align-items:center;gap:8px">${l.emoji} ${l.label}</div>
-        <div style="font-size:0.62rem;color:var(--text3);margin-top:2px">${l.sub}</div>
+  modal.innerHTML=`
+    <div style="background:var(--surface);border-radius:20px 20px 0 0;width:100%;max-width:430px;max-height:88vh;overflow-y:auto;padding-bottom:calc(20px + var(--safe-bot))">
+      <div style="width:36px;height:4px;background:var(--border2);border-radius:2px;margin:10px auto 0"></div>
+      <div style="padding:12px 16px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;background:var(--surface);z-index:10">
+        <div style="display:flex;align-items:center;gap:8px">
+          <span style="font-size:1.3rem">${l.emoji}</span>
+          <div>
+            <div style="font-size:0.8rem;font-weight:800;text-transform:uppercase">${l.label}</div>
+            <div style="font-size:0.6rem;color:var(--text3)">${l.data.length} jugadores</div>
+          </div>
+        </div>
+        <button onclick="closeLectura()" style="background:var(--surface2);border:none;border-radius:50%;width:28px;height:28px;font-size:0.75rem;color:var(--text3);cursor:pointer">✕</button>
       </div>
-      <button onclick="document.getElementById('rkOverlay').remove()" style="background:var(--surface2);border:none;border-radius:50%;width:28px;height:28px;font-size:0.75rem;color:var(--text3);cursor:pointer">✕</button>
-    </div>
-    <div style="padding:0 0 20px">
-      ${players.length?players.map((p,i)=>{
-        const tr=fK(p.trend);const trC=p.trend>0?'u':p.trend<0?'d':'';
-        const extra=p.score?`<span style="font-family:var(--mono);font-size:0.6rem;background:var(--accent);color:#fff;padding:1px 5px;border-radius:3px">${p.score}</span>`:
-                    p.efic?`<span style="font-family:var(--mono);font-size:0.6rem;color:var(--green)">+${p.efic}%</span>`:
-                    p.mediaVal?`<span style="font-family:var(--mono);font-size:0.6rem;color:var(--blue)">⌀${p.mediaVal.toFixed(1)}</span>`:'';
-        return`<div class="trow" onclick="document.getElementById('rkOverlay').remove();setTimeout(()=>oD(${AP.indexOf(p)}),100)">
-          <div class="tnum">${i+1}</div>
-          <div class="tphoto">${ph(p,32)}</div>
-          <div class="tinfo"><div class="tname">${p.name}</div><div class="tclub">${p.teamName} · ${fM(p.price)}</div></div>
-          <div class="tjf">${jfH(p.jForm)}</div>
-          ${extra?`<div style="flex-shrink:0">${extra}</div>`:`<div class="tval ${trC}">${tr||'—'}</div>`}
-        </div>`;
-      }).join(''):`<div style="padding:40px;text-align:center;color:var(--text3);font-size:0.75rem">Sin jugadores para esta lectura</div>`}
+      <div>
+        ${l.data.map((p,i)=>{const tr=fK(p.trend);const trC=p.trend>0?'var(--green)':p.trend<0?'var(--red)':'var(--text3)';
+          return`<div style="display:flex;align-items:center;gap:10px;padding:10px 16px;border-bottom:1px solid var(--surface2);cursor:pointer" onclick="closeLectura();oD(${AP.indexOf(p)})">
+            <div style="font-family:var(--mono);font-size:0.6rem;color:#ccc;width:18px;text-align:center">${i+1}</div>
+            <div style="width:36px;height:36px;border-radius:50%;background:var(--surface2);overflow:hidden;flex-shrink:0">
+              <img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.style.display='none'" alt="">
+            </div>
+            <div style="width:24px;height:24px;border-radius:4px;background:${pcol(p)}18;color:${pcol(p)};display:flex;align-items:center;justify-content:center;font-size:0.48rem;font-weight:800;flex-shrink:0">${pos(p)}</div>
+            <div style="flex:1;min-width:0">
+              <div style="font-size:0.82rem;font-weight:800;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${p.name}</div>
+              <div style="font-size:0.6rem;color:var(--text3)">${p.teamName||'—'}</div>
+            </div>
+            <div style="text-align:right;flex-shrink:0">
+              <div style="font-family:var(--mono);font-size:0.75rem;font-weight:600;color:${l.color}">${p._val||''}</div>
+              <div style="font-family:var(--mono);font-size:0.6rem;color:var(--text3)">${fM(p.price)}</div>
+            </div>
+          </div>`;}).join('')}
+      </div>
     </div>`;
+  modal.style.display='flex';
 }
+
+function closeLectura(){const m=document.getElementById('lectModal');if(m)m.style.display='none';}
 
 
 function tTab(btn,tipo){
