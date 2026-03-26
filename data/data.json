@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T15:58:57.990Z",
+  "updatedAt": "2026-03-26T20:00:43.651Z",
   "players": [
     {
       "id": 11,
@@ -11932,9 +11932,33 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "TOP Centrocampistas que debes fichar en este parón de selecciones",
+      "link": "https://www.jornadaperfecta.com/blog/top-centrocampistas-fantasy-paron-marzo-26/",
+      "date": "Thu, 26 Mar 2026 20:00:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Lesionados a recuperar en el parón de marzo",
+      "link": "https://www.jornadaperfecta.com/blog/lesionados-recuperar-paron-marzo-26/",
+      "date": "Thu, 26 Mar 2026 17:20:12 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Antony sigue un plan específico para solucionar sus problemas de pubalgia",
       "link": "https://www.jornadaperfecta.com/blog/antony-plan-especifico-pubalgia-paron/",
-      "date": "Thu, 26 Mar 2026 15:05:31 +0000"
+      "date": "Thu, 26 Mar 2026 17:15:31 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Yeray volverá en la jornada 30 tras casi 1 año de sanción",
+      "link": "https://www.jornadaperfecta.com/blog/yeray-vuelta-sancion-athletic/",
+      "date": "Thu, 26 Mar 2026 17:10:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Jutglà, en racha goleadora: ¿chollo fantasy en el Celta?",
+      "link": "https://www.jornadaperfecta.com/blog/jutgla-chollo-fantasy-celta/",
+      "date": "Thu, 26 Mar 2026 16:00:42 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -11953,35 +11977,11 @@
       "title": "Ferland Mendy vuelve al césped. ¿Cuándo puede volver?",
       "link": "https://www.jornadaperfecta.com/blog/ferland-mendy-vuelta-lesion-biceps-femoral-26/",
       "date": "Thu, 26 Mar 2026 13:26:00 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ilaix Moriba, con el grupo a bajo ritmo. ¿Llega a la Jornada 30?",
-      "link": "https://www.jornadaperfecta.com/blog/ilaix-moriba-estado-j30-25-26/",
-      "date": "Thu, 26 Mar 2026 13:13:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Gayà ya entrena con máscara en la vuelta de Thierry",
-      "link": "https://www.jornadaperfecta.com/blog/gaya-golpe-cabeza-valencia/",
-      "date": "Thu, 26 Mar 2026 12:25:05 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lesionados a recuperar en el parón de marzo",
-      "link": "https://www.jornadaperfecta.com/blog/lesionados-recuperar-paron-marzo-26/",
-      "date": "Thu, 26 Mar 2026 12:00:12 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Carlos Álvarez eleva las cargas. ¿Vuelve en la Jornada 30?",
-      "link": "https://www.jornadaperfecta.com/blog/carlos-alvarez-estado-j30-25-26/",
-      "date": "Thu, 26 Mar 2026 11:58:42 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-03-26T15:58:55.295Z",
+    "updatedAt": "2026-03-26T20:00:43.651Z",
     "players": [
       {
         "id": "3374",
