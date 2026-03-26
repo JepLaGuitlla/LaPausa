@@ -307,6 +307,7 @@ html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--text);fon
 <script>
 'use strict';
 let AP=[],tab='inicio',fp='all',fs='',sc='price',sd=-1,pg=1;
+let _mediasEsp=null;
 const PP=30;let filt=[];
 const PM={1:'PT',2:'DF',3:'MC',4:'DL'};
 const PC={PT:'#d97706',DF:'#1d6fce',MC:'#16a34a',DL:'#e63329'};
@@ -326,6 +327,7 @@ async function load(){
     if(j.updatedAt){const d=new Date(j.updatedAt);document.getElementById('upd').textContent=d.toLocaleDateString('es-ES',{day:'2-digit',month:'short'})+' '+d.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});}
     try{window._pricesData=await(await fetch('./data/prices.json')).json();}catch(e){window._pricesData={};}
     try{window._jornadasData=await(await fetch('./data/history.json')).json();}catch(e){window._jornadasData={};}
+    _mediasEsp=Engine.calcMediasEsperadas(AP);
     rCur();
   }catch(e){
     document.getElementById('ic').innerHTML='<div class="loading"><div style="font-size:1.5rem">⚠️</div><div style="font-size:0.75rem;text-align:center;color:var(--text3)">No se encontró data/data.json</div></div>';
@@ -437,7 +439,7 @@ const LECTURAS=[
 
 function rInicio(){
   const pd=window._pricesData||{};
-  const mediasEsp=Engine.calcMediasEsperadas(AP);
+  const mediasEsp=_mediasEsp||Engine.calcMediasEsperadas(AP);
 
   const perlas=AP.filter(p=>p.price>300000&&p.status!=='injured'&&p.status!=='sanctioned')
     .map(p=>{const pj=Engine.calcPrecioJusto(p,AP);const efic=Engine.calcEficiencia(p,mediasEsp);return pj&&pj.difPct>25&&(efic===null||efic>5)?{...p,_val:`+${pj.difPct}%`}:null;})
@@ -564,7 +566,7 @@ function openLectura(id){
   const l=window._lecturas?.[id]; if(!l)return;
 
   // Calcular lista completa de esa lectura
-  const mediasEsp=Engine.calcMediasEsperadas(AP);
+  const mediasEsp=_mediasEsp||Engine.calcMediasEsperadas(AP);
   let allData=[];
 
   if(id==='perlas'){
@@ -757,22 +759,41 @@ function cV(){const obj=parseFloat(document.getElementById('b1').value)||0,sal=p
 function cR(){const pr=parseFloat(document.getElementById('c1').value)||0,pts=parseFloat(document.getElementById('c2').value)||0,pj=parseFloat(document.getElementById('c3').value)||1;if(!pr||!pts)return;const m=pts/pj,roi=m/(pr/1e6),rat=roi>=2?'🟢 Excelente':roi>=1.2?'🟡 Bueno':roi>=0.8?'🟠 Regular':'🔴 Bajo';document.getElementById('r3v').textContent=roi.toFixed(2);document.getElementById('r3d').innerHTML=`Media: <strong>${m.toFixed(1)} pts/J</strong><br>Valoración: <strong>${rat}</strong><br>Referencia: >1.5 = buena inversión.`;document.getElementById('r3').classList.add('v');}
 
 /* DRAWER */
-function oD(idx){
-  if(idx===-1||idx===undefined||idx===null)return;
-  const p=AP[idx];if(!p)return;
-  // Mostrar popup inmediatamente con spinner
-  document.getElementById('db').innerHTML='<div class="loading" style="padding:40px"><div class="spinner"></div></div>';
-  document.getElementById('dov').classList.add('open');
-  document.getElementById('drw').classList.add('open');
-  // Rellenar contenido en el siguiente tick para no bloquear la animación
-  setTimeout(()=>rDr(p),50);
-}
+function oD(idx){if(idx===-1||idx===undefined||idx===null)return;const p=AP[idx];if(!p)return;document.getElementById('dov').classList.add('open');document.getElementById('drw').classList.add('open');rDr(p);}
 function cD(){document.getElementById('dov').classList.remove('open');document.getElementById('drw').classList.remove('open');}
 function rDr(p){
   const bg=pcol(p),ps=pos(p),mediaVal=med(p),numPJ=(p.playedHome||0)+(p.playedAway||0),tr=fK(p.trend),trC=p.trend>0?'var(--green)':p.trend<0?'var(--red)':'var(--text3)';
   const jfI=(p.jForm||[]).slice(0,5).map((v,i)=>{const c=v===null||v===undefined?'var(--text3)':v>=10?'#b45309':v>=6?'#166534':v>=3?'#64748b':'#991b1b';return`<div class="djf"><div class="djfv" style="color:${c}">${v===null||v===undefined?'—':v}</div><div class="djfl">J-${i+1}</div></div>`;}).join('');
 
-  // Render básico instantáneo
+  const mediasEsp=_mediasEsp||Engine.calcMediasEsperadas(AP);
+  const estado=Engine.calcEstadoMercado(p,AP,window._pricesData||{});
+  const precioJusto=Engine.calcPrecioJusto(p,AP);
+  const rec=Engine.calcRecomendacion(p,AP,window._pricesData||{});
+  const sigs=rec?[...rec.reasons]:[];
+  const warns=rec?[...rec.warnings]:[];
+  if(p.status==='injured')sigs.unshift('⚠️ Lesionado');
+  if(p.status==='doubt')sigs.unshift('⚠️ En duda');
+  if(p.status==='sanctioned')sigs.unshift('⚠️ Sancionado');
+
+  const efic2=Engine.calcEficiencia(p,mediasEsp);
+  const explLines=[];
+  if(mediaVal>0)explLines.push(`Promedia <strong>${mediaVal.toFixed(1)} pts por jornada</strong> en ${numPJ} partidos.`);
+  if(precioJusto){
+    if(precioJusto.difEuros>0)explLines.push(`Precio justo: <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${precioJusto.difPct}% por debajo. El mercado aún no lo ha descubierto.`);
+    else explLines.push(`Precio justo: <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${Math.abs(precioJusto.difPct)}% por encima de lo que debería costar.`);
+  }
+  if(efic2!==null){
+    if(efic2>0)explLines.push(`Rinde <strong>+${efic2}% sobre lo esperado</strong> para su posición y precio.`);
+    else explLines.push(`Rinde <strong>${efic2}% bajo lo esperado</strong> para su posición y precio.`);
+  }
+  if(p.trend>100000)explLines.push(`El mercado lo compra — sube <strong>${fK(p.trend)}</strong> hoy.`);
+  else if(p.trend<-100000)explLines.push(`El mercado lo vende — baja <strong>${fK(p.trend)}</strong> hoy.`);
+
+  const explHtml=explLines.length?`<div class="dsec">¿Qué dicen los números?</div><div style="background:var(--surface2);border-radius:8px;padding:10px 12px;margin-bottom:14px;font-size:0.72rem;color:var(--text2);line-height:1.7">${explLines.map(l=>`<div style="margin-bottom:4px">→ ${l}</div>`).join('')}</div>`:'';
+  const estadoHtml=estado?`<div class="dsec">Señal de mercado</div><div class="dsig" style="background:${estado.colorFondo};border-left:3px solid ${estado.colorTexto};color:${estado.colorTexto}">${estado.icono} <strong>${estado.label}</strong><br><span style="color:var(--text2);font-size:0.65rem">${estado.desc}</span></div>`:'';
+  const pjHtml=precioJusto?`<div class="dsec">Precio justo</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px"><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${(precioJusto.precioJusto/1e6).toFixed(2)}M€</div><div class="dkl">Precio justo</div></div><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${precioJusto.difEuros>=0?'+':''}${(precioJusto.difEuros/1e6).toFixed(2)}M€</div><div class="dkl">Diferencia</div></div></div>`:'';
+  const sigsHtml=sigs.length?`<div class="dsec">Análisis</div><div class="dsig">${sigs.map(s=>`• ${s}`).join('<br>')}${warns.length?'<br><br>'+warns.map(w=>`⚠️ ${w}`).join('<br>'):''}</div>`:'';
+
   document.getElementById('db').innerHTML=`
     <div class="dtop">
       <div class="dphoto"><img src="./img/players/${p.id}.avif" style="width:100%;height:100%;object-fit:contain;object-position:center top" onerror="this.parentNode.innerHTML='<div style=\\'width:100%;height:100%;background:${bg};display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.3rem;font-weight:900\\'>${ps}</div>'" alt=""></div>
@@ -790,44 +811,7 @@ function rDr(p){
       <div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="color:${trC}">${tr||'—'}</div><div class="dkl">Tendencia</div></div>
       <div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv">${numPJ}</div><div class="dkl">PJ</div></div>
     </div>
-    <div id="db-analysis"><div style="padding:12px;text-align:center;font-size:0.65rem;color:var(--text3)">Calculando análisis...</div></div>`;
-
-  // Cálculos pesados en segundo plano
-  setTimeout(()=>{
-    const mediasEsp=Engine.calcMediasEsperadas(AP);
-    const estado=Engine.calcEstadoMercado(p,AP,window._pricesData||{});
-    const precioJusto=Engine.calcPrecioJusto(p,AP);
-    const rec=Engine.calcRecomendacion(p,AP,window._pricesData||{});
-    const sigs=rec?[...rec.reasons]:[];
-    const warns=rec?[...rec.warnings]:[];
-    if(p.status==='injured')sigs.unshift('⚠️ Lesionado');
-    if(p.status==='doubt')sigs.unshift('⚠️ En duda');
-    if(p.status==='sanctioned')sigs.unshift('⚠️ Sancionado');
-
-    const pj2=(p.playedHome||0)+(p.playedAway||0);
-    const mediaVal2=pj2>0?(p.pts||0)/pj2:0;
-    const efic2=Engine.calcEficiencia(p,mediasEsp);
-    const explLines=[];
-    if(mediaVal2>0)explLines.push(`Promedia <strong>${mediaVal2.toFixed(1)} pts por jornada</strong> en ${pj2} partidos.`);
-    if(precioJusto){
-      if(precioJusto.difEuros>0)explLines.push(`Precio justo estimado: <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${precioJusto.difPct}% por debajo. El mercado aún no lo ha descubierto.`);
-      else explLines.push(`Precio justo estimado: <strong>${(precioJusto.precioJusto/1e6).toFixed(2)}M€</strong> — está ${Math.abs(precioJusto.difPct)}% por encima de lo que debería costar.`);
-    }
-    if(efic2!==null){
-      if(efic2>0)explLines.push(`Rinde <strong>+${efic2}% sobre lo esperado</strong> para su posición y precio.`);
-      else explLines.push(`Rinde <strong>${efic2}% bajo lo esperado</strong> para su posición y precio.`);
-    }
-    if(p.trend>100000)explLines.push(`El mercado lo compra — sube <strong>${fK(p.trend)}</strong> hoy.`);
-    else if(p.trend<-100000)explLines.push(`El mercado lo vende — baja <strong>${fK(p.trend)}</strong> hoy.`);
-
-    const explHtml=explLines.length?`<div class="dsec">¿Qué dicen los números?</div><div style="background:var(--surface2);border-radius:8px;padding:10px 12px;margin-bottom:14px;font-size:0.72rem;color:var(--text2);line-height:1.7">${explLines.map(l=>`<div style="margin-bottom:4px">→ ${l}</div>`).join('')}</div>`:'';
-    const estadoHtml=estado?`<div class="dsec">Señal de mercado</div><div class="dsig" style="background:${estado.colorFondo};border-left:3px solid ${estado.colorTexto};color:${estado.colorTexto}">${estado.icono} <strong>${estado.label}</strong><br><span style="color:var(--text2);font-size:0.65rem">${estado.desc}</span></div>`:'';
-    const pjHtml=precioJusto?`<div class="dsec">Precio justo</div><div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px"><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${(precioJusto.precioJusto/1e6).toFixed(2)}M€</div><div class="dkl">Precio justo</div></div><div class="dkpi" style="background:var(--surface2);border-radius:8px;border:1px solid var(--border)"><div class="dkv" style="font-size:0.9rem;color:${precioJusto.difEuros>=0?'var(--green)':'var(--red)'}">${precioJusto.difEuros>=0?'+':''}${(precioJusto.difEuros/1e6).toFixed(2)}M€</div><div class="dkl">Diferencia</div></div></div>`:'';
-    const sigsHtml=sigs.length?`<div class="dsec">Análisis</div><div class="dsig">${sigs.map(s=>`• ${s}`).join('<br>')}${warns.length?'<br><br>'+warns.map(w=>`⚠️ ${w}`).join('<br>'):''}</div>`:'';
-
-    const el=document.getElementById('db-analysis');
-    if(el)el.innerHTML=explHtml+estadoHtml+pjHtml+sigsHtml;
-  },80);
+    ${explHtml}${estadoHtml}${pjHtml}${sigsHtml}`;
 }
 
 document.querySelectorAll('.ni').forEach(b=>b.addEventListener('click',()=>sTab(b.dataset.tab)));
