@@ -269,7 +269,13 @@ html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--text);fon
 <body>
 <div class="app">
   <div class="topbar">
-    <div style="font-family:var(--mono);font-size:0.6rem;color:var(--text2);font-weight:600;letter-spacing:0.5px">La Pausa Fantasy</div>
+    <div style="display:flex;align-items:center;gap:10px">
+      <img src="./img/logo.png" alt="" style="height:36px;width:auto;object-fit:contain">
+      <div>
+        <div style="font-size:1.1rem;font-weight:900;color:var(--text);letter-spacing:-0.3px;line-height:1">La Pausa</div>
+        <div style="font-size:0.48rem;font-weight:700;color:var(--accent);letter-spacing:2px;text-transform:uppercase;margin-top:2px">Cortita y al pie</div>
+      </div>
+    </div>
     <div class="topbar-right"><div class="live-dot"></div><span id="upd">LIVE</span></div>
   </div>
 
@@ -481,6 +487,13 @@ function rInicio(){
   const suben=[...AP].filter(p=>p.trend>0).sort((a,b)=>b.trend-a.trend).slice(0,8);
 
   document.getElementById('ic').innerHTML=`
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:16px;padding-top:4px">
+      <img src="./img/logo.png" alt="" style="height:44px;width:auto;object-fit:contain">
+      <div>
+        <div style="font-size:2rem;font-weight:900;letter-spacing:-1px;line-height:1;color:var(--text)">La Pausa</div>
+        <div style="font-size:0.55rem;font-weight:700;letter-spacing:2.5px;text-transform:uppercase;color:var(--accent);margin-top:2px">Cortita y al pie</div>
+      </div>
+    </div>
     <div class="krow" style="margin-bottom:18px">
       <div class="kpi"><div class="kv">${AP.length}</div><div class="kl">Jugadores</div></div>
       <div class="kpi" style="cursor:pointer"><div class="kv r">${totalSenales}</div><div class="kl">Señales</div></div>
