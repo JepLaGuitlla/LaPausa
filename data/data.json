@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T20:00:43.651Z",
+  "updatedAt": "2026-03-27T05:53:01.047Z",
   "players": [
     {
       "id": 11,
@@ -11272,7 +11272,8 @@
         0,
         3,
         1,
-        0
+        0,
+        null
       ],
       "clausula": null
     },
@@ -11932,6 +11933,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Raphinha, a la espera de pruebas tras ser sustituido con Brasil",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-lesion-brasil-barcelona/",
+      "date": "Thu, 26 Mar 2026 22:32:42 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-26-3-26/",
+      "date": "Thu, 26 Mar 2026 22:00:41 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "TOP Centrocampistas que debes fichar en este parón de selecciones",
       "link": "https://www.jornadaperfecta.com/blog/top-centrocampistas-fantasy-paron-marzo-26/",
       "date": "Thu, 26 Mar 2026 20:00:05 +0000"
@@ -11965,23 +11978,11 @@
       "title": "Ruggeri, ausente en el entrenamiento del Atleti",
       "link": "https://www.jornadaperfecta.com/blog/ruggeri-estado-atleti-j30/",
       "date": "Thu, 26 Mar 2026 14:40:33 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Peque acorta plazos para convencer a García Plaza",
-      "link": "https://www.jornadaperfecta.com/blog/peque-vuelta-lesion-tobillo-26/",
-      "date": "Thu, 26 Mar 2026 13:42:13 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ferland Mendy vuelve al césped. ¿Cuándo puede volver?",
-      "link": "https://www.jornadaperfecta.com/blog/ferland-mendy-vuelta-lesion-biceps-femoral-26/",
-      "date": "Thu, 26 Mar 2026 13:26:00 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-03-26T20:00:43.651Z",
+    "updatedAt": "2026-03-27T05:52:58.388Z",
     "players": [
       {
         "id": "3374",
