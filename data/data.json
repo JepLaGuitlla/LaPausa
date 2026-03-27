@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T15:11:11.135Z",
+  "updatedAt": "2026-03-27T19:53:48.263Z",
   "players": [
     {
       "id": 11,
@@ -3084,7 +3084,7 @@
     {
       "id": 12403,
       "slug": "ivan-martin",
-      "name": "Iván Mart��n",
+      "name": "Iván Martín",
       "position": 3,
       "price": 2030000,
       "points": 107,
@@ -11932,21 +11932,27 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Joan García, descartado para disputar el España &#8211; Serbia",
-      "link": "https://www.jornadaperfecta.com/blog/joan-garcia-descarte-amistoso-espana-serbia/",
-      "date": "Fri, 27 Mar 2026 14:48:07 +0000"
+      "title": "Oficial: Brasil confirma la lesión muscular de Raphinha",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-lesion-brasil-barcelona/",
+      "date": "Fri, 27 Mar 2026 18:00:42 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Isco toca balón y avanza en su recuperación, ¿cuándo vuelve?",
       "link": "https://www.jornadaperfecta.com/blog/isco-vuelta-lesion-betis/",
-      "date": "Fri, 27 Mar 2026 14:32:35 +0000"
+      "date": "Fri, 27 Mar 2026 16:03:35 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Temor en el Barcelona por una posible lesión de Raphinha",
-      "link": "https://www.jornadaperfecta.com/blog/raphinha-lesion-brasil-barcelona/",
-      "date": "Fri, 27 Mar 2026 14:30:42 +0000"
+      "title": "Joan García, descartado para disputar el España &#8211; Serbia",
+      "link": "https://www.jornadaperfecta.com/blog/joan-garcia-descarte-amistoso-espana-serbia/",
+      "date": "Fri, 27 Mar 2026 16:01:07 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Carlos Álvarez ya entrena y podría volver pronto. ¿Chollo de final de temporada?",
+      "link": "https://www.jornadaperfecta.com/blog/carlos-alvarez-analisis-paron-marzo-26/",
+      "date": "Fri, 27 Mar 2026 16:00:13 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -11971,17 +11977,11 @@
       "title": "Nico Williams vuelve a entrenar con el Athletic",
       "link": "https://www.jornadaperfecta.com/blog/nico-williams-vuelta-pubalgia-26/",
       "date": "Fri, 27 Mar 2026 10:40:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Vedat Muriqi, con molestias en los isquiotibiales. ¿Preocupa su estado?",
-      "link": "https://www.jornadaperfecta.com/blog/muriqi-molestias-isquiotibiales-26/",
-      "date": "Fri, 27 Mar 2026 10:15:13 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-03-27T15:11:09.230Z",
+    "updatedAt": "2026-03-27T19:53:46.751Z",
     "players": [
       {
         "id": "3374",
