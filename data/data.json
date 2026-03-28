@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T14:04:14.901Z",
+  "updatedAt": "2026-03-28T19:46:57.245Z",
   "players": [
     {
       "id": 11,
@@ -11932,6 +11932,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Tchouameni sufre un golpe en la rodilla. ¿Preocupa su estado?",
+      "link": "https://www.jornadaperfecta.com/blog/tchouameni-estado-rodilla-26/",
+      "date": "Sat, 28 Mar 2026 17:56:07 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Vinicius, con molestias con su selección. ¿Preocupa su situación?",
+      "link": "https://www.jornadaperfecta.com/blog/vinicius-jr-estado-molestias-musculares-26/",
+      "date": "Sat, 28 Mar 2026 17:39:57 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "La lesión de Raphinha, en clave fantasy: sustitutos en el Barça y equivalentes fantasy",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-analisis-lesion-sustitutos-fantasy-26/",
+      "date": "Sat, 28 Mar 2026 16:00:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para el parón",
       "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-paron-marzo-26/",
       "date": "Sat, 28 Mar 2026 10:45:31 +0000"
@@ -11959,29 +11977,11 @@
       "title": "Isco toca balón y avanza en su recuperación, ¿cuándo vuelve?",
       "link": "https://www.jornadaperfecta.com/blog/isco-vuelta-lesion-betis/",
       "date": "Fri, 27 Mar 2026 16:03:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Joan García, descartado para disputar el España &#8211; Serbia",
-      "link": "https://www.jornadaperfecta.com/blog/joan-garcia-descarte-amistoso-espana-serbia/",
-      "date": "Fri, 27 Mar 2026 16:01:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Carlos Álvarez ya entrena y podría volver pronto. ¿Chollo de final de temporada?",
-      "link": "https://www.jornadaperfecta.com/blog/carlos-alvarez-analisis-paron-marzo-26/",
-      "date": "Fri, 27 Mar 2026 16:00:13 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota 4.50 en Betfair para el España vs Serbia: ¡Apuesta potenciada!",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-espana-vs-serbia/",
-      "date": "Fri, 27 Mar 2026 12:26:16 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-03-28T14:04:13.120Z",
+    "updatedAt": "2026-03-28T19:46:55.214Z",
     "players": [
       {
         "id": "3374",
