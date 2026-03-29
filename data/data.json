@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T08:03:13.704Z",
+  "updatedAt": "2026-03-29T14:05:06.868Z",
   "players": [
     {
       "id": 11,
@@ -11932,15 +11932,39 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Tchouameni sufre un golpe en la rodilla. ¿Preocupa su estado?",
-      "link": "https://www.jornadaperfecta.com/blog/tchouameni-estado-rodilla-26/",
-      "date": "Sat, 28 Mar 2026 17:56:07 +0000"
+      "title": "Bastoni dice sí al FC Barcelona, ¿se hará el fichaje?",
+      "link": "https://www.jornadaperfecta.com/blog/bastoni-fichaje-fc-barcelona/",
+      "date": "Sun, 29 Mar 2026 10:42:37 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Vinicius, con molestias con su selección. ¿Preocupa su situación?",
+      "title": "Raphinha, lesionado: Parte médico oficial y tiempo de baja",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-parte-medico-fc-barcelona/",
+      "date": "Sun, 29 Mar 2026 09:34:23 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Isco toca balón y avanza en su recuperación, ¿cuándo vuelve?",
+      "link": "https://www.jornadaperfecta.com/blog/isco-vuelta-lesion-betis/",
+      "date": "Sun, 29 Mar 2026 09:32:35 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Vinicius gestiona las cargas con Brasil por unas molestias",
       "link": "https://www.jornadaperfecta.com/blog/vinicius-jr-estado-molestias-musculares-26/",
-      "date": "Sat, 28 Mar 2026 17:39:57 +0000"
+      "date": "Sun, 29 Mar 2026 09:01:57 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Chollos Fantasy que no puedes dejar escapar durante el parón de selecciones",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-paron-marzo-26/",
+      "date": "Sun, 29 Mar 2026 09:00:41 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Tchouameni fue sustituido por precaución por un golpe en la rodilla",
+      "link": "https://www.jornadaperfecta.com/blog/tchouameni-estado-rodilla-26/",
+      "date": "Sun, 29 Mar 2026 07:30:07 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -11953,35 +11977,11 @@
       "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para el parón",
       "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-paron-marzo-26/",
       "date": "Sat, 28 Mar 2026 10:45:31 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Raphinha, lesionado: Parte médico oficial y tiempo de baja",
-      "link": "https://www.jornadaperfecta.com/blog/raphinha-parte-medico-fc-barcelona/",
-      "date": "Fri, 27 Mar 2026 20:34:23 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "TOP Delanteros que debes fichar en este parón de selecciones",
-      "link": "https://www.jornadaperfecta.com/blog/top-delanteros-paron-marzo-26/",
-      "date": "Fri, 27 Mar 2026 20:00:42 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Brasil confirma la lesión muscular de Raphinha",
-      "link": "https://www.jornadaperfecta.com/blog/raphinha-lesion-brasil-barcelona/",
-      "date": "Fri, 27 Mar 2026 18:00:42 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Isco toca balón y avanza en su recuperación, ¿cuándo vuelve?",
-      "link": "https://www.jornadaperfecta.com/blog/isco-vuelta-lesion-betis/",
-      "date": "Fri, 27 Mar 2026 16:03:35 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-03-29T08:03:11.181Z",
+    "updatedAt": "2026-03-29T14:05:05.399Z",
     "players": [
       {
         "id": "3374",
