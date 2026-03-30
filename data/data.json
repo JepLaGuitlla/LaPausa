@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T15:57:23.514Z",
+  "updatedAt": "2026-03-30T20:05:20.692Z",
   "players": [
     {
       "id": 11,
@@ -11932,6 +11932,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J30 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j30-laliga/",
+      "date": "Mon, 30 Mar 2026 19:00:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "La lesión de Raphinha, en clave fantasy: sustitutos en el Barça y equivalentes fantasy",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-analisis-lesion-sustitutos-fantasy-26/",
+      "date": "Mon, 30 Mar 2026 17:20:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Real Oviedo recupera futbolistas antes de una nueva «final»",
+      "link": "https://www.jornadaperfecta.com/blog/thiago-borbas-recuperacion-lesion-26/",
+      "date": "Mon, 30 Mar 2026 16:37:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Gorrotxategi sigue ausente mientras Kubo acumula kilometraje",
+      "link": "https://www.jornadaperfecta.com/blog/gorrotxategi-estado-j30-25-26/",
+      "date": "Mon, 30 Mar 2026 16:15:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Jan Oblak, Mendoza y Ruggeri siguen sin entrenar, con Pubill al margen",
+      "link": "https://www.jornadaperfecta.com/blog/oblak-estado-j30-25-26/",
+      "date": "Mon, 30 Mar 2026 16:15:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Azpilicueta y Kike Salas se reincorporan al grupo",
       "link": "https://www.jornadaperfecta.com/blog/azpilicueta-estado-j30-25-26/",
       "date": "Mon, 30 Mar 2026 15:40:05 +0000"
@@ -11947,41 +11977,11 @@
       "title": "Johnny Cardoso da el susto con Estados Unidos",
       "link": "https://www.jornadaperfecta.com/blog/johnny-cardoso-estado-sobrecarga-26/",
       "date": "Mon, 30 Mar 2026 15:01:53 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Raíllo, ¿dará el paso adelante para salvar al Mallorca?",
-      "link": "https://www.jornadaperfecta.com/blog/raillo-recomendacion-fantasy-mallorca/",
-      "date": "Mon, 30 Mar 2026 15:00:39 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Vedat Muriqi, recuperado de sus molestias en los isquiotibiales.",
-      "link": "https://www.jornadaperfecta.com/blog/muriqi-molestias-isquiotibiales-26/",
-      "date": "Mon, 30 Mar 2026 14:40:13 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Pau Navarro, ¿el defensa más recomendable del Villarreal?",
-      "link": "https://www.jornadaperfecta.com/blog/pau-navarro-chollo-fantasy-villarreal/",
-      "date": "Mon, 30 Mar 2026 13:00:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Kounde y Balde entrenan con el grupo: Fecha de vuelta de los lesionados",
-      "link": "https://www.jornadaperfecta.com/blog/fecha-vuelta-lesionados-barcelona/",
-      "date": "Mon, 30 Mar 2026 12:10:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Regístrate en Sportium y gana un 50% más apostando al Atlético &#8211; Barcelona",
-      "link": "https://www.jornadaperfecta.com/blog/sportium-superaumento-atletico-barcelona/",
-      "date": "Mon, 30 Mar 2026 11:37:13 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-03-30T15:57:21.174Z",
+    "updatedAt": "2026-03-30T20:05:17.218Z",
     "players": [
       {
         "id": "3374",
