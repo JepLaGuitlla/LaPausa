@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T05:52:20.419Z",
+  "updatedAt": "2026-04-03T08:37:14.035Z",
   "players": [
     {
       "id": 11,
@@ -11932,6 +11932,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Onces en prensa del Rayo Vallecano &#8211; Elche",
+      "link": "https://www.jornadaperfecta.com/blog/onces-prensa-rayo-vallecano-elche/",
+      "date": "Fri, 03 Apr 2026 08:22:06 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción Kirolbet Atlético vs Barcelona: ¡5€ por cada gol!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-kirolbet-atletico-vs-barcelona/",
+      "date": "Fri, 03 Apr 2026 08:00:53 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Cinco noticias fantasy para antes de irte a dormir",
       "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-2-4-26/",
       "date": "Thu, 02 Apr 2026 21:00:33 +0000"
@@ -11965,23 +11977,11 @@
       "title": "Guedes sufrió un golpe con Portugal, ¿suplente en la jornada 30?",
       "link": "https://www.jornadaperfecta.com/blog/guedes-estado-real-sociedad-j30/",
       "date": "Thu, 02 Apr 2026 15:10:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Vinicius podría rotar en la jornada 30, ¿lo alineamos en fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/vinicius-estado-j30/",
-      "date": "Thu, 02 Apr 2026 15:05:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "BigUp: Gana dinero real con tus pronósticos del Girona &#8211; Villarreal",
-      "link": "https://www.jornadaperfecta.com/blog/bigup-girona-villarreal-pronosticos/",
-      "date": "Thu, 02 Apr 2026 15:01:40 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-03T05:52:19.012Z",
+    "updatedAt": "2026-04-03T08:37:11.796Z",
     "players": [
       {
         "id": "3374",
