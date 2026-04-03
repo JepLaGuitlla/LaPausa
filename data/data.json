@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T14:29:54.975Z",
+  "updatedAt": "2026-04-03T19:55:52.570Z",
   "players": [
     {
       "id": 11,
@@ -11932,56 +11932,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Once confirmado del Rayo Vallecano para la jornada 30",
+      "link": "https://www.jornadaperfecta.com/blog/once-rayo-vallecano-jornada-30/",
+      "date": "Fri, 03 Apr 2026 17:59:00 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Once confirmado del Elche CF con varias novedades!",
+      "link": "https://www.jornadaperfecta.com/blog/once-elche-jornada-30/",
+      "date": "Fri, 03 Apr 2026 17:54:51 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Militao vuelve a la convocatoria, ¿el mejor fichaje del Real Madrid?",
+      "link": "https://www.jornadaperfecta.com/blog/militao-vuelta-fantasy-real-madrid/",
+      "date": "Fri, 03 Apr 2026 17:00:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Dudas con la titularidad de Rashford en la jornada 30, ¿alinear?",
+      "link": "https://www.jornadaperfecta.com/blog/rashford-alinear-j30-barcelona/",
+      "date": "Fri, 03 Apr 2026 16:00:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota 3.6 en Betfair para el Atlético vs Barcelona: ¡Apuesta potenciada!",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-atletico-vs-barcelona/",
+      "date": "Fri, 03 Apr 2026 16:00:29 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Raíllo podría pasar por quirófano, a la espera de pruebas",
       "link": "https://www.jornadaperfecta.com/blog/raillo-baja-mallorca-j30/",
-      "date": "Fri, 03 Apr 2026 14:01:24 +0000"
+      "date": "Fri, 03 Apr 2026 15:30:24 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Nobel Mendy se recupera; Fran Pérez, baja para la j30",
+      "title": "BigUp: Gana dinero real con tus pronósticos del Girona &#8211; Villarreal",
+      "link": "https://www.jornadaperfecta.com/blog/bigup-girona-villarreal-pronosticos/",
+      "date": "Fri, 03 Apr 2026 15:01:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Nobel Mendy se recupera; Fran Pérez y Akhomach, bajas",
       "link": "https://www.jornadaperfecta.com/blog/nobel-mendy-estado-j30-rayo/",
       "date": "Fri, 03 Apr 2026 14:00:16 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Quique, sobre el estado de Boyé y su sustituto",
-      "link": "https://www.jornadaperfecta.com/blog/quique-previa-alaves-osasuna-j30/",
-      "date": "Fri, 03 Apr 2026 13:06:50 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Matarazzo aclara el estado de Guedes y explica la lesión de Gorrotxategi",
-      "link": "https://www.jornadaperfecta.com/blog/matarazzo-previa-real-sociedad-levante-j30/",
-      "date": "Fri, 03 Apr 2026 12:37:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Manolo González recupera a Calero y descarta a Pickel",
-      "link": "https://www.jornadaperfecta.com/blog/manolo-gonzalez-previa-betis-espanyol-j30/",
-      "date": "Fri, 03 Apr 2026 12:21:10 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lucas Boyé queda en duda por una fascitis plantar",
-      "link": "https://www.jornadaperfecta.com/blog/boye-fascitis-plantar-alaves/",
-      "date": "Fri, 03 Apr 2026 12:07:18 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Vinicius ya entrena pero podría rotar en la jornada 30, ¿alinear?",
-      "link": "https://www.jornadaperfecta.com/blog/vinicius-estado-j30/",
-      "date": "Fri, 03 Apr 2026 11:50:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Simeone da la fecha de vuelta de Oblak y Mendoza, pero no de Pubill y Barrios",
-      "link": "https://www.jornadaperfecta.com/blog/simeone-previa-atleti-barcelona-j30/",
-      "date": "Fri, 03 Apr 2026 11:45:58 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-03T14:29:53.846Z",
+    "updatedAt": "2026-04-03T19:55:46.682Z",
     "players": [
       {
         "id": "3374",
@@ -12109,11 +12109,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 10,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 243
+        "minutesPerGoal": 252
       },
       {
         "id": "8167",
@@ -12205,11 +12205,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 24,
+        "appearances": 25,
         "goals": 8,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 270
+        "minutesPerGoal": 281
       },
       {
         "id": "32415",
@@ -12265,11 +12265,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 24,
+        "appearances": 25,
         "goals": 7,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 309
+        "minutesPerGoal": 321
       },
       {
         "id": "33117",
@@ -12589,11 +12589,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 5,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 504
+        "minutesPerGoal": 522
       },
       {
         "id": "16173",
@@ -12625,11 +12625,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 4,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 630
+        "minutesPerGoal": 653
       },
       {
         "id": "633",
@@ -12673,11 +12673,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 4,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 630
+        "minutesPerGoal": 653
       },
       {
         "id": "182319",
@@ -12841,11 +12841,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 3,
         "assists": 2,
         "penalties": 2,
-        "minutesPerGoal": 810
+        "minutesPerGoal": 840
       },
       {
         "id": "180061",
