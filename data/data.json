@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T05:16:00.436Z",
+  "updatedAt": "2026-04-04T08:01:40.086Z",
   "players": [
     {
       "id": 11,
@@ -4859,7 +4859,7 @@
         null,
         4,
         null,
-        null
+        0
       ],
       "clausula": null
     },
@@ -6149,7 +6149,7 @@
         0,
         1,
         1,
-        1
+        3
       ],
       "clausula": null
     },
@@ -8685,7 +8685,7 @@
     {
       "id": 34802,
       "slug": "toni-martinez",
-      "name": "Toni Martínez",
+      "name": "Toni Mart��nez",
       "position": 4,
       "price": 3820000,
       "points": 139,
@@ -11981,7 +11981,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-04T05:15:58.562Z",
+    "updatedAt": "2026-04-04T08:01:37.879Z",
     "players": [
       {
         "id": "3374",
