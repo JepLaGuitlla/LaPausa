@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T08:05:12.634Z",
+  "updatedAt": "2026-04-05T14:05:37.967Z",
   "players": [
     {
       "id": 11,
@@ -4459,11 +4459,11 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        null,
         9,
         2,
         6,
-        6,
-        2
+        6
       ],
       "clausula": null
     },
@@ -6937,11 +6937,11 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        null,
         2,
         3,
         2,
-        1,
-        null
+        1
       ],
       "clausula": null
     },
@@ -11938,56 +11938,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Ronald Araújo, pendiente de pruebas tras sufrir un pinchazo",
-      "link": "https://www.jornadaperfecta.com/blog/ronald-araujo-lesion-fc-barcelona/",
-      "date": "Sun, 05 Apr 2026 07:40:04 +0000"
+      "title": "BigUp: Gana dinero real con tus pronósticos del Girona &#8211; Villarreal",
+      "link": "https://www.jornadaperfecta.com/blog/bigup-girona-villarreal-pronosticos/",
+      "date": "Sun, 05 Apr 2026 12:30:40 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Marc Bernal pidió el cambio por una torcedura de tobillo",
+      "title": "Ya conocemos el alcance de la lesión de Marc Bernal: Tiempo de baja",
       "link": "https://www.jornadaperfecta.com/blog/marc-bernal-lesion-fc-barcelona/",
-      "date": "Sat, 04 Apr 2026 21:00:05 +0000"
+      "date": "Sun, 05 Apr 2026 12:10:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Míchel confirma el regreso de jugadores importantes",
+      "link": "https://www.jornadaperfecta.com/blog/michel-previa-girona-villarreal-j30/",
+      "date": "Sun, 05 Apr 2026 12:00:55 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Lucas Boyé finalmente entra en la convocatoria del Alavés",
+      "link": "https://www.jornadaperfecta.com/blog/boye-fascitis-plantar-alaves/",
+      "date": "Sun, 05 Apr 2026 11:40:18 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Ronald Araújo salva la lesión y podrá estar en Champions",
+      "link": "https://www.jornadaperfecta.com/blog/ronald-araujo-lesion-fc-barcelona/",
+      "date": "Sun, 05 Apr 2026 11:03:04 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Marcelino confirma a Ayoze y deja en duda a Rafa Marín",
+      "link": "https://www.jornadaperfecta.com/blog/marcelino-previa-girona-villarreal-j30/",
+      "date": "Sun, 05 Apr 2026 09:53:33 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Frenkie de Jong será baja en Champions&#8230; ¿Y en el derbi?",
+      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-estado-j31/",
+      "date": "Sun, 05 Apr 2026 08:37:26 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Barrenetxea y Caleta-Car pidieron el cambio, pero están bien",
       "link": "https://www.jornadaperfecta.com/blog/barrenetxea-fatiga-muscular-real-sociedad/",
       "date": "Sat, 04 Apr 2026 16:13:21 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lisci, sobre Víctor Muñoz y la competencia entre Iker y Torró",
-      "link": "https://www.jornadaperfecta.com/blog/lisci-previa-alaves-osasuna-j30/",
-      "date": "Sat, 04 Apr 2026 12:51:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Giráldez confirma la baja de Starfelt de última hora",
-      "link": "https://www.jornadaperfecta.com/blog/giraldez-previa-valencia-celta-j30/",
-      "date": "Sat, 04 Apr 2026 12:38:16 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Corberán recupera a Filip Ugrinic y habla de Beltrán y Guido",
-      "link": "https://www.jornadaperfecta.com/blog/corberan-previa-valencia-celta-j30/",
-      "date": "Sat, 04 Apr 2026 12:26:02 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Drama en Mallorca: Raíllo podría haber dicho adiós a la temporada",
-      "link": "https://www.jornadaperfecta.com/blog/raillo-baja-mallorca-j30/",
-      "date": "Sat, 04 Apr 2026 12:15:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Bordalás, sobre Davinchi, Mayoral, Juanmi y Satriano",
-      "link": "https://www.jornadaperfecta.com/blog/bordalas-previa-getafe-athletic-j30/",
-      "date": "Sat, 04 Apr 2026 12:14:52 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-05T08:05:12.492Z",
+    "updatedAt": "2026-04-05T14:05:36.034Z",
     "players": [
       {
         "id": "3374",
@@ -12055,11 +12055,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 12,
         "assists": 1,
         "penalties": 3,
-        "minutesPerGoal": 210
+        "minutesPerGoal": 218
       },
       {
         "id": "180137",
@@ -12139,11 +12139,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 9,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 280
+        "minutesPerGoal": 290
       },
       {
         "id": "160819",
@@ -12331,11 +12331,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 7,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 334
+        "minutesPerGoal": 347
       },
       {
         "id": "247061",
@@ -12415,11 +12415,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 6,
         "assists": 2,
         "penalties": 2,
-        "minutesPerGoal": 435
+        "minutesPerGoal": 450
       },
       {
         "id": "114",
@@ -12451,11 +12451,11 @@
         "team": "Athletic Club",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 6,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 420
+        "minutesPerGoal": 435
       },
       {
         "id": "101870",
@@ -12463,11 +12463,11 @@
         "team": "Athletic Club",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 5,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 468
+        "minutesPerGoal": 486
       },
       {
         "id": "156746",
@@ -12643,11 +12643,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Belgium",
-        "appearances": 22,
+        "appearances": 23,
         "goals": 5,
         "assists": 1,
         "penalties": 3,
-        "minutesPerGoal": 396
+        "minutesPerGoal": 414
       },
       {
         "id": "32312",
@@ -12679,11 +12679,11 @@
         "team": "Athletic Club",
         "position": "",
         "nationality": "Spain",
-        "appearances": 19,
+        "appearances": 20,
         "goals": 4,
         "assists": 3,
         "penalties": 1,
-        "minutesPerGoal": 428
+        "minutesPerGoal": 450
       },
       {
         "id": "33045",
@@ -12842,6 +12842,18 @@
         "minutesPerGoal": 608
       },
       {
+        "id": "152458",
+        "name": "Martin Satriano",
+        "team": "Getafe CF",
+        "position": "",
+        "nationality": "Uruguay",
+        "appearances": 11,
+        "goals": 4,
+        "assists": 1,
+        "penalties": 0,
+        "minutesPerGoal": 248
+      },
+      {
         "id": "96",
         "name": "Federico Valverde",
         "team": "Real Madrid CF",
@@ -12871,11 +12883,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 810
+        "minutesPerGoal": 840
       },
       {
         "id": "249599",
@@ -12883,11 +12895,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 750
+        "minutesPerGoal": 780
       },
       {
         "id": "101182",
@@ -12907,11 +12919,11 @@
         "team": "Athletic Club",
         "position": "",
         "nationality": "Spain",
-        "appearances": 22,
+        "appearances": 23,
         "goals": 3,
         "assists": 0,
         "penalties": 2,
-        "minutesPerGoal": 660
+        "minutesPerGoal": 690
       },
       {
         "id": "175869",
@@ -12919,11 +12931,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 780
+        "minutesPerGoal": 810
       },
       {
         "id": "9870",
@@ -12931,11 +12943,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Netherlands",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 840
+        "minutesPerGoal": 870
       },
       {
         "id": "21583",
@@ -13075,11 +13087,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Sweden",
-        "appearances": 23,
+        "appearances": 24,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 690
+        "minutesPerGoal": 720
       },
       {
         "id": "126913",
@@ -13094,6 +13106,18 @@
         "minutesPerGoal": 930
       },
       {
+        "id": "156967",
+        "name": "Luis Vázquez",
+        "team": "Getafe CF",
+        "position": "",
+        "nationality": "Argentina",
+        "appearances": 10,
+        "goals": 3,
+        "assists": 0,
+        "penalties": 0,
+        "minutesPerGoal": 300
+      },
+      {
         "id": "159520",
         "name": "Pablo Torre",
         "team": "RCD Mallorca",
@@ -13104,18 +13128,6 @@
         "assists": 2,
         "penalties": 0,
         "minutesPerGoal": 900
-      },
-      {
-        "id": "152458",
-        "name": "Martin Satriano",
-        "team": "Getafe CF",
-        "position": "",
-        "nationality": "Uruguay",
-        "appearances": 10,
-        "goals": 3,
-        "assists": 0,
-        "penalties": 0,
-        "minutesPerGoal": 300
       },
       {
         "id": "180280",
@@ -13159,11 +13171,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 2,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 1215
+        "minutesPerGoal": 1260
       },
       {
         "id": "133860",
@@ -13176,18 +13188,6 @@
         "assists": 7,
         "penalties": 0,
         "minutesPerGoal": 990
-      },
-      {
-        "id": "81168",
-        "name": "Javi Puado",
-        "team": "RCD Espanyol de Barcelona",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 10,
-        "goals": 2,
-        "assists": 0,
-        "penalties": 1,
-        "minutesPerGoal": 450
       }
     ]
   }
