@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T05:56:40.156Z",
+  "updatedAt": "2026-04-05T08:05:12.634Z",
   "players": [
     {
       "id": 11,
@@ -11938,15 +11938,15 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Marc Bernal pidió el cambio por una torcedura de tobillo",
-      "link": "https://www.jornadaperfecta.com/blog/marc-bernal-lesion-fc-barcelona/",
-      "date": "Sat, 04 Apr 2026 21:00:05 +0000"
+      "title": "Ronald Araújo, pendiente de pruebas tras sufrir un pinchazo",
+      "link": "https://www.jornadaperfecta.com/blog/ronald-araujo-lesion-fc-barcelona/",
+      "date": "Sun, 05 Apr 2026 07:40:04 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Ronald Araújo, sustituido por lesión en la primera mitad",
-      "link": "https://www.jornadaperfecta.com/blog/ronald-araujo-lesion-fc-barcelona/",
-      "date": "Sat, 04 Apr 2026 20:12:04 +0000"
+      "title": "Marc Bernal pidió el cambio por una torcedura de tobillo",
+      "link": "https://www.jornadaperfecta.com/blog/marc-bernal-lesion-fc-barcelona/",
+      "date": "Sat, 04 Apr 2026 21:00:05 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -11987,7 +11987,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-05T05:56:39.266Z",
+    "updatedAt": "2026-04-05T08:05:12.492Z",
     "players": [
       {
         "id": "3374",
