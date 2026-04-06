@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T14:38:32.937Z",
+  "updatedAt": "2026-04-06T20:04:06.220Z",
   "players": [
     {
       "id": 11,
@@ -11942,56 +11942,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "🏆 Entradas para los Cuartos de Final de la Champions League 2026: Dónde comprar y cómo no quedarte sin las tuyas",
-      "link": "https://www.jornadaperfecta.com/blog/entradas-cuartos-final-champions-league-2026/",
-      "date": "Mon, 06 Apr 2026 14:25:53 +0000"
+      "title": "Vanat sufre una lesión muscular en la primera mitad",
+      "link": "https://www.jornadaperfecta.com/blog/vanat-lesion-girona-fc/",
+      "date": "Mon, 06 Apr 2026 19:25:36 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Unai Núñez trabaja en el gimnasio por unas molestias, ¿llega a la jornada 31?",
-      "link": "https://www.jornadaperfecta.com/blog/unai-nunez-estado-valencia-j31/",
-      "date": "Mon, 06 Apr 2026 14:24:42 +0000"
+      "title": "🏆 Entradas para los Cuartos de Final de la Champions League 2026: Dónde comprar y cómo no quedarte sin las tuyas",
+      "link": "https://www.jornadaperfecta.com/blog/entradas-cuartos-final-champions-league-2026/",
+      "date": "Mon, 06 Apr 2026 19:10:53 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J31 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j31-laliga/",
+      "date": "Mon, 06 Apr 2026 19:00:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Raíllo pasará por quirófano y se despide de la temporada",
+      "link": "https://www.jornadaperfecta.com/blog/raillo-baja-mallorca-j30/",
+      "date": "Mon, 06 Apr 2026 18:30:24 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Real Madrid, alineación probable contra el Bayern Munich y dónde ver en TV",
+      "link": "https://www.jornadaperfecta.com/blog/real-madrid-alineacion-probable-bayern-ida-26/",
+      "date": "Mon, 06 Apr 2026 18:05:54 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "BigUp: Gana dinero real con tus pronósticos del Girona &#8211; Villarreal",
       "link": "https://www.jornadaperfecta.com/blog/bigup-girona-villarreal-pronosticos/",
-      "date": "Mon, 06 Apr 2026 13:30:40 +0000"
+      "date": "Mon, 06 Apr 2026 18:03:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Rashford marca en su primera oportunidad, ¿chollo fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/rashford-chollo-fantasy-lesion-raphinha/",
+      "date": "Mon, 06 Apr 2026 17:00:00 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Isco vuelve a entrenar con el grupo de forma parcial, ¿cuándo regresa?",
       "link": "https://www.jornadaperfecta.com/blog/isco-vuelta-lesion-betis/",
-      "date": "Mon, 06 Apr 2026 13:10:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Febas, ante sus últimos partidos en Elche: ¿lo fichamos?",
-      "link": "https://www.jornadaperfecta.com/blog/febas-final-elche-fantasy/",
-      "date": "Mon, 06 Apr 2026 13:00:14 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Arbeloa muestra confianza en Mbappé, Bellingham y la clasificación",
-      "link": "https://www.jornadaperfecta.com/blog/arbeloa-previa-champions-ida-cuartos-bayern/",
-      "date": "Mon, 06 Apr 2026 12:15:14 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mendy hace parte del entrenamiento con el grupo, ¿baja en Champions?",
-      "link": "https://www.jornadaperfecta.com/blog/mendy-estado-j31/",
-      "date": "Mon, 06 Apr 2026 11:47:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Apuesta al Real Madrid vs Bayern en 888Sport con las mejores cuotas y bono hasta 110€",
-      "link": "https://www.jornadaperfecta.com/blog/888sport-real-madrid-vs-bayern/",
-      "date": "Mon, 06 Apr 2026 11:19:06 +0000"
+      "date": "Mon, 06 Apr 2026 15:30:35 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-06T14:38:31.313Z",
+    "updatedAt": "2026-04-06T20:04:02.931Z",
     "players": [
       {
         "id": "3374",
@@ -12167,11 +12167,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Ukraine",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 9,
         "assists": 1,
         "penalties": 3,
-        "minutesPerGoal": 260
+        "minutesPerGoal": 270
       },
       {
         "id": "136646",
@@ -12179,11 +12179,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Georgia",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 9,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 250
+        "minutesPerGoal": 260
       },
       {
         "id": "150533",
@@ -12191,11 +12191,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 9,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 290
+        "minutesPerGoal": 300
       },
       {
         "id": "11733",
@@ -12251,11 +12251,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 16,
+        "appearances": 17,
         "goals": 8,
         "assists": 0,
         "penalties": 2,
-        "minutesPerGoal": 180
+        "minutesPerGoal": 191
       },
       {
         "id": "3259",
@@ -12395,11 +12395,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Canada",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 6,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 420
+        "minutesPerGoal": 435
       },
       {
         "id": "180218",
@@ -12491,11 +12491,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Ivory Coast",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 5,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 522
+        "minutesPerGoal": 540
       },
       {
         "id": "213404",
@@ -12635,11 +12635,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Ukraine",
-        "appearances": 23,
+        "appearances": 24,
         "goals": 5,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 414
+        "minutesPerGoal": 432
       },
       {
         "id": "136349",
@@ -12671,11 +12671,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Senegal",
-        "appearances": 24,
+        "appearances": 25,
         "goals": 4,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 540
+        "minutesPerGoal": 563
       },
       {
         "id": "157135",
@@ -12779,11 +12779,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 15,
+        "appearances": 16,
         "goals": 4,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 338
+        "minutesPerGoal": 360
       },
       {
         "id": "3201",
@@ -13079,11 +13079,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 17,
+        "appearances": 18,
         "goals": 3,
         "assists": 0,
         "penalties": 3,
-        "minutesPerGoal": 510
+        "minutesPerGoal": 540
       },
       {
         "id": "213263",
@@ -13091,11 +13091,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 3,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 840
+        "minutesPerGoal": 870
       },
       {
         "id": "126913",
@@ -13139,11 +13139,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Spain",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 2,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 1125
+        "minutesPerGoal": 1170
       },
       {
         "id": "48555",
