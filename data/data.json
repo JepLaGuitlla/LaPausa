@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T16:16:18.687Z",
+  "updatedAt": "2026-04-07T20:05:58.181Z",
   "players": [
     {
       "id": 11,
@@ -11920,6 +11920,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para la jornada 31",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-j31-25-26/",
+      "date": "Tue, 07 Apr 2026 19:00:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Simeone, sobre Griezmann, la baja de Oblak y el quinto partido contra el Barcelona de la temporada",
+      "link": "https://www.jornadaperfecta.com/blog/simeone-previa-atleti-barcelona-champions-ida-26/",
+      "date": "Tue, 07 Apr 2026 18:43:03 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Alerta Fantasy!: Ventas que debes hacer tras la Jornada 30 de LaLiga",
+      "link": "https://www.jornadaperfecta.com/blog/ventas-fantasy-j30-laliga-25-26/",
+      "date": "Tue, 07 Apr 2026 17:00:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Pellegrini, sobre el estado de Isco y el tema Bakambú",
+      "link": "https://www.jornadaperfecta.com/blog/pellegrini-previa-europa-ida-cuartos-braga/",
+      "date": "Tue, 07 Apr 2026 16:51:18 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Real Betis, alineación probable contra el Sporting de Braga y dónde ver en TV",
+      "link": "https://www.jornadaperfecta.com/blog/real-betis-alineacion-probable-ida-cuartos-europa-26/",
+      "date": "Tue, 07 Apr 2026 16:28:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Pubill y Mendoza, convocados; Oblak, Giménez y Johnny, bajas en Champions",
       "link": "https://www.jornadaperfecta.com/blog/pubill-oblak-mendoza-grupo/",
       "date": "Tue, 07 Apr 2026 15:01:14 +0000"
@@ -11935,41 +11965,11 @@
       "title": "Chust vuelve a entrenar con el grupo y apunta a la jornada 31",
       "link": "https://www.jornadaperfecta.com/blog/chust-estado-elche-j31/",
       "date": "Tue, 07 Apr 2026 13:51:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Hugo Álvarez: Parte médico oficial y tiempo de baja",
-      "link": "https://www.jornadaperfecta.com/blog/hugo-alvarez-parte-medico-celta/",
-      "date": "Tue, 07 Apr 2026 13:42:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Carlos Soler quiere jugar el Mundial: ¿muy recomendable?",
-      "link": "https://www.jornadaperfecta.com/blog/carlos-soler-recomendable-fantasy-real-sociedad/",
-      "date": "Tue, 07 Apr 2026 13:00:43 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Iago Aspas y Matías Vecino reciben el alta médica",
-      "link": "https://www.jornadaperfecta.com/blog/iago-aspas-y-vecino-alta-medica/",
-      "date": "Tue, 07 Apr 2026 12:44:05 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Flick, sobre Lamine Yamal, Rashford y la continuidad de Cancelo",
-      "link": "https://www.jornadaperfecta.com/blog/flick-previa-champions-cuartos-ida-atleti/",
-      "date": "Tue, 07 Apr 2026 12:15:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mendy es baja en Champions y vuelve Ceballos. ¿Llega a la jornada 31?",
-      "link": "https://www.jornadaperfecta.com/blog/mendy-estado-j31/",
-      "date": "Tue, 07 Apr 2026 11:40:07 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-07T16:16:16.392Z",
+    "updatedAt": "2026-04-07T20:05:56.023Z",
     "players": [
       {
         "id": "3374",
