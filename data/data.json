@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T19:23:31.877Z",
+  "updatedAt": "2026-04-09T02:42:34.636Z",
   "players": [
     {
       "id": 11,
@@ -11920,6 +11920,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "David Hancko se retira entre lágrimas y enciende las alarmas",
+      "link": "https://www.jornadaperfecta.com/blog/david-hancko-lesion-champions-26/",
+      "date": "Wed, 08 Apr 2026 20:00:44 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Rayo Vallecano, alineación probable contra el AEK y dónde ver en TV",
       "link": "https://www.jornadaperfecta.com/blog/rayo-alineacion-probable-conference-ida-cuartos-26/",
       "date": "Wed, 08 Apr 2026 19:21:55 +0000"
@@ -11959,17 +11965,11 @@
       "title": "Iñigo Pérez, sobre Ilias Akhomach y la ilusión de la Conference",
       "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-conference-ida-cuartos-26/",
       "date": "Wed, 08 Apr 2026 17:41:55 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ilias Akhomach, Ratiu y Valentín se apuntan a Conference",
-      "link": "https://www.jornadaperfecta.com/blog/ilias-akhomach-ratiu-valentin-conference/",
-      "date": "Wed, 08 Apr 2026 17:08:13 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-08T19:23:29.103Z",
+    "updatedAt": "2026-04-09T02:42:32.496Z",
     "players": [
       {
         "id": "3374",
