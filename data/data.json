@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T13:51:25.845Z",
+  "updatedAt": "2026-04-09T19:14:14.599Z",
   "players": [
     {
       "id": 11,
@@ -4228,7 +4228,7 @@
     {
       "id": 18415,
       "slug": "abdon-prats",
-      "name": "Abd��n Prats",
+      "name": "Abdón Prats",
       "position": 4,
       "price": 150000,
       "points": 14,
@@ -11920,56 +11920,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Batalla, con un vendaje y cojeando: ¿preocupa su estado?",
+      "link": "https://www.jornadaperfecta.com/blog/batalla-estado-rayo-j31/",
+      "date": "Thu, 09 Apr 2026 19:11:34 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 31",
+      "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j31/",
+      "date": "Thu, 09 Apr 2026 18:21:39 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Pedri, cambiado por precaución y sin lesión. ¿Titular en el derbi?",
+      "link": "https://www.jornadaperfecta.com/blog/pedri-estado-j31/",
+      "date": "Thu, 09 Apr 2026 14:35:34 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Actualizadas las Alineaciones Probables para la Jornada 31",
+      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-j31-laliga-25-26/",
+      "date": "Thu, 09 Apr 2026 14:33:45 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Frenkie de Jong comienza a entrenar con el grupo, ¿llega al derbi?",
+      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-estado-j31/",
+      "date": "Thu, 09 Apr 2026 14:32:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Parte médico de Mateo Joseph: lesión en la rodilla y&#8230; ¿adiós a la temporada?",
       "link": "https://www.jornadaperfecta.com/blog/mateo-joseph-lesion-rodilla-mallorca/",
-      "date": "Thu, 09 Apr 2026 13:37:25 +0000"
+      "date": "Thu, 09 Apr 2026 14:31:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Yeray vuelve a ser titular tras la sanción: ¿recomendable?",
+      "link": "https://www.jornadaperfecta.com/blog/yeray-titular-athletic-fantasy/",
+      "date": "Thu, 09 Apr 2026 14:30:33 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Quique, sobre Abde Rebbach, Boyé y la Real y la Copa",
       "link": "https://www.jornadaperfecta.com/blog/quique-previa-real-sociedad-celta-j31-25-26/",
       "date": "Thu, 09 Apr 2026 12:39:33 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Actualizadas las Alineaciones Probables para la Jornada 31",
-      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-j31-laliga-25-26/",
-      "date": "Thu, 09 Apr 2026 12:30:45 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sarabia explica el estado de Diangana y Fort, y deja en duda a Aguado",
-      "link": "https://www.jornadaperfecta.com/blog/sarabia-previa-elche-valencia-j31/",
-      "date": "Thu, 09 Apr 2026 11:58:09 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Míchel confirma cansancio de Fran Beltrán y casi descarta a Blind",
-      "link": "https://www.jornadaperfecta.com/blog/michel-previa-real-madrid-girona-j31-25-26/",
-      "date": "Thu, 09 Apr 2026 11:44:44 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oblak, con el grupo en una sesión sin Baena, Giménez, Cardoso y Hancko",
-      "link": "https://www.jornadaperfecta.com/blog/oblak-estado-j31-25-26/",
-      "date": "Thu, 09 Apr 2026 11:02:18 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Frenkie de Jong comienza a entrenar con el grupo, ¿llega al derbi?",
-      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-estado-j31/",
-      "date": "Thu, 09 Apr 2026 10:50:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Pedri, cambiado por precaución y sin lesión. ¿Titular en el derbi?",
-      "link": "https://www.jornadaperfecta.com/blog/pedri-estado-j31/",
-      "date": "Thu, 09 Apr 2026 10:00:34 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-09T13:51:22.374Z",
+    "updatedAt": "2026-04-09T19:14:13.586Z",
     "players": [
       {
         "id": "3374",
