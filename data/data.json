@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T19:14:14.599Z",
+  "updatedAt": "2026-04-10T02:54:09.779Z",
   "players": [
     {
       "id": 11,
@@ -11920,6 +11920,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-9-4-26/",
+      "date": "Thu, 09 Apr 2026 21:00:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Batalla, con un vendaje y cojeando: ¿preocupa su estado?",
       "link": "https://www.jornadaperfecta.com/blog/batalla-estado-rayo-j31/",
       "date": "Thu, 09 Apr 2026 19:11:34 +0000"
@@ -11959,17 +11965,11 @@
       "title": "Yeray vuelve a ser titular tras la sanción: ¿recomendable?",
       "link": "https://www.jornadaperfecta.com/blog/yeray-titular-athletic-fantasy/",
       "date": "Thu, 09 Apr 2026 14:30:33 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Quique, sobre Abde Rebbach, Boyé y la Real y la Copa",
-      "link": "https://www.jornadaperfecta.com/blog/quique-previa-real-sociedad-celta-j31-25-26/",
-      "date": "Thu, 09 Apr 2026 12:39:33 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-09T19:14:13.586Z",
+    "updatedAt": "2026-04-10T02:54:08.270Z",
     "players": [
       {
         "id": "3374",
