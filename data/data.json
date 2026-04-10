@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T13:22:35.489Z",
+  "updatedAt": "2026-04-10T19:00:40.073Z",
   "players": [
     {
       "id": 11,
@@ -2644,7 +2644,7 @@
     {
       "id": 10157,
       "slug": "alena",
-      "name": "Aleñ��",
+      "name": "Aleñá",
       "position": 3,
       "price": 790000,
       "points": 80,
@@ -11967,10 +11967,59 @@
       "clausula": null
     }
   ],
-  "news": [],
+  "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción YoSports Barcelona vs Espanyol: ¡consigue hasta 15€ en apuestas gratis!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-yosports-barcelona-vs-espanyol/",
+      "date": "Fri, 10 Apr 2026 18:00:06 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Once titular confirmado del Girona FC!",
+      "link": "https://www.jornadaperfecta.com/blog/once-girona-jornada-31/",
+      "date": "Fri, 10 Apr 2026 17:52:23 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Once confirmado del Real Madrid con Militao y Bellingham",
+      "link": "https://www.jornadaperfecta.com/blog/once-real-madrid-jornada-31/",
+      "date": "Fri, 10 Apr 2026 17:23:44 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Azpilicueta sufre una pequeña rotura muscular, ¿tiempo de baja?",
+      "link": "https://www.jornadaperfecta.com/blog/azpilicueta-rotura-muscular-sevilla/",
+      "date": "Fri, 10 Apr 2026 17:01:10 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota de Betfair para el Barcelona vs Espanyol: cuota 12.0 mejorada",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-barcelona-vs-espanyol/",
+      "date": "Fri, 10 Apr 2026 16:00:31 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Pedri apunta a descansar en la jornada 31, ¿alinear?",
+      "link": "https://www.jornadaperfecta.com/blog/pedri-alinear-j31-fantasy-barcelona/",
+      "date": "Fri, 10 Apr 2026 15:59:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Posible suplencia de Alberto Moleiro, ¿alinear en la j31?",
+      "link": "https://www.jornadaperfecta.com/blog/moleiro-alinear-j31-villarreal-fantasy/",
+      "date": "Fri, 10 Apr 2026 15:52:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "BigUp: Gana dinero real con tus pronósticos del Athletic &#8211; Villarreal",
+      "link": "https://www.jornadaperfecta.com/blog/bigup-athletic-villarreal-pronosticos/",
+      "date": "Fri, 10 Apr 2026 15:13:15 +0000"
+    }
+  ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-10T13:20:31.465Z",
+    "updatedAt": "2026-04-10T19:00:40.073Z",
     "players": [
       {
         "id": "3374",
@@ -11978,11 +12027,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "France",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 23,
         "assists": 4,
         "penalties": 8,
-        "minutesPerGoal": 98
+        "minutesPerGoal": 102
       },
       {
         "id": "30059",
@@ -12086,11 +12135,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Brazil",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 11,
         "assists": 5,
         "penalties": 4,
-        "minutesPerGoal": 229
+        "minutesPerGoal": 237
       },
       {
         "id": "133276",
@@ -12614,11 +12663,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Ukraine",
-        "appearances": 24,
+        "appearances": 25,
         "goals": 5,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 432
+        "minutesPerGoal": 450
       },
       {
         "id": "136349",
@@ -12734,11 +12783,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Turkey",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 4,
         "assists": 8,
         "penalties": 0,
-        "minutesPerGoal": 653
+        "minutesPerGoal": 675
       },
       {
         "id": "69",
@@ -12758,11 +12807,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 16,
+        "appearances": 17,
         "goals": 4,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 360
+        "minutesPerGoal": 383
       },
       {
         "id": "3201",
@@ -12794,11 +12843,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "England",
-        "appearances": 19,
+        "appearances": 20,
         "goals": 4,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 428
+        "minutesPerGoal": 450
       },
       {
         "id": "170438",
@@ -12818,11 +12867,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 4,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 653
+        "minutesPerGoal": 675
       },
       {
         "id": "146126",
@@ -12854,11 +12903,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 4,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 608
+        "minutesPerGoal": 630
       },
       {
         "id": "33496",
@@ -13058,11 +13107,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 18,
+        "appearances": 19,
         "goals": 3,
         "assists": 0,
         "penalties": 3,
-        "minutesPerGoal": 540
+        "minutesPerGoal": 570
       },
       {
         "id": "213263",
@@ -13118,11 +13167,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 2,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 1170
+        "minutesPerGoal": 1215
       },
       {
         "id": "48555",
