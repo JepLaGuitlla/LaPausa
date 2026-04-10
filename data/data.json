@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T07:48:37.048Z",
+  "updatedAt": "2026-04-10T13:22:35.489Z",
   "players": [
     {
       "id": 11,
@@ -2644,7 +2644,7 @@
     {
       "id": 10157,
       "slug": "alena",
-      "name": "Aleñá",
+      "name": "Aleñ��",
       "position": 3,
       "price": 790000,
       "points": 80,
@@ -3192,6 +3192,24 @@
       "clausula": null
     },
     {
+      "id": 12734,
+      "slug": "javi-morcillo",
+      "name": "Javi Morcillo",
+      "position": 3,
+      "price": 170000,
+      "points": 4,
+      "trend": 0,
+      "playedHome": 1,
+      "playedAway": 0,
+      "teamName": "Atlético",
+      "teamId": 2,
+      "status": "ok",
+      "jForm": [
+        4
+      ],
+      "clausula": null
+    },
+    {
       "id": 13994,
       "slug": "thierry-correia",
       "name": "Correia",
@@ -3211,6 +3229,38 @@
         3,
         3
       ],
+      "clausula": null
+    },
+    {
+      "id": 14373,
+      "slug": "javi-bonar",
+      "name": "Boñar",
+      "position": 2,
+      "price": 150000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Atlético",
+      "teamId": 2,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 14424,
+      "slug": "dani-martinez",
+      "name": "Dani Martínez",
+      "position": 2,
+      "price": 210000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Atlético",
+      "teamId": 2,
+      "status": "ok",
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11917,59 +11967,10 @@
       "clausula": null
     }
   ],
-  "news": [
-    {
-      "source": "Jornada Perfecta",
-      "title": "El All In de Victorius para la Jornada 31 de La Liga",
-      "link": "https://www.jornadaperfecta.com/blog/all-in-fantasy-j31-25-26/",
-      "date": "Fri, 10 Apr 2026 07:25:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Batalla confirma su lesión y enciende las alarmas en el Rayo Vallecano",
-      "link": "https://www.jornadaperfecta.com/blog/batalla-estado-rayo-j31/",
-      "date": "Fri, 10 Apr 2026 07:11:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Cinco noticias fantasy para antes de irte a dormir",
-      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-9-4-26/",
-      "date": "Thu, 09 Apr 2026 21:00:08 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 31",
-      "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j31/",
-      "date": "Thu, 09 Apr 2026 18:21:39 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Pedri, cambiado por precaución y sin lesión. ¿Titular en el derbi?",
-      "link": "https://www.jornadaperfecta.com/blog/pedri-estado-j31/",
-      "date": "Thu, 09 Apr 2026 14:35:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Actualizadas las Alineaciones Probables para la Jornada 31",
-      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-j31-laliga-25-26/",
-      "date": "Thu, 09 Apr 2026 14:33:45 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Frenkie de Jong comienza a entrenar con el grupo, ¿llega al derbi?",
-      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-estado-j31/",
-      "date": "Thu, 09 Apr 2026 14:32:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Parte médico de Mateo Joseph: lesión en la rodilla y&#8230; ¿adiós a la temporada?",
-      "link": "https://www.jornadaperfecta.com/blog/mateo-joseph-lesion-rodilla-mallorca/",
-      "date": "Thu, 09 Apr 2026 14:31:25 +0000"
-    }
-  ],
+  "news": [],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-10T07:48:34.740Z",
+    "updatedAt": "2026-04-10T13:20:31.465Z",
     "players": [
       {
         "id": "3374",
