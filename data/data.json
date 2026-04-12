@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T07:21:00.954Z",
+  "updatedAt": "2026-04-12T13:10:11.516Z",
   "players": [
     {
       "id": 11,
@@ -11980,9 +11980,33 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "El tobillo de Gerard Martín enciende las alarmas en el Barça",
+      "title": "Kylian Mbappé no entrena a tres días de la Champions. ¿Preocupa su estado?",
+      "link": "https://www.jornadaperfecta.com/blog/mbappe-estado-molestias-cara-26/",
+      "date": "Sun, 12 Apr 2026 12:11:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Gerard Martín y Marc Bernal no entrenan a dos días de Champions",
       "link": "https://www.jornadaperfecta.com/blog/gerard-martin-lesion-tobillo-barcelona/",
-      "date": "Sat, 11 Apr 2026 18:56:25 +0000"
+      "date": "Sun, 12 Apr 2026 11:55:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Luis Castro, sobre Carlos Álvarez, Iván Romero y Toljan",
+      "link": "https://www.jornadaperfecta.com/blog/luis-castro-previa-levante-getafe-j31/",
+      "date": "Sun, 12 Apr 2026 11:02:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Johnny Cardoso ya entrena con el grupo. Barrios, al margen",
+      "link": "https://www.jornadaperfecta.com/blog/johnny-cardoso-vuelta-lesion-champions-26/",
+      "date": "Sun, 12 Apr 2026 10:35:53 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Areso, Sannadi y Egiluz, bajas por decisión técnica",
+      "link": "https://www.jornadaperfecta.com/blog/areso-baja-jornada-31-25-26/",
+      "date": "Sun, 12 Apr 2026 09:52:54 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12001,35 +12025,11 @@
       "title": "Matarazzo confirma que reservó a Oyarzabal para la Final al no estar al 100%",
       "link": "https://www.jornadaperfecta.com/blog/oyarzabal-suplencia-real-sociedad-j31/",
       "date": "Sat, 11 Apr 2026 14:44:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Kirolbet Athletic vs Villarreal: ¡5€ por cada gol!",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-kirolbet-athletic-vs-villarreal/",
-      "date": "Sat, 11 Apr 2026 14:00:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Giráldez confirma las bajas de Starfelt, Ristic y Hugo Álvarez",
-      "link": "https://www.jornadaperfecta.com/blog/giraldez-previa-celta-real-oviedo-j31/",
-      "date": "Sat, 11 Apr 2026 12:19:11 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lisci habla de la competencia entre Iker Muñoz y Torró",
-      "link": "https://www.jornadaperfecta.com/blog/lisci-previa-osasuna-betis-j31/",
-      "date": "Sat, 11 Apr 2026 12:08:23 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Demichelis, sobre Darder, Pablo Torre y Mascarell",
-      "link": "https://www.jornadaperfecta.com/blog/demichelis-previa-mallorca-rayo-j31/",
-      "date": "Sat, 11 Apr 2026 11:30:14 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-12T07:21:00.954Z",
+    "updatedAt": "2026-04-12T13:10:11.516Z",
     "players": [
       {
         "id": "3374",
@@ -12049,11 +12049,23 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Kosovo",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 19,
         "assists": 1,
         "penalties": 5,
-        "minutesPerGoal": 137
+        "minutesPerGoal": 142
+      },
+      {
+        "id": "2237",
+        "name": "Ante Budimir",
+        "team": "CA Osasuna",
+        "position": "",
+        "nationality": "Croatia",
+        "appearances": 30,
+        "goals": 16,
+        "assists": 0,
+        "penalties": 6,
+        "minutesPerGoal": 169
       },
       {
         "id": "202283",
@@ -12066,18 +12078,6 @@
         "assists": 11,
         "penalties": 2,
         "minutesPerGoal": 162
-      },
-      {
-        "id": "2237",
-        "name": "Ante Budimir",
-        "team": "CA Osasuna",
-        "position": "",
-        "nationality": "Croatia",
-        "appearances": 29,
-        "goals": 15,
-        "assists": 0,
-        "penalties": 5,
-        "minutesPerGoal": 174
       },
       {
         "id": "33154",
@@ -12277,11 +12277,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Colombia",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 8,
         "assists": 3,
         "penalties": 1,
-        "minutesPerGoal": 281
+        "minutesPerGoal": 293
       },
       {
         "id": "82132",
@@ -12337,11 +12337,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 7,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 386
+        "minutesPerGoal": 399
       },
       {
         "id": "23132",
@@ -12361,11 +12361,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Brazil",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 7,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 321
+        "minutesPerGoal": 334
       },
       {
         "id": "112678",
@@ -12488,6 +12488,18 @@
         "minutesPerGoal": 435
       },
       {
+        "id": "175941",
+        "name": "Abdessamad Ezzalzouli",
+        "team": "Real Betis Balompié",
+        "position": "",
+        "nationality": "Morocco",
+        "appearances": 22,
+        "goals": 6,
+        "assists": 5,
+        "penalties": 0,
+        "minutesPerGoal": 330
+      },
+      {
         "id": "3331",
         "name": "Marcus Rashford",
         "team": "FC Barcelona",
@@ -12589,11 +12601,11 @@
         "team": "CA Osasuna",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 5,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 522
+        "minutesPerGoal": 540
       },
       {
         "id": "214533",
@@ -12637,23 +12649,11 @@
         "team": "CA Osasuna",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 5,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 540
-      },
-      {
-        "id": "175941",
-        "name": "Abdessamad Ezzalzouli",
-        "team": "Real Betis Balompié",
-        "position": "",
-        "nationality": "Morocco",
-        "appearances": 21,
-        "goals": 5,
-        "assists": 5,
-        "penalties": 0,
-        "minutesPerGoal": 378
+        "minutesPerGoal": 558
       },
       {
         "id": "140814",
@@ -12661,11 +12661,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 5,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 486
+        "minutesPerGoal": 504
       },
       {
         "id": "189369",
@@ -12757,11 +12757,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 4,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 585
+        "minutesPerGoal": 608
       },
       {
         "id": "137485",
@@ -13165,11 +13165,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 900
+        "minutesPerGoal": 930
       },
       {
         "id": "82516",
@@ -13225,11 +13225,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 19,
+        "appearances": 20,
         "goals": 2,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 855
+        "minutesPerGoal": 900
       }
     ]
   }
