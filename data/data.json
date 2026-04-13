@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T13:49:01.749Z",
+  "updatedAt": "2026-04-13T19:19:20.999Z",
   "players": [
     {
       "id": 11,
@@ -11980,6 +11980,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J33 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j33-laliga/",
+      "date": "Mon, 13 Apr 2026 19:00:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Frenkie de Jong está de vuelta. ¿Seguirá siendo importante?",
+      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-analisis-vuelta-lesion-26/",
+      "date": "Mon, 13 Apr 2026 17:00:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Flick, sobre Yamal, De Jong, Marc Bernal, Gavi y Fermín",
+      "link": "https://www.jornadaperfecta.com/blog/flick-previa-champions-cuartos-vuelta-atleti/",
+      "date": "Mon, 13 Apr 2026 15:58:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Alineaciones probables del Atlético &#8211; Barcelona de Champions",
+      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-atletico-barcelona-cuartos-champions/",
+      "date": "Mon, 13 Apr 2026 15:00:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mateo Joseph será operado de la rodilla: adiós a la temporada",
+      "link": "https://www.jornadaperfecta.com/blog/mateo-joseph-lesion-rodilla-mallorca/",
+      "date": "Mon, 13 Apr 2026 14:45:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Mbappé no arranca en su vuelta, ¿vender o mantener en fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/mbappe-dudas-fantasy-real-madrid/",
       "date": "Mon, 13 Apr 2026 13:00:12 +0000"
@@ -11995,41 +12025,11 @@
       "title": "Kylian Mbappé vuelve a entrenar tras ausentarse el domingo",
       "link": "https://www.jornadaperfecta.com/blog/mbappe-estado-molestias-cara-26/",
       "date": "Mon, 13 Apr 2026 12:55:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Simeone no da pistas sobre el portero titular en Champions",
-      "link": "https://www.jornadaperfecta.com/blog/simeone-previa-atleti-barcelona-champions-vuelta-26/",
-      "date": "Mon, 13 Apr 2026 12:38:23 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Se confirma la lesión de Cömert: parte médico oficial",
-      "link": "https://www.jornadaperfecta.com/blog/comert-lesion-valencia-cf/",
-      "date": "Mon, 13 Apr 2026 12:10:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lemar vuelve a la titularidad con gol en el Bernabéu: ¿fichar?",
-      "link": "https://www.jornadaperfecta.com/blog/lemar-recomendable-fantasy-girona/",
-      "date": "Mon, 13 Apr 2026 11:00:10 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Atlético vs Barcelona: cuotas, apuestas y bono de 888Sport &#124; Champions League",
-      "link": "https://www.jornadaperfecta.com/blog/888sport-atletico-vs-barcelona-cuotas-champions/",
-      "date": "Mon, 13 Apr 2026 10:58:22 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Johnny Cardoso, Oblak y Pablo Barrios entrenan con el grupo",
-      "link": "https://www.jornadaperfecta.com/blog/johnny-cardoso-vuelta-lesion-champions-26/",
-      "date": "Mon, 13 Apr 2026 10:05:53 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-13T13:49:00.175Z",
+    "updatedAt": "2026-04-13T19:19:18.409Z",
     "players": [
       {
         "id": "3374",
@@ -12409,11 +12409,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 7,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 334
+        "minutesPerGoal": 347
       },
       {
         "id": "203439",
@@ -12421,11 +12421,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Cameroon",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 6,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 420
+        "minutesPerGoal": 435
       },
       {
         "id": "32398",
@@ -12541,11 +12541,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 5,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 522
+        "minutesPerGoal": 540
       },
       {
         "id": "182319",
@@ -12925,11 +12925,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 11,
+        "appearances": 12,
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 248
+        "minutesPerGoal": 270
       },
       {
         "id": "33496",
@@ -12961,11 +12961,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 780
+        "minutesPerGoal": 810
       },
       {
         "id": "101182",
@@ -13045,11 +13045,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 810
+        "minutesPerGoal": 840
       },
       {
         "id": "31913",
@@ -13141,11 +13141,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 930
+        "minutesPerGoal": 960
       },
       {
         "id": "156967",
@@ -13153,11 +13153,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 10,
+        "appearances": 11,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 300
+        "minutesPerGoal": 330
       },
       {
         "id": "159520",
