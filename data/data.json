@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T18:56:46.372Z",
+  "updatedAt": "2026-04-13T03:22:33.401Z",
   "players": [
     {
       "id": 11,
@@ -293,18 +293,18 @@
       "name": "Berenguer",
       "position": 4,
       "price": 2500000,
-      "points": 97,
+      "points": 100,
       "trend": -20000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 13,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        3,
         2,
         1,
         1,
-        5,
         5
       ],
       "clausula": null
@@ -315,18 +315,18 @@
       "name": "Parejo",
       "position": 3,
       "price": 1430000,
-      "points": 81,
+      "points": 84,
       "trend": -10000,
       "playedHome": 13,
-      "playedAway": 11,
+      "playedAway": 12,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        3,
         null,
         0,
         null,
-        2,
         2
       ],
       "clausula": null
@@ -337,19 +337,19 @@
       "name": "Yuri",
       "position": 2,
       "price": 2690000,
-      "points": 102,
+      "points": 109,
       "trend": -20000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 14,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        7,
         -1,
         5,
         4,
-        null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -557,19 +557,19 @@
       "name": "Laporte",
       "position": 2,
       "price": 5420000,
-      "points": 86,
+      "points": 88,
       "trend": 20000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 9,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        2,
         5,
         6,
         4,
-        5,
-        3
+        5
       ],
       "clausula": null
     },
@@ -984,10 +984,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         0,
         3,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -997,19 +997,19 @@
       "name": "Gerard Moreno",
       "position": 4,
       "price": 11320000,
-      "points": 110,
+      "points": 119,
       "trend": 30000,
       "playedHome": 8,
-      "playedAway": 8,
+      "playedAway": 9,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        9,
         2,
         12,
         2,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -1109,17 +1109,17 @@
       "price": 3480000,
       "points": 65,
       "trend": 10000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 11,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        0,
         1,
         7,
         2,
-        0,
-        9
+        0
       ],
       "clausula": null
     },
@@ -1141,7 +1141,7 @@
         null,
         null,
         null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -1203,11 +1203,11 @@
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        null,
         2,
         5,
         3,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -1239,19 +1239,19 @@
       "name": "De Galarreta",
       "position": 3,
       "price": 3290000,
-      "points": 125,
+      "points": 128,
       "trend": -40000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 13,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
         3,
+        3,
         5,
         5,
-        null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -1503,17 +1503,17 @@
       "name": "Lekue",
       "position": 2,
       "price": 150000,
-      "points": 6,
+      "points": 4,
       "trend": 0,
-      "playedHome": 7,
+      "playedHome": 8,
       "playedAway": 3,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        -2,
         null,
         4,
-        null,
         null,
         null
       ],
@@ -1907,10 +1907,10 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        null,
         3,
         2,
         3,
-        2,
         2
       ],
       "clausula": null
@@ -1929,8 +1929,8 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
-        5,
         null,
+        5,
         null,
         null,
         null
@@ -2193,11 +2193,11 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        null,
         -1,
         null,
         1,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -2361,19 +2361,19 @@
       "name": "Comesaña",
       "position": 3,
       "price": 8040000,
-      "points": 137,
+      "points": 140,
       "trend": 50000,
       "playedHome": 13,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        3,
         4,
         10,
         6,
-        6,
-        4
+        6
       ],
       "clausula": null
     },
@@ -3065,18 +3065,18 @@
       "name": "Vivian",
       "position": 2,
       "price": 3030000,
-      "points": 83,
+      "points": 88,
       "trend": 0,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 14,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        5,
         2,
         12,
         2,
-        4,
         4
       ],
       "clausula": null
@@ -3428,18 +3428,18 @@
       "name": "Gorosabel",
       "position": 2,
       "price": 260000,
-      "points": 42,
+      "points": 46,
       "trend": 0,
-      "playedHome": 8,
+      "playedHome": 9,
       "playedAway": 8,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        4,
         null,
         null,
         1,
-        3,
         3
       ],
       "clausula": null
@@ -3736,19 +3736,19 @@
       "name": "Unai Simón",
       "position": 1,
       "price": 3010000,
-      "points": 133,
+      "points": 132,
       "trend": 10000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 15,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        -1,
         5,
         6,
         2,
-        4,
-        6
+        4
       ],
       "clausula": null
     },
@@ -3758,19 +3758,19 @@
       "name": "Guruzeta",
       "position": 4,
       "price": 2870000,
-      "points": 86,
+      "points": 93,
       "trend": -30000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 12,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        7,
         1,
         2,
         4,
-        5,
-        1
+        5
       ],
       "clausula": null
     },
@@ -3780,19 +3780,19 @@
       "name": "Sancet",
       "position": 3,
       "price": 4490000,
-      "points": 73,
+      "points": 72,
       "trend": -30000,
-      "playedHome": 9,
+      "playedHome": 10,
       "playedAway": 14,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        -1,
         1,
         15,
         1,
-        5,
-        3
+        5
       ],
       "clausula": null
     },
@@ -4594,19 +4594,19 @@
       "name": "Marcelino",
       "position": 5,
       "price": 2210000,
-      "points": 58,
+      "points": 61,
       "trend": -10000,
       "playedHome": 15,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        3,
         0,
         3,
         1,
-        3,
-        0
+        3
       ],
       "clausula": null
     },
@@ -4858,16 +4858,16 @@
       "name": "Nico Williams",
       "position": 4,
       "price": 7100000,
-      "points": 101,
+      "points": 106,
       "trend": 100000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 10,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        5,
         4,
-        null,
         null,
         null,
         null
@@ -4924,19 +4924,19 @@
       "name": "Rafa Marín",
       "position": 2,
       "price": 1250000,
-      "points": 85,
+      "points": 91,
       "trend": -10000,
       "playedHome": 9,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        6,
         null,
         null,
         2,
-        4,
-        null
+        4
       ],
       "clausula": null
     },
@@ -5273,18 +5273,18 @@
       "name": "Alfon González",
       "position": 4,
       "price": 350000,
-      "points": 37,
+      "points": 48,
       "trend": 0,
       "playedHome": 6,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        11,
         2,
         3,
         null,
-        2,
         2
       ],
       "clausula": null
@@ -5383,19 +5383,19 @@
       "name": "Robert Navarro",
       "position": 3,
       "price": 2040000,
-      "points": 106,
+      "points": 108,
       "trend": -20000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 12,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        2,
         null,
         4,
         0,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -5493,18 +5493,18 @@
       "name": "Nico Serrano",
       "position": 4,
       "price": 240000,
-      "points": 40,
+      "points": 43,
       "trend": 0,
-      "playedHome": 7,
+      "playedHome": 8,
       "playedAway": 6,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        3,
         null,
         5,
         2,
-        null,
         null
       ],
       "clausula": null
@@ -6111,17 +6111,17 @@
       "price": 950000,
       "points": 38,
       "trend": 0,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 15,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
         0,
+        0,
         3,
         0,
-        0,
-        1
+        0
       ],
       "clausula": null
     },
@@ -6923,19 +6923,19 @@
       "name": "Pape Gueye",
       "position": 3,
       "price": 13320000,
-      "points": 139,
+      "points": 146,
       "trend": 130000,
       "playedHome": 11,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        7,
         6,
         6,
         3,
-        8,
-        10
+        8
       ],
       "clausula": null
     },
@@ -6989,19 +6989,19 @@
       "name": "Jauregizar",
       "position": 3,
       "price": 3090000,
-      "points": 117,
+      "points": 119,
       "trend": -20000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 15,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        2,
         -1,
         2,
         3,
-        2,
-        1
+        2
       ],
       "clausula": null
     },
@@ -7077,19 +7077,19 @@
       "name": "Sergi Cardona",
       "position": 2,
       "price": 900000,
-      "points": 73,
+      "points": 87,
       "trend": -10000,
       "playedHome": 10,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        14,
         3,
         null,
         2,
-        5,
-        -2
+        5
       ],
       "clausula": null
     },
@@ -7099,19 +7099,19 @@
       "name": "Moleiro",
       "position": 3,
       "price": 11410000,
-      "points": 163,
+      "points": 165,
       "trend": -80000,
       "playedHome": 15,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        2,
         3,
         6,
         3,
-        3,
-        1
+        3
       ],
       "clausula": null
     },
@@ -7275,19 +7275,19 @@
       "name": "Santiago Mouriño",
       "position": 2,
       "price": 3580000,
-      "points": 101,
+      "points": 108,
       "trend": 10000,
       "playedHome": 9,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        7,
         3,
         6,
         3,
-        13,
-        1
+        13
       ],
       "clausula": null
     },
@@ -7482,10 +7482,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
         null,
-        1,
-        2
+        1
       ],
       "clausula": null
     },
@@ -7902,8 +7902,8 @@
         null,
         null,
         null,
-        3,
-        null
+        null,
+        3
       ],
       "clausula": null
     },
@@ -8207,8 +8207,8 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
-        2,
         null,
+        2,
         null,
         null,
         null
@@ -8529,19 +8529,19 @@
       "name": "Pépé",
       "position": 4,
       "price": 11620000,
-      "points": 162,
+      "points": 165,
       "trend": 90000,
       "playedHome": 15,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        3,
         2,
         11,
         11,
-        5,
-        4
+        5
       ],
       "clausula": null
     },
@@ -8705,19 +8705,19 @@
       "name": "Luiz Júnior",
       "position": 1,
       "price": 2200000,
-      "points": 118,
+      "points": 127,
       "trend": -10000,
       "playedHome": 14,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        9,
         3,
         3,
         3,
-        7,
-        3
+        7
       ],
       "clausula": null
     },
@@ -8815,19 +8815,19 @@
       "name": "Pau Navarro",
       "position": 2,
       "price": 4600000,
-      "points": 74,
+      "points": 76,
       "trend": 30000,
       "playedHome": 10,
-      "playedAway": 8,
+      "playedAway": 9,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        2,
         1,
         8,
         6,
-        6,
-        2
+        6
       ],
       "clausula": null
     },
@@ -8903,19 +8903,19 @@
       "name": "Buchanan",
       "position": 3,
       "price": 4320000,
-      "points": 134,
+      "points": 137,
       "trend": -30000,
       "playedHome": 15,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        3,
         2,
         2,
         2,
-        14,
-        2
+        14
       ],
       "clausula": null
     },
@@ -9815,8 +9815,8 @@
       "jForm": [
         null,
         null,
-        3,
         null,
+        3,
         null
       ],
       "clausula": null
@@ -10575,18 +10575,18 @@
       "name": "Rego",
       "position": 3,
       "price": 300000,
-      "points": 70,
+      "points": 73,
       "trend": 0,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 10,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        3,
         0,
         5,
         null,
-        3,
         3
       ],
       "clausula": null
@@ -10619,19 +10619,19 @@
       "name": "Renato Veiga",
       "position": 2,
       "price": 1370000,
-      "points": 70,
+      "points": 76,
       "trend": 10000,
       "playedHome": 14,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        6,
         5,
         3,
         null,
-        2,
-        0
+        2
       ],
       "clausula": null
     },
@@ -10751,19 +10751,19 @@
       "name": "Oluwaseyi",
       "position": 4,
       "price": 330000,
-      "points": 59,
+      "points": 64,
       "trend": 0,
       "playedHome": 11,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
+        5,
         null,
         0,
         2,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -10905,19 +10905,19 @@
       "name": "Mikautadze",
       "position": 4,
       "price": 12880000,
-      "points": 144,
+      "points": 146,
       "trend": 10000,
       "playedHome": 12,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Villarreal",
       "teamId": 19,
       "status": "ok",
       "jForm": [
         2,
+        2,
         10,
         3,
-        5,
-        4
+        5
       ],
       "clausula": null
     },
@@ -11048,8 +11048,8 @@
         null,
         null,
         null,
-        3,
-        1
+        null,
+        3
       ],
       "clausula": null
     },
@@ -11639,10 +11639,10 @@
       "teamId": 19,
       "status": "ok",
       "jForm": [
-        3,
         null,
         3,
         null,
+        3,
         null
       ],
       "clausula": null
@@ -12029,7 +12029,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-12T18:56:44.910Z",
+    "updatedAt": "2026-04-13T03:22:32.193Z",
     "players": [
       {
         "id": "3374",
@@ -12392,6 +12392,18 @@
         "minutesPerGoal": 360
       },
       {
+        "id": "81565",
+        "name": "Gorka Guruzeta",
+        "team": "Athletic Club",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 30,
+        "goals": 7,
+        "assists": 1,
+        "penalties": 1,
+        "minutesPerGoal": 386
+      },
+      {
         "id": "247061",
         "name": "Carlos Espí",
         "team": "Levante UD",
@@ -12510,18 +12522,6 @@
         "assists": 6,
         "penalties": 0,
         "minutesPerGoal": 435
-      },
-      {
-        "id": "81565",
-        "name": "Gorka Guruzeta",
-        "team": "Athletic Club",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 30,
-        "goals": 6,
-        "assists": 1,
-        "penalties": 1,
-        "minutesPerGoal": 450
       },
       {
         "id": "101870",
