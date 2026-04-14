@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T07:54:10.197Z",
+  "updatedAt": "2026-04-14T13:54:01.738Z",
   "players": [
     {
       "id": 11,
@@ -1635,7 +1635,7 @@
       "name": "Domingos Duarte",
       "position": 2,
       "price": 1750000,
-      "points": 97,
+      "points": 96,
       "trend": 50000,
       "playedHome": 13,
       "playedAway": 15,
@@ -1643,7 +1643,7 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
-        2,
+        1,
         6,
         11,
         4,
@@ -6857,7 +6857,7 @@
       "name": "Olasagasti",
       "position": 3,
       "price": 910000,
-      "points": 84,
+      "points": 85,
       "trend": -10000,
       "playedHome": 14,
       "playedAway": 12,
@@ -6865,7 +6865,7 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
-        2,
+        3,
         3,
         5,
         null,
@@ -9563,7 +9563,7 @@
       "name": "Espí",
       "position": 4,
       "price": 7920000,
-      "points": 105,
+      "points": 106,
       "trend": 210000,
       "playedHome": 12,
       "playedAway": 6,
@@ -9571,7 +9571,7 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
-        10,
+        11,
         3,
         17,
         12,
@@ -11829,7 +11829,7 @@
       "name": "Birmancevic",
       "position": 4,
       "price": 210000,
-      "points": 10,
+      "points": 9,
       "trend": 0,
       "playedHome": 2,
       "playedAway": 2,
@@ -11837,7 +11837,7 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
-        2,
+        1,
         3,
         null,
         3,
@@ -11980,56 +11980,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Antony, lejos de su mejor nivel fantasy: ¿vender o mantener?",
+      "link": "https://www.jornadaperfecta.com/blog/antony-lejos-de-su-mejor-nivel-fantasy-vender-o-mantener/",
+      "date": "Tue, 14 Apr 2026 13:00:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Alineaciones probables del Atlético &#8211; Barcelona de Champions",
       "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-atletico-barcelona-cuartos-champions/",
-      "date": "Tue, 14 Apr 2026 07:10:27 +0000"
+      "date": "Tue, 14 Apr 2026 12:01:27 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Los sancionados de LaLiga para la jornada 33",
-      "link": "https://www.jornadaperfecta.com/blog/sancionados-laliga-j33-25-26/",
-      "date": "Tue, 14 Apr 2026 07:00:22 +0000"
+      "title": "Cardoso y Oblak, convocados. Barrios baja en Champions",
+      "link": "https://www.jornadaperfecta.com/blog/johnny-cardoso-vuelta-lesion-champions-26/",
+      "date": "Tue, 14 Apr 2026 12:00:53 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Cinco noticias fantasy para antes de irte a dormir",
-      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-13-4-26/",
-      "date": "Mon, 13 Apr 2026 21:00:04 +0000"
+      "title": "Supercuotas Betfair para la UEFA Champions League: ¡Apuestas potenciadas!",
+      "link": "https://www.jornadaperfecta.com/blog/supercuotas-betfair-champions-vuelta-cuartos/",
+      "date": "Tue, 14 Apr 2026 11:35:39 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Frenkie de Jong está de vuelta. ¿Seguirá siendo importante?",
-      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-analisis-vuelta-lesion-26/",
-      "date": "Mon, 13 Apr 2026 20:00:15 +0000"
+      "title": "Hugo Duro no entrena y pasará pruebas médicas. Unai Núñez sigue sin entrenar",
+      "link": "https://www.jornadaperfecta.com/blog/hugo-duro-estado-j33/",
+      "date": "Tue, 14 Apr 2026 11:03:55 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Chollos Fantasy que Tienes que Fichar YA para la J33 de Biwenger",
-      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j33-laliga/",
-      "date": "Mon, 13 Apr 2026 19:00:01 +0000"
+      "title": "Gavi impone su carácter en el Barça: ¿chollo fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/gavi-chollo-fantasy-fc-barcelona/",
+      "date": "Tue, 14 Apr 2026 11:00:00 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Flick, sobre Yamal, De Jong, Marc Bernal, Gavi y Fermín",
-      "link": "https://www.jornadaperfecta.com/blog/flick-previa-champions-cuartos-vuelta-atleti/",
-      "date": "Mon, 13 Apr 2026 15:58:21 +0000"
+      "title": "Isco entrena con con normalidad y se acerca su regreso. ¿Cuándo vuelve?",
+      "link": "https://www.jornadaperfecta.com/blog/isco-vuelta-j33/",
+      "date": "Tue, 14 Apr 2026 10:28:20 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Mateo Joseph será operado de la rodilla: adiós a la temporada",
-      "link": "https://www.jornadaperfecta.com/blog/mateo-joseph-lesion-rodilla-mallorca/",
-      "date": "Mon, 13 Apr 2026 14:45:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mbappé no arranca en su vuelta, ¿vender o mantener en fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/mbappe-dudas-fantasy-real-madrid/",
-      "date": "Mon, 13 Apr 2026 13:00:12 +0000"
+      "title": "Grandes subidas y bajadas del mercado fantasy para la Jornada 33",
+      "link": "https://www.jornadaperfecta.com/blog/subidas-bajadas-j33-25-26/",
+      "date": "Tue, 14 Apr 2026 09:00:47 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-14T07:54:07.801Z",
+    "updatedAt": "2026-04-14T13:53:59.613Z",
     "players": [
       {
         "id": "3374",
