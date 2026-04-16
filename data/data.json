@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T07:54:53.685Z",
+  "updatedAt": "2026-04-16T13:56:59.924Z",
   "players": [
     {
       "id": 11,
@@ -11980,6 +11980,42 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Budimir gestiona cargas e Iker Benito entrena con el grupo",
+      "link": "https://www.jornadaperfecta.com/blog/budimir-estado-j33/",
+      "date": "Thu, 16 Apr 2026 12:51:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oyarzabal, Gorrotxategi y Yangel siguen con el grupo. Dudas con Zakharyan",
+      "link": "https://www.jornadaperfecta.com/blog/oyarzabal-entrenamiento-real-sociedad/",
+      "date": "Thu, 16 Apr 2026 12:30:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Dani Vivian se ausenta del entrenamiento por segundo día",
+      "link": "https://www.jornadaperfecta.com/blog/estado-vivian-j33/",
+      "date": "Thu, 16 Apr 2026 12:12:58 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Fermín tuvo que acudir al hospital y estará unos días de reposo",
+      "link": "https://www.jornadaperfecta.com/blog/fermin-estado-j33/",
+      "date": "Thu, 16 Apr 2026 11:26:51 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Dituro planta el muro en el Martínez Valero. ¿Buen portero en este final de temporada?",
+      "link": "https://www.jornadaperfecta.com/blog/dituro-analisis-j33-25-26/",
+      "date": "Thu, 16 Apr 2026 11:00:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mikautadze genera dudas fantasy por su última suplencia, ¿vender o mantener?",
+      "link": "https://www.jornadaperfecta.com/blog/mikautadze-dudas-fantasy-suplencia-villarreal/",
+      "date": "Thu, 16 Apr 2026 09:00:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Cinco noticias fantasy para antes de irte a dormir",
       "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-15-4-26/",
       "date": "Wed, 15 Apr 2026 21:00:56 +0000"
@@ -11989,47 +12025,11 @@
       "title": "TonyBet te da 10€ en Apuesta Gratis para la Final de Copa del Rey",
       "link": "https://www.jornadaperfecta.com/blog/tonybet-apuesta-gratis-final-copa-del-rey/",
       "date": "Wed, 15 Apr 2026 21:00:05 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Muriqi supera a Eto&#8217;o, la leyenda TOP fantasy del RCD Mallorca",
-      "link": "https://www.jornadaperfecta.com/blog/muriqi-leyenda-top-fantasy-mallorca/",
-      "date": "Wed, 15 Apr 2026 19:00:52 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Rayo Vallecano, alineación probable contra el AEK y dónde ver en TV",
-      "link": "https://www.jornadaperfecta.com/blog/rayo-vallecano-alineacion-probable-vuelta-cuartos-conference-26/",
-      "date": "Wed, 15 Apr 2026 18:15:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Real Betis, alineación probable contra el Sporting de Braga y dónde ver en TV",
-      "link": "https://www.jornadaperfecta.com/blog/real-betis-alineacion-probable-vuelta-cuartos-europa-26/",
-      "date": "Wed, 15 Apr 2026 18:02:30 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡Los mejores clausulazos para el final de Liga en Biwenger y LaLiga Fantasy!",
-      "link": "https://www.jornadaperfecta.com/blog/clausulazos-fantasy-final-temporada-26/",
-      "date": "Wed, 15 Apr 2026 17:50:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "RC Celta, alineación probable contra el Friburgo y dónde ver en TV",
-      "link": "https://www.jornadaperfecta.com/blog/rc-celta-alineacion-probable-vuelta-cuartos-europa-26/",
-      "date": "Wed, 15 Apr 2026 17:49:40 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Marc Bernal sigue sin entrenar en el Barça",
-      "link": "https://www.jornadaperfecta.com/blog/marc-bernal-estado-j33-25-26/",
-      "date": "Wed, 15 Apr 2026 17:39:43 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-16T07:54:50.755Z",
+    "updatedAt": "2026-04-16T13:56:57.681Z",
     "players": [
       {
         "id": "3374",
