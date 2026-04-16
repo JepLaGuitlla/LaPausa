@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T13:56:59.924Z",
+  "updatedAt": "2026-04-16T19:22:22.950Z",
   "players": [
     {
       "id": 11,
@@ -11980,6 +11980,42 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Manu Bueno se abre paso con García Plaza. ¿Chollito fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/manu-bueno-analisis-j33-25-26/",
+      "date": "Thu, 16 Apr 2026 19:00:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Augusto Batalla, titular en Conference, despeja dudas",
+      "link": "https://www.jornadaperfecta.com/blog/batalla-entrenamiento-rayo-vallecano-2/",
+      "date": "Thu, 16 Apr 2026 18:15:50 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Sorloth, Molina, Hancko y Giménez, convocados en Copa pese a no entrenar",
+      "link": "https://www.jornadaperfecta.com/blog/sorloth-molina-estado-final-copa-26/",
+      "date": "Thu, 16 Apr 2026 18:05:00 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Pablo Barrios vuelve tras lesión. ¿Gran oportunidad fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/pablo-barrios-analisis-vuelta-lesion-26/",
+      "date": "Thu, 16 Apr 2026 17:00:38 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Héctor Fort sigue con el grupo y ultima su vuelta en la Jornada 33",
+      "link": "https://www.jornadaperfecta.com/blog/hector-fort-estado-j33-25-26/",
+      "date": "Thu, 16 Apr 2026 16:44:28 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Pablo Martínez y Etta Eyong, ausentes en el entreno del Levante. ¿Preocupan?",
+      "link": "https://www.jornadaperfecta.com/blog/pablo-martinez-estado-j33-25-26/",
+      "date": "Thu, 16 Apr 2026 15:47:20 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Budimir gestiona cargas e Iker Benito entrena con el grupo",
       "link": "https://www.jornadaperfecta.com/blog/budimir-estado-j33/",
       "date": "Thu, 16 Apr 2026 12:51:14 +0000"
@@ -11989,47 +12025,11 @@
       "title": "Oyarzabal, Gorrotxategi y Yangel siguen con el grupo. Dudas con Zakharyan",
       "link": "https://www.jornadaperfecta.com/blog/oyarzabal-entrenamiento-real-sociedad/",
       "date": "Thu, 16 Apr 2026 12:30:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Dani Vivian se ausenta del entrenamiento por segundo día",
-      "link": "https://www.jornadaperfecta.com/blog/estado-vivian-j33/",
-      "date": "Thu, 16 Apr 2026 12:12:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Fermín tuvo que acudir al hospital y estará unos días de reposo",
-      "link": "https://www.jornadaperfecta.com/blog/fermin-estado-j33/",
-      "date": "Thu, 16 Apr 2026 11:26:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Dituro planta el muro en el Martínez Valero. ¿Buen portero en este final de temporada?",
-      "link": "https://www.jornadaperfecta.com/blog/dituro-analisis-j33-25-26/",
-      "date": "Thu, 16 Apr 2026 11:00:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mikautadze genera dudas fantasy por su última suplencia, ¿vender o mantener?",
-      "link": "https://www.jornadaperfecta.com/blog/mikautadze-dudas-fantasy-suplencia-villarreal/",
-      "date": "Thu, 16 Apr 2026 09:00:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Cinco noticias fantasy para antes de irte a dormir",
-      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-15-4-26/",
-      "date": "Wed, 15 Apr 2026 21:00:56 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "TonyBet te da 10€ en Apuesta Gratis para la Final de Copa del Rey",
-      "link": "https://www.jornadaperfecta.com/blog/tonybet-apuesta-gratis-final-copa-del-rey/",
-      "date": "Wed, 15 Apr 2026 21:00:05 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-16T13:56:57.681Z",
+    "updatedAt": "2026-04-16T19:22:22.949Z",
     "players": [
       {
         "id": "3374",
