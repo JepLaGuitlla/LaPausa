@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T13:27:48.972Z",
+  "updatedAt": "2026-04-17T19:07:20.580Z",
   "players": [
     {
       "id": 11,
@@ -7404,7 +7404,7 @@
     {
       "id": 31243,
       "slug": "fermin-lopez",
-      "name": "Fermín",
+      "name": "Ferm��n",
       "position": 3,
       "price": 16280000,
       "points": 152,
@@ -11980,56 +11980,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Once Ideal Fantasy para el Final de Liga",
+      "link": "https://www.jornadaperfecta.com/blog/once-ideal-fantasy-final-laliga-2026/",
+      "date": "Fri, 17 Apr 2026 18:09:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Hancko, Sorloth y Molina entrenan con el grupo; Giménez, no",
+      "link": "https://www.jornadaperfecta.com/blog/hancko-recuperacion-atleti/",
+      "date": "Fri, 17 Apr 2026 18:07:51 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota Betfair para la Final de Copa del Rey: Apuesta 20€ y gana 100€",
+      "link": "https://www.jornadaperfecta.com/blog/betfair-supercuota-final-copa-del-rey/",
+      "date": "Fri, 17 Apr 2026 18:00:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Matarazzo sobre Oyarzabal, Gorrotxa, Yangel y el portero",
+      "link": "https://www.jornadaperfecta.com/blog/matarazzo-previa-real-sociedad-atletico-final-copa-26/",
+      "date": "Fri, 17 Apr 2026 17:57:13 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Simeone habla del estado de Pablo Barrios y la final",
+      "link": "https://www.jornadaperfecta.com/blog/simeone-previa-real-sociedad-atletico-final-copa-26/",
+      "date": "Fri, 17 Apr 2026 17:56:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Blind vuelve al grupo, disponible para la jornada 33",
       "link": "https://www.jornadaperfecta.com/blog/blind-estado-girona-j33/",
-      "date": "Fri, 17 Apr 2026 13:11:42 +0000"
+      "date": "Fri, 17 Apr 2026 17:11:42 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Alineaciones probables Atleti &#8211; Real Sociedad para la final de Copa",
       "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-atleti-real-sociedad-final-copa/",
-      "date": "Fri, 17 Apr 2026 13:02:59 +0000"
+      "date": "Fri, 17 Apr 2026 17:02:59 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Oyarzabal, Gorrotxategi y Yangel entran en la convocatoria. Zakharyan KO",
-      "link": "https://www.jornadaperfecta.com/blog/oyarzabal-entrenamiento-real-sociedad/",
-      "date": "Fri, 17 Apr 2026 11:30:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Dani Vivian se ausenta del entrenamiento por tercer día",
-      "link": "https://www.jornadaperfecta.com/blog/estado-vivian-j33/",
-      "date": "Fri, 17 Apr 2026 11:12:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Etta Eyong vuelve a entrenar con el grupo. Pendientes de Pablo Martínez",
-      "link": "https://www.jornadaperfecta.com/blog/pablo-martinez-estado-j33-25-26/",
-      "date": "Fri, 17 Apr 2026 11:07:20 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "David Soria se postula como portero TOP fantasy. ¿Lo fichamos en este final de temporada?",
-      "link": "https://www.jornadaperfecta.com/blog/david-soria-analisis-j33-25-26/",
-      "date": "Fri, 17 Apr 2026 11:00:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Álvaro García: buenas sensaciones tras ser sustituido con molestias",
-      "link": "https://www.jornadaperfecta.com/blog/alvaro-garcia-estado-molestias-musculares-26/",
-      "date": "Fri, 17 Apr 2026 08:50:29 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Luiz Felipe vuelve a sufrir una lesión muscular y preocupa en Vallecas",
-      "link": "https://www.jornadaperfecta.com/blog/luiz-felipe-estado-lesion-muslo-26/",
-      "date": "Fri, 17 Apr 2026 08:28:28 +0000"
+      "title": "Sergi Darder vuelve al once de Demichelis. ¿Interesante en este final de temporada?",
+      "link": "https://www.jornadaperfecta.com/blog/sergi-darder-analisis-j33-25-26/",
+      "date": "Fri, 17 Apr 2026 17:00:14 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-17T13:27:47.095Z",
+    "updatedAt": "2026-04-17T19:07:18.861Z",
     "players": [
       {
         "id": "3374",
