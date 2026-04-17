@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T19:22:22.950Z",
+  "updatedAt": "2026-04-17T02:55:19.493Z",
   "players": [
     {
       "id": 11,
@@ -11980,6 +11980,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-16-4-26/",
+      "date": "Thu, 16 Apr 2026 21:00:20 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Luiz Felipe, sustituido con una posible lesión muscular en Conference",
+      "link": "https://www.jornadaperfecta.com/blog/luiz-felipe-estado-lesion-muslo-26/",
+      "date": "Thu, 16 Apr 2026 20:28:28 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Álvaro García, sustituido con molestias musculares en Conference",
+      "link": "https://www.jornadaperfecta.com/blog/alvaro-garcia-estado-molestias-musculares-26/",
+      "date": "Thu, 16 Apr 2026 19:50:29 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Manu Bueno se abre paso con García Plaza. ¿Chollito fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/manu-bueno-analisis-j33-25-26/",
       "date": "Thu, 16 Apr 2026 19:00:01 +0000"
@@ -12007,29 +12025,11 @@
       "title": "Héctor Fort sigue con el grupo y ultima su vuelta en la Jornada 33",
       "link": "https://www.jornadaperfecta.com/blog/hector-fort-estado-j33-25-26/",
       "date": "Thu, 16 Apr 2026 16:44:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Pablo Martínez y Etta Eyong, ausentes en el entreno del Levante. ¿Preocupan?",
-      "link": "https://www.jornadaperfecta.com/blog/pablo-martinez-estado-j33-25-26/",
-      "date": "Thu, 16 Apr 2026 15:47:20 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Budimir gestiona cargas e Iker Benito entrena con el grupo",
-      "link": "https://www.jornadaperfecta.com/blog/budimir-estado-j33/",
-      "date": "Thu, 16 Apr 2026 12:51:14 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oyarzabal, Gorrotxategi y Yangel siguen con el grupo. Dudas con Zakharyan",
-      "link": "https://www.jornadaperfecta.com/blog/oyarzabal-entrenamiento-real-sociedad/",
-      "date": "Thu, 16 Apr 2026 12:30:47 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-16T19:22:22.949Z",
+    "updatedAt": "2026-04-17T02:55:17.912Z",
     "players": [
       {
         "id": "3374",
