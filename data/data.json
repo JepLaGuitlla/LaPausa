@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T19:07:20.580Z",
+  "updatedAt": "2026-04-18T02:46:29.910Z",
   "players": [
     {
       "id": 11,
@@ -7404,7 +7404,7 @@
     {
       "id": 31243,
       "slug": "fermin-lopez",
-      "name": "Ferm��n",
+      "name": "Fermín",
       "position": 3,
       "price": 16280000,
       "points": 152,
@@ -12029,7 +12029,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-17T19:07:18.861Z",
+    "updatedAt": "2026-04-18T02:46:29.910Z",
     "players": [
       {
         "id": "3374",
