@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T13:10:59.407Z",
+  "updatedAt": "2026-04-18T18:57:25.585Z",
   "players": [
     {
       "id": 11,
@@ -11980,6 +11980,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Ferran Torres, recuperando su mejor nivel: ¿recomendable para la recta final?",
+      "link": "https://www.jornadaperfecta.com/blog/ferran-torres-recomendable-fantasy-barcelona/",
+      "date": "Sat, 18 Apr 2026 17:00:55 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Once Ideal Fantasy para el Final de Liga",
       "link": "https://www.jornadaperfecta.com/blog/once-ideal-fantasy-final-laliga-2026/",
       "date": "Sat, 18 Apr 2026 12:30:49 +0000"
@@ -12019,17 +12025,11 @@
       "title": "Hancko y Barrios entrenan, pero Simeone no arriesgará",
       "link": "https://www.jornadaperfecta.com/blog/hancko-recuperacion-atleti/",
       "date": "Sat, 18 Apr 2026 08:30:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción MARCAapuestas Final Copa del Rey: ¡Seguro del 50% hasta 10€ si fallas!",
-      "link": "https://www.jornadaperfecta.com/blog/marcaapuestas-final-copa-del-rey-atleti-real-sociedad/",
-      "date": "Sat, 18 Apr 2026 07:00:12 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-18T13:10:58.578Z",
+    "updatedAt": "2026-04-18T18:57:23.827Z",
     "players": [
       {
         "id": "3374",
