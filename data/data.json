@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T18:57:44.686Z",
+  "updatedAt": "2026-04-20T03:23:09.700Z",
   "players": [
     {
       "id": 11,
@@ -11980,6 +11980,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Frenkie de Jong está de vuelta. ¿Seguirá siendo importante?",
+      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-analisis-vuelta-lesion-26/",
+      "date": "Sun, 19 Apr 2026 19:00:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Starfelt sigue al margen en al vuelta al trabajo del Celta",
+      "link": "https://www.jornadaperfecta.com/blog/starfelt-estado-lumbalgia-26/",
+      "date": "Sun, 19 Apr 2026 18:58:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Lookman pasará pruebas tras su cambio en Copa. ¿Preocupa su estado?",
       "link": "https://www.jornadaperfecta.com/blog/lookman-estado-molestias-aductor/",
       "date": "Sun, 19 Apr 2026 18:21:38 +0000"
@@ -12013,23 +12025,11 @@
       "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para la jornada 33",
       "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-j33-25-26/",
       "date": "Sun, 19 Apr 2026 13:05:02 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Fermín reaparece con máscara y Marc Bernal sigue ausente",
-      "link": "https://www.jornadaperfecta.com/blog/fermin-estado-j33/",
-      "date": "Sun, 19 Apr 2026 11:40:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Chollos Fantasy que Tienes que Fichar YA para la J33 de Biwenger",
-      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j33-laliga/",
-      "date": "Sun, 19 Apr 2026 11:30:01 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-19T18:57:42.698Z",
+    "updatedAt": "2026-04-20T03:23:08.024Z",
     "players": [
       {
         "id": "3374",
