@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T19:12:21.950Z",
+  "updatedAt": "2026-04-21T02:55:58.776Z",
   "players": [
     {
       "id": 11,
@@ -11980,6 +11980,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-20-4-26/",
+      "date": "Mon, 20 Apr 2026 21:00:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Simeone ensaya un once del Atlético que deja varias dudas",
+      "link": "https://www.jornadaperfecta.com/blog/once-atletico-de-madrid-j33/",
+      "date": "Mon, 20 Apr 2026 20:58:22 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 33",
       "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j33/",
       "date": "Mon, 20 Apr 2026 17:48:38 +0000"
@@ -12013,23 +12025,11 @@
       "title": "Riedel o Calero, duda en el acompañante de Cabrera",
       "link": "https://www.jornadaperfecta.com/blog/calero-riedel-espanyol-once-j33/",
       "date": "Mon, 20 Apr 2026 14:00:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Jan Virgili o Asano, la duda en el once del RCD Mallorca",
-      "link": "https://www.jornadaperfecta.com/blog/jan-virgili-asano-once-mallorca-j33/",
-      "date": "Mon, 20 Apr 2026 13:50:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Dani Vivian vuelve a entrenar con el grupo, ¿titular?",
-      "link": "https://www.jornadaperfecta.com/blog/estado-vivian-j33/",
-      "date": "Mon, 20 Apr 2026 13:30:58 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-20T19:12:17.996Z",
+    "updatedAt": "2026-04-21T02:55:57.252Z",
     "players": [
       {
         "id": "3374",
