@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T13:52:07.078Z",
+  "updatedAt": "2026-04-22T19:20:19.685Z",
   "players": [
     {
       "id": 11,
@@ -11980,6 +11980,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para la jornada 32",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-j32-25-26/",
+      "date": "Wed, 22 Apr 2026 18:57:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J32 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j32-laliga/",
+      "date": "Wed, 22 Apr 2026 17:00:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Iñigo Pérez confirma la baja de Álvaro García y deja en duda a Batalla y Akhomach",
+      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-rayo-espanyol-j33/",
+      "date": "Wed, 22 Apr 2026 16:06:22 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Manolo González, sobre el estado de Cabrera y su acompañante",
+      "link": "https://www.jornadaperfecta.com/blog/manolo-gonzalez-previa-rayo-espanyol-j33/",
+      "date": "Wed, 22 Apr 2026 15:06:02 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Militao no tiene una lesión en la rodilla, es muscular",
       "link": "https://www.jornadaperfecta.com/blog/militao-lesion-real-madrid-2/",
       "date": "Wed, 22 Apr 2026 13:30:31 +0000"
@@ -12001,35 +12025,11 @@
       "title": "Luis Castro, sobre si Carlos Álvarez puede ser titular",
       "link": "https://www.jornadaperfecta.com/blog/luis-castro-previa-levante-sevilla-j33/",
       "date": "Wed, 22 Apr 2026 11:36:31 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Unai Núñez vuelve a entrenar y Thierry pasará pruebas médicas",
-      "link": "https://www.jornadaperfecta.com/blog/unai-nunez-estado-j32/",
-      "date": "Wed, 22 Apr 2026 11:10:38 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Almada confirma rotaciones esta semana",
-      "link": "https://www.jornadaperfecta.com/blog/almada-previa-real-oviedo-villarreal-j33/",
-      "date": "Wed, 22 Apr 2026 10:32:12 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El motivo de la suplencia de Lemar, así lo explicó Michel",
-      "link": "https://www.jornadaperfecta.com/blog/lemar-estado-j32/",
-      "date": "Wed, 22 Apr 2026 10:08:55 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Desvelado el motivo del cambio del Cucho al descanso, ¿llega a la J32?",
-      "link": "https://www.jornadaperfecta.com/blog/estado-cucho-j32/",
-      "date": "Wed, 22 Apr 2026 09:35:31 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-22T13:52:07.077Z",
+    "updatedAt": "2026-04-22T19:20:18.201Z",
     "players": [
       {
         "id": "3374",
@@ -12073,11 +12073,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 15,
         "assists": 11,
         "penalties": 2,
-        "minutesPerGoal": 162
+        "minutesPerGoal": 168
       },
       {
         "id": "33154",
@@ -12085,11 +12085,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 14,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 186
+        "minutesPerGoal": 193
       },
       {
         "id": "1556",
@@ -12109,11 +12109,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 12,
         "assists": 1,
         "penalties": 3,
-        "minutesPerGoal": 225
+        "minutesPerGoal": 233
       },
       {
         "id": "180137",
@@ -12121,11 +12121,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 12,
         "assists": 3,
         "penalties": 5,
-        "minutesPerGoal": 210
+        "minutesPerGoal": 218
       },
       {
         "id": "371",
@@ -12133,11 +12133,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Poland",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 12,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 210
+        "minutesPerGoal": 218
       },
       {
         "id": "37428",
@@ -12212,6 +12212,18 @@
         "minutesPerGoal": 310
       },
       {
+        "id": "1760",
+        "name": "André Silva",
+        "team": "Elche CF",
+        "position": "",
+        "nationality": "Portugal",
+        "appearances": 27,
+        "goals": 9,
+        "assists": 0,
+        "penalties": 2,
+        "minutesPerGoal": 270
+      },
+      {
         "id": "160819",
         "name": "Vladyslav Vanat",
         "team": "Girona FC",
@@ -12277,11 +12289,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 8,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 293
+        "minutesPerGoal": 304
       },
       {
         "id": "32415",
@@ -12356,18 +12368,6 @@
         "minutesPerGoal": 304
       },
       {
-        "id": "1760",
-        "name": "André Silva",
-        "team": "Elche CF",
-        "position": "",
-        "nationality": "Portugal",
-        "appearances": 26,
-        "goals": 7,
-        "assists": 0,
-        "penalties": 1,
-        "minutesPerGoal": 334
-      },
-      {
         "id": "33117",
         "name": "Pablo Fornals",
         "team": "Real Betis Balompié",
@@ -12385,11 +12385,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 7,
         "assists": 8,
         "penalties": 0,
-        "minutesPerGoal": 334
+        "minutesPerGoal": 347
       },
       {
         "id": "175941",
@@ -12421,11 +12421,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 7,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 360
+        "minutesPerGoal": 373
       },
       {
         "id": "203439",
@@ -12493,11 +12493,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 6,
         "assists": 2,
         "penalties": 2,
-        "minutesPerGoal": 450
+        "minutesPerGoal": 465
       },
       {
         "id": "114",
@@ -12505,11 +12505,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "France",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 6,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 435
+        "minutesPerGoal": 450
       },
       {
         "id": "140814",
@@ -12529,11 +12529,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "England",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 6,
         "assists": 6,
         "penalties": 0,
-        "minutesPerGoal": 435
+        "minutesPerGoal": 450
       },
       {
         "id": "16173",
@@ -12577,11 +12577,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Iceland",
-        "appearances": 15,
+        "appearances": 16,
         "goals": 5,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 270
+        "minutesPerGoal": 288
       },
       {
         "id": "8412",
@@ -12620,6 +12620,18 @@
         "minutesPerGoal": 522
       },
       {
+        "id": "45680",
+        "name": "Nicolás González",
+        "team": "Club Atlético de Madrid",
+        "position": "",
+        "nationality": "Argentina",
+        "appearances": 23,
+        "goals": 5,
+        "assists": 0,
+        "penalties": 0,
+        "minutesPerGoal": 414
+      },
+      {
         "id": "130324",
         "name": "Raúl",
         "team": "CA Osasuna",
@@ -12637,11 +12649,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 5,
         "assists": 8,
         "penalties": 0,
-        "minutesPerGoal": 468
+        "minutesPerGoal": 486
       },
       {
         "id": "33615",
@@ -12649,11 +12661,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 5,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 486
+        "minutesPerGoal": 504
       },
       {
         "id": "122511",
@@ -12697,11 +12709,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 5,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 540
+        "minutesPerGoal": 558
       },
       {
         "id": "136349",
@@ -12781,11 +12793,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 4,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 675
+        "minutesPerGoal": 698
       },
       {
         "id": "171964",
@@ -12793,11 +12805,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 4,
         "assists": 6,
         "penalties": 0,
-        "minutesPerGoal": 653
+        "minutesPerGoal": 675
       },
       {
         "id": "213043",
@@ -12853,11 +12865,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 4,
         "assists": 3,
         "penalties": 2,
-        "minutesPerGoal": 675
+        "minutesPerGoal": 698
       },
       {
         "id": "33148",
@@ -12865,11 +12877,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 4,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 608
+        "minutesPerGoal": 630
       },
       {
         "id": "125010",
@@ -12889,11 +12901,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Sweden",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 4,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 563
+        "minutesPerGoal": 585
       },
       {
         "id": "217658",
@@ -12925,11 +12937,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 12,
+        "appearances": 13,
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 270
+        "minutesPerGoal": 293
       },
       {
         "id": "33496",
@@ -12961,11 +12973,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 810
+        "minutesPerGoal": 840
       },
       {
         "id": "101182",
@@ -12973,11 +12985,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 3,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 750
+        "minutesPerGoal": 780
       },
       {
         "id": "126878",
@@ -12997,11 +13009,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 810
+        "minutesPerGoal": 840
       },
       {
         "id": "9870",
@@ -13026,18 +13038,6 @@
         "assists": 1,
         "penalties": 0,
         "minutesPerGoal": 750
-      },
-      {
-        "id": "45680",
-        "name": "Nicolás González",
-        "team": "Club Atlético de Madrid",
-        "position": "",
-        "nationality": "Argentina",
-        "appearances": 22,
-        "goals": 3,
-        "assists": 0,
-        "penalties": 0,
-        "minutesPerGoal": 660
       },
       {
         "id": "156525",
@@ -13093,11 +13093,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 750
+        "minutesPerGoal": 780
       },
       {
         "id": "79953",
@@ -13105,11 +13105,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 780
+        "minutesPerGoal": 810
       },
       {
         "id": "3171",
@@ -13153,11 +13153,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 11,
+        "appearances": 12,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 330
+        "minutesPerGoal": 360
       },
       {
         "id": "159520",
@@ -13177,11 +13177,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Croatia",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 840
+        "minutesPerGoal": 870
       },
       {
         "id": "3369",
@@ -13213,11 +13213,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Japan",
-        "appearances": 20,
+        "appearances": 21,
         "goals": 2,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 900
+        "minutesPerGoal": 945
       },
       {
         "id": "3216",
