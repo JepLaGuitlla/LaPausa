@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T13:44:59.432Z",
+  "updatedAt": "2026-04-24T18:59:43.557Z",
   "players": [
     {
       "id": 11,
@@ -11985,56 +11985,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Quique no confía en Jon Pacheco y habla de Boyé",
-      "link": "https://www.jornadaperfecta.com/blog/quique-previa-alaves-mallorca-j32/",
-      "date": "Fri, 24 Apr 2026 13:19:18 +0000"
+      "title": "Promoción Kirolbet Atlético de Madrid vs Athletic Club: gana 5€ por cada gol",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-kirolbet-atletico-vs-athletic/",
+      "date": "Fri, 24 Apr 2026 18:00:11 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Once confirmado del Real Madrid con Huijsen y Pitarch",
+      "link": "https://www.jornadaperfecta.com/blog/once-real-madrid-jornada-32/",
+      "date": "Fri, 24 Apr 2026 17:52:19 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Sorpresas en el once titular del Betis de la jornada 32!",
+      "link": "https://www.jornadaperfecta.com/blog/once-betis-jornada-32/",
+      "date": "Fri, 24 Apr 2026 17:51:49 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "BigUp: Gana dinero real con tus pronósticos del Betis &#8211; Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/bigup-betis-real-madrid-pronosticos/",
-      "date": "Fri, 24 Apr 2026 13:01:31 +0000"
+      "date": "Fri, 24 Apr 2026 17:22:31 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Flick, sobre la lesión de Lamine y las vueltas de Raphinha y Bernal",
-      "link": "https://www.jornadaperfecta.com/blog/flick-previa-getafe-barcelona-j32/",
-      "date": "Fri, 24 Apr 2026 13:00:32 +0000"
+      "title": "Raphinha está cada vez más cerca de volver: Palabras de Flick",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-fecha-vuelta-fc-barcelona/",
+      "date": "Fri, 24 Apr 2026 17:20:14 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Aritz Elustondo y Karrikaburu, son duda. Guedes, baja confirmada",
-      "link": "https://www.jornadaperfecta.com/blog/aritz-elustondo-golpe-cabeza-26/",
-      "date": "Fri, 24 Apr 2026 12:42:45 +0000"
+      "title": "El Comité de Disciplina retira la amarilla a Caleta-Car y podrá jugar ante el Rayo",
+      "link": "https://www.jornadaperfecta.com/blog/caleta-car-disponible-j32-real-sociedad/",
+      "date": "Fri, 24 Apr 2026 17:16:57 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Corberán confirma a Unai y habla de Pepelu y Renzo Saravia",
-      "link": "https://www.jornadaperfecta.com/blog/corberan-previa-valencia-girona-j32/",
-      "date": "Fri, 24 Apr 2026 12:32:07 +0000"
+      "title": "Sustitutos de Lamine Yamal: ¿quién interesa más en fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/lamine-yamal-sustitutos-beneficiados-fantasy/",
+      "date": "Fri, 24 Apr 2026 16:24:27 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Míchel confirma sus bajas y habla de la permanencia",
-      "link": "https://www.jornadaperfecta.com/blog/michel-previa-valencia-girona-j32/",
-      "date": "Fri, 24 Apr 2026 12:14:06 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sarabia anuncia rotaciones y analiza la «final» en Oviedo",
-      "link": "https://www.jornadaperfecta.com/blog/sarabia-previa-real-oviedo-elche-j32/",
-      "date": "Fri, 24 Apr 2026 11:49:40 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡Tchouameni, baja de última hora ante el Betis!",
-      "link": "https://www.jornadaperfecta.com/blog/tchouameni-baja-real-madrid-j32/",
-      "date": "Fri, 24 Apr 2026 11:34:38 +0000"
+      "title": "Valverde, sobre el estado de Yuri, Laporte y Yeray",
+      "link": "https://www.jornadaperfecta.com/blog/valverde-previa-atleti-athletic-j32/",
+      "date": "Fri, 24 Apr 2026 15:43:44 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-24T13:44:57.004Z",
+    "updatedAt": "2026-04-24T18:59:42.224Z",
     "players": [
       {
         "id": "3374",
@@ -12042,11 +12042,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "France",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 24,
         "assists": 4,
         "penalties": 8,
-        "minutesPerGoal": 101
+        "minutesPerGoal": 105
       },
       {
         "id": "30059",
@@ -12102,11 +12102,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Brazil",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 12,
         "assists": 5,
         "penalties": 4,
-        "minutesPerGoal": 225
+        "minutesPerGoal": 233
       },
       {
         "id": "32056",
@@ -12306,11 +12306,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Colombia",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 8,
         "assists": 3,
         "penalties": 1,
-        "minutesPerGoal": 304
+        "minutesPerGoal": 315
       },
       {
         "id": "82132",
@@ -12390,11 +12390,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 7,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 411
+        "minutesPerGoal": 424
       },
       {
         "id": "23132",
@@ -12414,11 +12414,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 23,
+        "appearances": 24,
         "goals": 7,
         "assists": 7,
         "penalties": 0,
-        "minutesPerGoal": 296
+        "minutesPerGoal": 309
       },
       {
         "id": "97085",
@@ -12426,11 +12426,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Brazil",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 7,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 334
+        "minutesPerGoal": 347
       },
       {
         "id": "83406",
@@ -12750,11 +12750,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 5,
         "assists": 6,
         "penalties": 0,
-        "minutesPerGoal": 522
+        "minutesPerGoal": 540
       },
       {
         "id": "32312",
@@ -12798,11 +12798,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 4,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 630
+        "minutesPerGoal": 653
       },
       {
         "id": "137485",
@@ -12906,11 +12906,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "England",
-        "appearances": 21,
+        "appearances": 22,
         "goals": 4,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 473
+        "minutesPerGoal": 495
       },
       {
         "id": "170438",
@@ -12930,11 +12930,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 4,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 698
+        "minutesPerGoal": 720
       },
       {
         "id": "152458",
@@ -13038,11 +13038,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "DR Congo",
-        "appearances": 25,
+        "appearances": 26,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 750
+        "minutesPerGoal": 780
       },
       {
         "id": "156525",
@@ -13230,11 +13230,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 21,
+        "appearances": 22,
         "goals": 2,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 945
+        "minutesPerGoal": 990
       }
     ]
   }
