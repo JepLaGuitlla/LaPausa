@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T07:24:04.144Z",
+  "updatedAt": "2026-04-25T13:13:43.790Z",
   "players": [
     {
       "id": 11,
@@ -11985,56 +11985,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Luckia Atlético vs Athletic: apuesta con seguro de 10€ gratis si fallas",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-luckia-atletico-vs-athletic/",
-      "date": "Sat, 25 Apr 2026 07:00:14 +0000"
+      "title": "Supercuota YoSports Rayo Vallecano vs Real Sociedad: cuota mejorada a 3.00",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-rayo-vs-real-sociedad/",
+      "date": "Sat, 25 Apr 2026 13:00:47 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Primer diagnóstico de la lesión de Mbappé",
-      "link": "https://www.jornadaperfecta.com/blog/mbappe-lesion-real-madrid/",
-      "date": "Fri, 24 Apr 2026 21:35:09 +0000"
+      "title": "Giráldez confirma las bajas de Swedberg y Matías Vecino",
+      "link": "https://www.jornadaperfecta.com/blog/giraldez-previa-villarreal-celta-j32/",
+      "date": "Sat, 25 Apr 2026 12:37:20 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Marc Bartra pide el cambio por lesión en la primera parte",
-      "link": "https://www.jornadaperfecta.com/blog/bartra-lesion-real-betis/",
-      "date": "Fri, 24 Apr 2026 19:51:31 +0000"
+      "title": "Militao pasará por quirófano: adiós a la temporada y al Mundial",
+      "link": "https://www.jornadaperfecta.com/blog/militao-lesion-real-madrid-2/",
+      "date": "Sat, 25 Apr 2026 12:22:31 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Promoción Kirolbet Atlético de Madrid vs Athletic Club: gana 5€ por cada gol",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-kirolbet-atletico-vs-athletic/",
-      "date": "Fri, 24 Apr 2026 18:00:11 +0000"
+      "title": "Lucas Boyé sufre una lesión a los 4 minutos del Alavés &#8211; Mallorca",
+      "link": "https://www.jornadaperfecta.com/blog/lucas-boye-lesion-alaves/",
+      "date": "Sat, 25 Apr 2026 12:21:28 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Once confirmado del Real Madrid con Huijsen y Pitarch",
-      "link": "https://www.jornadaperfecta.com/blog/once-real-madrid-jornada-32/",
-      "date": "Fri, 24 Apr 2026 17:52:19 +0000"
+      "title": "Matarazzo, sobre el estado de Sucic y la baja de Guedes",
+      "link": "https://www.jornadaperfecta.com/blog/matarazzo-previa-rayo-real-sociedad-j32/",
+      "date": "Sat, 25 Apr 2026 12:13:33 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "¡Sorpresas en el once titular del Betis de la jornada 32!",
-      "link": "https://www.jornadaperfecta.com/blog/once-betis-jornada-32/",
-      "date": "Fri, 24 Apr 2026 17:51:49 +0000"
+      "title": "García Plaza, sobre la baja de Azpilicueta, Jordán y Manu Bueno",
+      "link": "https://www.jornadaperfecta.com/blog/garcia-plaza-previa-osasuna-sevilla-j32/",
+      "date": "Sat, 25 Apr 2026 11:46:28 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Raphinha está cada vez más cerca de volver: Palabras de Flick",
-      "link": "https://www.jornadaperfecta.com/blog/raphinha-fecha-vuelta-fc-barcelona/",
-      "date": "Fri, 24 Apr 2026 17:20:14 +0000"
+      "title": "Iñigo Pérez habla de Mumin, y la sanción de Batalla",
+      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-rayo-real-sociedad-j32/",
+      "date": "Sat, 25 Apr 2026 11:36:25 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "El Comité de Disciplina retira la amarilla a Caleta-Car y podrá jugar ante el Rayo",
-      "link": "https://www.jornadaperfecta.com/blog/caleta-car-disponible-j32-real-sociedad/",
-      "date": "Fri, 24 Apr 2026 17:16:57 +0000"
+      "title": "Lisci solo tiene la baja por lesión de Iker Benito",
+      "link": "https://www.jornadaperfecta.com/blog/lisci-previa-osasuna-sevilla-j32/",
+      "date": "Sat, 25 Apr 2026 11:31:42 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-25T07:24:03.164Z",
+    "updatedAt": "2026-04-25T13:13:42.706Z",
     "players": [
       {
         "id": "3374",
@@ -12054,11 +12054,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Kosovo",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 21,
         "assists": 1,
         "penalties": 5,
-        "minutesPerGoal": 133
+        "minutesPerGoal": 137
       },
       {
         "id": "202283",
@@ -12090,11 +12090,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 14,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 193
+        "minutesPerGoal": 199
       },
       {
         "id": "1556",
@@ -12138,11 +12138,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Poland",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 12,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 218
+        "minutesPerGoal": 225
       },
       {
         "id": "37428",
@@ -12162,11 +12162,11 @@
         "team": "Deportivo Alavés",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 11,
         "assists": 1,
         "penalties": 3,
-        "minutesPerGoal": 221
+        "minutesPerGoal": 229
       },
       {
         "id": "133276",
@@ -12198,11 +12198,11 @@
         "team": "Deportivo Alavés",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 9,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 320
+        "minutesPerGoal": 330
       },
       {
         "id": "32762",
@@ -12402,11 +12402,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 7,
         "assists": 8,
         "penalties": 0,
-        "minutesPerGoal": 347
+        "minutesPerGoal": 360
       },
       {
         "id": "175941",
@@ -12522,11 +12522,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 6,
         "assists": 2,
         "penalties": 2,
-        "minutesPerGoal": 465
+        "minutesPerGoal": 480
       },
       {
         "id": "114",
@@ -12546,11 +12546,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 6,
-        "assists": 1,
+        "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 435
+        "minutesPerGoal": 450
       },
       {
         "id": "3331",
@@ -12558,11 +12558,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "England",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 6,
         "assists": 6,
         "penalties": 0,
-        "minutesPerGoal": 450
+        "minutesPerGoal": 465
       },
       {
         "id": "16173",
@@ -12654,11 +12654,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 5,
         "assists": 8,
         "penalties": 0,
-        "minutesPerGoal": 486
+        "minutesPerGoal": 504
       },
       {
         "id": "33615",
@@ -12942,11 +12942,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 13,
+        "appearances": 14,
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 293
+        "minutesPerGoal": 315
       },
       {
         "id": "33496",
@@ -12978,11 +12978,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 840
+        "minutesPerGoal": 870
       },
       {
         "id": "101182",
@@ -13098,11 +13098,11 @@
         "team": "FC Barcelona",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 780
+        "minutesPerGoal": 810
       },
       {
         "id": "79953",
@@ -13158,11 +13158,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 12,
+        "appearances": 13,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 360
+        "minutesPerGoal": 390
       },
       {
         "id": "159520",
@@ -13170,11 +13170,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 3,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 960
+        "minutesPerGoal": 990
       },
       {
         "id": "82516",
