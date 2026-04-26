@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T18:59:53.047Z",
+  "updatedAt": "2026-04-26T03:25:56.640Z",
   "players": [
     {
       "id": 11,
@@ -293,18 +293,18 @@
       "name": "Berenguer",
       "position": 4,
       "price": 2180000,
-      "points": 102,
+      "points": 104,
       "trend": -20000,
       "playedHome": 14,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
         2,
+        2,
         3,
         2,
-        1,
         1
       ],
       "clausula": null
@@ -337,19 +337,19 @@
       "name": "Yuri",
       "position": 2,
       "price": 3000000,
-      "points": 116,
+      "points": 118,
       "trend": 60000,
       "playedHome": 14,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        2,
         7,
         7,
         -1,
-        5,
-        4
+        5
       ],
       "clausula": null
     },
@@ -359,19 +359,19 @@
       "name": "Koke",
       "position": 3,
       "price": 4010000,
-      "points": 148,
+      "points": 155,
       "trend": -40000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 13,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        7,
         null,
         null,
         5,
-        2,
-        7
+        2
       ],
       "clausula": null
     },
@@ -403,19 +403,19 @@
       "name": "Griezmann",
       "position": 4,
       "price": 5220000,
-      "points": 120,
+      "points": 129,
       "trend": 10000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 13,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        9,
         3,
         null,
         1,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -565,11 +565,11 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        null,
         6,
         2,
         5,
-        6,
-        4
+        6
       ],
       "clausula": null
     },
@@ -611,9 +611,9 @@
       "jForm": [
         null,
         null,
+        null,
         5,
-        -4,
-        6
+        -4
       ],
       "clausula": null
     },
@@ -931,16 +931,16 @@
       "name": "Oblak",
       "position": 1,
       "price": 2400000,
-      "points": 122,
+      "points": 125,
       "trend": -10000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 13,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        3,
         1,
-        null,
         null,
         null,
         null
@@ -1107,19 +1107,19 @@
       "name": "Iñaki Williams",
       "position": 4,
       "price": 3220000,
-      "points": 70,
+      "points": 71,
       "trend": 10000,
       "playedHome": 13,
-      "playedAway": 11,
+      "playedAway": 12,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        1,
         5,
         0,
         1,
-        7,
-        2
+        7
       ],
       "clausula": null
     },
@@ -1239,18 +1239,18 @@
       "name": "De Galarreta",
       "position": 3,
       "price": 2940000,
-      "points": 131,
+      "points": 137,
       "trend": -20000,
       "playedHome": 16,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        6,
         3,
         3,
         3,
-        5,
         5
       ],
       "clausula": null
@@ -1512,10 +1512,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         -2,
         null,
-        4,
-        null
+        4
       ],
       "clausula": null
     },
@@ -1569,19 +1569,19 @@
       "name": "Marcos Llorente",
       "position": 2,
       "price": 8600000,
-      "points": 121,
+      "points": 123,
       "trend": 0,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 12,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        2,
         null,
         null,
         null,
-        6,
-        3
+        6
       ],
       "clausula": null
     },
@@ -1899,19 +1899,19 @@
       "name": "Vesga",
       "position": 3,
       "price": 250000,
-      "points": 48,
+      "points": 51,
       "trend": 0,
       "playedHome": 10,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        3,
         null,
         null,
         3,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -1929,10 +1929,10 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        null,
         6,
         null,
         5,
-        null,
         null
       ],
       "clausula": null
@@ -2009,19 +2009,19 @@
       "name": "Lenglet",
       "position": 2,
       "price": 350000,
-      "points": 39,
+      "points": 43,
       "trend": 0,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 9,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        4,
         2,
         null,
         4,
-        null,
-        5
+        null
       ],
       "clausula": null
     },
@@ -2195,9 +2195,9 @@
       "jForm": [
         null,
         null,
-        -1,
         null,
-        1
+        -1,
+        null
       ],
       "clausula": null
     },
@@ -3065,19 +3065,19 @@
       "name": "Vivian",
       "position": 2,
       "price": 2870000,
-      "points": 91,
+      "points": 92,
       "trend": 20000,
       "playedHome": 13,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        1,
         3,
         5,
         2,
-        12,
-        2
+        12
       ],
       "clausula": null
     },
@@ -3206,8 +3206,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
-        4
+        4,
+        null
       ],
       "clausula": null
     },
@@ -3247,8 +3249,11 @@
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        null,
         3,
-        13
+        13,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -3267,7 +3272,10 @@
       "status": "ok",
       "jForm": [
         null,
-        2
+        null,
+        2,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -3431,19 +3439,19 @@
       "name": "Gorosabel",
       "position": 2,
       "price": 270000,
-      "points": 51,
+      "points": 52,
       "trend": 0,
       "playedHome": 10,
-      "playedAway": 8,
+      "playedAway": 9,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        1,
         5,
         4,
         null,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -3519,19 +3527,19 @@
       "name": "Le Normand",
       "position": 2,
       "price": 1460000,
-      "points": 82,
+      "points": 84,
       "trend": -10000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 12,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        2,
         3,
         null,
         3,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -3739,19 +3747,19 @@
       "name": "Unai Simón",
       "position": 1,
       "price": 2820000,
-      "points": 142,
+      "points": 144,
       "trend": 10000,
       "playedHome": 17,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        2,
         10,
         -1,
         5,
-        6,
-        2
+        6
       ],
       "clausula": null
     },
@@ -3761,19 +3769,19 @@
       "name": "Guruzeta",
       "position": 4,
       "price": 3080000,
-      "points": 101,
+      "points": 110,
       "trend": 90000,
       "playedHome": 17,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        9,
         8,
         7,
         1,
-        2,
-        4
+        2
       ],
       "clausula": null
     },
@@ -3783,19 +3791,19 @@
       "name": "Sancet",
       "position": 3,
       "price": 4030000,
-      "points": 78,
+      "points": 82,
       "trend": 10000,
       "playedHome": 11,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        4,
         6,
         -1,
         1,
-        15,
-        1
+        15
       ],
       "clausula": null
     },
@@ -4553,19 +4561,19 @@
       "name": "Simeone",
       "position": 5,
       "price": 2610000,
-      "points": 57,
+      "points": 60,
       "trend": -20000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 16,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        3,
         0,
         0,
         0,
-        0,
-        3
+        0
       ],
       "clausula": null
     },
@@ -4641,19 +4649,19 @@
       "name": "Baena",
       "position": 3,
       "price": 5770000,
-      "points": 99,
+      "points": 106,
       "trend": -50000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 12,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        7,
         2,
         2,
         3,
-        3,
-        4
+        3
       ],
       "clausula": null
     },
@@ -4861,18 +4869,18 @@
       "name": "Nico Williams",
       "position": 4,
       "price": 8480000,
-      "points": 111,
+      "points": 113,
       "trend": 90000,
       "playedHome": 12,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        2,
         5,
         5,
         4,
-        null,
         null
       ],
       "clausula": null
@@ -5387,19 +5395,19 @@
       "name": "Robert Navarro",
       "position": 3,
       "price": 1830000,
-      "points": 113,
+      "points": 115,
       "trend": -10000,
       "playedHome": 14,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        2,
         5,
         2,
         null,
-        4,
-        0
+        4
       ],
       "clausula": null
     },
@@ -5431,19 +5439,19 @@
       "name": "Sørloth",
       "position": 4,
       "price": 5880000,
-      "points": 118,
+      "points": 136,
       "trend": -50000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 15,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        18,
         null,
         0,
         2,
-        2,
-        5
+        2
       ],
       "clausula": null
     },
@@ -5506,10 +5514,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         3,
         null,
-        5,
-        2
+        5
       ],
       "clausula": null
     },
@@ -5717,19 +5725,19 @@
       "name": "Pubill",
       "position": 2,
       "price": 4980000,
-      "points": 84,
+      "points": 90,
       "trend": 10000,
-      "playedHome": 8,
+      "playedHome": 9,
       "playedAway": 6,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        6,
         5,
         4,
         null,
-        null,
-        4
+        null
       ],
       "clausula": null
     },
@@ -6116,16 +6124,16 @@
       "points": 41,
       "trend": -10000,
       "playedHome": 17,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        0,
         3,
         0,
         0,
-        3,
-        0
+        3
       ],
       "clausula": null
     },
@@ -6355,19 +6363,19 @@
       "name": "Molina",
       "position": 2,
       "price": 2360000,
-      "points": 76,
+      "points": 80,
       "trend": -30000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 11,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        4,
         2,
         null,
         4,
-        11,
-        15
+        11
       ],
       "clausula": null
     },
@@ -6575,15 +6583,15 @@
       "name": "Paredes",
       "position": 2,
       "price": 520000,
-      "points": 65,
+      "points": 76,
       "trend": 0,
       "playedHome": 8,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
-        null,
+        11,
         null,
         null,
         null,
@@ -6795,16 +6803,16 @@
       "name": "Barrios",
       "position": 3,
       "price": 5590000,
-      "points": 114,
+      "points": 119,
       "trend": 30000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 12,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        5,
         3,
-        null,
         null,
         null,
         null
@@ -7001,11 +7009,11 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        null,
         1,
         2,
         -1,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -7235,19 +7243,19 @@
       "name": "Giuliano Simeone",
       "position": 3,
       "price": 9060000,
-      "points": 141,
+      "points": 144,
       "trend": 10000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 12,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
         3,
+        3,
         null,
         11,
-        10,
-        3
+        10
       ],
       "clausula": null
     },
@@ -7477,19 +7485,19 @@
       "name": "Unai Gómez",
       "position": 3,
       "price": 280000,
-      "points": 54,
+      "points": 56,
       "trend": 0,
       "playedHome": 10,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
-        null,
-        null,
-        null,
         2,
-        null
+        null,
+        null,
+        null,
+        2
       ],
       "clausula": null
     },
@@ -7675,19 +7683,19 @@
       "name": "Johnny",
       "position": 3,
       "price": 1360000,
-      "points": 41,
+      "points": 45,
       "trend": 0,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 9,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        4,
         2,
         null,
         null,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -7895,16 +7903,16 @@
       "name": "Boiro",
       "position": 2,
       "price": 170000,
-      "points": 20,
+      "points": 23,
       "trend": 0,
       "playedHome": 7,
-      "playedAway": 3,
+      "playedAway": 4,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
         3,
-        null,
+        3,
         null,
         null,
         null
@@ -8213,8 +8221,8 @@
       "jForm": [
         null,
         null,
-        2,
         null,
+        2,
         null
       ],
       "clausula": null
@@ -8676,8 +8684,8 @@
         null,
         null,
         null,
-        7,
-        3
+        null,
+        7
       ],
       "clausula": null
     },
@@ -8784,10 +8792,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
         6,
-        1,
-        11
+        1
       ],
       "clausula": null
     },
@@ -9157,11 +9165,11 @@
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        null,
         -7,
         1,
         5,
-        null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -9707,9 +9715,9 @@
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        null,
         3,
         2,
-        null,
         null,
         null
       ],
@@ -9821,7 +9829,7 @@
         null,
         null,
         null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -9897,19 +9905,19 @@
       "name": "Ruggeri",
       "position": 2,
       "price": 1180000,
-      "points": 60,
+      "points": 62,
       "trend": -10000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 10,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        2,
         null,
         null,
         2,
-        -1,
-        null
+        -1
       ],
       "clausula": null
     },
@@ -10326,8 +10334,8 @@
         null,
         null,
         null,
-        1,
-        null
+        null,
+        1
       ],
       "clausula": null
     },
@@ -10579,19 +10587,19 @@
       "name": "Rego",
       "position": 3,
       "price": 300000,
-      "points": 75,
+      "points": 80,
       "trend": 0,
       "playedHome": 13,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
       "jForm": [
+        5,
         2,
         3,
         0,
-        5,
-        null
+        5
       ],
       "clausula": null
     },
@@ -10821,7 +10829,7 @@
       "name": "Lucas Beltrán",
       "position": 4,
       "price": 680000,
-      "points": 75,
+      "points": 76,
       "trend": -10000,
       "playedHome": 12,
       "playedAway": 15,
@@ -10829,7 +10837,7 @@
       "teamId": 18,
       "status": "ok",
       "jForm": [
-        2,
+        3,
         2,
         0,
         3,
@@ -10997,18 +11005,18 @@
       "name": "Nico González",
       "position": 3,
       "price": 2840000,
-      "points": 111,
+      "points": 113,
       "trend": 220000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 11,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        2,
         20,
         null,
         -6,
-        3,
         3
       ],
       "clausula": null
@@ -11335,9 +11343,9 @@
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        null,
         2,
         7,
-        null,
         null,
         null
       ],
@@ -11503,7 +11511,7 @@
       "name": "Echeverri",
       "position": 3,
       "price": 2270000,
-      "points": 48,
+      "points": 47,
       "trend": 70000,
       "playedHome": 5,
       "playedAway": 7,
@@ -11511,7 +11519,7 @@
       "teamId": 289,
       "status": "ok",
       "jForm": [
-        3,
+        2,
         6,
         1,
         null,
@@ -11732,10 +11740,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         -1,
         null,
-        10,
-        3
+        10
       ],
       "clausula": null
     },
@@ -11767,19 +11775,19 @@
       "name": "Obed Vargas",
       "position": 3,
       "price": 680000,
-      "points": 24,
+      "points": 27,
       "trend": 10000,
-      "playedHome": 3,
+      "playedHome": 4,
       "playedAway": 3,
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
       "jForm": [
+        3,
         4,
         5,
         5,
-        null,
-        4
+        null
       ],
       "clausula": null
     },
@@ -11985,9 +11993,27 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Pablo Barrios vuelve a sufrir una lesión muscular",
+      "link": "https://www.jornadaperfecta.com/blog/barrios-lesion-atletico/",
+      "date": "Sat, 25 Apr 2026 20:30:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Militao pasará por quirófano: adiós a la temporada y al Mundial",
+      "link": "https://www.jornadaperfecta.com/blog/militao-lesion-real-madrid-2/",
+      "date": "Sat, 25 Apr 2026 17:22:31 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Marcelino, sobre el estado de Mouriño y el portero titular",
       "link": "https://www.jornadaperfecta.com/blog/marcelino-previa-villarreal-celta-j32/",
       "date": "Sat, 25 Apr 2026 17:00:23 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Lucas Boyé sufrió un pinchazo muscular fuerte, según Quique",
+      "link": "https://www.jornadaperfecta.com/blog/lucas-boye-lesion-alaves/",
+      "date": "Sat, 25 Apr 2026 14:21:28 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12003,18 +12029,6 @@
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Militao pasará por quirófano: adiós a la temporada y al Mundial",
-      "link": "https://www.jornadaperfecta.com/blog/militao-lesion-real-madrid-2/",
-      "date": "Sat, 25 Apr 2026 12:22:31 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lucas Boyé sufre una lesión a los 4 minutos del Alavés &#8211; Mallorca",
-      "link": "https://www.jornadaperfecta.com/blog/lucas-boye-lesion-alaves/",
-      "date": "Sat, 25 Apr 2026 12:21:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
       "title": "Matarazzo, sobre el estado de Sucic y la baja de Guedes",
       "link": "https://www.jornadaperfecta.com/blog/matarazzo-previa-rayo-real-sociedad-j32/",
       "date": "Sat, 25 Apr 2026 12:13:33 +0000"
@@ -12024,17 +12038,11 @@
       "title": "García Plaza, sobre la baja de Azpilicueta, Jordán y Manu Bueno",
       "link": "https://www.jornadaperfecta.com/blog/garcia-plaza-previa-osasuna-sevilla-j32/",
       "date": "Sat, 25 Apr 2026 11:46:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Iñigo Pérez habla de Mumin, y la sanción de Batalla",
-      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-rayo-real-sociedad-j32/",
-      "date": "Sat, 25 Apr 2026 11:36:25 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-25T18:59:52.841Z",
+    "updatedAt": "2026-04-26T03:25:54.813Z",
     "players": [
       {
         "id": "3374",
@@ -12107,6 +12115,18 @@
         "assists": 5,
         "penalties": 4,
         "minutesPerGoal": 215
+      },
+      {
+        "id": "8167",
+        "name": "Alexander Sørloth",
+        "team": "Club Atlético de Madrid",
+        "position": "",
+        "nationality": "Norway",
+        "appearances": 31,
+        "goals": 12,
+        "assists": 0,
+        "penalties": 0,
+        "minutesPerGoal": 233
       },
       {
         "id": "32056",
@@ -12193,18 +12213,6 @@
         "minutesPerGoal": 270
       },
       {
-        "id": "8167",
-        "name": "Alexander Sørloth",
-        "team": "Club Atlético de Madrid",
-        "position": "",
-        "nationality": "Norway",
-        "appearances": 31,
-        "goals": 10,
-        "assists": 0,
-        "penalties": 0,
-        "minutesPerGoal": 279
-      },
-      {
         "id": "32762",
         "name": "Hugo Duro",
         "team": "Valencia CF",
@@ -12277,6 +12285,18 @@
         "minutesPerGoal": 280
       },
       {
+        "id": "81565",
+        "name": "Gorka Guruzeta",
+        "team": "Athletic Club",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 32,
+        "goals": 9,
+        "assists": 1,
+        "penalties": 1,
+        "minutesPerGoal": 320
+      },
+      {
         "id": "98571",
         "name": "Julián Álvarez",
         "team": "Club Atlético de Madrid",
@@ -12337,18 +12357,6 @@
         "minutesPerGoal": 214
       },
       {
-        "id": "81565",
-        "name": "Gorka Guruzeta",
-        "team": "Athletic Club",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 32,
-        "goals": 8,
-        "assists": 1,
-        "penalties": 1,
-        "minutesPerGoal": 360
-      },
-      {
         "id": "3259",
         "name": "Gonçalo Guedes",
         "team": "Real Sociedad de Fútbol",
@@ -12407,6 +12415,18 @@
         "assists": 8,
         "penalties": 0,
         "minutesPerGoal": 360
+      },
+      {
+        "id": "114",
+        "name": "Antoine Griezmann",
+        "team": "Club Atlético de Madrid",
+        "position": "",
+        "nationality": "France",
+        "appearances": 31,
+        "goals": 7,
+        "assists": 1,
+        "penalties": 0,
+        "minutesPerGoal": 399
       },
       {
         "id": "175941",
@@ -12551,18 +12571,6 @@
         "assists": 2,
         "penalties": 2,
         "minutesPerGoal": 480
-      },
-      {
-        "id": "114",
-        "name": "Antoine Griezmann",
-        "team": "Club Atlético de Madrid",
-        "position": "",
-        "nationality": "France",
-        "appearances": 31,
-        "goals": 6,
-        "assists": 1,
-        "penalties": 0,
-        "minutesPerGoal": 465
       },
       {
         "id": "140814",
