@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T07:45:23.240Z",
+  "updatedAt": "2026-04-26T13:15:09.941Z",
   "players": [
     {
       "id": 11,
@@ -11988,9 +11988,33 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Pablo Barrios vuelve a sufrir una lesión muscular",
+      "title": "Luis Castro recupera a Brugué y habla de Carlos Álvarez",
+      "link": "https://www.jornadaperfecta.com/blog/luis-castro-previa-espanyol-levante-j32/",
+      "date": "Sun, 26 Apr 2026 11:25:16 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mbappé, pendiente de evolución por una sobrecarga en el isquio",
+      "link": "https://www.jornadaperfecta.com/blog/mbappe-lesion-real-madrid/",
+      "date": "Sun, 26 Apr 2026 10:00:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Julián Alvarez, sin minutos por unas molestias: ¿llega a la Champions?",
+      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-molestias-atleti-ida-champions/",
+      "date": "Sun, 26 Apr 2026 09:00:52 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Barrios vuelve a sufrir una lesión: Palabras del Cholo",
       "link": "https://www.jornadaperfecta.com/blog/barrios-lesion-atletico/",
-      "date": "Sat, 25 Apr 2026 20:30:49 +0000"
+      "date": "Sun, 26 Apr 2026 07:01:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Lucas Boyé sufrió un pinchazo muscular fuerte, según Quique",
+      "link": "https://www.jornadaperfecta.com/blog/lucas-boye-lesion-alaves/",
+      "date": "Sat, 25 Apr 2026 18:21:28 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12006,38 +12030,14 @@
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Lucas Boyé sufrió un pinchazo muscular fuerte, según Quique",
-      "link": "https://www.jornadaperfecta.com/blog/lucas-boye-lesion-alaves/",
-      "date": "Sat, 25 Apr 2026 14:21:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
       "title": "Supercuota YoSports Rayo Vallecano vs Real Sociedad: cuota mejorada a 3.00",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-rayo-vs-real-sociedad/",
       "date": "Sat, 25 Apr 2026 13:00:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Giráldez confirma las bajas de Swedberg y Matías Vecino",
-      "link": "https://www.jornadaperfecta.com/blog/giraldez-previa-villarreal-celta-j32/",
-      "date": "Sat, 25 Apr 2026 12:37:20 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Matarazzo, sobre el estado de Sucic y la baja de Guedes",
-      "link": "https://www.jornadaperfecta.com/blog/matarazzo-previa-rayo-real-sociedad-j32/",
-      "date": "Sat, 25 Apr 2026 12:13:33 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "García Plaza, sobre la baja de Azpilicueta, Jordán y Manu Bueno",
-      "link": "https://www.jornadaperfecta.com/blog/garcia-plaza-previa-osasuna-sevilla-j32/",
-      "date": "Sat, 25 Apr 2026 11:46:28 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-26T07:45:21.677Z",
+    "updatedAt": "2026-04-26T13:15:09.941Z",
     "players": [
       {
         "id": "3374",
@@ -12112,6 +12112,18 @@
         "minutesPerGoal": 215
       },
       {
+        "id": "180137",
+        "name": "Mikel Oyarzabal",
+        "team": "Real Sociedad de Fútbol",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 30,
+        "goals": 13,
+        "assists": 3,
+        "penalties": 5,
+        "minutesPerGoal": 208
+      },
+      {
         "id": "8167",
         "name": "Alexander Sørloth",
         "team": "Club Atlético de Madrid",
@@ -12134,18 +12146,6 @@
         "assists": 1,
         "penalties": 3,
         "minutesPerGoal": 233
-      },
-      {
-        "id": "180137",
-        "name": "Mikel Oyarzabal",
-        "team": "Real Sociedad de Fútbol",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 29,
-        "goals": 12,
-        "assists": 3,
-        "penalties": 5,
-        "minutesPerGoal": 218
       },
       {
         "id": "371",
@@ -12201,11 +12201,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 10,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 270
+        "minutesPerGoal": 279
       },
       {
         "id": "32762",
@@ -12225,11 +12225,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 9,
         "assists": 0,
         "penalties": 2,
-        "minutesPerGoal": 270
+        "minutesPerGoal": 280
       },
       {
         "id": "160819",
@@ -12273,11 +12273,11 @@
         "team": "Real Oviedo",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 9,
         "assists": 1,
         "penalties": 2,
-        "minutesPerGoal": 280
+        "minutesPerGoal": 290
       },
       {
         "id": "81565",
@@ -12309,11 +12309,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 8,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 304
+        "minutesPerGoal": 315
       },
       {
         "id": "32415",
@@ -12621,11 +12621,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Iceland",
-        "appearances": 16,
+        "appearances": 17,
         "goals": 5,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 288
+        "minutesPerGoal": 306
       },
       {
         "id": "213404",
@@ -12681,11 +12681,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 5,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 504
+        "minutesPerGoal": 522
       },
       {
         "id": "122511",
@@ -12729,11 +12729,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 5,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 558
+        "minutesPerGoal": 576
       },
       {
         "id": "146126",
@@ -12741,11 +12741,11 @@
         "team": "Real Oviedo",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 5,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 540
+        "minutesPerGoal": 558
       },
       {
         "id": "96",
@@ -12813,11 +12813,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 4,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 698
+        "minutesPerGoal": 720
       },
       {
         "id": "171964",
@@ -12873,11 +12873,11 @@
         "team": "Real Oviedo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 698
+        "minutesPerGoal": 720
       },
       {
         "id": "3201",
@@ -12897,11 +12897,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 4,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 630
+        "minutesPerGoal": 653
       },
       {
         "id": "125010",
@@ -12957,11 +12957,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 3,
         "assists": 2,
         "penalties": 2,
-        "minutesPerGoal": 900
+        "minutesPerGoal": 930
       },
       {
         "id": "180280",
@@ -13005,11 +13005,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 3,
-        "assists": 4,
+        "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 780
+        "minutesPerGoal": 810
       },
       {
         "id": "126878",
@@ -13197,11 +13197,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Croatia",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 870
+        "minutesPerGoal": 900
       },
       {
         "id": "3369",
@@ -13233,11 +13233,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Japan",
-        "appearances": 21,
+        "appearances": 22,
         "goals": 2,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 945
+        "minutesPerGoal": 990
       }
     ]
   }
