@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T14:04:05.474Z",
+  "updatedAt": "2026-04-27T19:39:15.619Z",
   "players": [
     {
       "id": 11,
@@ -7703,14 +7703,14 @@
       "price": 1960000,
       "points": 134,
       "trend": -10000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 15,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
         null,
-        null,
+        0,
         null,
         7,
         7
@@ -11989,56 +11989,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Raphinha está cada vez más cerca de volver: Palabras de Flick",
-      "link": "https://www.jornadaperfecta.com/blog/raphinha-fecha-vuelta-fc-barcelona/",
-      "date": "Mon, 27 Apr 2026 13:51:14 +0000"
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J34 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j34-laliga/",
+      "date": "Mon, 27 Apr 2026 19:00:33 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Julián Alvarez, Lookman y Hancko se apuntan a la Champions",
+      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-molestias-atleti-ida-champions/",
+      "date": "Mon, 27 Apr 2026 17:10:52 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción Sportium Champions League: ¡apuesta a las semifinales con seguro!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-champions-league-seguro-semis/",
+      "date": "Mon, 27 Apr 2026 17:08:51 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Koundé, lejos de su mejor nivel fantasy: ¿vender o mantener?",
+      "link": "https://www.jornadaperfecta.com/blog/kounde-decision-fantasy-barcelona/",
+      "date": "Mon, 27 Apr 2026 17:00:44 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Se confirma la lesión de Mbappé! Parte médico y tiempo de baja",
+      "link": "https://www.jornadaperfecta.com/blog/mbappe-lesion-semitendinoso/",
+      "date": "Mon, 27 Apr 2026 16:10:34 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Militao estará 5 meses de baja tras pasar por quirófano",
       "link": "https://www.jornadaperfecta.com/blog/militao-lesion-real-madrid-2/",
-      "date": "Mon, 27 Apr 2026 13:49:31 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Luvumbo, buena noticia en el entrenamiento del Mallorca",
-      "link": "https://www.jornadaperfecta.com/blog/luvumbo-estado-mallorca-j34/",
-      "date": "Mon, 27 Apr 2026 13:46:20 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡Se confirma la lesión de Mbapp��! Parte médico y tiempo de baja",
-      "link": "https://www.jornadaperfecta.com/blog/mbappe-lesion-semitendinoso/",
-      "date": "Mon, 27 Apr 2026 13:10:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Boyé, rotura en los isquiotibiales y posible adiós a la temporada",
-      "link": "https://www.jornadaperfecta.com/blog/lucas-boye-lesion-alaves/",
-      "date": "Mon, 27 Apr 2026 13:05:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Álvaro Carreras ya no es titular en el Real Madrid, ¿venta fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/alvaro-carreras-venta-fantasy-real-madrid/",
-      "date": "Mon, 27 Apr 2026 13:00:26 +0000"
+      "date": "Mon, 27 Apr 2026 15:49:31 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Sustitutos de Lamine Yamal: ¿quién interesa más en fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/lamine-yamal-sustitutos-beneficiados-fantasy/",
-      "date": "Mon, 27 Apr 2026 12:00:27 +0000"
+      "date": "Mon, 27 Apr 2026 15:00:27 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Tchouameni entrena con normalidad y Courtois avanza",
-      "link": "https://www.jornadaperfecta.com/blog/tchouameni-estado-j34/",
-      "date": "Mon, 27 Apr 2026 11:42:40 +0000"
+      "title": "Raphinha está cada vez más cerca de volver: Palabras de Flick",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-fecha-vuelta-fc-barcelona/",
+      "date": "Mon, 27 Apr 2026 13:51:14 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-27T14:04:03.866Z",
+    "updatedAt": "2026-04-27T19:39:15.618Z",
     "players": [
       {
         "id": "3374",
@@ -12370,11 +12370,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 8,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 315
+        "minutesPerGoal": 326
       },
       {
         "id": "156746",
@@ -12490,11 +12490,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Cameroon",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 6,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 450
+        "minutesPerGoal": 465
       },
       {
         "id": "32398",
@@ -12502,11 +12502,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 6,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 435
+        "minutesPerGoal": 450
       },
       {
         "id": "182319",
@@ -12562,11 +12562,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 6,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 480
+        "minutesPerGoal": 495
       },
       {
         "id": "33358",
@@ -12574,11 +12574,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 6,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 480
+        "minutesPerGoal": 495
       },
       {
         "id": "32758",
@@ -12670,11 +12670,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 5,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 540
+        "minutesPerGoal": 558
       },
       {
         "id": "45680",
@@ -13066,11 +13066,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 870
+        "minutesPerGoal": 900
       },
       {
         "id": "31913",
@@ -13102,11 +13102,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 930
+        "minutesPerGoal": 960
       },
       {
         "id": "28292",
@@ -13174,11 +13174,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 990
+        "minutesPerGoal": 1020
       },
       {
         "id": "156967",
