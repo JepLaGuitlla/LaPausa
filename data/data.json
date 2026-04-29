@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T19:46:28.560Z",
+  "updatedAt": "2026-04-29T03:33:47.690Z",
   "players": [
     {
       "id": 11,
@@ -11989,6 +11989,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Supercuota Betfair Atlético vs Arsenal: ¡cuota mejorada a 3.1!",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-atletico-vs-arsenal/",
+      "date": "Tue, 28 Apr 2026 21:05:04 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para la jornada 34",
       "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-j34-25-26/",
       "date": "Tue, 28 Apr 2026 19:00:33 +0000"
@@ -12028,17 +12034,11 @@
       "title": "Oyarzabal va a por el Zarra, ¿muy recomendable en fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/oyarzabal-zarra-fantasy-real-sociedad/",
       "date": "Tue, 28 Apr 2026 13:00:30 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Tchouameni entrena con normalidad y Courtois ultima su regreso",
-      "link": "https://www.jornadaperfecta.com/blog/tchouameni-estado-j34/",
-      "date": "Tue, 28 Apr 2026 12:20:40 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-28T19:46:27.374Z",
+    "updatedAt": "2026-04-29T03:33:47.067Z",
     "players": [
       {
         "id": "3374",
