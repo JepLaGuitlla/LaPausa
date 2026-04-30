@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T19:42:16.273Z",
+  "updatedAt": "2026-04-30T03:34:52.351Z",
   "players": [
     {
       "id": 11,
@@ -11989,6 +11989,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "El tobillo de Julián Álvarez hace saltar las alarmas en el Atlético de Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-estado-molestias-tobillo-26/",
+      "date": "Wed, 29 Apr 2026 22:05:34 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Giuliano Simeone y Sorloth, afectados por molestias en Champions",
+      "link": "https://www.jornadaperfecta.com/blog/giuliano-simeone-sorloth-estado-molestias-26/",
+      "date": "Wed, 29 Apr 2026 22:02:19 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-29-4-26/",
+      "date": "Wed, 29 Apr 2026 21:00:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Germán Valera, sancionado en el tramo final. ¿Merece la pena mantener?",
       "link": "https://www.jornadaperfecta.com/blog/german-valera-analisis-sancion-26/",
       "date": "Wed, 29 Apr 2026 19:00:18 +0000"
@@ -12016,29 +12034,11 @@
       "title": "Batalla entrena con el grupo en la previa de Conference. ¿Titular en la Jornada 34?",
       "link": "https://www.jornadaperfecta.com/blog/batalla-estado-j34-25-26/",
       "date": "Wed, 29 Apr 2026 17:21:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Starfelt podría perderse el resto de la temporada por su lumbalgia",
-      "link": "https://www.jornadaperfecta.com/blog/starfelt-molestias-lumbalgia-26/",
-      "date": "Wed, 29 Apr 2026 16:30:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Víctor Muñoz cae lesionado y Aimar Oroz es duda",
-      "link": "https://www.jornadaperfecta.com/blog/victor-munoz-lesion-soleo/",
-      "date": "Wed, 29 Apr 2026 15:45:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Isi Palazón se pierde el resto de la temporada: ¡7 partidos de sanción!",
-      "link": "https://www.jornadaperfecta.com/blog/isi-palazon-sancion-rayo-vallecano/",
-      "date": "Wed, 29 Apr 2026 15:00:56 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-29T19:42:14.255Z",
+    "updatedAt": "2026-04-30T03:34:51.316Z",
     "players": [
       {
         "id": "3374",
