@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T13:26:32.928Z",
+  "updatedAt": "2026-05-01T19:17:31.385Z",
   "players": [
     {
       "id": 11,
@@ -9960,7 +9960,7 @@
     {
       "id": 38072,
       "slug": "andres-castrin",
-      "name": "Andrés Castrín",
+      "name": "Andr��s Castrín",
       "position": 2,
       "price": 480000,
       "points": 64,
@@ -12007,56 +12007,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Lesionados que podrían llegar a la jornada 34 y descartados",
-      "link": "https://www.jornadaperfecta.com/blog/lesionados-j34-25-26/",
-      "date": "Fri, 01 May 2026 12:15:08 +0000"
+      "title": "Once confirmado del RCD Mallorca con Samú y Muriqi",
+      "link": "https://www.jornadaperfecta.com/blog/rcd-mallorca-once-confirmado-j34-25-26/",
+      "date": "Fri, 01 May 2026 17:48:02 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Lisci explica el estado de Aimar y el tiempo de baja de Víctor Muñoz",
-      "link": "https://www.jornadaperfecta.com/blog/lisci-previa-osasuna-barcelona-j34/",
-      "date": "Fri, 01 May 2026 12:03:45 +0000"
+      "title": "Once confirmado del Girona con Fran Beltrán y Joel Roca",
+      "link": "https://www.jornadaperfecta.com/blog/girona-fc-once-confirmado-j34-25-26/",
+      "date": "Fri, 01 May 2026 17:46:11 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Valverde habla de Nico Williams, Sancet y Sannadi",
-      "link": "https://www.jornadaperfecta.com/blog/valverde-previa-alaves-athletic-j34/",
-      "date": "Fri, 01 May 2026 11:50:20 +0000"
+      "title": "Gabriel Suazo, Sow y Azpilicueta siguen con el grupo",
+      "link": "https://www.jornadaperfecta.com/blog/suazo-lesion-hombro/",
+      "date": "Fri, 01 May 2026 16:00:04 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Bordalás, sobre las bajas y el estado de Mayoral",
-      "link": "https://www.jornadaperfecta.com/blog/bordalas-previa-getafe-rayo-j34/",
-      "date": "Fri, 01 May 2026 11:32:25 +0000"
+      "title": "Guedes, Zubeldia y Karrikaburu siguen fuera y apuntan a baja",
+      "link": "https://www.jornadaperfecta.com/blog/guedes-estado-j34-25-26/",
+      "date": "Fri, 01 May 2026 15:58:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Flick ensaya un once con Lewandowski en punta. ¿Alinear?",
+      "link": "https://www.jornadaperfecta.com/blog/lewandowski-titularidad-j34-25-26-alinear/",
+      "date": "Fri, 01 May 2026 15:25:22 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Muriqi, Samú Costa y Jan Virgili corren riesgo por un virus",
+      "link": "https://www.jornadaperfecta.com/blog/muriqi-samu-costa-jan-virgili-virus-j34/",
+      "date": "Fri, 01 May 2026 15:23:39 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Flick confirma la vuelta de Raphinha y Marc Bernal",
       "link": "https://www.jornadaperfecta.com/blog/flick-previa-osasuna-barcelona-j34/",
-      "date": "Fri, 01 May 2026 11:23:45 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Swedberg recibe el alta médica y Starfelt volverá a ser baja",
-      "link": "https://www.jornadaperfecta.com/blog/starfelt-molestias-lumbalgia-26/",
-      "date": "Fri, 01 May 2026 11:20:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Luis Castro confirma la baja de Dela y habla de Etta Eyong",
-      "link": "https://www.jornadaperfecta.com/blog/luis-castro-previa-villarreal-levante-j34/",
-      "date": "Fri, 01 May 2026 11:04:21 +0000"
+      "date": "Fri, 01 May 2026 15:22:45 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "¡5 mayores riesgos fantasy para la jornada 34 de LaLiga!",
       "link": "https://www.jornadaperfecta.com/blog/riesgos-fantasy-j34-25-26/",
-      "date": "Fri, 01 May 2026 11:00:04 +0000"
+      "date": "Fri, 01 May 2026 15:20:04 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-01T13:26:32.440Z",
+    "updatedAt": "2026-05-01T19:17:31.385Z",
     "players": [
       {
         "id": "3374",
@@ -12076,11 +12076,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Kosovo",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 21,
         "assists": 1,
         "penalties": 5,
-        "minutesPerGoal": 137
+        "minutesPerGoal": 141
       },
       {
         "id": "202283",
@@ -12616,11 +12616,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 6,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 450
+        "minutesPerGoal": 465
       },
       {
         "id": "16173",
@@ -12628,11 +12628,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Ukraine",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 6,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 405
+        "minutesPerGoal": 420
       },
       {
         "id": "146126",
@@ -12724,11 +12724,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 19,
+        "appearances": 20,
         "goals": 5,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 342
+        "minutesPerGoal": 360
       },
       {
         "id": "16275",
@@ -12988,11 +12988,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 870
+        "minutesPerGoal": 900
       },
       {
         "id": "180061",
@@ -13168,11 +13168,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 21,
+        "appearances": 22,
         "goals": 3,
         "assists": 0,
         "penalties": 3,
-        "minutesPerGoal": 630
+        "minutesPerGoal": 660
       },
       {
         "id": "213263",
@@ -13216,11 +13216,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 3,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 990
+        "minutesPerGoal": 1020
       },
       {
         "id": "82516",
@@ -13240,11 +13240,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "France",
-        "appearances": 24,
+        "appearances": 25,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 720
+        "minutesPerGoal": 750
       },
       {
         "id": "7672",
