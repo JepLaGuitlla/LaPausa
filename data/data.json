@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T19:39:11.524Z",
+  "updatedAt": "2026-05-01T03:46:16.896Z",
   "players": [
     {
       "id": 11,
@@ -12007,6 +12007,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-30-4-26/",
+      "date": "Thu, 30 Apr 2026 21:00:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 34",
       "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j34/",
       "date": "Thu, 30 Apr 2026 19:00:30 +0000"
@@ -12046,17 +12052,11 @@
       "title": "Raphinha y Bernal, con el grupo parcialmente, ¿llegan a la jornada 34?",
       "link": "https://www.jornadaperfecta.com/blog/raphinha-bernal-vuelta-j34/",
       "date": "Thu, 30 Apr 2026 13:03:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Aimar Oroz entrena con el grupo y jugará ante el Barça",
-      "link": "https://www.jornadaperfecta.com/blog/aimar-oroz-estado-j34-osasuna/",
-      "date": "Thu, 30 Apr 2026 13:01:16 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-04-30T19:39:10.587Z",
+    "updatedAt": "2026-05-01T03:46:14.509Z",
     "players": [
       {
         "id": "3374",
