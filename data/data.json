@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T07:50:14.934Z",
+  "updatedAt": "2026-05-02T13:21:02.546Z",
   "players": [
     {
       "id": 11,
@@ -3383,7 +3383,7 @@
     {
       "id": 15396,
       "slug": "roger-brugue",
-      "name": "Brugu��",
+      "name": "Brugué",
       "position": 4,
       "price": 260000,
       "points": 29,
@@ -12007,56 +12007,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Conecta 5 Sportium Osasuna vs Barcelona: consigue hasta 5€ en freebets",
-      "link": "https://www.jornadaperfecta.com/blog/sportium-conecta-5-osasuna-vs-barcelona/",
-      "date": "Sat, 02 May 2026 07:00:15 +0000"
+      "title": "Giráldez, sobre Starfelt, Aspas, Álvaro Núñez y la defensa",
+      "link": "https://www.jornadaperfecta.com/blog/giraldez-previa-celta-elche-j34/",
+      "date": "Sat, 02 May 2026 12:15:52 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Morlanes, Kalumba y Jan Virgili acaban con problemas físicos",
-      "link": "https://www.jornadaperfecta.com/blog/morlanes-estado-molestias-tobillo/",
-      "date": "Fri, 01 May 2026 22:19:49 +0000"
+      "title": "Pellegrini analiza el estado de Isco y no descarta el quirófano para Antony",
+      "link": "https://www.jornadaperfecta.com/blog/pellegrini-previa-betis-real-oviedo-j34/",
+      "date": "Sat, 02 May 2026 11:27:12 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Once confirmado del RCD Mallorca con Samú y Muriqi",
-      "link": "https://www.jornadaperfecta.com/blog/rcd-mallorca-once-confirmado-j34-25-26/",
-      "date": "Fri, 01 May 2026 17:48:02 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Once confirmado del Girona con Fran Beltrán y Joel Roca",
-      "link": "https://www.jornadaperfecta.com/blog/girona-fc-once-confirmado-j34-25-26/",
-      "date": "Fri, 01 May 2026 17:46:11 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Gabriel Suazo, Sow y Azpilicueta siguen con el grupo",
-      "link": "https://www.jornadaperfecta.com/blog/suazo-lesion-hombro/",
-      "date": "Fri, 01 May 2026 16:00:04 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Guedes, Zubeldia y Karrikaburu siguen fuera y apuntan a baja",
+      "title": "Guedes vuelve y Zubeldia y Karrikaburu siguen fuera. ¿Llegan a la Jornada 34?",
       "link": "https://www.jornadaperfecta.com/blog/guedes-estado-j34-25-26/",
-      "date": "Fri, 01 May 2026 15:58:25 +0000"
+      "date": "Sat, 02 May 2026 10:35:25 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Flick ensaya un once con Lewandowski en punta. ¿Alinear?",
-      "link": "https://www.jornadaperfecta.com/blog/lewandowski-titularidad-j34-25-26-alinear/",
-      "date": "Fri, 01 May 2026 15:25:22 +0000"
+      "title": "Pablo Torre, Morlanes y Jan Virgili, sin problemas. Kalumba, preocupa",
+      "link": "https://www.jornadaperfecta.com/blog/morlanes-estado-molestias-tobillo/",
+      "date": "Sat, 02 May 2026 10:26:49 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Muriqi, Samú Costa y Jan Virgili corren riesgo por un virus",
-      "link": "https://www.jornadaperfecta.com/blog/muriqi-samu-costa-jan-virgili-virus-j34/",
-      "date": "Fri, 01 May 2026 15:23:39 +0000"
+      "title": "Almada deja dudas con Bailly y habla de la enfermería",
+      "link": "https://www.jornadaperfecta.com/blog/almada-previa-betis-real-oviedo-j34/",
+      "date": "Sat, 02 May 2026 10:13:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Arbeloa, sobre su futuro, Gonzalo, Mastantuono y Ceballos",
+      "link": "https://www.jornadaperfecta.com/blog/arbeloa-previa-espanyol-real-madrid-j34/",
+      "date": "Sat, 02 May 2026 09:50:06 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Parte médico de Dani Carvajal, que podría haber jugado su último partido en el Real Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/carvajal-parte-medico-dedo-pie-26/",
+      "date": "Sat, 02 May 2026 09:23:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Raphinha y Bernal reciben el alta médica y van convocados",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-bernal-vuelta-j34/",
+      "date": "Sat, 02 May 2026 09:02:58 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-02T07:50:14.933Z",
+    "updatedAt": "2026-05-02T13:21:00.348Z",
     "players": [
       {
         "id": "3374",
@@ -12227,16 +12227,28 @@
         "minutesPerGoal": 279
       },
       {
+        "id": "136646",
+        "name": "Georges Mikautadze",
+        "team": "Villarreal CF",
+        "position": "",
+        "nationality": "Georgia",
+        "appearances": 30,
+        "goals": 10,
+        "assists": 5,
+        "penalties": 0,
+        "minutesPerGoal": 270
+      },
+      {
         "id": "32762",
         "name": "Hugo Duro",
         "team": "Valencia CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 9,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 320
+        "minutesPerGoal": 330
       },
       {
         "id": "1760",
@@ -12263,28 +12275,16 @@
         "minutesPerGoal": 270
       },
       {
-        "id": "136646",
-        "name": "Georges Mikautadze",
-        "team": "Villarreal CF",
-        "position": "",
-        "nationality": "Georgia",
-        "appearances": 29,
-        "goals": 9,
-        "assists": 5,
-        "penalties": 0,
-        "minutesPerGoal": 290
-      },
-      {
         "id": "150533",
         "name": "Alberto Moleiro",
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 9,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 330
+        "minutesPerGoal": 340
       },
       {
         "id": "112678",
@@ -12304,11 +12304,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 20,
+        "appearances": 21,
         "goals": 9,
         "assists": 0,
         "penalties": 3,
-        "minutesPerGoal": 200
+        "minutesPerGoal": 210
       },
       {
         "id": "81565",
@@ -12321,6 +12321,18 @@
         "assists": 1,
         "penalties": 1,
         "minutesPerGoal": 320
+      },
+      {
+        "id": "247061",
+        "name": "Carlos Espí",
+        "team": "Levante UD",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 30,
+        "goals": 9,
+        "assists": 0,
+        "penalties": 0,
+        "minutesPerGoal": 300
       },
       {
         "id": "98571",
@@ -12383,28 +12395,16 @@
         "minutesPerGoal": 349
       },
       {
-        "id": "247061",
-        "name": "Carlos Espí",
-        "team": "Levante UD",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 29,
-        "goals": 8,
-        "assists": 0,
-        "penalties": 0,
-        "minutesPerGoal": 326
-      },
-      {
         "id": "156746",
         "name": "Iván Romero",
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 7,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 399
+        "minutesPerGoal": 411
       },
       {
         "id": "8412",
@@ -12412,11 +12412,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Ivory Coast",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 7,
         "assists": 4,
         "penalties": 1,
-        "minutesPerGoal": 424
+        "minutesPerGoal": 437
       },
       {
         "id": "33117",
@@ -12520,11 +12520,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Cameroon",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 6,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 465
+        "minutesPerGoal": 480
       },
       {
         "id": "32398",
@@ -12556,11 +12556,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Canada",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 6,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 465
+        "minutesPerGoal": 480
       },
       {
         "id": "130324",
@@ -12652,11 +12652,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Belgium",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 6,
         "assists": 1,
         "penalties": 3,
-        "minutesPerGoal": 390
+        "minutesPerGoal": 405
       },
       {
         "id": "101870",
@@ -12796,11 +12796,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Senegal",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 4,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 630
+        "minutesPerGoal": 653
       },
       {
         "id": "157135",
@@ -13000,11 +13000,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 930
+        "minutesPerGoal": 960
       },
       {
         "id": "249599",
@@ -13060,11 +13060,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Netherlands",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 960
+        "minutesPerGoal": 990
       },
       {
         "id": "21583",
@@ -13084,11 +13084,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 900
+        "minutesPerGoal": 930
       },
       {
         "id": "31913",
@@ -13180,11 +13180,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 3,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 930
+        "minutesPerGoal": 960
       },
       {
         "id": "126913",
@@ -13192,11 +13192,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 1020
+        "minutesPerGoal": 1050
       },
       {
         "id": "156967",
@@ -13252,11 +13252,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Nigeria",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 780
+        "minutesPerGoal": 810
       }
     ]
   }
