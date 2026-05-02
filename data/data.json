@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T19:17:31.385Z",
+  "updatedAt": "2026-05-02T03:21:07.658Z",
   "players": [
     {
       "id": 11,
@@ -733,19 +733,19 @@
       "name": "Darder",
       "position": 3,
       "price": 5020000,
-      "points": 143,
+      "points": 149,
       "trend": 100000,
       "playedHome": 17,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        6,
         5,
         8,
         9,
-        8,
-        2
+        8
       ],
       "clausula": null
     },
@@ -961,11 +961,11 @@
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        null,
         1,
         3,
         5,
-        7,
-        3
+        7
       ],
       "clausula": null
     },
@@ -1273,7 +1273,7 @@
         null,
         null,
         null,
-        6
+        null
       ],
       "clausula": null
     },
@@ -1349,19 +1349,19 @@
       "name": "Mascarell",
       "position": 3,
       "price": 1000000,
-      "points": 105,
+      "points": 108,
       "trend": 30000,
       "playedHome": 14,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        3,
         4,
         4,
         4,
-        4,
-        1
+        4
       ],
       "clausula": null
     },
@@ -1393,19 +1393,19 @@
       "name": "Antonio Sánchez",
       "position": 3,
       "price": 300000,
-      "points": 62,
+      "points": 65,
       "trend": 0,
       "playedHome": 16,
-      "playedAway": 11,
+      "playedAway": 12,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        3,
         null,
         3,
         2,
-        1,
-        2
+        1
       ],
       "clausula": null
     },
@@ -2105,11 +2105,11 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        null,
         3,
         null,
         null,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -2383,19 +2383,19 @@
       "name": "Fran Beltrán",
       "position": 3,
       "price": 1920000,
-      "points": 77,
+      "points": 81,
       "trend": -20000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 12,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        4,
         null,
         3,
         2,
-        5,
-        3
+        5
       ],
       "clausula": null
     },
@@ -2493,18 +2493,18 @@
       "name": "Stuani",
       "position": 4,
       "price": 310000,
-      "points": 52,
+      "points": 54,
       "trend": 0,
-      "playedHome": 7,
+      "playedHome": 8,
       "playedAway": 9,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
         2,
+        2,
         3,
         2,
-        null,
         null
       ],
       "clausula": null
@@ -2537,19 +2537,19 @@
       "name": "Maffeo",
       "position": 2,
       "price": 3120000,
-      "points": 109,
+      "points": 113,
       "trend": 0,
       "playedHome": 13,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        4,
         2,
         3,
         6,
-        6,
-        null
+        6
       ],
       "clausula": null
     },
@@ -2713,19 +2713,19 @@
       "name": "Mojica",
       "position": 2,
       "price": 3060000,
-      "points": 119,
+      "points": 125,
       "trend": 10000,
       "playedHome": 17,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        6,
         2,
         5,
         7,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -2889,18 +2889,18 @@
       "name": "Lemar",
       "position": 3,
       "price": 3040000,
-      "points": 96,
+      "points": 99,
       "trend": 30000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 13,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        3,
         4,
         2,
         11,
-        3,
         3
       ],
       "clausula": null
@@ -3095,11 +3095,11 @@
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        null,
         2,
         5,
         4,
-        5,
-        2
+        5
       ],
       "clausula": null
     },
@@ -3320,19 +3320,19 @@
       "name": "Leo Román",
       "position": 1,
       "price": 3010000,
-      "points": 142,
+      "points": 152,
       "trend": 30000,
       "playedHome": 15,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        10,
         4,
         7,
         7,
-        9,
-        2
+        9
       ],
       "clausula": null
     },
@@ -3650,19 +3650,19 @@
       "name": "Morlanes",
       "position": 3,
       "price": 1040000,
-      "points": 94,
+      "points": 98,
       "trend": 20000,
       "playedHome": 14,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
         4,
+        4,
         5,
         3,
-        11,
-        3
+        11
       ],
       "clausula": null
     },
@@ -4002,18 +4002,18 @@
       "name": "Bryan Gil",
       "position": 4,
       "price": 1940000,
-      "points": 90,
+      "points": 93,
       "trend": -10000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 14,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
         3,
+        3,
         null,
         2,
-        null,
         null
       ],
       "clausula": null
@@ -4288,18 +4288,18 @@
       "name": "Valjent",
       "position": 2,
       "price": 3050000,
-      "points": 111,
+      "points": 116,
       "trend": 10000,
       "playedHome": 16,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        5,
         3,
         7,
         null,
-        5,
         5
       ],
       "clausula": null
@@ -4318,10 +4318,10 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        null,
         2,
         null,
         1,
-        null,
         null
       ],
       "clausula": null
@@ -5321,19 +5321,19 @@
       "name": "Gazzaniga",
       "position": 1,
       "price": 2810000,
-      "points": 138,
+      "points": 141,
       "trend": 0,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 15,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        3,
         4,
         -1,
         9,
-        2,
-        10
+        2
       ],
       "clausula": null
     },
@@ -5673,17 +5673,17 @@
       "name": "Javi Llabrés",
       "position": 4,
       "price": 150000,
-      "points": 22,
+      "points": 25,
       "trend": 0,
       "playedHome": 6,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        3,
         null,
         2,
-        null,
         null,
         null
       ],
@@ -5827,19 +5827,19 @@
       "name": "Muriqi",
       "position": 4,
       "price": 18090000,
-      "points": 226,
+      "points": 227,
       "trend": 60000,
       "playedHome": 16,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        1,
         2,
         3,
         16,
-        12,
-        -2
+        12
       ],
       "clausula": null
     },
@@ -5893,19 +5893,19 @@
       "name": "Samú Costa",
       "position": 3,
       "price": 5450000,
-      "points": 170,
+      "points": 183,
       "trend": 40000,
       "playedHome": 14,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        13,
         5,
         12,
         7,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -5981,19 +5981,19 @@
       "name": "Arnau Martínez",
       "position": 2,
       "price": 3520000,
-      "points": 128,
+      "points": 132,
       "trend": 10000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 15,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        4,
         2,
         2,
         5,
-        7,
-        3
+        7
       ],
       "clausula": null
     },
@@ -6201,19 +6201,19 @@
       "name": "Witsel",
       "position": 3,
       "price": 4490000,
-      "points": 117,
+      "points": 121,
       "trend": 40000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 14,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        4,
         7,
         4,
         3,
-        7,
-        4
+        7
       ],
       "clausula": null
     },
@@ -6333,19 +6333,19 @@
       "name": "Pablo Torre",
       "position": 3,
       "price": 6180000,
-      "points": 121,
+      "points": 126,
       "trend": 50000,
       "playedHome": 15,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        5,
         3,
         5,
         9,
-        5,
-        11
+        5
       ],
       "clausula": null
     },
@@ -6357,7 +6357,7 @@
       "price": 600000,
       "points": 38,
       "trend": 0,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 17,
       "teamName": "Girona",
       "teamId": 289,
@@ -6365,9 +6365,9 @@
       "jForm": [
         0,
         0,
+        0,
         1,
-        3,
-        0
+        3
       ],
       "clausula": null
     },
@@ -6509,19 +6509,19 @@
       "name": "Joel Roca",
       "position": 4,
       "price": 970000,
-      "points": 96,
+      "points": 98,
       "trend": 100000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 13,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        2,
         10,
         5,
         null,
-        1,
-        3
+        1
       ],
       "clausula": null
     },
@@ -6861,19 +6861,19 @@
       "name": "Tsygankov",
       "position": 4,
       "price": 5210000,
-      "points": 136,
+      "points": 138,
       "trend": 40000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 15,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
         2,
+        2,
         11,
         1,
-        6,
-        3
+        6
       ],
       "clausula": null
     },
@@ -7389,19 +7389,19 @@
       "name": "Blind",
       "position": 2,
       "price": 7240000,
-      "points": 138,
+      "points": 141,
       "trend": -40000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 15,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        3,
         2,
         3,
         null,
-        9,
-        3
+        9
       ],
       "clausula": null
     },
@@ -8169,9 +8169,9 @@
       "jForm": [
         null,
         null,
+        null,
         1,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -8299,8 +8299,8 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
-        3,
         null,
+        3,
         null,
         null,
         null
@@ -8322,9 +8322,9 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         1,
         4,
-        null,
         null
       ],
       "clausula": null
@@ -8389,8 +8389,8 @@
       "jForm": [
         null,
         null,
-        3,
         null,
+        3,
         null
       ],
       "clausula": null
@@ -8511,19 +8511,19 @@
       "name": "Francés",
       "position": 2,
       "price": 1030000,
-      "points": 70,
+      "points": 74,
       "trend": 70000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 10,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        4,
         9,
         null,
         6,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -9149,19 +9149,19 @@
       "name": "David López",
       "position": 2,
       "price": 380000,
-      "points": 36,
+      "points": 39,
       "trend": 0,
       "playedHome": 5,
-      "playedAway": 5,
+      "playedAway": 6,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
         3,
         3,
+        3,
         5,
-        5,
-        null
+        5
       ],
       "clausula": null
     },
@@ -9897,19 +9897,19 @@
       "name": "Hugo Rincón",
       "position": 2,
       "price": 1200000,
-      "points": 98,
+      "points": 101,
       "trend": 10000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 14,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        3,
         8,
         1,
         2,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -9960,7 +9960,7 @@
     {
       "id": 38072,
       "slug": "andres-castrin",
-      "name": "Andr��s Castrín",
+      "name": "Andrés Castrín",
       "position": 2,
       "price": 480000,
       "points": 64,
@@ -10458,8 +10458,8 @@
         null,
         null,
         null,
-        4,
-        3
+        null,
+        4
       ],
       "clausula": null
     },
@@ -10491,19 +10491,19 @@
       "name": "Vitor Reis",
       "position": 2,
       "price": 4830000,
-      "points": 135,
+      "points": 141,
       "trend": 40000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 16,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        6,
         3,
         3,
         7,
-        7,
-        6
+        7
       ],
       "clausula": null
     },
@@ -10733,19 +10733,19 @@
       "name": "Jan Virgili",
       "position": 4,
       "price": 4510000,
-      "points": 106,
+      "points": 109,
       "trend": 160000,
       "playedHome": 13,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        3,
         9,
         8,
         10,
-        4,
-        null
+        4
       ],
       "clausula": null
     },
@@ -10799,19 +10799,19 @@
       "name": "Ounahi",
       "position": 3,
       "price": 11390000,
-      "points": 134,
+      "points": 139,
       "trend": 40000,
-      "playedHome": 9,
+      "playedHome": 10,
       "playedAway": 10,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
         5,
+        5,
         9,
         1,
-        6,
-        3
+        6
       ],
       "clausula": null
     },
@@ -10898,8 +10898,8 @@
         null,
         null,
         null,
-        2,
-        -1
+        null,
+        2
       ],
       "clausula": null
     },
@@ -11327,19 +11327,19 @@
       "name": "Demichelis",
       "position": 5,
       "price": 440000,
-      "points": 11,
+      "points": 14,
       "trend": 0,
       "playedHome": 5,
-      "playedAway": 3,
+      "playedAway": 4,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        3,
         0,
         1,
         3,
-        3,
-        0
+        3
       ],
       "clausula": null
     },
@@ -11437,19 +11437,19 @@
       "name": "Kalumba",
       "position": 4,
       "price": 150000,
-      "points": 5,
+      "points": 7,
       "trend": 0,
       "playedHome": 1,
-      "playedAway": 1,
+      "playedAway": 2,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        2,
         null,
         null,
         null,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -11525,19 +11525,19 @@
       "name": "Echeverri",
       "position": 3,
       "price": 2440000,
-      "points": 47,
+      "points": 50,
       "trend": 30000,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 7,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        3,
         2,
         6,
         1,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -11877,19 +11877,19 @@
       "name": "Luvumbo",
       "position": 4,
       "price": 1590000,
-      "points": 27,
+      "points": 30,
       "trend": 120000,
       "playedHome": 5,
-      "playedAway": 1,
+      "playedAway": 2,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        3,
         null,
         null,
         8,
-        5,
-        6
+        5
       ],
       "clausula": null
     },
@@ -12007,6 +12007,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Morlanes, Kalumba y Jan Virgili acaban con problemas físicos",
+      "link": "https://www.jornadaperfecta.com/blog/morlanes-estado-molestias-tobillo/",
+      "date": "Fri, 01 May 2026 22:19:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Once confirmado del RCD Mallorca con Samú y Muriqi",
       "link": "https://www.jornadaperfecta.com/blog/rcd-mallorca-once-confirmado-j34-25-26/",
       "date": "Fri, 01 May 2026 17:48:02 +0000"
@@ -12046,17 +12052,11 @@
       "title": "Flick confirma la vuelta de Raphinha y Marc Bernal",
       "link": "https://www.jornadaperfecta.com/blog/flick-previa-osasuna-barcelona-j34/",
       "date": "Fri, 01 May 2026 15:22:45 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡5 mayores riesgos fantasy para la jornada 34 de LaLiga!",
-      "link": "https://www.jornadaperfecta.com/blog/riesgos-fantasy-j34-25-26/",
-      "date": "Fri, 01 May 2026 15:20:04 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-01T19:17:31.385Z",
+    "updatedAt": "2026-05-02T03:21:06.593Z",
     "players": [
       {
         "id": "3374",
@@ -12467,6 +12467,18 @@
         "minutesPerGoal": 309
       },
       {
+        "id": "140814",
+        "name": "Samuel Almeida Costa",
+        "team": "RCD Mallorca",
+        "position": "",
+        "nationality": "Portugal",
+        "appearances": 31,
+        "goals": 7,
+        "assists": 2,
+        "penalties": 0,
+        "minutesPerGoal": 399
+      },
+      {
         "id": "3331",
         "name": "Marcus Rashford",
         "team": "FC Barcelona",
@@ -12609,18 +12621,6 @@
         "assists": 2,
         "penalties": 2,
         "minutesPerGoal": 480
-      },
-      {
-        "id": "140814",
-        "name": "Samuel Almeida Costa",
-        "team": "RCD Mallorca",
-        "position": "",
-        "nationality": "Portugal",
-        "appearances": 31,
-        "goals": 6,
-        "assists": 2,
-        "penalties": 0,
-        "minutesPerGoal": 465
       },
       {
         "id": "16173",
