@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T08:05:49.307Z",
+  "updatedAt": "2026-05-03T13:20:01.716Z",
   "players": [
     {
       "id": 11,
@@ -12011,56 +12011,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Matarazzo, sobre Guedes, Óskarsson, Oyarzabal y el Sevilla",
+      "link": "https://www.jornadaperfecta.com/blog/matarazzo-previa-sevilla-real-sociedad-j34/",
+      "date": "Sun, 03 May 2026 12:26:03 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Guedes, Zubeldia y Karrikaburu no llegan a la Jornada 34",
+      "link": "https://www.jornadaperfecta.com/blog/guedes-estado-j34-25-26/",
+      "date": "Sun, 03 May 2026 11:35:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Cyril Ngonge, baja de última hora en el Espanyol",
+      "link": "https://www.jornadaperfecta.com/blog/cyril-ngonge-estado-j34-25-26/",
+      "date": "Sun, 03 May 2026 11:15:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Rafa Mir, fuera de la convocatoria por molestias",
+      "link": "https://www.jornadaperfecta.com/blog/rafa-mir-estado-molestias-26/",
+      "date": "Sun, 03 May 2026 11:11:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "García Plaza, sobre el mediocampo, Suazo y la vuelta de Azpilicueta",
+      "link": "https://www.jornadaperfecta.com/blog/garcia-plaza-previa-sevilla-real-sociedad-j34/",
+      "date": "Sun, 03 May 2026 10:29:45 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Gabriel Suazo entrena con un aparatoso vendaje en el hombro",
+      "link": "https://www.jornadaperfecta.com/blog/suazo-lesion-hombro/",
+      "date": "Sun, 03 May 2026 09:50:04 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Borja Mayoral vuelve a una convocatoria con el Getafe",
+      "link": "https://www.jornadaperfecta.com/blog/borja-mayoral-recuperacion-getafe-cf/",
+      "date": "Sun, 03 May 2026 09:40:16 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "CuotaPlus MARCAapuestas Espanyol vs Real Madrid: mejora tu cuota un 25%",
       "link": "https://www.jornadaperfecta.com/blog/marcaapuestas-cuotaplus-espanyol-vs-real-madrid/",
       "date": "Sun, 03 May 2026 07:00:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Pedri y Eric García acaban tocados en la Jornada 34. ¿Preocupan?",
-      "link": "https://www.jornadaperfecta.com/blog/pedri-eric-garcia-estado-molestias-26/",
-      "date": "Sat, 02 May 2026 22:01:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Manolo González, sobre la mala dinámica y el Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/manolo-gonzalez-previa-espanyol-real-madrid-j34/",
-      "date": "Sat, 02 May 2026 16:53:32 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Iñigo Pérez sobre el estado de Óscar Valentín y Álvaro García",
-      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-getafe-rayo-j34/",
-      "date": "Sat, 02 May 2026 16:25:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Parte médico de Manu Bueno, que sufre una lesión de rodilla",
-      "link": "https://www.jornadaperfecta.com/blog/manu-bueno-parte-medico-lesion-rodilla-26/",
-      "date": "Sat, 02 May 2026 15:53:29 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Tunde sufre una recaída e Iván Romero, un golpe. ¿Preocupan?",
-      "link": "https://www.jornadaperfecta.com/blog/tunde-estado-recaida-muscular-26/",
-      "date": "Sat, 02 May 2026 15:35:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Carlos Álvarez vuelve a sufrir una lesión de tobillo y preocupa",
-      "link": "https://www.jornadaperfecta.com/blog/carlos-alvarez-lesion-tobillo-26/",
-      "date": "Sat, 02 May 2026 15:19:16 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Giráldez, sobre Starfelt, Aspas, Álvaro Núñez y la defensa",
-      "link": "https://www.jornadaperfecta.com/blog/giraldez-previa-celta-elche-j34/",
-      "date": "Sat, 02 May 2026 12:15:52 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-03T08:05:49.307Z",
+    "updatedAt": "2026-05-03T13:20:01.716Z",
     "players": [
       {
         "id": "3374",
@@ -12152,11 +12152,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 13,
         "assists": 1,
         "penalties": 4,
-        "minutesPerGoal": 222
+        "minutesPerGoal": 228
       },
       {
         "id": "371",
@@ -12236,11 +12236,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 10,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 279
+        "minutesPerGoal": 288
       },
       {
         "id": "150533",
@@ -12272,11 +12272,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 9,
         "assists": 0,
         "penalties": 2,
-        "minutesPerGoal": 280
+        "minutesPerGoal": 290
       },
       {
         "id": "160819",
@@ -12536,11 +12536,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 7,
-        "assists": 2,
+        "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 386
+        "minutesPerGoal": 399
       },
       {
         "id": "203439",
@@ -12644,11 +12644,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 6,
         "assists": 2,
         "penalties": 2,
-        "minutesPerGoal": 480
+        "minutesPerGoal": 495
       },
       {
         "id": "16173",
@@ -12771,16 +12771,28 @@
         "minutesPerGoal": 594
       },
       {
+        "id": "3201",
+        "name": "Iago Aspas",
+        "team": "RC Celta de Vigo",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 33,
+        "goals": 5,
+        "assists": 3,
+        "penalties": 2,
+        "minutesPerGoal": 594
+      },
+      {
         "id": "189369",
         "name": "Alvaro Rodriguez",
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 5,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 576
+        "minutesPerGoal": 594
       },
       {
         "id": "96",
@@ -12855,6 +12867,18 @@
         "minutesPerGoal": 608
       },
       {
+        "id": "175869",
+        "name": "Hugo Alvarez",
+        "team": "RC Celta de Vigo",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 30,
+        "goals": 4,
+        "assists": 1,
+        "penalties": 0,
+        "minutesPerGoal": 675
+      },
+      {
         "id": "171964",
         "name": "Giuliano Simeone",
         "team": "Club Atlético de Madrid",
@@ -12896,11 +12920,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 16,
+        "appearances": 17,
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 360
+        "minutesPerGoal": 383
       },
       {
         "id": "191053",
@@ -12912,18 +12936,6 @@
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 720
-      },
-      {
-        "id": "3201",
-        "name": "Iago Aspas",
-        "team": "RC Celta de Vigo",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 32,
-        "goals": 4,
-        "assists": 3,
-        "penalties": 2,
         "minutesPerGoal": 720
       },
       {
@@ -12956,11 +12968,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Sweden",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 4,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 585
+        "minutesPerGoal": 608
       },
       {
         "id": "217658",
@@ -12980,11 +12992,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 14,
+        "appearances": 15,
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 315
+        "minutesPerGoal": 338
       },
       {
         "id": "33496",
@@ -13028,11 +13040,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 870
+        "minutesPerGoal": 900
       },
       {
         "id": "101182",
@@ -13045,18 +13057,6 @@
         "assists": 5,
         "penalties": 0,
         "minutesPerGoal": 810
-      },
-      {
-        "id": "175869",
-        "name": "Hugo Alvarez",
-        "team": "RC Celta de Vigo",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 29,
-        "goals": 3,
-        "assists": 1,
-        "penalties": 0,
-        "minutesPerGoal": 870
       },
       {
         "id": "9870",
@@ -13208,11 +13208,11 @@
         "team": "Getafe CF",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 13,
+        "appearances": 14,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 390
+        "minutesPerGoal": 420
       },
       {
         "id": "159520",
