@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T14:11:28.099Z",
+  "updatedAt": "2026-05-04T19:45:56.587Z",
   "players": [
     {
       "id": 11,
@@ -12011,56 +12011,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Raphinha, de vuelta para los últimos partidos. ¿El jugador más TOP a fichar?",
-      "link": "https://www.jornadaperfecta.com/blog/raphinha-analisis-recuperacion-lesion-26/",
-      "date": "Mon, 04 May 2026 13:00:06 +0000"
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J35 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j35-laliga/",
+      "date": "Mon, 04 May 2026 19:00:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Yago Santiago dice adiós a la temporada: Parte médico oficial",
+      "link": "https://www.jornadaperfecta.com/blog/yago-santiago-artroscopia-rodilla-elche/",
+      "date": "Mon, 04 May 2026 18:03:31 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Simeone, sobre el estado de Sorloth, Giuliano y Julián Alvarez",
+      "link": "https://www.jornadaperfecta.com/blog/simeone-previa-semis-champions-vuelta/",
+      "date": "Mon, 04 May 2026 17:08:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Nico Williams vuelve a ofrecer su mejor versión, ¿chollo fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/nico-williams-chollo-fantasy-athletic/",
+      "date": "Mon, 04 May 2026 17:00:06 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Satriano sufre una distensión en la rodilla, a la espera de más pruebas médicas",
+      "link": "https://www.jornadaperfecta.com/blog/satriano-estado-rodilla-26/",
+      "date": "Mon, 04 May 2026 15:30:03 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Ferland Mendy: Parte médico oficial y tiempo de baja",
+      "link": "https://www.jornadaperfecta.com/blog/ferland-mendy-parte-medico-real-madrid/",
+      "date": "Mon, 04 May 2026 14:38:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Atlético, alineación probable contra el Arsenal y dónde ver en TV",
+      "link": "https://www.jornadaperfecta.com/blog/atletico-alineacion-probable-arsenal-vuelta-26/",
+      "date": "Mon, 04 May 2026 14:29:55 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "BigUp: Gana dinero real con tus pronósticos del Sevilla &#8211; Real Sociedad",
       "link": "https://www.jornadaperfecta.com/blog/bigup-sevilla-real-sociedad-pronosticos-25-26/",
-      "date": "Mon, 04 May 2026 12:20:48 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Courtois completa el entrenamiento y Mbappé sigue su recuperación. ¿Llegan a El Clásico?",
-      "link": "https://www.jornadaperfecta.com/blog/courtois-mbappe-vuelta-el-clasico/",
-      "date": "Mon, 04 May 2026 12:13:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Iván Romero cae lesionado: Parte médico y tiempo de baja",
-      "link": "https://www.jornadaperfecta.com/blog/ivan-romero-lesion-tibial/",
-      "date": "Mon, 04 May 2026 11:51:03 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Marcelino no continuará siendo entrenador del Villarreal",
-      "link": "https://www.jornadaperfecta.com/blog/marcelino-adios-entrenador-villarreal/",
-      "date": "Mon, 04 May 2026 11:25:56 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Arsenal vs Atlético: cuotas, apuestas y bono de 888Sport &#124; Champions League",
-      "link": "https://www.jornadaperfecta.com/blog/888sport-arsenal-vs-atletico-cuotas/",
-      "date": "Mon, 04 May 2026 11:24:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Kylian Mbappé quiere llegar al Clásico. ¿Merece la pena ficharle en fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/mbappe-analisis-vuelta-lesion-muscular-26/",
-      "date": "Mon, 04 May 2026 11:00:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Julián, Sorloth, Giuliano y Giménez en la lista de Champions",
-      "link": "https://www.jornadaperfecta.com/blog/julian-sorloth-giuliano-y-gimenez-ok-champions/",
-      "date": "Mon, 04 May 2026 10:51:28 +0000"
+      "date": "Mon, 04 May 2026 13:20:48 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-04T14:11:27.834Z",
+    "updatedAt": "2026-05-04T19:45:56.586Z",
     "players": [
       {
         "id": "3374",
@@ -12152,11 +12152,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 14,
         "assists": 3,
         "penalties": 6,
-        "minutesPerGoal": 193
+        "minutesPerGoal": 199
       },
       {
         "id": "371",
@@ -12392,11 +12392,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Nigeria",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 8,
         "assists": 3,
         "penalties": 3,
-        "minutesPerGoal": 315
+        "minutesPerGoal": 326
       },
       {
         "id": "175941",
@@ -12596,11 +12596,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Iceland",
-        "appearances": 17,
+        "appearances": 18,
         "goals": 6,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 255
+        "minutesPerGoal": 270
       },
       {
         "id": "214533",
@@ -12728,11 +12728,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 5,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 522
+        "minutesPerGoal": 540
       },
       {
         "id": "122511",
@@ -12896,11 +12896,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 4,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 653
+        "minutesPerGoal": 675
       },
       {
         "id": "169162",
@@ -12944,11 +12944,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 4,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 653
+        "minutesPerGoal": 675
       },
       {
         "id": "125010",
@@ -13052,11 +13052,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 3,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 810
+        "minutesPerGoal": 840
       },
       {
         "id": "9870",
@@ -13100,11 +13100,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Switzerland",
-        "appearances": 19,
+        "appearances": 20,
         "goals": 3,
         "assists": 5,
         "penalties": 1,
-        "minutesPerGoal": 570
+        "minutesPerGoal": 600
       },
       {
         "id": "7911",
@@ -13112,11 +13112,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Chile",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 3,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 780
+        "minutesPerGoal": 810
       },
       {
         "id": "11040",
@@ -13232,11 +13232,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Croatia",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 900
+        "minutesPerGoal": 930
       },
       {
         "id": "3369",
