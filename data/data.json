@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T19:45:56.587Z",
+  "updatedAt": "2026-05-05T03:23:14.100Z",
   "players": [
     {
       "id": 11,
@@ -1182,9 +1182,9 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
         2,
-        3,
         3
       ],
       "clausula": null
@@ -1591,19 +1591,19 @@
       "name": "Barrenetxea",
       "position": 3,
       "price": 5390000,
-      "points": 130,
+      "points": 129,
       "trend": 40000,
       "playedHome": 15,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        -1,
         4,
         7,
         4,
-        6,
-        -1
+        6
       ],
       "clausula": null
     },
@@ -1613,19 +1613,19 @@
       "name": "Oyarzabal",
       "position": 4,
       "price": 17110000,
-      "points": 199,
+      "points": 201,
       "trend": 50000,
       "playedHome": 14,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        2,
         17,
         2,
         null,
-        5,
-        1
+        5
       ],
       "clausula": null
     },
@@ -2031,19 +2031,19 @@
       "name": "Soler",
       "position": 3,
       "price": 9510000,
-      "points": 134,
+      "points": 137,
       "trend": 30000,
       "playedHome": 14,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        3,
         4,
         5,
         3,
-        9,
-        4
+        9
       ],
       "clausula": null
     },
@@ -2075,19 +2075,19 @@
       "name": "Remiro",
       "position": 1,
       "price": 3460000,
-      "points": 143,
+      "points": 149,
       "trend": -20000,
       "playedHome": 17,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        6,
         3,
         2,
         2,
-        9,
-        8
+        9
       ],
       "clausula": null
     },
@@ -2131,7 +2131,7 @@
         null,
         null,
         null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -2855,9 +2855,9 @@
       "jForm": [
         null,
         null,
+        null,
         3,
-        7,
-        1
+        7
       ],
       "clausula": null
     },
@@ -2920,10 +2920,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
         2,
-        8,
-        -1
+        8
       ],
       "clausula": null
     },
@@ -3882,10 +3882,10 @@
       "teamId": 13,
       "status": "ok",
       "jForm": [
-        2,
-        2,
-        2,
         null,
+        2,
+        2,
+        2,
         null
       ],
       "clausula": null
@@ -3896,16 +3896,16 @@
       "name": "Yangel Herrera",
       "position": 3,
       "price": 780000,
-      "points": 27,
+      "points": 31,
       "trend": 0,
       "playedHome": 5,
-      "playedAway": 6,
+      "playedAway": 7,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        4,
         2,
-        null,
         null,
         null,
         null
@@ -4336,19 +4336,19 @@
       "name": "Gudelj",
       "position": 3,
       "price": 1010000,
-      "points": 96,
+      "points": 99,
       "trend": 0,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 15,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        3,
         0,
         2,
         11,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -4490,19 +4490,19 @@
       "name": "Sergio Gómez",
       "position": 2,
       "price": 3390000,
-      "points": 117,
+      "points": 120,
       "trend": 40000,
       "playedHome": 15,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        3,
         8,
         null,
         -2,
-        7,
-        0
+        7
       ],
       "clausula": null
     },
@@ -4820,18 +4820,18 @@
       "name": "Kubo",
       "position": 3,
       "price": 8060000,
-      "points": 111,
+      "points": 116,
       "trend": 40000,
       "playedHome": 11,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        5,
         2,
         5,
         6,
-        null,
         null
       ],
       "clausula": null
@@ -5018,14 +5018,15 @@
       "name": "Luis García",
       "position": 5,
       "price": 340000,
-      "points": 3,
+      "points": 6,
       "trend": 0,
-      "playedHome": 1,
+      "playedHome": 2,
       "playedAway": 3,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        3,
         0,
         0,
         3,
@@ -5545,19 +5546,19 @@
       "name": "Turrientes",
       "position": 3,
       "price": 1530000,
-      "points": 92,
+      "points": 94,
       "trend": -20000,
       "playedHome": 14,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        2,
         3,
         3,
         2,
-        5,
-        null
+        5
       ],
       "clausula": null
     },
@@ -5721,19 +5722,19 @@
       "name": "Juanlu",
       "position": 3,
       "price": 1460000,
-      "points": 87,
+      "points": 91,
       "trend": -20000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 14,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        4,
         2,
         4,
         5,
-        7,
-        3
+        7
       ],
       "clausula": null
     },
@@ -6060,10 +6061,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
         4,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -6456,8 +6457,8 @@
       "status": "ok",
       "jForm": [
         null,
-        3,
         null,
+        3,
         null,
         null
       ],
@@ -6480,8 +6481,8 @@
         null,
         null,
         null,
-        -6,
-        null
+        null,
+        -6
       ],
       "clausula": null
     },
@@ -6535,18 +6536,18 @@
       "name": "Carmona",
       "position": 2,
       "price": 1080000,
-      "points": 98,
+      "points": 103,
       "trend": -10000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 16,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        5,
         -1,
         2,
         null,
-        3,
         3
       ],
       "clausula": null
@@ -6711,19 +6712,19 @@
       "name": "Kike Salas",
       "position": 2,
       "price": 3000000,
-      "points": 101,
+      "points": 109,
       "trend": -40000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 10,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        8,
         -1,
         2,
         6,
-        3,
-        4
+        3
       ],
       "clausula": null
     },
@@ -6777,19 +6778,19 @@
       "name": "Pablo Marín",
       "position": 3,
       "price": 650000,
-      "points": 72,
+      "points": 74,
       "trend": 20000,
       "playedHome": 15,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        2,
         6,
         2,
         2,
-        6,
-        null
+        6
       ],
       "clausula": null
     },
@@ -7361,7 +7362,7 @@
         null,
         null,
         null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -7467,11 +7468,11 @@
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        null,
         3,
         2,
         5,
-        2,
-        4
+        2
       ],
       "clausula": null
     },
@@ -7559,7 +7560,7 @@
         null,
         null,
         null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -7657,19 +7658,19 @@
       "name": "Aramburu",
       "position": 2,
       "price": 2380000,
-      "points": 109,
+      "points": 111,
       "trend": -30000,
       "playedHome": 17,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        2,
         1,
         4,
         4,
-        6,
-        2
+        6
       ],
       "clausula": null
     },
@@ -7767,19 +7768,19 @@
       "name": "Agoumé",
       "position": 3,
       "price": 1790000,
-      "points": 118,
+      "points": 122,
       "trend": 60000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 15,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        4,
         6,
         6,
         3,
-        null,
-        0
+        null
       ],
       "clausula": null
     },
@@ -7789,18 +7790,18 @@
       "name": "Isaac Romero",
       "position": 4,
       "price": 570000,
-      "points": 68,
+      "points": 70,
       "trend": 0,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 13,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        2,
         -1,
         3,
         6,
-        2,
         2
       ],
       "clausula": null
@@ -7987,19 +7988,19 @@
       "name": "Jon Martín",
       "position": 2,
       "price": 3560000,
-      "points": 95,
+      "points": 102,
       "trend": 40000,
       "playedHome": 11,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        7,
         4,
         6,
         null,
-        11,
-        3
+        11
       ],
       "clausula": null
     },
@@ -8053,19 +8054,19 @@
       "name": "Ejuke",
       "position": 4,
       "price": 470000,
-      "points": 83,
+      "points": 89,
       "trend": -10000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 12,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        6,
         null,
         1,
         null,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -8429,16 +8430,16 @@
       "price": 510000,
       "points": 84,
       "trend": -10000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 13,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        0,
         3,
         3,
         3,
-        null,
         null
       ],
       "clausula": null
@@ -8537,19 +8538,19 @@
       "name": "Luka Sucic",
       "position": 3,
       "price": 3800000,
-      "points": 72,
+      "points": 75,
       "trend": -60000,
       "playedHome": 7,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        3,
         2,
         null,
         12,
-        5,
-        12
+        5
       ],
       "clausula": null
     },
@@ -8823,18 +8824,18 @@
       "name": "Óskarsson",
       "position": 4,
       "price": 2320000,
-      "points": 73,
+      "points": 75,
       "trend": 50000,
       "playedHome": 9,
-      "playedAway": 7,
+      "playedAway": 8,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        2,
         7,
         2,
         9,
-        2,
         2
       ],
       "clausula": null
@@ -8999,19 +9000,19 @@
       "name": "Rubén Vargas",
       "position": 4,
       "price": 3170000,
-      "points": 86,
+      "points": 89,
       "trend": 0,
-      "playedHome": 9,
+      "playedHome": 10,
       "playedAway": 10,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
         3,
+        3,
         2,
         5,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -9139,11 +9140,11 @@
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        null,
         3,
         1,
         9,
-        1,
-        2
+        1
       ],
       "clausula": null
     },
@@ -9219,18 +9220,18 @@
       "name": "Caleta-Car",
       "position": 2,
       "price": 1290000,
-      "points": 89,
+      "points": 94,
       "trend": -10000,
       "playedHome": 12,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        5,
         2,
         4,
         -1,
-        4,
         4
       ],
       "clausula": null
@@ -9879,19 +9880,19 @@
       "name": "Gorrotxategi",
       "position": 3,
       "price": 2020000,
-      "points": 111,
+      "points": 114,
       "trend": -20000,
       "playedHome": 13,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        3,
         2,
         2,
         null,
-        null,
-        -1
+        null
       ],
       "clausula": null
     },
@@ -9967,18 +9968,18 @@
       "name": "Andrés Castrín",
       "position": 2,
       "price": 480000,
-      "points": 64,
+      "points": 69,
       "trend": 0,
-      "playedHome": 7,
+      "playedHome": 8,
       "playedAway": 8,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        5,
         2,
         5,
         6,
-        3,
         3
       ],
       "clausula": null
@@ -10209,19 +10210,19 @@
       "name": "Gabriel Suazo",
       "position": 2,
       "price": 680000,
-      "points": 72,
+      "points": 81,
       "trend": -10000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 14,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        9,
         0,
         null,
         0,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -10539,19 +10540,19 @@
       "name": "Odysseas",
       "position": 1,
       "price": 2000000,
-      "points": 138,
+      "points": 141,
       "trend": 10000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 15,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        3,
         9,
         1,
         3,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -10957,19 +10958,19 @@
       "name": "Batista",
       "position": 3,
       "price": 730000,
-      "points": 90,
+      "points": 95,
       "trend": -10000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 12,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        5,
         -1,
         null,
         0,
-        3,
-        7
+        3
       ],
       "clausula": null
     },
@@ -10979,19 +10980,19 @@
       "name": "Alexis Sánchez",
       "position": 4,
       "price": 640000,
-      "points": 82,
+      "points": 91,
       "trend": -10000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 11,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        9,
         null,
         2,
         2,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -11113,17 +11114,17 @@
       "price": 2400000,
       "points": 71,
       "trend": -20000,
-      "playedHome": 8,
+      "playedHome": 9,
       "playedAway": 8,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        0,
         5,
         2,
         2,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -11224,16 +11225,16 @@
       "points": 26,
       "trend": 0,
       "playedHome": 9,
-      "playedAway": 7,
+      "playedAway": 8,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        0,
         1,
         0,
         1,
-        3,
-        0
+        3
       ],
       "clausula": null
     },
@@ -11617,19 +11618,19 @@
       "name": "Maupay",
       "position": 4,
       "price": 1280000,
-      "points": 29,
+      "points": 33,
       "trend": 30000,
-      "playedHome": 3,
+      "playedHome": 4,
       "playedAway": 4,
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
       "jForm": [
+        4,
         9,
         null,
         null,
-        null,
-        0
+        null
       ],
       "clausula": null
     },
@@ -11727,17 +11728,17 @@
       "name": "Wesley",
       "position": 4,
       "price": 210000,
-      "points": 6,
+      "points": 8,
       "trend": 0,
       "playedHome": 2,
-      "playedAway": 2,
+      "playedAway": 3,
       "teamName": "Real Sociedad",
       "teamId": 13,
       "status": "ok",
       "jForm": [
-        null,
         2,
         null,
+        2,
         null,
         null
       ],
@@ -12011,9 +12012,27 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-4-5-26/",
+      "date": "Mon, 04 May 2026 21:00:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Isaac Romero pide el cambio y es sustituido al descanso",
+      "link": "https://www.jornadaperfecta.com/blog/isaac-romero-lesion-sevilla-fc/",
+      "date": "Mon, 04 May 2026 20:27:54 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Chollos Fantasy que Tienes que Fichar YA para la J35 de Biwenger",
       "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j35-laliga/",
       "date": "Mon, 04 May 2026 19:00:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Ferland Mendy: Parte médico oficial y tiempo de baja",
+      "link": "https://www.jornadaperfecta.com/blog/ferland-mendy-parte-medico-real-madrid/",
+      "date": "Mon, 04 May 2026 18:38:01 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12038,29 +12057,11 @@
       "title": "Satriano sufre una distensión en la rodilla, a la espera de más pruebas médicas",
       "link": "https://www.jornadaperfecta.com/blog/satriano-estado-rodilla-26/",
       "date": "Mon, 04 May 2026 15:30:03 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ferland Mendy: Parte médico oficial y tiempo de baja",
-      "link": "https://www.jornadaperfecta.com/blog/ferland-mendy-parte-medico-real-madrid/",
-      "date": "Mon, 04 May 2026 14:38:01 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Atlético, alineación probable contra el Arsenal y dónde ver en TV",
-      "link": "https://www.jornadaperfecta.com/blog/atletico-alineacion-probable-arsenal-vuelta-26/",
-      "date": "Mon, 04 May 2026 14:29:55 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "BigUp: Gana dinero real con tus pronósticos del Sevilla &#8211; Real Sociedad",
-      "link": "https://www.jornadaperfecta.com/blog/bigup-sevilla-real-sociedad-pronosticos-25-26/",
-      "date": "Mon, 04 May 2026 13:20:48 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-04T19:45:56.586Z",
+    "updatedAt": "2026-05-05T03:23:14.100Z",
     "players": [
       {
         "id": "3374",
@@ -12927,6 +12928,18 @@
         "minutesPerGoal": 383
       },
       {
+        "id": "7911",
+        "name": "Alexis Sánchez",
+        "team": "Sevilla FC",
+        "position": "",
+        "nationality": "Chile",
+        "appearances": 27,
+        "goals": 4,
+        "assists": 1,
+        "penalties": 1,
+        "minutesPerGoal": 608
+      },
+      {
         "id": "191053",
         "name": "Alberto Reina",
         "team": "Real Oviedo",
@@ -13105,18 +13118,6 @@
         "assists": 5,
         "penalties": 1,
         "minutesPerGoal": 600
-      },
-      {
-        "id": "7911",
-        "name": "Alexis Sánchez",
-        "team": "Sevilla FC",
-        "position": "",
-        "nationality": "Chile",
-        "appearances": 27,
-        "goals": 3,
-        "assists": 1,
-        "penalties": 1,
-        "minutesPerGoal": 810
       },
       {
         "id": "11040",
