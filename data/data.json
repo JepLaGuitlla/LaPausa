@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T19:27:39.313Z",
+  "updatedAt": "2026-05-06T03:33:42.698Z",
   "players": [
     {
       "id": 11,
@@ -12012,6 +12012,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-5-5-26/",
+      "date": "Tue, 05 May 2026 21:00:42 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Mbappé se ejercita en el día libre, ¿llegará al Clásico?",
       "link": "https://www.jornadaperfecta.com/blog/mbappe-estado-real-madrid-j35/",
       "date": "Tue, 05 May 2026 19:05:15 +0000"
@@ -12051,17 +12057,11 @@
       "title": "Vinícius Jr da un paso adelante y brilla sin Mbappé, ¿chollo fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/vinicius-jr-chollo-fantasy-real-madrid/",
       "date": "Tue, 05 May 2026 15:00:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡Betfair lanza una supercuota para Arsenal vs Atlético con valor a 4.50!",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-arsenal-vs-atletico/",
-      "date": "Tue, 05 May 2026 13:54:14 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-05T19:27:36.816Z",
+    "updatedAt": "2026-05-06T03:33:42.697Z",
     "players": [
       {
         "id": "3374",
