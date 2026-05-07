@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T19:51:05.334Z",
+  "updatedAt": "2026-05-07T03:33:44.311Z",
   "players": [
     {
       "id": 11,
@@ -12012,6 +12012,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-6-5-26/",
+      "date": "Wed, 06 May 2026 21:02:04 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción RETAbet Golmanía Estrasburgo vs Rayo Vallecano: ¡5€ gratis por cada gol!",
+      "link": "https://www.jornadaperfecta.com/blog/retabet-golmania-estrasburgo-vs-rayo-vallecano/",
+      "date": "Wed, 06 May 2026 20:45:07 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Andrés Castrín vuelve al once a un gran nivel. ¿Chollazo fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/andres-castrin-analisis-j35-25-26/",
       "date": "Wed, 06 May 2026 19:00:45 +0000"
@@ -12045,23 +12057,11 @@
       "title": "Aimar entrena en la sesión de hoy parcialmente",
       "link": "https://www.jornadaperfecta.com/blog/aimar-oroz-estado-j35/",
       "date": "Wed, 06 May 2026 15:30:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lucas Beltrán sigue sin entrenar y apunta a baja de nuevo",
-      "link": "https://www.jornadaperfecta.com/blog/lucas-beltran-estado-j35-25-26/",
-      "date": "Wed, 06 May 2026 15:08:46 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Los Ases de PixonFantasy para la Jornada 35",
-      "link": "https://www.jornadaperfecta.com/blog/ases-fantasy-j35-25-26/",
-      "date": "Wed, 06 May 2026 15:00:34 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-06T19:51:04.482Z",
+    "updatedAt": "2026-05-07T03:33:36.238Z",
     "players": [
       {
         "id": "3374",
