@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T14:24:12.156Z",
+  "updatedAt": "2026-05-07T19:46:32.771Z",
   "players": [
     {
       "id": 11,
@@ -12012,56 +12012,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Valverde, al hospital tras una pelea con Tchouameni: posible sanción de 3 a 20 partidos",
+      "link": "https://www.jornadaperfecta.com/blog/valverde-tchouameni-pelea-real-madrid/",
+      "date": "Thu, 07 May 2026 18:59:29 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Ilias Akhomach sufre una lesión en el calentamiento",
+      "link": "https://www.jornadaperfecta.com/blog/akhomach-lesion-rayo-vallecano/",
+      "date": "Thu, 07 May 2026 18:57:33 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 35",
+      "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j35/",
+      "date": "Thu, 07 May 2026 17:45:45 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Mendy sufre una lesión muy grave y no se descarta su retirada!",
+      "link": "https://www.jornadaperfecta.com/blog/ferland-mendy-parte-medico-real-madrid/",
+      "date": "Thu, 07 May 2026 17:01:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El All In de Victorius para la Jornada 35 de La Liga",
+      "link": "https://www.jornadaperfecta.com/blog/all-in-victorius-j35-25-26/",
+      "date": "Thu, 07 May 2026 17:00:35 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Quique, sobre Benavidez y la fecha de vuelta de Boyé",
+      "link": "https://www.jornadaperfecta.com/blog/quique-previa-elche-alaves-j35/",
+      "date": "Thu, 07 May 2026 16:15:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Raúl García de Haro cumple con goles. ¿Chollito fantasy o parche de garantías?",
+      "link": "https://www.jornadaperfecta.com/blog/raul-garcia-de-haro-analisis-chollo-fantasy-26/",
+      "date": "Thu, 07 May 2026 15:00:07 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Mbappé supera la prueba y está con el grupo, ¿titular en el Clásico?",
       "link": "https://www.jornadaperfecta.com/blog/mbappe-estado-real-madrid-j35/",
-      "date": "Thu, 07 May 2026 12:50:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Courtois ya entrena con el grupo. ¿Merece la pena en fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/courtois-analisis-recuperacion-lesion-26/",
-      "date": "Thu, 07 May 2026 12:40:23 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lisci acerca la fecha de vuelta de Víctor Muñoz",
-      "link": "https://www.jornadaperfecta.com/blog/lisci-previa-levante-osasuna-j35/",
-      "date": "Thu, 07 May 2026 12:40:06 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ferland Mendy: Parte médico oficial y tiempo de baja",
-      "link": "https://www.jornadaperfecta.com/blog/ferland-mendy-parte-medico-real-madrid/",
-      "date": "Thu, 07 May 2026 12:35:01 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Matías Vecino sigue al margen y apunta a baja",
-      "link": "https://www.jornadaperfecta.com/blog/matias-vecino-estado-j35-25-26/",
-      "date": "Thu, 07 May 2026 12:34:27 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Actualizadas las Alineaciones Probables para la Jornada 35",
-      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-j35-25-26/",
-      "date": "Thu, 07 May 2026 12:30:14 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Álvaro García forzará para estar en la Conference League",
-      "link": "https://www.jornadaperfecta.com/blog/alvaro-garcia-estado-j34/",
-      "date": "Thu, 07 May 2026 12:00:00 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Luis Castro confirma a Tunde y deja dudas con Dela",
-      "link": "https://www.jornadaperfecta.com/blog/luis-castro-previa-levante-osasuna-j35-25-26/",
-      "date": "Thu, 07 May 2026 11:02:02 +0000"
+      "date": "Thu, 07 May 2026 14:50:15 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-07T14:24:12.156Z",
+    "updatedAt": "2026-05-07T19:46:32.247Z",
     "players": [
       {
         "id": "3374",
