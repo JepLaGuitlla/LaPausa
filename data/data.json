@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T19:46:32.771Z",
+  "updatedAt": "2026-05-08T03:29:19.533Z",
   "players": [
     {
       "id": 11,
@@ -12012,9 +12012,27 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Valverde, al hospital tras una pelea con Tchouameni: posible sanción de 3 a 20 partidos",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-7-5-26/",
+      "date": "Thu, 07 May 2026 21:00:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Fede Valverde: Parte médico oficial y tiempo de baja",
+      "link": "https://www.jornadaperfecta.com/blog/fede-valverde-traumatismo-cranoencefalico-real-madrid/",
+      "date": "Thu, 07 May 2026 20:12:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡TonyBet te regala una Apuesta Gratis de 10€ para El Clásico!",
+      "link": "https://www.jornadaperfecta.com/blog/tonybet-el-clasico-mayo-2026/",
+      "date": "Thu, 07 May 2026 20:00:31 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Valverde, al hospital tras una pelea con Tchouameni: Comunicado oficial del Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/valverde-tchouameni-pelea-real-madrid/",
-      "date": "Thu, 07 May 2026 18:59:29 +0000"
+      "date": "Thu, 07 May 2026 19:30:29 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12039,29 +12057,11 @@
       "title": "El All In de Victorius para la Jornada 35 de La Liga",
       "link": "https://www.jornadaperfecta.com/blog/all-in-victorius-j35-25-26/",
       "date": "Thu, 07 May 2026 17:00:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Quique, sobre Benavidez y la fecha de vuelta de Boyé",
-      "link": "https://www.jornadaperfecta.com/blog/quique-previa-elche-alaves-j35/",
-      "date": "Thu, 07 May 2026 16:15:08 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Raúl García de Haro cumple con goles. ¿Chollito fantasy o parche de garantías?",
-      "link": "https://www.jornadaperfecta.com/blog/raul-garcia-de-haro-analisis-chollo-fantasy-26/",
-      "date": "Thu, 07 May 2026 15:00:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mbappé supera la prueba y está con el grupo, ¿titular en el Clásico?",
-      "link": "https://www.jornadaperfecta.com/blog/mbappe-estado-real-madrid-j35/",
-      "date": "Thu, 07 May 2026 14:50:15 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-07T19:46:32.247Z",
+    "updatedAt": "2026-05-08T03:29:18.954Z",
     "players": [
       {
         "id": "3374",
