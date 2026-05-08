@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T13:59:35.519Z",
+  "updatedAt": "2026-05-08T19:24:35.398Z",
   "players": [
     {
       "id": 11,
@@ -12012,56 +12012,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Matarazzo confirma la baja de Guedes y habla de Aritz",
-      "link": "https://www.jornadaperfecta.com/blog/matarazzo-previa-real-sociedad-betis-j35/",
-      "date": "Fri, 08 May 2026 12:50:29 +0000"
+      "title": "BigUp: Gana dinero real con tus pronósticos del Real Sociedad &#8211; Real Betis",
+      "link": "https://www.jornadaperfecta.com/blog/bigup-real-sociedad-real-betis-j35-25-26/",
+      "date": "Fri, 08 May 2026 18:11:49 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Giráldez, sobre Ilaix Moriba, Starfelt y Matías Vecino",
-      "link": "https://www.jornadaperfecta.com/blog/giraldez-previa-atleti-celta-j35-2/",
-      "date": "Fri, 08 May 2026 12:30:41 +0000"
+      "title": "Once confirmado de Osasuna para la jornada 35",
+      "link": "https://www.jornadaperfecta.com/blog/osasuna-once-confirmado-j35-25-26/",
+      "date": "Fri, 08 May 2026 17:55:51 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Mbappé completa el entrenamiento con el grupo, ¿titular en el Clásico?",
-      "link": "https://www.jornadaperfecta.com/blog/mbappe-estado-real-madrid-j35/",
-      "date": "Fri, 08 May 2026 12:20:15 +0000"
+      "title": "Once confirmado de Levante con Oriol Rey, Dela y Tunde",
+      "link": "https://www.jornadaperfecta.com/blog/levante-once-confirmado-j35-25-26/",
+      "date": "Fri, 08 May 2026 17:53:52 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Manolo González confirma la baja de Cyril Ngonge",
-      "link": "https://www.jornadaperfecta.com/blog/manolo-gonzalez-previa-sevilla-espanyol-j35/",
-      "date": "Fri, 08 May 2026 11:49:28 +0000"
+      "title": "Dudas con los minutos de Raphinha en la j35, ¿alinear?",
+      "link": "https://www.jornadaperfecta.com/blog/raphinha-alinear-fantasy-j35-25-26/",
+      "date": "Fri, 08 May 2026 16:47:30 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Guedes, de nuevo fuera de la convocatoria de la Real Sociedad",
-      "link": "https://www.jornadaperfecta.com/blog/guedes-estado-real-sociedad-j35/",
-      "date": "Fri, 08 May 2026 11:30:47 +0000"
+      "title": "A vueltas con el estado de Kylian Mbappé, ¿alinear?",
+      "link": "https://www.jornadaperfecta.com/blog/mabppe-alinear-j35-25-26/",
+      "date": "Fri, 08 May 2026 16:32:00 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Bordalás confirma la mejoría de Satriano, ¿llega a la jornada 35?",
-      "link": "https://www.jornadaperfecta.com/blog/bordalas-previa-real-oviedo-getafe-j35/",
-      "date": "Fri, 08 May 2026 11:26:35 +0000"
+      "title": "García Plaza confirma a Isaac titular en la Jornada 35",
+      "link": "https://www.jornadaperfecta.com/blog/garcia-plaza-previa-sevilla-espanyol-j35/",
+      "date": "Fri, 08 May 2026 16:05:25 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Pellegrini, sobre el estado de Isco y Marc Bartra",
-      "link": "https://www.jornadaperfecta.com/blog/pellegrini-previa-real-sociedad-betis-j35/",
-      "date": "Fri, 08 May 2026 11:22:33 +0000"
+      "title": "Oficial: el Real Madrid sanciona económicamente a Valverde y Tchouameni",
+      "link": "https://www.jornadaperfecta.com/blog/valverde-tchouameni-pelea-real-madrid/",
+      "date": "Fri, 08 May 2026 15:20:29 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Sarabia confirma las bajas de Rafa Mir y Adam Boayar",
-      "link": "https://www.jornadaperfecta.com/blog/sarabia-previa-elche-alaves-j35/",
-      "date": "Fri, 08 May 2026 11:10:27 +0000"
+      "title": "¡5 mayores riesgos fantasy para la jornada 35 de LaLiga!",
+      "link": "https://www.jornadaperfecta.com/blog/riesgos-fantasy-j35-25-26/",
+      "date": "Fri, 08 May 2026 15:00:51 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-08T13:59:33.948Z",
+    "updatedAt": "2026-05-08T19:24:34.083Z",
     "players": [
       {
         "id": "3374",
@@ -12088,6 +12088,18 @@
         "minutesPerGoal": 141
       },
       {
+        "id": "2237",
+        "name": "Ante Budimir",
+        "team": "CA Osasuna",
+        "position": "",
+        "nationality": "Croatia",
+        "appearances": 34,
+        "goals": 17,
+        "assists": 0,
+        "penalties": 6,
+        "minutesPerGoal": 180
+      },
+      {
         "id": "202283",
         "name": "Lamine Yamal",
         "team": "FC Barcelona",
@@ -12098,18 +12110,6 @@
         "assists": 11,
         "penalties": 3,
         "minutesPerGoal": 158
-      },
-      {
-        "id": "2237",
-        "name": "Ante Budimir",
-        "team": "CA Osasuna",
-        "position": "",
-        "nationality": "Croatia",
-        "appearances": 33,
-        "goals": 16,
-        "assists": 0,
-        "penalties": 6,
-        "minutesPerGoal": 186
       },
       {
         "id": "33154",
@@ -12345,11 +12345,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 9,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 300
+        "minutesPerGoal": 310
       },
       {
         "id": "98571",
@@ -12465,11 +12465,11 @@
         "team": "CA Osasuna",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 7,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 424
+        "minutesPerGoal": 437
       },
       {
         "id": "23132",
@@ -12549,11 +12549,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Cameroon",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 6,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 480
+        "minutesPerGoal": 495
       },
       {
         "id": "157135",
@@ -13149,11 +13149,11 @@
         "team": "CA Osasuna",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 930
+        "minutesPerGoal": 960
       },
       {
         "id": "79953",
@@ -13197,11 +13197,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 35,
+        "appearances": 36,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 1050
+        "minutesPerGoal": 1080
       },
       {
         "id": "156967",
