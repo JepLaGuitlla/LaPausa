@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T08:01:14.692Z",
+  "updatedAt": "2026-05-09T13:25:21.502Z",
   "players": [
     {
       "id": 11,
@@ -12012,56 +12012,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair para el Barcelona vs Real Madrid: cuota mejorada a 3.1",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-barcelona-vs-real-madrid/",
-      "date": "Sat, 09 May 2026 06:06:38 +0000"
+      "title": "Promoción DAZN Bet Barcelona vs Real Madrid: ¡gana 5€ por cada gol!",
+      "link": "https://www.jornadaperfecta.com/blog/dazn-bet-barcelona-vs-real-madrid/",
+      "date": "Sat, 09 May 2026 13:00:54 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Corberán da de alta a Agirrezabala y Beltrán sigue de baja",
+      "link": "https://www.jornadaperfecta.com/blog/corberan-previa-athletic-valencia-j35/",
+      "date": "Sat, 09 May 2026 12:18:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Valverde habla del rendimiento de Nico Williams",
+      "link": "https://www.jornadaperfecta.com/blog/valverde-previa-athletic-valencia-j35/",
+      "date": "Sat, 09 May 2026 12:09:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Almada, sobre el estado de Colombatto y Dedoncker",
+      "link": "https://www.jornadaperfecta.com/blog/almada-previa-real-oviedo-getafe-j35/",
+      "date": "Sat, 09 May 2026 11:59:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Demichelis confirma a Mateu Morey y habla de la portería",
+      "link": "https://www.jornadaperfecta.com/blog/demichelis-previa-mallorca-villarreal-j35/",
+      "date": "Sat, 09 May 2026 11:44:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Flick, sobre ganar LaLiga, Mbappé y la crisis del Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/flick-previa-barcelona-real-madrid-j35/",
+      "date": "Sat, 09 May 2026 11:32:27 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "BigUp: Gana dinero real con tus pronósticos del Real Sociedad &#8211; Real Betis",
       "link": "https://www.jornadaperfecta.com/blog/bigup-real-sociedad-real-betis-j35-25-26/",
-      "date": "Fri, 08 May 2026 18:11:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Once confirmado de Osasuna para la jornada 35",
-      "link": "https://www.jornadaperfecta.com/blog/osasuna-once-confirmado-j35-25-26/",
-      "date": "Fri, 08 May 2026 17:55:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Once confirmado de Levante con Oriol Rey, Dela y Tunde",
-      "link": "https://www.jornadaperfecta.com/blog/levante-once-confirmado-j35-25-26/",
-      "date": "Fri, 08 May 2026 17:53:52 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Dudas con los minutos de Raphinha en la j35, ¿alinear?",
-      "link": "https://www.jornadaperfecta.com/blog/raphinha-alinear-fantasy-j35-25-26/",
-      "date": "Fri, 08 May 2026 16:47:30 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "A vueltas con el estado de Kylian Mbappé, ¿alinear?",
-      "link": "https://www.jornadaperfecta.com/blog/mabppe-alinear-j35-25-26/",
-      "date": "Fri, 08 May 2026 16:32:00 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "García Plaza confirma a Isaac titular en la Jornada 35",
-      "link": "https://www.jornadaperfecta.com/blog/garcia-plaza-previa-sevilla-espanyol-j35/",
-      "date": "Fri, 08 May 2026 16:05:25 +0000"
+      "date": "Sat, 09 May 2026 11:00:49 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Oficial: el Real Madrid sanciona económicamente a Valverde y Tchouameni",
       "link": "https://www.jornadaperfecta.com/blog/valverde-tchouameni-pelea-real-madrid/",
-      "date": "Fri, 08 May 2026 15:20:29 +0000"
+      "date": "Sat, 09 May 2026 10:20:29 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-09T08:01:13.488Z",
+    "updatedAt": "2026-05-09T13:25:21.502Z",
     "players": [
       {
         "id": "3374",
@@ -12172,6 +12172,18 @@
         "minutesPerGoal": 215
       },
       {
+        "id": "11733",
+        "name": "Toni Martínez",
+        "team": "Deportivo Alavés",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 35,
+        "goals": 12,
+        "assists": 3,
+        "penalties": 1,
+        "minutesPerGoal": 263
+      },
+      {
         "id": "8167",
         "name": "Alexander Sørloth",
         "team": "Club Atlético de Madrid",
@@ -12194,18 +12206,6 @@
         "assists": 3,
         "penalties": 3,
         "minutesPerGoal": 180
-      },
-      {
-        "id": "11733",
-        "name": "Toni Martínez",
-        "team": "Deportivo Alavés",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 34,
-        "goals": 11,
-        "assists": 3,
-        "penalties": 0,
-        "minutesPerGoal": 278
       },
       {
         "id": "136646",
@@ -12249,11 +12249,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 10,
         "assists": 0,
         "penalties": 3,
-        "minutesPerGoal": 261
+        "minutesPerGoal": 270
       },
       {
         "id": "32415",
@@ -12393,11 +12393,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Nigeria",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 8,
         "assists": 3,
         "penalties": 3,
-        "minutesPerGoal": 326
+        "minutesPerGoal": 338
       },
       {
         "id": "175941",
@@ -12585,11 +12585,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 6,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 465
+        "minutesPerGoal": 480
       },
       {
         "id": "182319",
@@ -12621,11 +12621,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 6,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 510
+        "minutesPerGoal": 525
       },
       {
         "id": "33358",
@@ -12633,11 +12633,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 6,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 510
+        "minutesPerGoal": 525
       },
       {
         "id": "32758",
@@ -12705,11 +12705,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 5,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 576
+        "minutesPerGoal": 594
       },
       {
         "id": "45680",
@@ -12753,11 +12753,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Switzerland",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 5,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 558
+        "minutesPerGoal": 576
       },
       {
         "id": "273423",
@@ -12789,11 +12789,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 5,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 594
+        "minutesPerGoal": 612
       },
       {
         "id": "96",
@@ -12849,11 +12849,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 4,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 720
+        "minutesPerGoal": 743
       },
       {
         "id": "126878",
@@ -12897,11 +12897,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 4,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 675
+        "minutesPerGoal": 698
       },
       {
         "id": "169162",
@@ -12933,11 +12933,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Chile",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 4,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 608
+        "minutesPerGoal": 630
       },
       {
         "id": "191053",
@@ -13113,11 +13113,11 @@
         "team": "Sevilla FC",
         "position": "",
         "nationality": "Switzerland",
-        "appearances": 20,
+        "appearances": 21,
         "goals": 3,
         "assists": 5,
         "penalties": 1,
-        "minutesPerGoal": 600
+        "minutesPerGoal": 630
       },
       {
         "id": "11040",
@@ -13125,11 +13125,11 @@
         "team": "RCD Espanyol de Barcelona",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 990
+        "minutesPerGoal": 1020
       },
       {
         "id": "28292",
