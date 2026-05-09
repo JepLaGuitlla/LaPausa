@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T19:24:35.398Z",
+  "updatedAt": "2026-05-09T03:28:19.592Z",
   "players": [
     {
       "id": 11,
@@ -455,10 +455,10 @@
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        null,
         4,
         7,
         2,
-        null,
         null
       ],
       "clausula": null
@@ -513,19 +513,19 @@
       "name": "Rubén García",
       "position": 3,
       "price": 2980000,
-      "points": 127,
+      "points": 130,
       "trend": 70000,
       "playedHome": 16,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
         3,
+        3,
         5,
         2,
-        5,
-        2
+        5
       ],
       "clausula": null
     },
@@ -667,19 +667,19 @@
       "name": "Manu Sánchez",
       "position": 2,
       "price": 1090000,
-      "points": 97,
+      "points": 99,
       "trend": 0,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 15,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        2,
         null,
         3,
         5,
-        6,
-        1
+        6
       ],
       "clausula": null
     },
@@ -821,15 +821,15 @@
       "name": "Morales",
       "position": 4,
       "price": 400000,
-      "points": 53,
+      "points": 57,
       "trend": 0,
-      "playedHome": 8,
+      "playedHome": 9,
       "playedAway": 11,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
-        null,
+        4,
         null,
         null,
         null,
@@ -1327,19 +1327,19 @@
       "name": "Ryan",
       "position": 1,
       "price": 4200000,
-      "points": 172,
+      "points": 175,
       "trend": -10000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 16,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        3,
         -1,
         7,
         3,
-        3,
-        5
+        3
       ],
       "clausula": null
     },
@@ -1723,19 +1723,19 @@
       "name": "Pablo Martínez",
       "position": 3,
       "price": 980000,
-      "points": 92,
+      "points": 100,
       "trend": 50000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 12,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        8,
         4,
         2,
         6,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -1836,15 +1836,15 @@
       "points": 42,
       "trend": 0,
       "playedHome": 17,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
         0,
+        0,
         3,
         0,
-        1,
         1
       ],
       "clausula": null
@@ -2207,19 +2207,19 @@
       "name": "Moncayola",
       "position": 3,
       "price": 2980000,
-      "points": 136,
+      "points": 142,
       "trend": 20000,
       "playedHome": 16,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        6,
         2,
         7,
         2,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -2831,11 +2831,11 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        null,
         2,
         2,
         null,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -3390,16 +3390,16 @@
       "name": "Brugué",
       "position": 4,
       "price": 260000,
-      "points": 31,
+      "points": 36,
       "trend": 0,
-      "playedHome": 6,
+      "playedHome": 7,
       "playedAway": 10,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        5,
         2,
-        null,
         null,
         null,
         null
@@ -3632,15 +3632,15 @@
       "name": "Aitor Fernández",
       "position": 1,
       "price": 170000,
-      "points": 0,
+      "points": 9,
       "trend": 0,
       "playedHome": 0,
-      "playedAway": 0,
+      "playedAway": 1,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
-        null,
+        9,
         null,
         null,
         null,
@@ -3830,19 +3830,19 @@
       "name": "Víctor García",
       "position": 2,
       "price": 440000,
-      "points": 63,
+      "points": 84,
       "trend": 0,
-      "playedHome": 9,
+      "playedHome": 10,
       "playedAway": 10,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        21,
         null,
         4,
         6,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -3992,10 +3992,10 @@
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        null,
         3,
         5,
         4,
-        2,
         2
       ],
       "clausula": null
@@ -4028,19 +4028,19 @@
       "name": "Catena",
       "position": 2,
       "price": 4210000,
-      "points": 151,
+      "points": 155,
       "trend": 40000,
       "playedHome": 17,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
         4,
+        4,
         14,
         null,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -4080,11 +4080,11 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        null,
         0,
         null,
         17,
-        5,
-        2
+        5
       ],
       "clausula": null
     },
@@ -4094,19 +4094,19 @@
       "name": "Iker Muñoz",
       "position": 3,
       "price": 330000,
-      "points": 57,
+      "points": 59,
       "trend": 0,
       "playedHome": 6,
-      "playedAway": 11,
+      "playedAway": 12,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        2,
         null,
         3,
         3,
-        6,
-        2
+        6
       ],
       "clausula": null
     },
@@ -4182,19 +4182,19 @@
       "name": "Sergio Herrera",
       "position": 1,
       "price": 2990000,
-      "points": 156,
+      "points": 153,
       "trend": -30000,
       "playedHome": 17,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        -3,
         5,
         1,
         1,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -4212,11 +4212,11 @@
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        null,
         2,
         1,
         3,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -4226,19 +4226,19 @@
       "name": "Raul García",
       "position": 4,
       "price": 1990000,
-      "points": 127,
+      "points": 129,
       "trend": 150000,
       "playedHome": 16,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        2,
         9,
         10,
         1,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -4270,18 +4270,18 @@
       "name": "Budimir",
       "position": 4,
       "price": 18380000,
-      "points": 188,
+      "points": 198,
       "trend": 0,
       "playedHome": 17,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        10,
         4,
         2,
         1,
-        8,
         8
       ],
       "clausula": null
@@ -4556,19 +4556,19 @@
       "name": "Torró",
       "position": 3,
       "price": 1130000,
-      "points": 105,
+      "points": 107,
       "trend": -10000,
       "playedHome": 15,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        2,
         1,
         null,
         2,
-        0,
-        4
+        0
       ],
       "clausula": null
     },
@@ -4732,19 +4732,19 @@
       "name": "Osambela",
       "position": 3,
       "price": 150000,
-      "points": 33,
+      "points": 34,
       "trend": 0,
       "playedHome": 6,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        1,
         2,
         null,
         null,
-        null,
-        -3
+        null
       ],
       "clausula": null
     },
@@ -5073,8 +5073,8 @@
         null,
         null,
         null,
-        4,
-        null
+        null,
+        4
       ],
       "clausula": null
     },
@@ -5854,15 +5854,15 @@
       "name": "Iker Benito",
       "position": 3,
       "price": 230000,
-      "points": 27,
+      "points": 28,
       "trend": 0,
       "playedHome": 3,
-      "playedAway": 2,
+      "playedAway": 3,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
-        null,
+        1,
         null,
         null,
         null,
@@ -6426,19 +6426,19 @@
       "name": "Aimar Oroz",
       "position": 3,
       "price": 3450000,
-      "points": 110,
+      "points": 113,
       "trend": 0,
       "playedHome": 14,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        3,
         2,
         3,
         3,
-        6,
-        2
+        6
       ],
       "clausula": null
     },
@@ -6764,11 +6764,11 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        null,
         2,
         3,
         2,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -6888,18 +6888,18 @@
       "name": "Olasagasti",
       "position": 3,
       "price": 1140000,
-      "points": 98,
+      "points": 106,
       "trend": 30000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 14,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        8,
         3,
         4,
         6,
-        3,
         3
       ],
       "clausula": null
@@ -7008,9 +7008,9 @@
       "jForm": [
         null,
         null,
+        null,
         3,
-        3,
-        1
+        3
       ],
       "clausula": null
     },
@@ -7834,19 +7834,19 @@
       "name": "Etta Eyong",
       "position": 4,
       "price": 1720000,
-      "points": 106,
+      "points": 119,
       "trend": 0,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 14,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        13,
         2,
         -1,
         1,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -8076,19 +8076,19 @@
       "name": "Boyomo",
       "position": 2,
       "price": 3060000,
-      "points": 119,
+      "points": 121,
       "trend": -20000,
       "playedHome": 12,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
         2,
+        2,
         3,
         2,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -8098,19 +8098,19 @@
       "name": "Raúl Moro",
       "position": 4,
       "price": 1720000,
-      "points": 35,
+      "points": 37,
       "trend": 40000,
       "playedHome": 6,
-      "playedAway": 5,
+      "playedAway": 6,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        2,
         4,
         4,
         2,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -8252,19 +8252,19 @@
       "name": "Rosier",
       "position": 2,
       "price": 2820000,
-      "points": 106,
+      "points": 108,
       "trend": 20000,
       "playedHome": 13,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        2,
         3,
         6,
         4,
-        3,
-        11
+        3
       ],
       "clausula": null
     },
@@ -8274,19 +8274,19 @@
       "name": "Bretones",
       "position": 2,
       "price": 560000,
-      "points": 83,
+      "points": 88,
       "trend": 0,
       "playedHome": 12,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Osasuna",
       "teamId": 93,
       "status": "ok",
       "jForm": [
+        5,
         4,
         2,
         null,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -9449,10 +9449,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         6,
         5,
-        6,
-        5
+        6
       ],
       "clausula": null
     },
@@ -9594,19 +9594,19 @@
       "name": "Espí",
       "position": 4,
       "price": 11810000,
-      "points": 119,
+      "points": 124,
       "trend": 90000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 8,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        5,
         9,
         3,
         1,
-        11,
-        3
+        11
       ],
       "clausula": null
     },
@@ -9770,19 +9770,19 @@
       "name": "Oriol Rey",
       "position": 3,
       "price": 310000,
-      "points": 51,
+      "points": 59,
       "trend": 0,
-      "playedHome": 8,
+      "playedHome": 9,
       "playedAway": 10,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        8,
         null,
         null,
         null,
-        null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -9792,19 +9792,19 @@
       "name": "De la Fuente",
       "position": 2,
       "price": 3060000,
-      "points": 136,
+      "points": 142,
       "trend": -40000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 13,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        6,
         null,
         6,
         8,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -9822,8 +9822,8 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
-        1,
         null,
+        1,
         null,
         null,
         null
@@ -10020,11 +10020,11 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        null,
         3,
         3,
         8,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -10078,18 +10078,18 @@
       "name": "Matturro",
       "position": 2,
       "price": 340000,
-      "points": 44,
+      "points": 52,
       "trend": 0,
-      "playedHome": 9,
+      "playedHome": 10,
       "playedAway": 9,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        8,
         -1,
         null,
         null,
-        2,
         2
       ],
       "clausula": null
@@ -10100,19 +10100,19 @@
       "name": "Toljan",
       "position": 2,
       "price": 1110000,
-      "points": 106,
+      "points": 103,
       "trend": 0,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 17,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        -3,
         1,
         2,
         4,
-        7,
-        2
+        7
       ],
       "clausula": null
     },
@@ -10166,19 +10166,19 @@
       "name": "Matías Moreno",
       "position": 2,
       "price": 1520000,
-      "points": 88,
+      "points": 91,
       "trend": -10000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 12,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        3,
         -3,
         5,
         5,
-        8,
-        1
+        8
       ],
       "clausula": null
     },
@@ -11178,19 +11178,19 @@
       "name": "Tunde",
       "position": 4,
       "price": 150000,
-      "points": 44,
+      "points": 47,
       "trend": 0,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 7,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        3,
         2,
         null,
         2,
-        5,
-        2
+        5
       ],
       "clausula": null
     },
@@ -11200,19 +11200,19 @@
       "name": "Luis Castro",
       "position": 5,
       "price": 180000,
-      "points": 23,
+      "points": 26,
       "trend": 0,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 8,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        3,
         0,
         1,
         3,
-        3,
-        0
+        3
       ],
       "clausula": null
     },
@@ -11385,8 +11385,8 @@
       "status": "ok",
       "jForm": [
         null,
-        4,
         null,
+        4,
         null,
         null
       ],
@@ -11428,11 +11428,11 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        null,
         1,
         7,
         3,
-        5,
-        2
+        5
       ],
       "clausula": null
     },
@@ -11552,19 +11552,19 @@
       "name": "Tay Abed",
       "position": 4,
       "price": 150000,
-      "points": 6,
+      "points": 7,
       "trend": 0,
-      "playedHome": 2,
+      "playedHome": 3,
       "playedAway": 3,
       "teamName": "Levante",
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        1,
         null,
         1,
         null,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -12061,7 +12061,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-08T19:24:34.083Z",
+    "updatedAt": "2026-05-09T03:28:17.899Z",
     "players": [
       {
         "id": "3374",
@@ -12424,6 +12424,18 @@
         "minutesPerGoal": 349
       },
       {
+        "id": "203439",
+        "name": "Karl Etta Eyong",
+        "team": "Levante UD",
+        "position": "",
+        "nationality": "Cameroon",
+        "appearances": 33,
+        "goals": 7,
+        "assists": 5,
+        "penalties": 0,
+        "minutesPerGoal": 424
+      },
+      {
         "id": "156746",
         "name": "Iván Romero",
         "team": "Levante UD",
@@ -12542,18 +12554,6 @@
         "assists": 3,
         "penalties": 0,
         "minutesPerGoal": 399
-      },
-      {
-        "id": "203439",
-        "name": "Karl Etta Eyong",
-        "team": "Levante UD",
-        "position": "",
-        "nationality": "Cameroon",
-        "appearances": 33,
-        "goals": 6,
-        "assists": 5,
-        "penalties": 0,
-        "minutesPerGoal": 495
       },
       {
         "id": "157135",
