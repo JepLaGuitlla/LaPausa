@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T08:12:17.646Z",
+  "updatedAt": "2026-05-10T13:27:06.262Z",
   "players": [
     {
       "id": 11,
@@ -136,7 +136,7 @@
     {
       "id": 163,
       "slug": "g-rodriguez",
-      "name": "Guido Rodr��guez",
+      "name": "Guido Rodríguez",
       "position": 3,
       "price": 5490000,
       "points": 63,
@@ -12015,15 +12015,39 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Promoción MARCAapuestas Barcelona vs Real Madrid: ¡Apuesta 20€ y te dan 5€ tanto si aciertas como si fallas!",
-      "link": "https://www.jornadaperfecta.com/blog/marcaapuestas-barcelona-vs-real-madrid/",
-      "date": "Sun, 10 May 2026 07:00:11 +0000"
+      "title": "Míchel anuncia una recuperación y habla de la permanencia",
+      "link": "https://www.jornadaperfecta.com/blog/michel-previa-rayo-girona-j35/",
+      "date": "Sun, 10 May 2026 11:55:58 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Natan sufre una lesión en el calentamiento, entra Ricardo",
+      "title": "Víctor Muñoz sigue ausente y apunta a baja una jornada más",
+      "link": "https://www.jornadaperfecta.com/blog/victor-munoz-estado-j36-25-26/",
+      "date": "Sun, 10 May 2026 10:38:12 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Giuliano y Julián Álvarez siguen fuera en el entreno del Atleti",
+      "link": "https://www.jornadaperfecta.com/blog/giuliano-julian-alvarez-estado-j35-25-26/",
+      "date": "Sun, 10 May 2026 10:09:07 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mbappé se cae de la convocatoria para El Clásico",
+      "link": "https://www.jornadaperfecta.com/blog/mbappe-estado-real-madrid-j35/",
+      "date": "Sun, 10 May 2026 09:50:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Natan, Ricardo Rodríguez y Diego Llorente salen tocados de Anoeta",
       "link": "https://www.jornadaperfecta.com/blog/natan-lesion-real-betis/",
-      "date": "Sat, 09 May 2026 19:21:48 +0000"
+      "date": "Sun, 10 May 2026 09:30:48 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción MARCAapuestas Barcelona vs Real Madrid: ¡Apuesta 20€ y te dan 5€ tanto si aciertas como si fallas!",
+      "link": "https://www.jornadaperfecta.com/blog/marcaapuestas-barcelona-vs-real-madrid/",
+      "date": "Sun, 10 May 2026 07:00:11 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12036,35 +12060,11 @@
       "title": "Carlos Romero, sustituido por unas molestias: ¿preocupa?",
       "link": "https://www.jornadaperfecta.com/blog/carlos-romero-lesion-espanyol/",
       "date": "Sat, 09 May 2026 17:29:57 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Giménez sufre una lesión y podría no jugar más en el Atleti",
-      "link": "https://www.jornadaperfecta.com/blog/gimenez-lesion-tobillo-atleti/",
-      "date": "Sat, 09 May 2026 17:04:23 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Toni Martínez acaba tocado, ¿preocupa su estado para la intersemanal?",
-      "link": "https://www.jornadaperfecta.com/blog/toni-martinez-estado-alaves-j36/",
-      "date": "Sat, 09 May 2026 16:08:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción DAZN Bet Barcelona vs Real Madrid: ¡gana 5€ por cada gol!",
-      "link": "https://www.jornadaperfecta.com/blog/dazn-bet-barcelona-vs-real-madrid/",
-      "date": "Sat, 09 May 2026 13:00:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Arbeloa dice que ve un vestuario «sano» y confirma a Tchouameni",
-      "link": "https://www.jornadaperfecta.com/blog/arbeloa-previa-barcelona-real-madrid-j35/",
-      "date": "Sat, 09 May 2026 12:56:41 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-10T08:12:17.645Z",
+    "updatedAt": "2026-05-10T13:27:06.261Z",
     "players": [
       {
         "id": "3374",
@@ -12084,11 +12084,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Kosovo",
-        "appearances": 33,
-        "goals": 21,
+        "appearances": 34,
+        "goals": 22,
         "assists": 1,
         "penalties": 5,
-        "minutesPerGoal": 141
+        "minutesPerGoal": 139
       },
       {
         "id": "2237",
@@ -12216,11 +12216,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Georgia",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 11,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 245
+        "minutesPerGoal": 254
       },
       {
         "id": "11113",
@@ -12276,11 +12276,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 10,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 306
+        "minutesPerGoal": 315
       },
       {
         "id": "32762",
@@ -12288,11 +12288,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 9,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 330
+        "minutesPerGoal": 340
       },
       {
         "id": "160819",
@@ -12348,11 +12348,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 21,
+        "appearances": 22,
         "goals": 9,
         "assists": 0,
         "penalties": 3,
-        "minutesPerGoal": 210
+        "minutesPerGoal": 220
       },
       {
         "id": "81565",
@@ -12360,11 +12360,11 @@
         "team": "Athletic Club",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 9,
         "assists": 3,
         "penalties": 1,
-        "minutesPerGoal": 330
+        "minutesPerGoal": 340
       },
       {
         "id": "247061",
@@ -12408,11 +12408,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Ivory Coast",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 8,
         "assists": 6,
         "penalties": 1,
-        "minutesPerGoal": 383
+        "minutesPerGoal": 394
       },
       {
         "id": "97085",
@@ -12480,11 +12480,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Canada",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 7,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 411
+        "minutesPerGoal": 424
       },
       {
         "id": "33117",
@@ -12540,11 +12540,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 7,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 399
+        "minutesPerGoal": 411
       },
       {
         "id": "3331",
@@ -12576,11 +12576,11 @@
         "team": "Athletic Club",
         "position": "",
         "nationality": "Spain",
-        "appearances": 24,
+        "appearances": 25,
         "goals": 6,
         "assists": 4,
         "penalties": 1,
-        "minutesPerGoal": 360
+        "minutesPerGoal": 375
       },
       {
         "id": "101870",
@@ -12588,11 +12588,11 @@
         "team": "Athletic Club",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 6,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 465
+        "minutesPerGoal": 480
       },
       {
         "id": "32398",
@@ -12696,11 +12696,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Belgium",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 6,
         "assists": 1,
         "penalties": 3,
-        "minutesPerGoal": 405
+        "minutesPerGoal": 420
       },
       {
         "id": "213404",
@@ -12828,11 +12828,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Senegal",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 4,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 653
+        "minutesPerGoal": 675
       },
       {
         "id": "33045",
@@ -12864,11 +12864,11 @@
         "team": "Athletic Club",
         "position": "",
         "nationality": "Spain",
-        "appearances": 27,
+        "appearances": 28,
         "goals": 4,
         "assists": 0,
         "penalties": 2,
-        "minutesPerGoal": 608
+        "minutesPerGoal": 630
       },
       {
         "id": "175869",
@@ -13044,11 +13044,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 960
+        "minutesPerGoal": 990
       },
       {
         "id": "249599",
@@ -13080,11 +13080,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Netherlands",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 990
+        "minutesPerGoal": 1020
       },
       {
         "id": "21583",
@@ -13188,11 +13188,23 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 3,
         "assists": 6,
         "penalties": 0,
-        "minutesPerGoal": 960
+        "minutesPerGoal": 990
+      },
+      {
+        "id": "7936",
+        "name": "Ayoze Pérez",
+        "team": "Villarreal CF",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 24,
+        "goals": 3,
+        "assists": 3,
+        "penalties": 1,
+        "minutesPerGoal": 720
       },
       {
         "id": "126913",
@@ -13224,11 +13236,11 @@
         "team": "RCD Mallorca",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 3,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 1020
+        "minutesPerGoal": 1050
       },
       {
         "id": "82516",
@@ -13253,18 +13265,6 @@
         "assists": 1,
         "penalties": 0,
         "minutesPerGoal": 750
-      },
-      {
-        "id": "7672",
-        "name": "Umar Sadiq",
-        "team": "Valencia CF",
-        "position": "",
-        "nationality": "Nigeria",
-        "appearances": 27,
-        "goals": 3,
-        "assists": 2,
-        "penalties": 0,
-        "minutesPerGoal": 810
       }
     ]
   }
