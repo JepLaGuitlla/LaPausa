@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T19:10:26.665Z",
+  "updatedAt": "2026-05-11T03:54:24.410Z",
   "players": [
     {
       "id": 11,
@@ -29,19 +29,19 @@
       "name": "Eric García",
       "position": 2,
       "price": 12910000,
-      "points": 187,
+      "points": 194,
       "trend": 20000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 16,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        7,
         6,
         null,
         3,
-        7,
-        3
+        7
       ],
       "clausula": null
     },
@@ -60,8 +60,8 @@
       "status": "ok",
       "jForm": [
         null,
-        -1,
         null,
+        -1,
         null,
         null
       ],
@@ -117,19 +117,19 @@
       "name": "Brahim",
       "position": 4,
       "price": 4260000,
-      "points": 67,
+      "points": 73,
       "trend": 10000,
       "playedHome": 12,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        6,
         2,
         2,
         1,
-        5,
-        1
+        5
       ],
       "clausula": null
     },
@@ -655,9 +655,9 @@
       "jForm": [
         null,
         null,
+        null,
         2,
-        4,
-        null
+        4
       ],
       "clausula": null
     },
@@ -689,19 +689,19 @@
       "name": "Camavinga",
       "position": 3,
       "price": 3590000,
-      "points": 103,
+      "points": 105,
       "trend": 10000,
       "playedHome": 13,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
         2,
+        2,
         4,
         1,
-        5,
-        1
+        5
       ],
       "clausula": null
     },
@@ -851,11 +851,11 @@
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        null,
         2,
         1,
         null,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -1019,19 +1019,19 @@
       "name": "Cancelo",
       "position": 2,
       "price": 12070000,
-      "points": 74,
+      "points": 80,
       "trend": 80000,
-      "playedHome": 7,
+      "playedHome": 8,
       "playedAway": 5,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
         6,
+        6,
         7,
         3,
-        6,
-        7
+        6
       ],
       "clausula": null
     },
@@ -1437,19 +1437,19 @@
       "name": "Rüdiger",
       "position": 2,
       "price": 5350000,
-      "points": 70,
+      "points": 72,
       "trend": -40000,
       "playedHome": 8,
-      "playedAway": 8,
+      "playedAway": 9,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        2,
         4,
         3,
         4,
-        null,
-        5
+        null
       ],
       "clausula": null
     },
@@ -1789,19 +1789,19 @@
       "name": "Fran García",
       "position": 2,
       "price": 1400000,
-      "points": 39,
+      "points": 43,
       "trend": 50000,
       "playedHome": 6,
-      "playedAway": 5,
+      "playedAway": 6,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        4,
         5,
         null,
         null,
-        4,
-        null
+        4
       ],
       "clausula": null
     },
@@ -2325,11 +2325,11 @@
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        null,
         6,
         6,
         5,
-        13,
-        null
+        13
       ],
       "clausula": null
     },
@@ -2561,17 +2561,17 @@
       "price": 2970000,
       "points": 98,
       "trend": -20000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 13,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        0,
         null,
         3,
         4,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -3153,19 +3153,19 @@
       "name": "Ferran Torres",
       "position": 4,
       "price": 11700000,
-      "points": 166,
+      "points": 178,
       "trend": 70000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 16,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
         12,
+        12,
         null,
         4,
-        17,
-        2
+        17
       ],
       "clausula": null
     },
@@ -3379,11 +3379,11 @@
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        null,
         7,
         9,
         7,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -3415,19 +3415,19 @@
       "name": "Joan García",
       "position": 1,
       "price": 12770000,
-      "points": 202,
+      "points": 208,
       "trend": -20000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 14,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
         6,
+        6,
         7,
         10,
-        5,
-        3
+        5
       ],
       "clausula": null
     },
@@ -3525,19 +3525,19 @@
       "name": "Vinícius Jr",
       "position": 4,
       "price": 24400000,
-      "points": 250,
+      "points": 251,
       "trend": 40000,
       "playedHome": 17,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        1,
         18,
         10,
         11,
-        7,
-        3
+        7
       ],
       "clausula": null
     },
@@ -3679,15 +3679,15 @@
       "name": "Courtois",
       "position": 1,
       "price": 3250000,
-      "points": 130,
+      "points": 135,
       "trend": 30000,
       "playedHome": 14,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
-        null,
+        5,
         null,
         null,
         null,
@@ -4129,9 +4129,9 @@
       "jForm": [
         null,
         null,
+        null,
         4,
-        3,
-        10
+        3
       ],
       "clausula": null
     },
@@ -4141,19 +4141,19 @@
       "name": "De Jong",
       "position": 3,
       "price": 11180000,
-      "points": 130,
+      "points": 134,
       "trend": 40000,
-      "playedHome": 9,
+      "playedHome": 10,
       "playedAway": 14,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        4,
         5,
         3,
         5,
-        6,
-        null
+        6
       ],
       "clausula": null
     },
@@ -4370,10 +4370,10 @@
       "status": "ok",
       "jForm": [
         null,
-        4,
-        4,
         null,
-        3
+        4,
+        4,
+        null
       ],
       "clausula": null
     },
@@ -4427,9 +4427,9 @@
       "name": "Hansi Flick",
       "position": 5,
       "price": 4580000,
-      "points": 88,
+      "points": 91,
       "trend": 0,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 17,
       "teamName": "Barcelona",
       "teamId": 3,
@@ -4515,19 +4515,19 @@
       "name": "Pedri",
       "position": 3,
       "price": 25310000,
-      "points": 193,
+      "points": 199,
       "trend": 50000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 13,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        6,
         7,
         10,
         3,
-        6,
-        4
+        6
       ],
       "clausula": null
     },
@@ -4700,10 +4700,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         -1,
         9,
-        1,
-        3
+        1
       ],
       "clausula": null
     },
@@ -4853,11 +4853,11 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        null,
         2,
         4,
         null,
-        6,
-        0
+        6
       ],
       "clausula": null
     },
@@ -5483,19 +5483,19 @@
       "name": "Gavi",
       "position": 3,
       "price": 6770000,
-      "points": 43,
+      "points": 48,
       "trend": 90000,
-      "playedHome": 3,
+      "playedHome": 4,
       "playedAway": 5,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        5,
         8,
         5,
         3,
-        8,
-        3
+        8
       ],
       "clausula": null
     },
@@ -5879,19 +5879,19 @@
       "name": "Tchouameni",
       "position": 3,
       "price": 11750000,
-      "points": 166,
+      "points": 169,
       "trend": -130000,
       "playedHome": 17,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        3,
         7,
         null,
         3,
-        2,
-        5
+        2
       ],
       "clausula": null
     },
@@ -6021,9 +6021,9 @@
       "jForm": [
         null,
         null,
+        null,
         11,
-        16,
-        5
+        16
       ],
       "clausula": null
     },
@@ -6297,15 +6297,15 @@
       "name": "Raphinha",
       "position": 4,
       "price": 16540000,
-      "points": 161,
+      "points": 164,
       "trend": 100000,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 9,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
-        null,
+        3,
         null,
         null,
         null,
@@ -6319,19 +6319,19 @@
       "name": "Lewandowski",
       "position": 4,
       "price": 10570000,
-      "points": 140,
+      "points": 142,
       "trend": 70000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 14,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        2,
         11,
         4,
         null,
-        null,
-        10
+        null
       ],
       "clausula": null
     },
@@ -6407,19 +6407,19 @@
       "name": "Pitarch",
       "position": 3,
       "price": 2910000,
-      "points": 16,
+      "points": 19,
       "trend": 90000,
       "playedHome": 3,
-      "playedAway": 4,
+      "playedAway": 5,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
         3,
         3,
+        3,
         null,
-        null,
-        0
+        null
       ],
       "clausula": null
     },
@@ -7067,19 +7067,19 @@
       "name": "Bellingham",
       "position": 3,
       "price": 17880000,
-      "points": 129,
+      "points": 130,
       "trend": 40000,
       "playedHome": 12,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        1,
         8,
         4,
         5,
-        4,
-        0
+        4
       ],
       "clausula": null
     },
@@ -7385,9 +7385,9 @@
       "jForm": [
         null,
         null,
+        null,
         8,
-        1,
-        4
+        1
       ],
       "clausula": null
     },
@@ -7441,19 +7441,19 @@
       "name": "Fermín",
       "position": 3,
       "price": 17730000,
-      "points": 181,
+      "points": 186,
       "trend": 80000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 14,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        5,
         10,
         13,
         6,
-        8,
-        3
+        8
       ],
       "clausula": null
     },
@@ -7627,9 +7627,9 @@
       "jForm": [
         null,
         null,
-        4,
         null,
-        2
+        4,
+        null
       ],
       "clausula": null
     },
@@ -7683,19 +7683,19 @@
       "name": "Gonzalo García",
       "position": 4,
       "price": 3300000,
-      "points": 72,
+      "points": 74,
       "trend": 10000,
       "playedHome": 13,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        2,
         4,
         1,
         null,
-        1,
-        null
+        1
       ],
       "clausula": null
     },
@@ -7859,19 +7859,19 @@
       "name": "Cubarsí",
       "position": 2,
       "price": 10990000,
-      "points": 149,
+      "points": 156,
       "trend": 100000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 16,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        7,
         9,
         11,
         7,
-        4,
-        6
+        4
       ],
       "clausula": null
     },
@@ -7956,10 +7956,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         0,
         null,
-        5,
-        null
+        5
       ],
       "clausula": null
     },
@@ -8365,19 +8365,19 @@
       "name": "Marc Bernal",
       "position": 3,
       "price": 5860000,
-      "points": 90,
+      "points": 93,
       "trend": 0,
-      "playedHome": 9,
+      "playedHome": 10,
       "playedAway": 9,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        3,
         4,
         null,
         null,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -8409,19 +8409,19 @@
       "name": "Gerard Martín",
       "position": 2,
       "price": 6180000,
-      "points": 130,
+      "points": 136,
       "trend": 40000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 14,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        6,
         5,
         6,
         6,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -8651,19 +8651,19 @@
       "name": "Dani Olmo",
       "position": 3,
       "price": 14730000,
-      "points": 175,
+      "points": 181,
       "trend": 30000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 14,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        6,
         1,
         5,
         7,
-        5,
-        6
+        5
       ],
       "clausula": null
     },
@@ -8871,19 +8871,19 @@
       "name": "Asencio",
       "position": 2,
       "price": 2090000,
-      "points": 97,
+      "points": 99,
       "trend": -20000,
       "playedHome": 8,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        2,
         null,
         null,
         null,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -9473,11 +9473,11 @@
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        null,
         8,
         5,
         7,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -9487,19 +9487,19 @@
       "name": "Trent",
       "position": 2,
       "price": 3810000,
-      "points": 54,
+      "points": 56,
       "trend": 10000,
       "playedHome": 6,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        2,
         4,
         2,
         5,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -10147,19 +10147,19 @@
       "name": "Mastantuono",
       "position": 4,
       "price": 1150000,
-      "points": 58,
+      "points": 59,
       "trend": 0,
       "playedHome": 10,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        1,
         3,
         null,
         0,
-        null,
-        -1
+        null
       ],
       "clausula": null
     },
@@ -10243,10 +10243,10 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        null,
         2,
         5,
         3,
-        null,
         null
       ],
       "clausula": null
@@ -10323,19 +10323,19 @@
       "name": "Rashford",
       "position": 4,
       "price": 11440000,
-      "points": 158,
+      "points": 168,
       "trend": 60000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 16,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        10,
         5,
         12,
         2,
-        11,
-        10
+        11
       ],
       "clausula": null
     },
@@ -11404,16 +11404,16 @@
       "points": 32,
       "trend": 0,
       "playedHome": 8,
-      "playedAway": 7,
+      "playedAway": 8,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        0,
         3,
         1,
         3,
-        1,
-        0
+        1
       ],
       "clausula": null
     },
@@ -11960,10 +11960,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         1,
         null,
-        null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -11973,16 +11973,16 @@
       "name": "César Palacios",
       "position": 3,
       "price": 190000,
-      "points": 7,
+      "points": 8,
       "trend": 0,
       "playedHome": 1,
-      "playedAway": 2,
+      "playedAway": 3,
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
       "jForm": [
+        1,
         2,
-        null,
         null,
         null,
         null
@@ -12013,6 +12013,18 @@
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Arbeloa deja en duda a Mbappé en los tres partidos que quedan",
+      "link": "https://www.jornadaperfecta.com/blog/mbappe-recuperacion-lesion-26/",
+      "date": "Sun, 10 May 2026 21:57:59 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Los motivos de la baja de Dean Huijsen en El Clásico",
+      "link": "https://www.jornadaperfecta.com/blog/dean-huijsen-baja-clasico-26/",
+      "date": "Sun, 10 May 2026 20:02:06 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Actualizadas las Alineaciones Probables para la Jornada 36",
@@ -12048,23 +12060,11 @@
       "title": "Antonio Raíllo no descarta volver antes de final de temporada",
       "link": "https://www.jornadaperfecta.com/blog/antonio-raillo-recuperacion-lesion-tobillo/",
       "date": "Sun, 10 May 2026 15:23:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Míchel anuncia una recuperación y habla de la permanencia",
-      "link": "https://www.jornadaperfecta.com/blog/michel-previa-rayo-girona-j35/",
-      "date": "Sun, 10 May 2026 11:55:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Víctor Muñoz sigue ausente y apunta a baja una jornada más",
-      "link": "https://www.jornadaperfecta.com/blog/victor-munoz-estado-j36-25-26/",
-      "date": "Sun, 10 May 2026 10:38:12 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-10T19:10:26.665Z",
+    "updatedAt": "2026-05-11T03:54:24.410Z",
     "players": [
       {
         "id": "3374",
@@ -12103,6 +12103,18 @@
         "minutesPerGoal": 180
       },
       {
+        "id": "33154",
+        "name": "Ferrán Torres",
+        "team": "FC Barcelona",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 33,
+        "goals": 16,
+        "assists": 2,
+        "penalties": 0,
+        "minutesPerGoal": 186
+      },
+      {
         "id": "202283",
         "name": "Lamine Yamal",
         "team": "FC Barcelona",
@@ -12113,18 +12125,6 @@
         "assists": 11,
         "penalties": 3,
         "minutesPerGoal": 158
-      },
-      {
-        "id": "33154",
-        "name": "Ferrán Torres",
-        "team": "FC Barcelona",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 33,
-        "goals": 15,
-        "assists": 2,
-        "penalties": 0,
-        "minutesPerGoal": 198
       },
       {
         "id": "1556",
@@ -12415,6 +12415,18 @@
         "minutesPerGoal": 394
       },
       {
+        "id": "3331",
+        "name": "Marcus Rashford",
+        "team": "FC Barcelona",
+        "position": "",
+        "nationality": "England",
+        "appearances": 33,
+        "goals": 8,
+        "assists": 7,
+        "penalties": 0,
+        "minutesPerGoal": 371
+      },
+      {
         "id": "97085",
         "name": "Antony",
         "team": "Real Betis Balompié",
@@ -12518,7 +12530,7 @@
         "nationality": "Spain",
         "appearances": 30,
         "goals": 7,
-        "assists": 8,
+        "assists": 9,
         "penalties": 0,
         "minutesPerGoal": 386
       },
@@ -12545,18 +12557,6 @@
         "assists": 2,
         "penalties": 0,
         "minutesPerGoal": 411
-      },
-      {
-        "id": "3331",
-        "name": "Marcus Rashford",
-        "team": "FC Barcelona",
-        "position": "",
-        "nationality": "England",
-        "appearances": 33,
-        "goals": 7,
-        "assists": 7,
-        "penalties": 0,
-        "minutesPerGoal": 424
       },
       {
         "id": "83406",
