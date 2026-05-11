@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T15:19:49.338Z",
+  "updatedAt": "2026-05-11T19:53:40.324Z",
   "players": [
     {
       "id": 11,
@@ -12015,56 +12015,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Chollos Fantasy que Tienes que Fichar YA para la J36 de Biwenger",
-      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j36-laliga/",
-      "date": "Mon, 11 May 2026 15:07:44 +0000"
+      "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 36",
+      "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j36/",
+      "date": "Mon, 11 May 2026 19:33:24 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Lisci, sobre el estado y fecha de vuelta de Víctor Muñoz",
-      "link": "https://www.jornadaperfecta.com/blog/lisci-previa-osasuna-atleti-j36/",
-      "date": "Mon, 11 May 2026 14:39:01 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lucas Beltrán sigue con el grupo y podría ir convocado",
-      "link": "https://www.jornadaperfecta.com/blog/lucas-beltran-estado-valencia-j36/",
-      "date": "Mon, 11 May 2026 14:15:51 +0000"
+      "title": "BigUp: Gana dinero real con tus pronósticos del Real Betis &#8211; Elche",
+      "link": "https://www.jornadaperfecta.com/blog/bigup-betis-elche-pronosticos/",
+      "date": "Mon, 11 May 2026 18:28:24 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Carlos Romero no entrena con el grupo, posible baja",
       "link": "https://www.jornadaperfecta.com/blog/carlos-romero-lesion-espanyol/",
-      "date": "Mon, 11 May 2026 14:05:57 +0000"
+      "date": "Mon, 11 May 2026 18:05:57 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Ilias Akhomach sufre una lesión, ¿tiempo de baja?",
-      "link": "https://www.jornadaperfecta.com/blog/akhomach-lesion-rayo-vallecano/",
-      "date": "Mon, 11 May 2026 14:02:33 +0000"
+      "title": "El All In de Victorius para la Jornada 36 de La Liga",
+      "link": "https://www.jornadaperfecta.com/blog/all-in-victorius-j36-25-26/",
+      "date": "Mon, 11 May 2026 18:00:55 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "El posible once del Celta para la jornada 36, ¿Aspas titular?",
-      "link": "https://www.jornadaperfecta.com/blog/aspas-alinear-j36-fantasy/",
-      "date": "Mon, 11 May 2026 14:00:10 +0000"
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J36 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j36-laliga/",
+      "date": "Mon, 11 May 2026 17:07:44 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Mbappé entrena en el gym en el día libre, ¿llega a la j36?",
       "link": "https://www.jornadaperfecta.com/blog/mbappe-recuperacion-lesion-26/",
-      "date": "Mon, 11 May 2026 13:15:59 +0000"
+      "date": "Mon, 11 May 2026 17:03:59 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Giráldez anuncia dos dudas, una baja y habla del centro del campo",
-      "link": "https://www.jornadaperfecta.com/blog/giraldez-previa-celta-levante-j36-25-26/",
-      "date": "Mon, 11 May 2026 13:09:16 +0000"
+      "title": "Podcast: Alineaciones Probables Jornada 36 2025/26",
+      "link": "https://www.jornadaperfecta.com/blog/podcast-alineaciones-probables-j36-25-26/",
+      "date": "Mon, 11 May 2026 17:02:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Johnny Cardoso pasará por quirófano: Parte médico actualizado",
+      "link": "https://www.jornadaperfecta.com/blog/johnny-cardoso-parte-medico-atleti/",
+      "date": "Mon, 11 May 2026 17:01:45 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-11T15:19:49.337Z",
+    "updatedAt": "2026-05-11T19:53:39.112Z",
     "players": [
       {
         "id": "3374",
@@ -12240,11 +12240,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 10,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 288
+        "minutesPerGoal": 297
       },
       {
         "id": "1760",
@@ -12672,11 +12672,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Ukraine",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 6,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 420
+        "minutesPerGoal": 435
       },
       {
         "id": "146126",
@@ -12756,11 +12756,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 20,
+        "appearances": 21,
         "goals": 5,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 360
+        "minutesPerGoal": 378
       },
       {
         "id": "16275",
@@ -12816,11 +12816,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 4,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 675
+        "minutesPerGoal": 698
       },
       {
         "id": "633",
@@ -13044,11 +13044,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Spain",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 900
+        "minutesPerGoal": 930
       },
       {
         "id": "180061",
@@ -13188,11 +13188,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 22,
+        "appearances": 23,
         "goals": 3,
         "assists": 0,
         "penalties": 3,
-        "minutesPerGoal": 660
+        "minutesPerGoal": 690
       },
       {
         "id": "213263",
