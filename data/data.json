@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T19:53:40.324Z",
+  "updatedAt": "2026-05-12T03:37:47.727Z",
   "players": [
     {
       "id": 11,
@@ -84,8 +84,8 @@
         null,
         null,
         null,
-        5,
-        6
+        null,
+        5
       ],
       "clausula": null
     },
@@ -953,19 +953,19 @@
       "name": "Álex Moreno",
       "position": 2,
       "price": 2500000,
-      "points": 103,
+      "points": 107,
       "trend": 40000,
       "playedHome": 13,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        4,
         null,
         1,
         3,
-        5,
-        7
+        5
       ],
       "clausula": null
     },
@@ -1041,19 +1041,19 @@
       "name": "Unai López",
       "position": 3,
       "price": 540000,
-      "points": 86,
+      "points": 90,
       "trend": 0,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 12,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        4,
         3,
         3,
         3,
-        null,
-        4
+        null
       ],
       "clausula": null
     },
@@ -1481,19 +1481,19 @@
       "name": "Lejeune",
       "position": 2,
       "price": 8290000,
-      "points": 173,
+      "points": 180,
       "trend": 70000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 17,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        7,
         5,
         10,
         null,
-        4,
-        9
+        4
       ],
       "clausula": null
     },
@@ -1525,19 +1525,19 @@
       "name": "Gumbau",
       "position": 3,
       "price": 250000,
-      "points": 63,
+      "points": 65,
       "trend": 0,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 14,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        2,
         5,
         5,
         3,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -1776,10 +1776,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         0,
         8,
-        null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -1811,19 +1811,19 @@
       "name": "Óscar Valentín",
       "position": 3,
       "price": 1040000,
-      "points": 105,
+      "points": 112,
       "trend": 0,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 14,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        7,
         0,
         null,
         3,
-        3,
-        4
+        3
       ],
       "clausula": null
     },
@@ -2383,19 +2383,19 @@
       "name": "Fran Beltrán",
       "position": 3,
       "price": 1770000,
-      "points": 81,
+      "points": 86,
       "trend": -10000,
       "playedHome": 11,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        5,
         4,
         null,
         3,
-        2,
-        5
+        2
       ],
       "clausula": null
     },
@@ -2493,19 +2493,19 @@
       "name": "Stuani",
       "position": 4,
       "price": 310000,
-      "points": 54,
+      "points": 63,
       "trend": 0,
       "playedHome": 8,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        9,
         2,
         2,
         3,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -2889,19 +2889,19 @@
       "name": "Lemar",
       "position": 3,
       "price": 2800000,
-      "points": 99,
+      "points": 101,
       "trend": -10000,
       "playedHome": 11,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        2,
         3,
         4,
         2,
-        11,
-        3
+        11
       ],
       "clausula": null
     },
@@ -3087,19 +3087,19 @@
       "name": "Iván Martín",
       "position": 3,
       "price": 2110000,
-      "points": 123,
+      "points": 125,
       "trend": -10000,
       "playedHome": 15,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        2,
         null,
         2,
         5,
-        4,
-        5
+        4
       ],
       "clausula": null
     },
@@ -4017,11 +4017,11 @@
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        null,
         3,
         3,
         null,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -4053,19 +4053,19 @@
       "name": "Camello",
       "position": 4,
       "price": 3640000,
-      "points": 60,
+      "points": 65,
       "trend": 200000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 9,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        5,
         12,
         13,
         12,
-        2,
-        1
+        2
       ],
       "clausula": null
     },
@@ -4251,19 +4251,19 @@
       "name": "De Frutos",
       "position": 4,
       "price": 9880000,
-      "points": 181,
+      "points": 184,
       "trend": 20000,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 15,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        3,
         4,
         2,
         3,
-        2,
-        5
+        2
       ],
       "clausula": null
     },
@@ -4449,19 +4449,19 @@
       "name": "Pacha Espino",
       "position": 2,
       "price": 1070000,
-      "points": 89,
+      "points": 92,
       "trend": 0,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 12,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        3,
         4,
         null,
         4,
-        3,
-        1
+        3
       ],
       "clausula": null
     },
@@ -4941,8 +4941,8 @@
       "teamId": 70,
       "status": "ok",
       "jForm": [
-        5,
         null,
+        5,
         null,
         null,
         null
@@ -5184,10 +5184,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         7,
         11,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -5329,19 +5329,19 @@
       "name": "Gazzaniga",
       "position": 1,
       "price": 2640000,
-      "points": 141,
+      "points": 148,
       "trend": 10000,
       "playedHome": 16,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        7,
         3,
         4,
         -1,
-        9,
-        2
+        9
       ],
       "clausula": null
     },
@@ -5373,9 +5373,9 @@
       "name": "Pathé Ciss",
       "position": 3,
       "price": 3880000,
-      "points": 122,
+      "points": 128,
       "trend": 80000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 13,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
@@ -5383,9 +5383,9 @@
       "jForm": [
         6,
         6,
+        6,
         7,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -5403,11 +5403,11 @@
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        null,
         12,
         null,
         null,
-        1,
-        10
+        1
       ],
       "clausula": null
     },
@@ -5615,19 +5615,19 @@
       "name": "Carlos Martín",
       "position": 4,
       "price": 310000,
-      "points": 15,
+      "points": 18,
       "trend": 0,
-      "playedHome": 4,
+      "playedHome": 5,
       "playedAway": 4,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        3,
         null,
         2,
         null,
-        null,
-        0
+        null
       ],
       "clausula": null
     },
@@ -5646,10 +5646,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         5,
         4,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -5989,19 +5989,19 @@
       "name": "Arnau Martínez",
       "position": 2,
       "price": 3520000,
-      "points": 132,
+      "points": 136,
       "trend": 0,
       "playedHome": 16,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
         4,
+        4,
         2,
         2,
-        5,
-        7
+        5
       ],
       "clausula": null
     },
@@ -6033,19 +6033,19 @@
       "name": "Ratiu",
       "position": 2,
       "price": 7810000,
-      "points": 147,
+      "points": 154,
       "trend": -20000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 15,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        7,
         3,
         3,
         9,
-        2,
-        8
+        2
       ],
       "clausula": null
     },
@@ -6177,7 +6177,7 @@
         null,
         null,
         null,
-        6
+        null
       ],
       "clausula": null
     },
@@ -6209,19 +6209,19 @@
       "name": "Witsel",
       "position": 3,
       "price": 4900000,
-      "points": 121,
+      "points": 126,
       "trend": 40000,
       "playedHome": 14,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        5,
         4,
         7,
         4,
-        3,
-        7
+        3
       ],
       "clausula": null
     },
@@ -6231,19 +6231,19 @@
       "name": "Íñigo Pérez",
       "position": 5,
       "price": 520000,
-      "points": 42,
+      "points": 43,
       "trend": 0,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 17,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        1,
         3,
         1,
         3,
-        0,
-        3
+        0
       ],
       "clausula": null
     },
@@ -6363,19 +6363,19 @@
       "name": "Michel",
       "position": 5,
       "price": 580000,
-      "points": 38,
+      "points": 39,
       "trend": 0,
       "playedHome": 17,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
-        0,
-        0,
-        0,
         1,
-        3
+        0,
+        0,
+        0,
+        1
       ],
       "clausula": null
     },
@@ -6517,19 +6517,19 @@
       "name": "Joel Roca",
       "position": 4,
       "price": 1160000,
-      "points": 98,
+      "points": 100,
       "trend": 0,
       "playedHome": 15,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
         2,
+        2,
         10,
         5,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -6583,17 +6583,17 @@
       "name": "Fran Pérez",
       "position": 4,
       "price": 320000,
-      "points": 75,
+      "points": 79,
       "trend": 0,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 12,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        4,
         null,
         3,
-        null,
         null,
         null
       ],
@@ -6627,19 +6627,19 @@
       "name": "Chavarría",
       "position": 2,
       "price": 2960000,
-      "points": 134,
+      "points": 136,
       "trend": 10000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 16,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        2,
         3,
         3,
         4,
-        3,
-        4
+        3
       ],
       "clausula": null
     },
@@ -6659,8 +6659,8 @@
       "jForm": [
         null,
         null,
-        2,
         null,
+        2,
         null
       ],
       "clausula": null
@@ -6869,19 +6869,19 @@
       "name": "Tsygankov",
       "position": 4,
       "price": 5360000,
-      "points": 138,
+      "points": 143,
       "trend": 30000,
       "playedHome": 13,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        5,
         2,
         2,
         11,
-        1,
-        6
+        1
       ],
       "clausula": null
     },
@@ -7405,11 +7405,11 @@
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        null,
         3,
         2,
         3,
-        null,
-        9
+        null
       ],
       "clausula": null
     },
@@ -7727,19 +7727,19 @@
       "name": "Batalla",
       "position": 1,
       "price": 2390000,
-      "points": 142,
+      "points": 145,
       "trend": 70000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 16,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        3,
         8,
         null,
         0,
-        null,
-        7
+        null
       ],
       "clausula": null
     },
@@ -8178,8 +8178,8 @@
         null,
         null,
         null,
-        1,
-        3
+        null,
+        1
       ],
       "clausula": null
     },
@@ -8519,19 +8519,19 @@
       "name": "Francés",
       "position": 2,
       "price": 1370000,
-      "points": 74,
+      "points": 77,
       "trend": 30000,
       "playedHome": 11,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        3,
         4,
         9,
         null,
-        6,
-        3
+        6
       ],
       "clausula": null
     },
@@ -8585,19 +8585,19 @@
       "name": "Pedro Díaz",
       "position": 3,
       "price": 1050000,
-      "points": 87,
+      "points": 89,
       "trend": 0,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 14,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        2,
         null,
         7,
         5,
-        2,
-        5
+        2
       ],
       "clausula": null
     },
@@ -9267,19 +9267,19 @@
       "name": "Alemão",
       "position": 4,
       "price": 620000,
-      "points": 58,
+      "points": 67,
       "trend": 50000,
-      "playedHome": 12,
+      "playedHome": 13,
       "playedAway": 10,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        9,
         5,
         9,
         1,
-        1,
-        2
+        1
       ],
       "clausula": null
     },
@@ -9421,19 +9421,19 @@
       "name": "Nobel Mendy",
       "position": 2,
       "price": 690000,
-      "points": 63,
+      "points": 64,
       "trend": 0,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 11,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        1,
         4,
         3,
         null,
-        -2,
-        null
+        -2
       ],
       "clausula": null
     },
@@ -9905,18 +9905,18 @@
       "name": "Hugo Rincón",
       "position": 2,
       "price": 1150000,
-      "points": 101,
+      "points": 103,
       "trend": 0,
       "playedHome": 17,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        2,
         3,
         8,
         1,
-        2,
         2
       ],
       "clausula": null
@@ -10499,18 +10499,18 @@
       "name": "Vitor Reis",
       "position": 2,
       "price": 5400000,
-      "points": 141,
+      "points": 147,
       "trend": 70000,
       "playedHome": 16,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
         6,
+        6,
         3,
         3,
-        7,
         7
       ],
       "clausula": null
@@ -10529,10 +10529,10 @@
       "teamId": 70,
       "status": "ok",
       "jForm": [
-        6,
         null,
         6,
         null,
+        6,
         null
       ],
       "clausula": null
@@ -10807,19 +10807,19 @@
       "name": "Ounahi",
       "position": 3,
       "price": 12010000,
-      "points": 139,
+      "points": 142,
       "trend": 60000,
       "playedHome": 10,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        3,
         5,
         5,
         9,
-        1,
-        6
+        1
       ],
       "clausula": null
     },
@@ -10907,7 +10907,7 @@
         null,
         null,
         null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -11533,19 +11533,19 @@
       "name": "Echeverri",
       "position": 3,
       "price": 2420000,
-      "points": 50,
+      "points": 52,
       "trend": 0,
       "playedHome": 6,
-      "playedAway": 7,
+      "playedAway": 8,
       "teamName": "Girona",
       "teamId": 289,
       "status": "ok",
       "jForm": [
+        2,
         3,
         2,
         6,
-        1,
-        null
+        1
       ],
       "clausula": null
     },
@@ -12015,6 +12015,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-11-5-26/",
+      "date": "Mon, 11 May 2026 21:00:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 36",
       "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j36/",
       "date": "Mon, 11 May 2026 19:33:24 +0000"
@@ -12054,17 +12060,11 @@
       "title": "Podcast: Alineaciones Probables Jornada 36 2025/26",
       "link": "https://www.jornadaperfecta.com/blog/podcast-alineaciones-probables-j36-25-26/",
       "date": "Mon, 11 May 2026 17:02:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Johnny Cardoso pasará por quirófano: Parte médico actualizado",
-      "link": "https://www.jornadaperfecta.com/blog/johnny-cardoso-parte-medico-atleti/",
-      "date": "Mon, 11 May 2026 17:01:45 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-11T19:53:39.112Z",
+    "updatedAt": "2026-05-12T03:37:47.727Z",
     "players": [
       {
         "id": "3374",
@@ -12674,7 +12674,7 @@
         "nationality": "Ukraine",
         "appearances": 29,
         "goals": 6,
-        "assists": 4,
+        "assists": 5,
         "penalties": 0,
         "minutesPerGoal": 435
       },
@@ -12967,6 +12967,18 @@
         "minutesPerGoal": 698
       },
       {
+        "id": "3171",
+        "name": "Cristhian Stuani",
+        "team": "Girona FC",
+        "position": "",
+        "nationality": "Uruguay",
+        "appearances": 23,
+        "goals": 4,
+        "assists": 0,
+        "penalties": 3,
+        "minutesPerGoal": 518
+      },
+      {
         "id": "125010",
         "name": "Jude Bellingham",
         "team": "Real Madrid CF",
@@ -13183,18 +13195,6 @@
         "minutesPerGoal": 870
       },
       {
-        "id": "3171",
-        "name": "Cristhian Stuani",
-        "team": "Girona FC",
-        "position": "",
-        "nationality": "Uruguay",
-        "appearances": 23,
-        "goals": 3,
-        "assists": 0,
-        "penalties": 3,
-        "minutesPerGoal": 690
-      },
-      {
         "id": "213263",
         "name": "Santi Comesaña",
         "team": "Villarreal CF",
@@ -13205,6 +13205,18 @@
         "assists": 6,
         "penalties": 0,
         "minutesPerGoal": 990
+      },
+      {
+        "id": "106014",
+        "name": "Alexandre Alemão",
+        "team": "Rayo Vallecano de Madrid",
+        "position": "",
+        "nationality": "Brazil",
+        "appearances": 28,
+        "goals": 3,
+        "assists": 0,
+        "penalties": 0,
+        "minutesPerGoal": 840
       },
       {
         "id": "7936",
@@ -13253,18 +13265,6 @@
         "assists": 3,
         "penalties": 0,
         "minutesPerGoal": 1050
-      },
-      {
-        "id": "82516",
-        "name": "Luka Sučić",
-        "team": "Real Sociedad de Fútbol",
-        "position": "",
-        "nationality": "Croatia",
-        "appearances": 32,
-        "goals": 3,
-        "assists": 1,
-        "penalties": 0,
-        "minutesPerGoal": 960
       }
     ]
   }
