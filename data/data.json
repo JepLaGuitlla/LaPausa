@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T14:33:51.843Z",
+  "updatedAt": "2026-05-12T19:58:28.179Z",
   "players": [
     {
       "id": 11,
@@ -829,8 +829,8 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
-        4,
         null,
+        4,
         null,
         null,
         null
@@ -3313,9 +3313,9 @@
       "teamId": 5,
       "status": "ok",
       "jForm": [
-        3,
-        3,
         0,
+        3,
+        3,
         0,
         0
       ],
@@ -4084,10 +4084,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         0,
         null,
-        17,
-        5
+        17
       ],
       "clausula": null
     },
@@ -4985,11 +4985,11 @@
       "teamId": 5,
       "status": "ok",
       "jForm": [
+        null,
         5,
         3,
         2,
-        6,
-        4
+        6
       ],
       "clausula": null
     },
@@ -5227,11 +5227,11 @@
       "teamId": 5,
       "status": "ok",
       "jForm": [
+        null,
         4,
         0,
         7,
-        3,
-        5
+        3
       ],
       "clausula": null
     },
@@ -7757,11 +7757,11 @@
       "teamId": 5,
       "status": "ok",
       "jForm": [
+        null,
         2,
         12,
         4,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -8022,10 +8022,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         5,
         null,
-        2,
-        -1
+        2
       ],
       "clausula": null
     },
@@ -8197,11 +8197,11 @@
       "teamId": 5,
       "status": "ok",
       "jForm": [
+        null,
         9,
         5,
         2,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -9803,11 +9803,11 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [
+        null,
         6,
         null,
         6,
-        8,
-        4
+        8
       ],
       "clausula": null
     },
@@ -11212,9 +11212,9 @@
       "status": "ok",
       "jForm": [
         3,
+        3,
         0,
         1,
-        3,
         3
       ],
       "clausula": null
@@ -11389,8 +11389,8 @@
       "jForm": [
         null,
         null,
-        4,
         null,
+        4,
         null
       ],
       "clausula": null
@@ -12034,56 +12034,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Valverde, sobre la fecha de vuelta de Nico Williams; Laporte y Yuri, dudas",
+      "title": "Quique cuenta con Toni Martínez y descarta a Boyé",
+      "link": "https://www.jornadaperfecta.com/blog/quique-previa-alaves-barcelona-j36/",
+      "date": "Tue, 12 May 2026 17:54:43 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Yuri Berchiche: Parte médico oficial del Athletic Club",
+      "link": "https://www.jornadaperfecta.com/blog/yuri-parte-medico-athletic/",
+      "date": "Tue, 12 May 2026 17:45:04 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Marcelino explica las ausencias de Pape Gueye",
+      "link": "https://www.jornadaperfecta.com/blog/marcelino-previa-villarreal-sevilla-j36/",
+      "date": "Tue, 12 May 2026 16:55:58 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Varias novedades en el once del Levante para la jornada 36",
+      "link": "https://www.jornadaperfecta.com/blog/once-levante-jornada-36/",
+      "date": "Tue, 12 May 2026 15:52:58 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Once confirmado del Celta con varias sorpresas!",
+      "link": "https://www.jornadaperfecta.com/blog/once-celta-jornada-36/",
+      "date": "Tue, 12 May 2026 15:47:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Manolo González aclara el estado de Carlos Romero",
+      "link": "https://www.jornadaperfecta.com/blog/manolo-gonzalez-previa-espanyol-athletic-j36/",
+      "date": "Tue, 12 May 2026 15:01:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Valverde, sobre la fecha de vuelta de Nico Williams",
       "link": "https://www.jornadaperfecta.com/blog/valverde-previa-espanyol-athletic-j36/",
       "date": "Tue, 12 May 2026 13:58:58 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Lesionados que podrían llegar a la jornada 36 y descartados",
-      "link": "https://www.jornadaperfecta.com/blog/lesionados-j36-25-26/",
-      "date": "Tue, 12 May 2026 13:20:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Bellingham, Rüdiger y Huijsen, se ausentan en el Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/bellingham-rudiger-estado-j36-25-26/",
-      "date": "Tue, 12 May 2026 13:07:20 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "BigUp: Gana dinero real con tus pronósticos del Real Betis &#8211; Elche",
-      "link": "https://www.jornadaperfecta.com/blog/bigup-betis-elche-pronosticos/",
-      "date": "Tue, 12 May 2026 13:00:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
       "title": "Mbappé se une a los entrenos con el grupo, ¿llega a la j36?",
       "link": "https://www.jornadaperfecta.com/blog/mbappe-recuperacion-lesion-26/",
-      "date": "Tue, 12 May 2026 12:50:59 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sancet apunta a baja el resto de temporada: Parte médico oficial",
-      "link": "https://www.jornadaperfecta.com/blog/sancet-lesion-isquiosural/",
-      "date": "Tue, 12 May 2026 12:47:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Flick, sobre Lewandowski, Rashford y las suplencias de Kounde y Balde",
-      "link": "https://www.jornadaperfecta.com/blog/flick-previa-alaves-barcelona-j36/",
-      "date": "Tue, 12 May 2026 11:58:13 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Bordalás anuncia dos tocados y descarta rotaciones",
-      "link": "https://www.jornadaperfecta.com/blog/bordalas-previa-getafe-mallorca-j36/",
-      "date": "Tue, 12 May 2026 11:47:35 +0000"
+      "date": "Tue, 12 May 2026 13:50:59 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-12T14:33:49.440Z",
+    "updatedAt": "2026-05-12T19:58:26.040Z",
     "players": [
       {
         "id": "3374",
@@ -12115,11 +12115,11 @@
         "team": "CA Osasuna",
         "position": "",
         "nationality": "Croatia",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 17,
         "assists": 0,
         "penalties": 6,
-        "minutesPerGoal": 180
+        "minutesPerGoal": 185
       },
       {
         "id": "33154",
@@ -12163,11 +12163,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 15,
         "assists": 1,
         "penalties": 4,
-        "minutesPerGoal": 204
+        "minutesPerGoal": 210
       },
       {
         "id": "180137",
@@ -12211,11 +12211,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "Norway",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 12,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 240
+        "minutesPerGoal": 248
       },
       {
         "id": "37428",
@@ -12228,6 +12228,18 @@
         "assists": 3,
         "penalties": 3,
         "minutesPerGoal": 188
+      },
+      {
+        "id": "32415",
+        "name": "Cucho Hernández",
+        "team": "Real Betis Balompié",
+        "position": "",
+        "nationality": "Colombia",
+        "appearances": 31,
+        "goals": 11,
+        "assists": 3,
+        "penalties": 1,
+        "minutesPerGoal": 254
       },
       {
         "id": "136646",
@@ -12271,23 +12283,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Portugal",
-        "appearances": 30,
+        "appearances": 31,
         "goals": 10,
         "assists": 0,
         "penalties": 3,
-        "minutesPerGoal": 270
-      },
-      {
-        "id": "32415",
-        "name": "Cucho Hernández",
-        "team": "Real Betis Balompié",
-        "position": "",
-        "nationality": "Colombia",
-        "appearances": 30,
-        "goals": 10,
-        "assists": 3,
-        "penalties": 1,
-        "minutesPerGoal": 270
+        "minutesPerGoal": 279
       },
       {
         "id": "150533",
@@ -12343,11 +12343,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 26,
+        "appearances": 27,
         "goals": 9,
         "assists": 8,
         "penalties": 0,
-        "minutesPerGoal": 260
+        "minutesPerGoal": 270
       },
       {
         "id": "112678",
@@ -12374,6 +12374,18 @@
         "minutesPerGoal": 220
       },
       {
+        "id": "83406",
+        "name": "Ferran Jutglà",
+        "team": "RC Celta de Vigo",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 33,
+        "goals": 9,
+        "assists": 3,
+        "penalties": 0,
+        "minutesPerGoal": 330
+      },
+      {
         "id": "81565",
         "name": "Gorka Guruzeta",
         "team": "Athletic Club",
@@ -12391,11 +12403,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 9,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 310
+        "minutesPerGoal": 320
       },
       {
         "id": "98571",
@@ -12434,6 +12446,18 @@
         "minutesPerGoal": 394
       },
       {
+        "id": "33117",
+        "name": "Pablo Fornals",
+        "team": "Real Betis Balompié",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 36,
+        "goals": 8,
+        "assists": 6,
+        "penalties": 0,
+        "minutesPerGoal": 405
+      },
+      {
         "id": "3331",
         "name": "Marcus Rashford",
         "team": "FC Barcelona",
@@ -12451,11 +12475,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "Brazil",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 8,
         "assists": 6,
         "penalties": 0,
-        "minutesPerGoal": 326
+        "minutesPerGoal": 338
       },
       {
         "id": "3259",
@@ -12475,11 +12499,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Cameroon",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 7,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 424
+        "minutesPerGoal": 437
       },
       {
         "id": "156746",
@@ -12487,11 +12511,11 @@
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 7,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 411
+        "minutesPerGoal": 424
       },
       {
         "id": "182319",
@@ -12518,28 +12542,16 @@
         "minutesPerGoal": 424
       },
       {
-        "id": "33117",
-        "name": "Pablo Fornals",
-        "team": "Real Betis Balompié",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 35,
-        "goals": 7,
-        "assists": 5,
-        "penalties": 0,
-        "minutesPerGoal": 450
-      },
-      {
         "id": "130324",
         "name": "Raúl",
         "team": "CA Osasuna",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 7,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 437
+        "minutesPerGoal": 450
       },
       {
         "id": "23132",
@@ -12559,11 +12571,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "France",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 7,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 424
+        "minutesPerGoal": 437
       },
       {
         "id": "140814",
@@ -12574,18 +12586,6 @@
         "appearances": 32,
         "goals": 7,
         "assists": 2,
-        "penalties": 0,
-        "minutesPerGoal": 411
-      },
-      {
-        "id": "83406",
-        "name": "Ferran Jutglà",
-        "team": "RC Celta de Vigo",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 32,
-        "goals": 7,
-        "assists": 3,
         "penalties": 0,
         "minutesPerGoal": 411
       },
@@ -12679,11 +12679,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 6,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 510
+        "minutesPerGoal": 525
       },
       {
         "id": "16173",
@@ -12811,11 +12811,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 5,
         "assists": 3,
         "penalties": 2,
-        "minutesPerGoal": 612
+        "minutesPerGoal": 630
       },
       {
         "id": "96",
@@ -12871,11 +12871,11 @@
         "team": "Elche CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 4,
-        "assists": 4,
+        "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 743
+        "minutesPerGoal": 765
       },
       {
         "id": "126878",
@@ -12895,11 +12895,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 4,
-        "assists": 1,
+        "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 698
+        "minutesPerGoal": 720
       },
       {
         "id": "171964",
@@ -13015,11 +13015,11 @@
         "team": "RC Celta de Vigo",
         "position": "",
         "nationality": "Sweden",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 4,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 630
+        "minutesPerGoal": 653
       },
       {
         "id": "217658",
@@ -13135,11 +13135,11 @@
         "team": "Real Betis Balompié",
         "position": "",
         "nationality": "DR Congo",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 840
+        "minutesPerGoal": 870
       },
       {
         "id": "156525",
@@ -13195,11 +13195,11 @@
         "team": "CA Osasuna",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 960
+        "minutesPerGoal": 990
       },
       {
         "id": "79953",
@@ -13207,11 +13207,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 870
+        "minutesPerGoal": 900
       },
       {
         "id": "213263",
@@ -13250,16 +13250,28 @@
         "minutesPerGoal": 720
       },
       {
+        "id": "98741",
+        "name": "Adrián de la Fuente",
+        "team": "Levante UD",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 32,
+        "goals": 3,
+        "assists": 1,
+        "penalties": 1,
+        "minutesPerGoal": 960
+      },
+      {
         "id": "126913",
         "name": "Iker Losada",
         "team": "Levante UD",
         "position": "",
         "nationality": "Spain",
-        "appearances": 36,
+        "appearances": 37,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 1080
+        "minutesPerGoal": 1110
       },
       {
         "id": "156967",
@@ -13272,18 +13284,6 @@
         "assists": 0,
         "penalties": 0,
         "minutesPerGoal": 450
-      },
-      {
-        "id": "159520",
-        "name": "Pablo Torre",
-        "team": "RCD Mallorca",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 35,
-        "goals": 3,
-        "assists": 3,
-        "penalties": 0,
-        "minutesPerGoal": 1050
       }
     ]
   }
