@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T08:45:58.364Z",
+  "updatedAt": "2026-05-12T14:33:51.843Z",
   "players": [
     {
       "id": 11,
@@ -12010,61 +12010,80 @@
         null
       ],
       "clausula": null
+    },
+    {
+      "id": 40551,
+      "slug": "miguel-cubo",
+      "name": "Miguel Cubo",
+      "position": 4,
+      "price": 450000,
+      "points": 16,
+      "trend": 0,
+      "playedHome": 1,
+      "playedAway": 1,
+      "teamName": "Atlético",
+      "teamId": 2,
+      "status": "ok",
+      "jForm": [
+        5,
+        11
+      ],
+      "clausula": null
     }
   ],
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Onces en prensa del Betis &#8211; Elche",
-      "link": "https://www.jornadaperfecta.com/blog/onces-en-prensa-betis-elche/",
-      "date": "Tue, 12 May 2026 08:37:48 +0000"
+      "title": "Valverde, sobre la fecha de vuelta de Nico Williams; Laporte y Yuri, dudas",
+      "link": "https://www.jornadaperfecta.com/blog/valverde-previa-espanyol-athletic-j36/",
+      "date": "Tue, 12 May 2026 13:58:58 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Onces en prensa del Celta &#8211; Levante",
-      "link": "https://www.jornadaperfecta.com/blog/onces-en-prensa-celta-levante/",
-      "date": "Tue, 12 May 2026 08:20:59 +0000"
+      "title": "Lesionados que podrían llegar a la jornada 36 y descartados",
+      "link": "https://www.jornadaperfecta.com/blog/lesionados-j36-25-26/",
+      "date": "Tue, 12 May 2026 13:20:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Bellingham, Rüdiger y Huijsen, se ausentan en el Real Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/bellingham-rudiger-estado-j36-25-26/",
+      "date": "Tue, 12 May 2026 13:07:20 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "BigUp: Gana dinero real con tus pronósticos del Real Betis &#8211; Elche",
       "link": "https://www.jornadaperfecta.com/blog/bigup-betis-elche-pronosticos/",
-      "date": "Tue, 12 May 2026 07:00:24 +0000"
+      "date": "Tue, 12 May 2026 13:00:24 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Cinco noticias fantasy para antes de irte a dormir",
-      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-11-5-26/",
-      "date": "Mon, 11 May 2026 21:00:47 +0000"
+      "title": "Mbappé se une a los entrenos con el grupo, ¿llega a la j36?",
+      "link": "https://www.jornadaperfecta.com/blog/mbappe-recuperacion-lesion-26/",
+      "date": "Tue, 12 May 2026 12:50:59 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 36",
-      "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j36/",
-      "date": "Mon, 11 May 2026 19:33:24 +0000"
+      "title": "Sancet apunta a baja el resto de temporada: Parte médico oficial",
+      "link": "https://www.jornadaperfecta.com/blog/sancet-lesion-isquiosural/",
+      "date": "Tue, 12 May 2026 12:47:51 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Carlos Romero no entrena con el grupo, posible baja",
-      "link": "https://www.jornadaperfecta.com/blog/carlos-romero-lesion-espanyol/",
-      "date": "Mon, 11 May 2026 18:05:57 +0000"
+      "title": "Flick, sobre Lewandowski, Rashford y las suplencias de Kounde y Balde",
+      "link": "https://www.jornadaperfecta.com/blog/flick-previa-alaves-barcelona-j36/",
+      "date": "Tue, 12 May 2026 11:58:13 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "El All In de Victorius para la Jornada 36 de La Liga",
-      "link": "https://www.jornadaperfecta.com/blog/all-in-victorius-j36-25-26/",
-      "date": "Mon, 11 May 2026 18:00:55 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Chollos Fantasy que Tienes que Fichar YA para la J36 de Biwenger",
-      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j36-laliga/",
-      "date": "Mon, 11 May 2026 17:07:44 +0000"
+      "title": "Bordalás anuncia dos tocados y descarta rotaciones",
+      "link": "https://www.jornadaperfecta.com/blog/bordalas-previa-getafe-mallorca-j36/",
+      "date": "Tue, 12 May 2026 11:47:35 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-12T08:45:56.562Z",
+    "updatedAt": "2026-05-12T14:33:49.440Z",
     "players": [
       {
         "id": "3374",
