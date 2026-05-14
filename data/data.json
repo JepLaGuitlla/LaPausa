@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T20:00:33.667Z",
+  "updatedAt": "2026-05-14T03:45:44.567Z",
   "players": [
     {
       "id": 11,
@@ -7,19 +7,19 @@
       "name": "David Soria",
       "position": 1,
       "price": 5990000,
-      "points": 184,
+      "points": 186,
       "trend": 20000,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 18,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        2,
         9,
         2,
         1,
-        7,
-        11
+        7
       ],
       "clausula": null
     },
@@ -37,11 +37,11 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        null,
         7,
         6,
         null,
-        3,
-        7
+        3
       ],
       "clausula": null
     },
@@ -103,9 +103,9 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        null,
         2,
         0,
-        null,
         null,
         null
       ],
@@ -280,10 +280,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
         -1,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -499,11 +499,11 @@
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        null,
         5,
         1,
         3,
-        3,
-        1
+        3
       ],
       "clausula": null
     },
@@ -535,19 +535,19 @@
       "name": "Antonio Blanco",
       "position": 3,
       "price": 4250000,
-      "points": 154,
+      "points": 160,
       "trend": 0,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 17,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        6,
         2,
         11,
         5,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -733,19 +733,19 @@
       "name": "Darder",
       "position": 3,
       "price": 6490000,
-      "points": 155,
+      "points": 157,
       "trend": 90000,
       "playedHome": 18,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        2,
         6,
         6,
         5,
-        8,
-        9
+        8
       ],
       "clausula": null
     },
@@ -887,19 +887,19 @@
       "name": "Denis Suárez",
       "position": 3,
       "price": 600000,
-      "points": 93,
+      "points": 98,
       "trend": 10000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 14,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        5,
         4,
         1,
         3,
-        2,
-        4
+        2
       ],
       "clausula": null
     },
@@ -1019,19 +1019,19 @@
       "name": "Cancelo",
       "position": 2,
       "price": 12240000,
-      "points": 80,
+      "points": 83,
       "trend": 30000,
       "playedHome": 8,
-      "playedAway": 5,
+      "playedAway": 6,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        3,
         6,
         6,
         7,
-        3,
-        6
+        3
       ],
       "clausula": null
     },
@@ -1349,17 +1349,17 @@
       "name": "Mascarell",
       "position": 3,
       "price": 1210000,
-      "points": 114,
+      "points": 125,
       "trend": 30000,
       "playedHome": 15,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        11,
         6,
         3,
-        4,
         4,
         4
       ],
@@ -1393,19 +1393,19 @@
       "name": "Antonio Sánchez",
       "position": 3,
       "price": 300000,
-      "points": 65,
+      "points": 68,
       "trend": 0,
       "playedHome": 16,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
-        null,
         3,
         null,
         3,
-        2
+        null,
+        3
       ],
       "clausula": null
     },
@@ -1459,19 +1459,19 @@
       "name": "Mario Martín",
       "position": 3,
       "price": 1010000,
-      "points": 102,
+      "points": 104,
       "trend": 0,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 18,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        2,
         3,
         null,
         1,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -1635,19 +1635,19 @@
       "name": "Domingos Duarte",
       "position": 2,
       "price": 1460000,
-      "points": 104,
+      "points": 108,
       "trend": 20000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 16,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        4,
         6,
         1,
         1,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -1864,10 +1864,10 @@
       "status": "ok",
       "jForm": [
         null,
-        3,
         null,
         3,
-        null
+        null,
+        3
       ],
       "clausula": null
     },
@@ -2105,10 +2105,10 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
-        3,
         null,
         3,
         null,
+        3,
         null
       ],
       "clausula": null
@@ -2471,19 +2471,19 @@
       "name": "Sivera",
       "position": 1,
       "price": 3120000,
-      "points": 164,
+      "points": 169,
       "trend": 10000,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 18,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        5,
         6,
         1,
         5,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -2515,18 +2515,18 @@
       "name": "Djené",
       "position": 2,
       "price": 1250000,
-      "points": 103,
+      "points": 106,
       "trend": 10000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 17,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
         3,
+        3,
         null,
         1,
-        5,
         5
       ],
       "clausula": null
@@ -2537,19 +2537,19 @@
       "name": "Maffeo",
       "position": 2,
       "price": 2840000,
-      "points": 113,
+      "points": 115,
       "trend": 60000,
       "playedHome": 13,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        2,
         null,
         4,
         2,
-        3,
-        6
+        3
       ],
       "clausula": null
     },
@@ -2559,19 +2559,19 @@
       "name": "Balde",
       "position": 2,
       "price": 3020000,
-      "points": 98,
+      "points": 99,
       "trend": 10000,
       "playedHome": 12,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        1,
         0,
         null,
         3,
-        4,
-        2
+        4
       ],
       "clausula": null
     },
@@ -2603,19 +2603,19 @@
       "name": "Arambarri",
       "position": 3,
       "price": 8490000,
-      "points": 164,
+      "points": 172,
       "trend": 40000,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 17,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        8,
         6,
         -2,
         4,
-        4,
-        null
+        4
       ],
       "clausula": null
     },
@@ -2656,8 +2656,8 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
-        3,
         3,
         3
       ],
@@ -2669,18 +2669,18 @@
       "name": "Guridi",
       "position": 3,
       "price": 300000,
-      "points": 55,
+      "points": 61,
       "trend": 0,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 15,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        6,
         5,
         1,
         3,
-        1,
         1
       ],
       "clausula": null
@@ -2721,11 +2721,11 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        null,
         3,
         6,
         2,
-        5,
-        7
+        5
       ],
       "clausula": null
     },
@@ -3119,8 +3119,8 @@
       "jForm": [
         null,
         null,
-        3,
         null,
+        3,
         null
       ],
       "clausula": null
@@ -3141,9 +3141,9 @@
       "jForm": [
         null,
         null,
+        null,
         0,
-        -2,
-        9
+        -2
       ],
       "clausula": null
     },
@@ -3153,19 +3153,19 @@
       "name": "Ferran Torres",
       "position": 4,
       "price": 12110000,
-      "points": 178,
+      "points": 180,
       "trend": 100000,
       "playedHome": 15,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        2,
         12,
         12,
         null,
-        4,
-        17
+        4
       ],
       "clausula": null
     },
@@ -3328,18 +3328,18 @@
       "name": "Leo Román",
       "position": 1,
       "price": 3380000,
-      "points": 155,
+      "points": 153,
       "trend": 0,
       "playedHome": 16,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        -2,
         3,
         10,
         4,
-        7,
         7
       ],
       "clausula": null
@@ -3350,19 +3350,19 @@
       "name": "Pablo Ibáñez",
       "position": 3,
       "price": 1790000,
-      "points": 127,
+      "points": 132,
       "trend": -10000,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 17,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        5,
         3,
         2,
         3,
-        4,
-        1
+        4
       ],
       "clausula": null
     },
@@ -3424,11 +3424,11 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        null,
         6,
         6,
         7,
-        10,
-        5
+        10
       ],
       "clausula": null
     },
@@ -3622,11 +3622,11 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        null,
         2,
         0,
         null,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -3658,19 +3658,19 @@
       "name": "Morlanes",
       "position": 3,
       "price": 1290000,
-      "points": 101,
+      "points": 102,
       "trend": 10000,
       "playedHome": 15,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        1,
         3,
         4,
         4,
-        5,
-        3
+        5
       ],
       "clausula": null
     },
@@ -3746,19 +3746,19 @@
       "name": "Nyom",
       "position": 3,
       "price": 190000,
-      "points": 16,
+      "points": 25,
       "trend": 0,
-      "playedHome": 7,
+      "playedHome": 8,
       "playedAway": 5,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        9,
         null,
         null,
         null,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -3930,11 +3930,11 @@
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        null,
         2,
         2,
         null,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -4150,11 +4150,11 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        null,
         4,
         5,
         3,
-        5,
-        6
+        5
       ],
       "clausula": null
     },
@@ -4296,19 +4296,19 @@
       "name": "Valjent",
       "position": 2,
       "price": 3380000,
-      "points": 122,
+      "points": 120,
       "trend": 40000,
       "playedHome": 17,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        -2,
         6,
         5,
         3,
-        7,
-        null
+        7
       ],
       "clausula": null
     },
@@ -4318,19 +4318,19 @@
       "name": "Abdón Prats",
       "position": 4,
       "price": 150000,
-      "points": 17,
+      "points": 18,
       "trend": 0,
       "playedHome": 7,
-      "playedAway": 5,
+      "playedAway": 6,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        1,
         null,
         null,
         2,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -4362,19 +4362,19 @@
       "name": "Koundé",
       "position": 2,
       "price": 6400000,
-      "points": 126,
+      "points": 128,
       "trend": -30000,
       "playedHome": 14,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        2,
         null,
         null,
         4,
-        4,
-        null
+        4
       ],
       "clausula": null
     },
@@ -4431,12 +4431,12 @@
       "points": 91,
       "trend": -30000,
       "playedHome": 18,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
-        3,
+        0,
         3,
         3,
         3,
@@ -4516,19 +4516,19 @@
       "name": "Pedri",
       "position": 3,
       "price": 25310000,
-      "points": 199,
+      "points": 203,
       "trend": -10000,
       "playedHome": 14,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        4,
         6,
         7,
         10,
-        3,
-        6
+        3
       ],
       "clausula": null
     },
@@ -4538,19 +4538,19 @@
       "name": "Luis Milla",
       "position": 3,
       "price": 13820000,
-      "points": 183,
+      "points": 192,
       "trend": 0,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 18,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        9,
         4,
         6,
         5,
-        5,
-        3
+        5
       ],
       "clausula": null
     },
@@ -4604,19 +4604,19 @@
       "name": "Bordalás",
       "position": 5,
       "price": 870000,
-      "points": 45,
+      "points": 48,
       "trend": 0,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 18,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        3,
         1,
         0,
         0,
-        3,
-        0
+        3
       ],
       "clausula": null
     },
@@ -4855,10 +4855,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         2,
         4,
-        null,
-        6
+        null
       ],
       "clausula": null
     },
@@ -4909,7 +4909,7 @@
     {
       "id": 21033,
       "slug": "benat-prados",
-      "name": "Beñat Prados",
+      "name": "Be��at Prados",
       "position": 3,
       "price": 250000,
       "points": 5,
@@ -5286,19 +5286,19 @@
       "name": "Juan Iglesias",
       "position": 2,
       "price": 4360000,
-      "points": 140,
+      "points": 143,
       "trend": 0,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 17,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        3,
         5,
         3,
         1,
-        8,
-        2
+        8
       ],
       "clausula": null
     },
@@ -5492,11 +5492,11 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        null,
         5,
         8,
         5,
-        3,
-        8
+        3
       ],
       "clausula": null
     },
@@ -5572,19 +5572,19 @@
       "name": "Sánchez Flores",
       "position": 5,
       "price": 350000,
-      "points": 10,
+      "points": 13,
       "trend": 0,
-      "playedHome": 4,
+      "playedHome": 5,
       "playedAway": 5,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        3,
         1,
         0,
         3,
-        0,
-        1
+        0
       ],
       "clausula": null
     },
@@ -5660,19 +5660,19 @@
       "name": "Tenaglia",
       "position": 2,
       "price": 3350000,
-      "points": 142,
+      "points": 150,
       "trend": 10000,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 16,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        8,
         4,
         10,
         5,
-        5,
-        3
+        5
       ],
       "clausula": null
     },
@@ -5691,10 +5691,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         3,
         null,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -5836,19 +5836,19 @@
       "name": "Muriqi",
       "position": 4,
       "price": 18700000,
-      "points": 239,
+      "points": 242,
       "trend": 20000,
       "playedHome": 17,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        3,
         12,
         1,
         2,
-        3,
-        16
+        3
       ],
       "clausula": null
     },
@@ -5910,11 +5910,11 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        null,
         6,
         13,
         5,
-        12,
-        7
+        12
       ],
       "clausula": null
     },
@@ -6023,8 +6023,8 @@
         null,
         null,
         null,
-        11,
-        16
+        null,
+        11
       ],
       "clausula": null
     },
@@ -6306,8 +6306,8 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
-        3,
         null,
+        3,
         null,
         null,
         null
@@ -6320,18 +6320,18 @@
       "name": "Lewandowski",
       "position": 4,
       "price": 10740000,
-      "points": 142,
+      "points": 141,
       "trend": 30000,
       "playedHome": 14,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        -1,
         2,
         11,
         4,
-        null,
         null
       ],
       "clausula": null
@@ -6342,19 +6342,19 @@
       "name": "Pablo Torre",
       "position": 3,
       "price": 6730000,
-      "points": 132,
+      "points": 137,
       "trend": 50000,
       "playedHome": 16,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        5,
         6,
         5,
         3,
-        5,
-        9
+        5
       ],
       "clausula": null
     },
@@ -7024,7 +7024,7 @@
       "name": "Jauregizar",
       "position": 3,
       "price": 2520000,
-      "points": 125,
+      "points": 126,
       "trend": 0,
       "playedHome": 17,
       "playedAway": 17,
@@ -7032,7 +7032,7 @@
       "teamId": 1,
       "status": "ok",
       "jForm": [
-        1,
+        2,
         5,
         -1,
         null,
@@ -7164,11 +7164,11 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        null,
         3,
         2,
         3,
-        3,
-        4
+        3
       ],
       "clausula": null
     },
@@ -7178,16 +7178,16 @@
       "name": "Benavidez",
       "position": 3,
       "price": 160000,
-      "points": 24,
+      "points": 27,
       "trend": 0,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 5,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
         3,
-        null,
+        3,
         null,
         null,
         null
@@ -7200,19 +7200,19 @@
       "name": "Abde Rebbach",
       "position": 4,
       "price": 650000,
-      "points": 90,
+      "points": 96,
       "trend": 20000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 12,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        6,
         4,
         4,
         4,
-        null,
-        4
+        null
       ],
       "clausula": null
     },
@@ -7450,11 +7450,11 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        null,
         5,
         10,
         13,
-        6,
-        8
+        6
       ],
       "clausula": null
     },
@@ -7816,19 +7816,19 @@
       "name": "Victor Parada",
       "position": 2,
       "price": 210000,
-      "points": 57,
+      "points": 62,
       "trend": 0,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 16,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        5,
         4,
         1,
         2,
-        3,
-        1
+        3
       ],
       "clausula": null
     },
@@ -7860,19 +7860,19 @@
       "name": "Cubarsí",
       "position": 2,
       "price": 11160000,
-      "points": 156,
+      "points": 161,
       "trend": 30000,
       "playedHome": 14,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        5,
         7,
         9,
         11,
-        7,
-        4
+        7
       ],
       "clausula": null
     },
@@ -7948,19 +7948,19 @@
       "name": "Marc Casadó",
       "position": 3,
       "price": 1070000,
-      "points": 59,
+      "points": 60,
       "trend": 90000,
       "playedHome": 14,
-      "playedAway": 7,
+      "playedAway": 8,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        1,
         null,
         null,
         0,
-        null,
-        5
+        null
       ],
       "clausula": null
     },
@@ -8308,10 +8308,10 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        null,
         2,
         null,
         3,
-        null,
         null
       ],
       "clausula": null
@@ -8322,19 +8322,19 @@
       "name": "Asano",
       "position": 4,
       "price": 210000,
-      "points": 38,
+      "points": 40,
       "trend": 0,
       "playedHome": 11,
-      "playedAway": 6,
+      "playedAway": 7,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        2,
         null,
         null,
         null,
-        1,
-        4
+        1
       ],
       "clausula": null
     },
@@ -8366,17 +8366,17 @@
       "name": "Marc Bernal",
       "position": 3,
       "price": 5930000,
-      "points": 93,
+      "points": 97,
       "trend": 20000,
       "playedHome": 10,
-      "playedAway": 9,
+      "playedAway": 10,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        4,
         3,
         4,
-        null,
         null,
         null
       ],
@@ -8400,7 +8400,7 @@
         null,
         null,
         null,
-        3
+        null
       ],
       "clausula": null
     },
@@ -8418,11 +8418,11 @@
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        null,
         6,
         5,
         6,
-        6,
-        4
+        6
       ],
       "clausula": null
     },
@@ -8652,19 +8652,19 @@
       "name": "Dani Olmo",
       "position": 3,
       "price": 14820000,
-      "points": 181,
+      "points": 183,
       "trend": 30000,
       "playedHome": 16,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        2,
         6,
         1,
         5,
-        7,
-        5
+        7
       ],
       "clausula": null
     },
@@ -8718,15 +8718,15 @@
       "name": "Szczęsny",
       "position": 1,
       "price": 710000,
-      "points": 34,
+      "points": 39,
       "trend": 20000,
       "playedHome": 3,
-      "playedAway": 3,
+      "playedAway": 4,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
-        null,
+        5,
         null,
         null,
         null,
@@ -8784,19 +8784,19 @@
       "name": "Toni Martínez",
       "position": 4,
       "price": 8440000,
-      "points": 190,
+      "points": 194,
       "trend": 100000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 18,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        4,
         8,
         3,
         18,
-        7,
-        5
+        7
       ],
       "clausula": null
     },
@@ -9158,19 +9158,19 @@
       "name": "David López",
       "position": 2,
       "price": 380000,
-      "points": 42,
+      "points": 44,
       "trend": 0,
       "playedHome": 6,
-      "playedAway": 6,
+      "playedAway": 7,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        2,
         3,
         3,
         3,
-        3,
-        5
+        3
       ],
       "clausula": null
     },
@@ -9518,11 +9518,11 @@
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        null,
         3,
         null,
         null,
-        2,
-        null
+        2
       ],
       "clausula": null
     },
@@ -9959,10 +9959,10 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         1,
         null,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -10002,10 +10002,10 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        null,
         2,
         1,
         2,
-        null,
         null
       ],
       "clausula": null
@@ -10038,19 +10038,19 @@
       "name": "Davinchi",
       "position": 2,
       "price": 260000,
-      "points": 24,
+      "points": 26,
       "trend": 0,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 6,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
         2,
+        2,
         -1,
         1,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -10239,16 +10239,16 @@
       "points": 64,
       "trend": 20000,
       "playedHome": 12,
-      "playedAway": 7,
+      "playedAway": 8,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        0,
         null,
         2,
         5,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -10312,9 +10312,9 @@
       "jForm": [
         null,
         null,
+        null,
         3,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -10324,19 +10324,19 @@
       "name": "Rashford",
       "position": 4,
       "price": 11820000,
-      "points": 168,
+      "points": 170,
       "trend": 120000,
       "playedHome": 14,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
+        2,
         10,
         5,
         12,
-        2,
-        11
+        2
       ],
       "clausula": null
     },
@@ -10742,19 +10742,19 @@
       "name": "Jan Virgili",
       "position": 4,
       "price": 5400000,
-      "points": 113,
+      "points": 114,
       "trend": 40000,
       "playedHome": 14,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        1,
         4,
         3,
         9,
-        8,
-        10
+        8
       ],
       "clausula": null
     },
@@ -10927,10 +10927,10 @@
       "status": "ok",
       "jForm": [
         null,
-        2,
-        2,
         null,
-        2
+        2,
+        2,
+        null
       ],
       "clausula": null
     },
@@ -11339,16 +11339,16 @@
       "points": 15,
       "trend": 0,
       "playedHome": 6,
-      "playedAway": 4,
+      "playedAway": 5,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        0,
         1,
         3,
         0,
-        1,
-        3
+        1
       ],
       "clausula": null
     },
@@ -11455,8 +11455,8 @@
       "status": "ok",
       "jForm": [
         null,
-        2,
         null,
+        2,
         null,
         null
       ],
@@ -11468,19 +11468,19 @@
       "name": "Satriano",
       "position": 4,
       "price": 4340000,
-      "points": 76,
+      "points": 93,
       "trend": -50000,
-      "playedHome": 8,
+      "playedHome": 9,
       "playedAway": 8,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        17,
         3,
         2,
         3,
-        1,
-        2
+        1
       ],
       "clausula": null
     },
@@ -11490,19 +11490,19 @@
       "name": "Boselli",
       "position": 2,
       "price": 150000,
-      "points": 27,
+      "points": 31,
       "trend": 0,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 5,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        4,
         null,
         null,
         2,
-        4,
-        2
+        4
       ],
       "clausula": null
     },
@@ -11512,19 +11512,19 @@
       "name": "Zaid Romero",
       "position": 2,
       "price": 2590000,
-      "points": 52,
+      "points": 64,
       "trend": 130000,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 7,
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        12,
         6,
         null,
         null,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -11586,11 +11586,11 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
+        null,
         1,
         6,
         2,
-        2,
-        1
+        2
       ],
       "clausula": null
     },
@@ -11644,18 +11644,18 @@
       "name": "Ángel Pérez",
       "position": 4,
       "price": 2980000,
-      "points": 59,
+      "points": 64,
       "trend": 90000,
-      "playedHome": 6,
+      "playedHome": 7,
       "playedAway": 7,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        5,
         6,
         4,
         6,
-        2,
         2
       ],
       "clausula": null
@@ -11710,15 +11710,15 @@
       "name": "Ville Koski",
       "position": 2,
       "price": 160000,
-      "points": 2,
+      "points": 10,
       "trend": 0,
-      "playedHome": 1,
+      "playedHome": 2,
       "playedAway": 1,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
-        null,
+        8,
         null,
         null,
         null,
@@ -11842,19 +11842,19 @@
       "name": "Diabate",
       "position": 4,
       "price": 350000,
-      "points": 21,
+      "points": 32,
       "trend": 0,
-      "playedHome": 3,
+      "playedHome": 4,
       "playedAway": 4,
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        11,
         1,
         2,
         3,
-        0,
-        9
+        0
       ],
       "clausula": null
     },
@@ -11874,9 +11874,9 @@
       "jForm": [
         null,
         null,
-        1,
         null,
-        1
+        1,
+        null
       ],
       "clausula": null
     },
@@ -11886,19 +11886,19 @@
       "name": "Luvumbo",
       "position": 4,
       "price": 2520000,
-      "points": 39,
+      "points": 38,
       "trend": 200000,
       "playedHome": 6,
-      "playedAway": 2,
+      "playedAway": 3,
       "teamName": "Mallorca",
       "teamId": 465,
       "status": "ok",
       "jForm": [
+        -1,
         9,
         3,
         null,
-        null,
-        8
+        null
       ],
       "clausula": null
     },
@@ -11996,15 +11996,15 @@
       "name": "Xavi Espart",
       "position": 2,
       "price": 350000,
-      "points": 5,
+      "points": 9,
       "trend": 0,
       "playedHome": 2,
-      "playedAway": 0,
+      "playedAway": 1,
       "teamName": "Barcelona",
       "teamId": 3,
       "status": "ok",
       "jForm": [
-        null,
+        4,
         null,
         null,
         null,
@@ -12035,9 +12035,21 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Djené queda en duda tras pedir el cambio por molestias",
+      "link": "https://www.jornadaperfecta.com/blog/djene-estado-getafe-j37/",
+      "date": "Wed, 13 May 2026 21:37:18 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-13-5-26/",
+      "date": "Wed, 13 May 2026 21:00:38 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Dani Vivian, sustituido por una lesión en el tobillo",
       "link": "https://www.jornadaperfecta.com/blog/vivian-lesion-tobillo-athletic/",
-      "date": "Wed, 13 May 2026 18:22:41 +0000"
+      "date": "Wed, 13 May 2026 18:23:41 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12068,23 +12080,11 @@
       "title": "Iñigo Pérez, sobre Lejeune, Isi, De Frutos y Gumbau",
       "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-valencia-rayo-j36/",
       "date": "Wed, 13 May 2026 14:22:39 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Míchel, sobre el estado de la rodilla de Stuani",
-      "link": "https://www.jornadaperfecta.com/blog/michel-previa-girona-real-sociedad-j36/",
-      "date": "Wed, 13 May 2026 14:12:29 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Matarazzo confirma la baja de Guedes y la vuelta de Zubeldia",
-      "link": "https://www.jornadaperfecta.com/blog/matarazzo-previa-girona-real-sociedad-j36/",
-      "date": "Wed, 13 May 2026 13:56:43 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-13T20:00:33.667Z",
+    "updatedAt": "2026-05-14T03:45:43.128Z",
     "players": [
       {
         "id": "3374",
@@ -12723,6 +12723,18 @@
         "minutesPerGoal": 420
       },
       {
+        "id": "152458",
+        "name": "Martin Satriano",
+        "team": "Getafe CF",
+        "position": "",
+        "nationality": "Uruguay",
+        "appearances": 17,
+        "goals": 6,
+        "assists": 1,
+        "penalties": 0,
+        "minutesPerGoal": 255
+      },
+      {
         "id": "213404",
         "name": "Carlos Vicente",
         "team": "Deportivo Alavés",
@@ -12817,18 +12829,6 @@
         "assists": 3,
         "penalties": 2,
         "minutesPerGoal": 630
-      },
-      {
-        "id": "152458",
-        "name": "Martin Satriano",
-        "team": "Getafe CF",
-        "position": "",
-        "nationality": "Uruguay",
-        "appearances": 17,
-        "goals": 5,
-        "assists": 1,
-        "penalties": 0,
-        "minutesPerGoal": 306
       },
       {
         "id": "96",
