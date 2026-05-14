@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T08:42:21.638Z",
+  "updatedAt": "2026-05-14T14:23:48.720Z",
   "players": [
     {
       "id": 11,
@@ -12035,56 +12035,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Mbappé se recupera y entra en la convocatoria",
+      "link": "https://www.jornadaperfecta.com/blog/mbappe-recuperacion-lesion-26/",
+      "date": "Thu, 14 May 2026 13:01:59 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Flick explica la suplencia de Joan García y aclara si volverá a jugar",
       "link": "https://www.jornadaperfecta.com/blog/joan-garcia-suplencia-szczesny/",
-      "date": "Thu, 14 May 2026 08:20:57 +0000"
+      "date": "Thu, 14 May 2026 12:20:57 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Luckia Barcelona vs Betis: apuesta con seguro de 10€ gratis si fallas",
-      "link": "https://www.jornadaperfecta.com/blog/luckia-barcelona-vs-betis-seguro/",
-      "date": "Thu, 14 May 2026 07:00:50 +0000"
+      "title": "Aitor Ruibal pasará por quirófano y se despide de la temporada",
+      "link": "https://www.jornadaperfecta.com/blog/aitor-ruibal-quirofano-adios-temporada/",
+      "date": "Thu, 14 May 2026 12:16:56 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Mbappé suma un entrenamiento más con el grupo, ¿llega a la j36?",
-      "link": "https://www.jornadaperfecta.com/blog/mbappe-recuperacion-lesion-26/",
-      "date": "Thu, 14 May 2026 06:20:59 +0000"
+      "title": "Lucas Beltrán finalmente es baja y vuelve Thierry a la convocatoria",
+      "link": "https://www.jornadaperfecta.com/blog/lucas-beltran-estado-valencia-j36/",
+      "date": "Thu, 14 May 2026 11:20:51 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Djené queda en duda tras pedir el cambio por molestias",
-      "link": "https://www.jornadaperfecta.com/blog/djene-estado-getafe-j37/",
-      "date": "Wed, 13 May 2026 21:37:18 +0000"
+      "title": "Lesionados que podrían llegar a la jornada 37 y descartados",
+      "link": "https://www.jornadaperfecta.com/blog/lesionados-j37-25-26/",
+      "date": "Thu, 14 May 2026 11:00:33 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Cinco noticias fantasy para antes de irte a dormir",
-      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-13-5-26/",
-      "date": "Wed, 13 May 2026 21:00:38 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Dani Vivian, sustituido por una lesión en el tobillo",
+      "title": "Dani Vivian dice adiós a la temporada: parte médico oficial",
       "link": "https://www.jornadaperfecta.com/blog/vivian-lesion-tobillo-athletic/",
-      "date": "Wed, 13 May 2026 18:23:41 +0000"
+      "date": "Thu, 14 May 2026 10:55:41 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair para el Alavés vs Barcelona: cuota mejorada a 5.5",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-alaves-vs-barcelona/",
-      "date": "Wed, 13 May 2026 16:05:54 +0000"
+      "title": "Rafa Mir sigue con el grupo y André Silva es baja por enfermedad",
+      "link": "https://www.jornadaperfecta.com/blog/rafa-mir-estado-elche-j37/",
+      "date": "Thu, 14 May 2026 10:45:32 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Rodrigo Mendoza dice adiós a la temporada por lesión",
-      "link": "https://www.jornadaperfecta.com/blog/rodrigo-mendoza-lesion-atleti/",
-      "date": "Wed, 13 May 2026 16:01:06 +0000"
+      "title": "Actualizadas las Alineaciones Probables para la Jornada 37",
+      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-j37-laliga-25-26/",
+      "date": "Thu, 14 May 2026 09:00:42 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-14T08:42:20.336Z",
+    "updatedAt": "2026-05-14T14:23:48.719Z",
     "players": [
       {
         "id": "3374",
