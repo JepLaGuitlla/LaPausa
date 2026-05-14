@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T14:23:48.720Z",
+  "updatedAt": "2026-05-14T19:50:54.686Z",
   "players": [
     {
       "id": 11,
@@ -85,7 +85,7 @@
         null,
         null,
         null,
-        5
+        null
       ],
       "clausula": null
     },
@@ -139,9 +139,9 @@
       "name": "Guido Rodríguez",
       "position": 3,
       "price": 5420000,
-      "points": 67,
+      "points": 71,
       "trend": 0,
-      "playedHome": 6,
+      "playedHome": 7,
       "playedAway": 7,
       "teamName": "Valencia",
       "teamId": 18,
@@ -149,7 +149,7 @@
       "jForm": [
         4,
         4,
-        3,
+        4,
         3,
         3
       ],
@@ -777,19 +777,19 @@
       "name": "Gayà",
       "position": 2,
       "price": 3240000,
-      "points": 104,
+      "points": 108,
       "trend": 80000,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 16,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        4,
         6,
         5,
         8,
-        5,
-        3
+        5
       ],
       "clausula": null
     },
@@ -1041,19 +1041,19 @@
       "name": "Unai López",
       "position": 3,
       "price": 540000,
-      "points": 90,
+      "points": 93,
       "trend": 0,
       "playedHome": 14,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        3,
         4,
         3,
         3,
-        3,
-        null
+        3
       ],
       "clausula": null
     },
@@ -1481,19 +1481,19 @@
       "name": "Lejeune",
       "position": 2,
       "price": 8440000,
-      "points": 180,
+      "points": 193,
       "trend": 70000,
       "playedHome": 17,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        13,
         7,
         5,
         10,
-        null,
-        4
+        null
       ],
       "clausula": null
     },
@@ -1525,18 +1525,18 @@
       "name": "Gumbau",
       "position": 3,
       "price": 250000,
-      "points": 65,
+      "points": 73,
       "trend": 0,
       "playedHome": 12,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        8,
         2,
         5,
         5,
-        3,
         3
       ],
       "clausula": null
@@ -1777,9 +1777,9 @@
       "jForm": [
         null,
         null,
+        null,
         0,
-        8,
-        null
+        8
       ],
       "clausula": null
     },
@@ -1811,18 +1811,18 @@
       "name": "Óscar Valentín",
       "position": 3,
       "price": 1110000,
-      "points": 112,
+      "points": 114,
       "trend": 40000,
       "playedHome": 16,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        2,
         7,
         0,
         null,
-        3,
         3
       ],
       "clausula": null
@@ -1987,9 +1987,9 @@
       "name": "Hugo Duro",
       "position": 4,
       "price": 2540000,
-      "points": 130,
+      "points": 131,
       "trend": -10000,
-      "playedHome": 16,
+      "playedHome": 17,
       "playedAway": 17,
       "teamName": "Valencia",
       "teamId": 18,
@@ -1997,9 +1997,9 @@
       "jForm": [
         1,
         1,
+        1,
         2,
-        null,
-        2
+        null
       ],
       "clausula": null
     },
@@ -2625,18 +2625,18 @@
       "name": "Unai Núñez",
       "position": 2,
       "price": 1360000,
-      "points": 39,
+      "points": 43,
       "trend": -10000,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 5,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        4,
         3,
         null,
         3,
-        null,
         null
       ],
       "clausula": null
@@ -2942,8 +2942,8 @@
       "status": "ok",
       "jForm": [
         null,
-        2,
         null,
+        2,
         null,
         null
       ],
@@ -2955,19 +2955,19 @@
       "name": "Dimitrievski",
       "position": 1,
       "price": 2360000,
-      "points": 87,
+      "points": 92,
       "trend": 140000,
-      "playedHome": 8,
+      "playedHome": 9,
       "playedAway": 9,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        5,
         11,
         3,
         8,
-        9,
-        4
+        9
       ],
       "clausula": null
     },
@@ -3043,19 +3043,19 @@
       "name": "Pepelu",
       "position": 3,
       "price": 3530000,
-      "points": 116,
+      "points": 119,
       "trend": 10000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 15,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        3,
         2,
         3,
         6,
-        6,
-        3
+        6
       ],
       "clausula": null
     },
@@ -3230,7 +3230,7 @@
         null,
         null,
         null,
-        2,
+        null,
         2
       ],
       "clausula": null
@@ -3944,19 +3944,19 @@
       "name": "Rioja",
       "position": 4,
       "price": 3510000,
-      "points": 144,
+      "points": 147,
       "trend": 20000,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 17,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        3,
         4,
         1,
         4,
-        3,
-        9
+        3
       ],
       "clausula": null
     },
@@ -4062,11 +4062,11 @@
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        null,
         5,
         12,
         13,
-        12,
-        2
+        12
       ],
       "clausula": null
     },
@@ -4252,19 +4252,19 @@
       "name": "De Frutos",
       "position": 4,
       "price": 9890000,
-      "points": 184,
+      "points": 185,
       "trend": 0,
       "playedHome": 18,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        1,
         3,
         4,
         2,
-        3,
-        2
+        3
       ],
       "clausula": null
     },
@@ -4450,19 +4450,19 @@
       "name": "Pacha Espino",
       "position": 2,
       "price": 1090000,
-      "points": 92,
+      "points": 96,
       "trend": 10000,
       "playedHome": 15,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        4,
         3,
         4,
         null,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -4934,17 +4934,17 @@
       "name": "Balliu",
       "position": 2,
       "price": 230000,
-      "points": 33,
+      "points": 36,
       "trend": 0,
       "playedHome": 7,
-      "playedAway": 5,
+      "playedAway": 6,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        3,
         null,
         5,
-        null,
         null,
         null
       ],
@@ -5186,9 +5186,9 @@
       "jForm": [
         null,
         null,
+        null,
         7,
-        11,
-        2
+        11
       ],
       "clausula": null
     },
@@ -5374,19 +5374,19 @@
       "name": "Pathé Ciss",
       "position": 3,
       "price": 4170000,
-      "points": 128,
+      "points": 133,
       "trend": 150000,
       "playedHome": 13,
-      "playedAway": 13,
+      "playedAway": 14,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        5,
         6,
         6,
         6,
-        7,
-        3
+        7
       ],
       "clausula": null
     },
@@ -5396,19 +5396,19 @@
       "name": "Nteka",
       "position": 4,
       "price": 290000,
-      "points": 39,
+      "points": 36,
       "trend": 0,
       "playedHome": 3,
-      "playedAway": 8,
+      "playedAway": 9,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        -3,
         null,
         12,
         null,
-        null,
-        1
+        null
       ],
       "clausula": null
     },
@@ -5449,9 +5449,9 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
         3,
         null,
-        2,
         2
       ],
       "clausula": null
@@ -5506,19 +5506,19 @@
       "name": "Jesús Vázquez",
       "position": 2,
       "price": 270000,
-      "points": 50,
+      "points": 54,
       "trend": 0,
-      "playedHome": 9,
+      "playedHome": 10,
       "playedAway": 12,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        4,
         0,
         2,
         null,
-        0,
-        3
+        0
       ],
       "clausula": null
     },
@@ -5624,10 +5624,10 @@
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        null,
         3,
         null,
         2,
-        null,
         null
       ],
       "clausula": null
@@ -5648,9 +5648,9 @@
       "jForm": [
         null,
         null,
+        null,
         5,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -5814,19 +5814,19 @@
       "name": "Cömert",
       "position": 2,
       "price": 1560000,
-      "points": 68,
+      "points": 71,
       "trend": 60000,
-      "playedHome": 5,
+      "playedHome": 6,
       "playedAway": 10,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        3,
         7,
         null,
         null,
-        null,
-        -1
+        null
       ],
       "clausula": null
     },
@@ -5924,9 +5924,9 @@
       "name": "Ramazani",
       "position": 4,
       "price": 7720000,
-      "points": 115,
+      "points": 117,
       "trend": -10000,
-      "playedHome": 13,
+      "playedHome": 14,
       "playedAway": 11,
       "teamName": "Valencia",
       "teamId": 18,
@@ -5934,8 +5934,8 @@
       "jForm": [
         2,
         2,
+        2,
         13,
-        5,
         5
       ],
       "clausula": null
@@ -5946,19 +5946,19 @@
       "name": "Sadiq",
       "position": 4,
       "price": 3910000,
-      "points": 87,
+      "points": 89,
       "trend": 70000,
-      "playedHome": 10,
+      "playedHome": 11,
       "playedAway": 12,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        2,
         12,
         -1,
         6,
-        8,
-        2
+        8
       ],
       "clausula": null
     },
@@ -6034,19 +6034,19 @@
       "name": "Ratiu",
       "position": 2,
       "price": 7850000,
-      "points": 154,
+      "points": 157,
       "trend": 30000,
       "playedHome": 17,
-      "playedAway": 15,
+      "playedAway": 16,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        3,
         7,
         3,
         3,
-        9,
-        2
+        9
       ],
       "clausula": null
     },
@@ -6122,19 +6122,19 @@
       "name": "Tárrega",
       "position": 2,
       "price": 1210000,
-      "points": 90,
+      "points": 94,
       "trend": 10000,
-      "playedHome": 14,
+      "playedHome": 15,
       "playedAway": 15,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        4,
         3,
         1,
         5,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -6232,19 +6232,19 @@
       "name": "Íñigo Pérez",
       "position": 5,
       "price": 520000,
-      "points": 43,
+      "points": 44,
       "trend": 0,
       "playedHome": 18,
-      "playedAway": 17,
+      "playedAway": 18,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
         1,
-        3,
         1,
         3,
-        0
+        1,
+        3
       ],
       "clausula": null
     },
@@ -6506,8 +6506,8 @@
       "jForm": [
         null,
         null,
-        1,
         null,
+        1,
         null
       ],
       "clausula": null
@@ -6562,19 +6562,19 @@
       "name": "Diego López",
       "position": 4,
       "price": 740000,
-      "points": 99,
+      "points": 110,
       "trend": 0,
-      "playedHome": 15,
+      "playedHome": 16,
       "playedAway": 16,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        11,
         2,
         3,
         3,
-        2,
-        3
+        2
       ],
       "clausula": null
     },
@@ -6584,18 +6584,18 @@
       "name": "Fran Pérez",
       "position": 4,
       "price": 320000,
-      "points": 79,
+      "points": 81,
       "trend": 0,
       "playedHome": 15,
-      "playedAway": 12,
+      "playedAway": 13,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        2,
         4,
         null,
         3,
-        null,
         null
       ],
       "clausula": null
@@ -6628,19 +6628,19 @@
       "name": "Chavarría",
       "position": 2,
       "price": 2970000,
-      "points": 136,
+      "points": 138,
       "trend": 0,
       "playedHome": 15,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
         2,
+        2,
         3,
         3,
-        4,
-        3
+        4
       ],
       "clausula": null
     },
@@ -6661,8 +6661,8 @@
         null,
         null,
         null,
-        2,
-        null
+        null,
+        2
       ],
       "clausula": null
     },
@@ -6980,19 +6980,19 @@
       "name": "Javi Guerra",
       "position": 3,
       "price": 3280000,
-      "points": 110,
+      "points": 117,
       "trend": 40000,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 16,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        7,
         5,
         3,
         5,
-        6,
-        null
+        6
       ],
       "clausula": null
     },
@@ -7728,19 +7728,19 @@
       "name": "Batalla",
       "position": 1,
       "price": 2510000,
-      "points": 145,
+      "points": 148,
       "trend": 50000,
       "playedHome": 17,
-      "playedAway": 16,
+      "playedAway": 17,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
         3,
+        3,
         8,
         null,
-        0,
-        null
+        0
       ],
       "clausula": null
     },
@@ -8586,19 +8586,19 @@
       "name": "Pedro Díaz",
       "position": 3,
       "price": 1040000,
-      "points": 89,
+      "points": 91,
       "trend": 0,
       "playedHome": 17,
-      "playedAway": 14,
+      "playedAway": 15,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
         2,
+        2,
         null,
         7,
-        5,
-        2
+        5
       ],
       "clausula": null
     },
@@ -8916,19 +8916,19 @@
       "name": "Corberán",
       "position": 5,
       "price": 390000,
-      "points": 42,
+      "points": 43,
       "trend": 0,
-      "playedHome": 17,
+      "playedHome": 18,
       "playedAway": 18,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        1,
         3,
         0,
         3,
-        1,
-        0
+        1
       ],
       "clausula": null
     },
@@ -9268,18 +9268,18 @@
       "name": "Alemão",
       "position": 4,
       "price": 1200000,
-      "points": 67,
+      "points": 69,
       "trend": 250000,
       "playedHome": 13,
-      "playedAway": 10,
+      "playedAway": 11,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        2,
         9,
         5,
         9,
-        1,
         1
       ],
       "clausula": null
@@ -9422,19 +9422,19 @@
       "name": "Nobel Mendy",
       "position": 2,
       "price": 670000,
-      "points": 64,
+      "points": 71,
       "trend": -10000,
       "playedHome": 11,
-      "playedAway": 11,
+      "playedAway": 12,
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
       "jForm": [
+        7,
         1,
         4,
         3,
-        null,
-        -2
+        null
       ],
       "clausula": null
     },
@@ -10478,9 +10478,9 @@
       "name": "Filip Ugrinic",
       "position": 3,
       "price": 1250000,
-      "points": 92,
+      "points": 95,
       "trend": 0,
-      "playedHome": 11,
+      "playedHome": 12,
       "playedAway": 13,
       "teamName": "Valencia",
       "teamId": 18,
@@ -10488,9 +10488,9 @@
       "jForm": [
         3,
         3,
-        7,
         3,
-        5
+        7,
+        3
       ],
       "clausula": null
     },
@@ -10531,10 +10531,10 @@
       "status": "ok",
       "jForm": [
         null,
-        6,
         null,
         6,
-        null
+        null,
+        6
       ],
       "clausula": null
     },
@@ -10862,9 +10862,9 @@
       "jForm": [
         null,
         null,
+        null,
         3,
-        2,
-        0
+        2
       ],
       "clausula": null
     },
@@ -11314,19 +11314,19 @@
       "name": "Renzo Saravia",
       "position": 2,
       "price": 180000,
-      "points": 13,
+      "points": 11,
       "trend": 0,
-      "playedHome": 2,
+      "playedHome": 3,
       "playedAway": 2,
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        -2,
         4,
         2,
         3,
-        4,
-        null
+        4
       ],
       "clausula": null
     },
@@ -12035,6 +12035,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J37 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j37-laliga/",
+      "date": "Thu, 14 May 2026 19:00:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "COMPRAS OBLIGADAS: 5 equipos que te van a DAR LA LIGA",
+      "link": "https://www.jornadaperfecta.com/blog/compras-fantasy-final-liga-25-26/",
+      "date": "Thu, 14 May 2026 18:45:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Gayà, sustituido tras sufrir un pinchazo muscular",
+      "link": "https://www.jornadaperfecta.com/blog/gaya-estado-j37-25-26/",
+      "date": "Thu, 14 May 2026 18:42:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Renzo Saravia, sustituido con molestias en la primera parte",
+      "link": "https://www.jornadaperfecta.com/blog/renzo-saravia-estado-molestias-muslo-26/",
+      "date": "Thu, 14 May 2026 17:46:13 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "5 equipos a EVITAR en las 2 últimas jornadas &#8211; LaLiga Fantasy y Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/ventas-fantasy-final-liga-25-26/",
+      "date": "Thu, 14 May 2026 15:00:02 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Mbappé se recupera y entra en la convocatoria",
       "link": "https://www.jornadaperfecta.com/blog/mbappe-recuperacion-lesion-26/",
       "date": "Thu, 14 May 2026 13:01:59 +0000"
@@ -12050,41 +12080,11 @@
       "title": "Aitor Ruibal pasará por quirófano y se despide de la temporada",
       "link": "https://www.jornadaperfecta.com/blog/aitor-ruibal-quirofano-adios-temporada/",
       "date": "Thu, 14 May 2026 12:16:56 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lucas Beltrán finalmente es baja y vuelve Thierry a la convocatoria",
-      "link": "https://www.jornadaperfecta.com/blog/lucas-beltran-estado-valencia-j36/",
-      "date": "Thu, 14 May 2026 11:20:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lesionados que podrían llegar a la jornada 37 y descartados",
-      "link": "https://www.jornadaperfecta.com/blog/lesionados-j37-25-26/",
-      "date": "Thu, 14 May 2026 11:00:33 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Dani Vivian dice adiós a la temporada: parte médico oficial",
-      "link": "https://www.jornadaperfecta.com/blog/vivian-lesion-tobillo-athletic/",
-      "date": "Thu, 14 May 2026 10:55:41 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Rafa Mir sigue con el grupo y André Silva es baja por enfermedad",
-      "link": "https://www.jornadaperfecta.com/blog/rafa-mir-estado-elche-j37/",
-      "date": "Thu, 14 May 2026 10:45:32 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Actualizadas las Alineaciones Probables para la Jornada 37",
-      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-j37-laliga-25-26/",
-      "date": "Thu, 14 May 2026 09:00:42 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-14T14:23:48.719Z",
+    "updatedAt": "2026-05-14T19:50:53.599Z",
     "players": [
       {
         "id": "3374",
@@ -12092,11 +12092,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "France",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 24,
         "assists": 4,
         "penalties": 8,
-        "minutesPerGoal": 105
+        "minutesPerGoal": 109
       },
       {
         "id": "30059",
@@ -12152,11 +12152,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Brazil",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 15,
         "assists": 5,
         "penalties": 4,
-        "minutesPerGoal": 198
+        "minutesPerGoal": 204
       },
       {
         "id": "32056",
@@ -12176,11 +12176,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 15,
         "assists": 3,
         "penalties": 7,
-        "minutesPerGoal": 192
+        "minutesPerGoal": 198
       },
       {
         "id": "8167",
@@ -12272,11 +12272,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Spain",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 10,
         "assists": 1,
         "penalties": 1,
-        "minutesPerGoal": 297
+        "minutesPerGoal": 306
       },
       {
         "id": "1760",
@@ -12332,11 +12332,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 9,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 340
+        "minutesPerGoal": 350
       },
       {
         "id": "160819",
@@ -12368,11 +12368,11 @@
         "team": "Real Oviedo",
         "position": "",
         "nationality": "Uruguay",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 9,
         "assists": 1,
         "penalties": 2,
-        "minutesPerGoal": 310
+        "minutesPerGoal": 320
       },
       {
         "id": "83406",
@@ -12692,11 +12692,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Ukraine",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 6,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 435
+        "minutesPerGoal": 450
       },
       {
         "id": "146126",
@@ -12704,11 +12704,11 @@
         "team": "Real Oviedo",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 33,
+        "appearances": 34,
         "goals": 6,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 495
+        "minutesPerGoal": 510
       },
       {
         "id": "136349",
@@ -12716,11 +12716,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Belgium",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 6,
         "assists": 1,
         "penalties": 3,
-        "minutesPerGoal": 420
+        "minutesPerGoal": 435
       },
       {
         "id": "152458",
@@ -12776,11 +12776,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 5,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 558
+        "minutesPerGoal": 576
       },
       {
         "id": "122511",
@@ -12788,11 +12788,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Morocco",
-        "appearances": 21,
+        "appearances": 22,
         "goals": 5,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 378
+        "minutesPerGoal": 396
       },
       {
         "id": "16275",
@@ -12831,6 +12831,18 @@
         "minutesPerGoal": 630
       },
       {
+        "id": "3171",
+        "name": "Cristhian Stuani",
+        "team": "Girona FC",
+        "position": "",
+        "nationality": "Uruguay",
+        "appearances": 24,
+        "goals": 5,
+        "assists": 0,
+        "penalties": 3,
+        "minutesPerGoal": 432
+      },
+      {
         "id": "96",
         "name": "Federico Valverde",
         "team": "Real Madrid CF",
@@ -12865,6 +12877,18 @@
         "assists": 2,
         "penalties": 1,
         "minutesPerGoal": 675
+      },
+      {
+        "id": "180061",
+        "name": "Diego López",
+        "team": "Valencia CF",
+        "position": "",
+        "nationality": "Spain",
+        "appearances": 34,
+        "goals": 4,
+        "assists": 0,
+        "penalties": 0,
+        "minutesPerGoal": 765
       },
       {
         "id": "33045",
@@ -12980,11 +13004,11 @@
         "team": "Real Oviedo",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 765
+        "minutesPerGoal": 788
       },
       {
         "id": "33148",
@@ -12992,23 +13016,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 4,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 698
-      },
-      {
-        "id": "3171",
-        "name": "Cristhian Stuani",
-        "team": "Girona FC",
-        "position": "",
-        "nationality": "Uruguay",
-        "appearances": 23,
-        "goals": 4,
-        "assists": 0,
-        "penalties": 3,
-        "minutesPerGoal": 518
+        "minutesPerGoal": 720
       },
       {
         "id": "125010",
@@ -13016,11 +13028,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "England",
-        "appearances": 24,
+        "appearances": 25,
         "goals": 4,
         "assists": 4,
         "penalties": 0,
-        "minutesPerGoal": 540
+        "minutesPerGoal": 563
       },
       {
         "id": "170438",
@@ -13040,11 +13052,11 @@
         "team": "Real Madrid CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 4,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 765
+        "minutesPerGoal": 788
       },
       {
         "id": "7672",
@@ -13052,11 +13064,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Nigeria",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 4,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 630
+        "minutesPerGoal": 653
       },
       {
         "id": "33496",
@@ -13076,23 +13088,11 @@
         "team": "Girona FC",
         "position": "",
         "nationality": "Spain",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 3,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 930
-      },
-      {
-        "id": "180061",
-        "name": "Diego López",
-        "team": "Valencia CF",
-        "position": "",
-        "nationality": "Spain",
-        "appearances": 33,
-        "goals": 3,
-        "assists": 0,
-        "penalties": 0,
-        "minutesPerGoal": 990
+        "minutesPerGoal": 960
       },
       {
         "id": "249599",
@@ -13112,11 +13112,11 @@
         "team": "Real Sociedad de Fútbol",
         "position": "",
         "nationality": "Spain",
-        "appearances": 29,
+        "appearances": 30,
         "goals": 3,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 870
+        "minutesPerGoal": 900
       },
       {
         "id": "9870",
@@ -13124,11 +13124,11 @@
         "team": "Valencia CF",
         "position": "",
         "nationality": "Netherlands",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 3,
         "assists": 2,
         "penalties": 0,
-        "minutesPerGoal": 1020
+        "minutesPerGoal": 1050
       },
       {
         "id": "21583",
@@ -13232,11 +13232,11 @@
         "team": "Rayo Vallecano de Madrid",
         "position": "",
         "nationality": "Brazil",
-        "appearances": 28,
+        "appearances": 29,
         "goals": 3,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 840
+        "minutesPerGoal": 870
       },
       {
         "id": "7936",
