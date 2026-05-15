@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T14:16:28.429Z",
+  "updatedAt": "2026-05-15T19:43:35.656Z",
   "players": [
     {
       "id": 11,
@@ -9969,7 +9969,7 @@
     {
       "id": 38072,
       "slug": "andres-castrin",
-      "name": "Andrés Castrín",
+      "name": "Andr��s Castrín",
       "position": 2,
       "price": 1560000,
       "points": 89,
@@ -12035,56 +12035,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Los Ases de PixonFantasy para la Jornada 37",
-      "link": "https://www.jornadaperfecta.com/blog/ases-fantasy-j37-25-26/",
-      "date": "Fri, 15 May 2026 13:00:02 +0000"
+      "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 37",
+      "link": "https://www.jornadaperfecta.com/blog/cronistas-j37-25-26/",
+      "date": "Fri, 15 May 2026 19:25:10 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Frenkie de Jong entrena y seguimos sin noticias de Fermín",
-      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-fermin-j37/",
-      "date": "Fri, 15 May 2026 12:56:31 +0000"
+      "title": "Matías Vecino e Ilaix Moriba, con el grupo. ¿Titulares en la Jornada 37?",
+      "link": "https://www.jornadaperfecta.com/blog/matias-vecino-ilaix-moriba-estado-j37-25-26/",
+      "date": "Fri, 15 May 2026 19:09:48 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Giuliano Simeone vuelve a un grupo con ocho bajas",
+      "link": "https://www.jornadaperfecta.com/blog/giuliano-simeone-vuelve-a-un-grupo-con-ocho-bajas/",
+      "date": "Fri, 15 May 2026 18:51:13 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Arbeloa responde a Mbappé y confirma su titularidad",
+      "link": "https://www.jornadaperfecta.com/blog/arbeloa-responde-a-mbappe-y-confirma-su-titularidad/",
+      "date": "Fri, 15 May 2026 18:51:02 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Fede Valverde vuelve a entrenar con el Real Madrid, ¿llega a la J37?",
-      "link": "https://www.jornadaperfecta.com/blog/fede-valverde-estado-j37/",
-      "date": "Fri, 15 May 2026 12:35:05 +0000"
+      "link": "https://www.jornadaperfecta.com/blog/fede-valverde-vuelve-a-entrenar-con-el-real-madrid-llega-a-la-j37/",
+      "date": "Fri, 15 May 2026 18:50:56 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Podcast: Alineaciones Probables Jornada 37 2025/26",
-      "link": "https://www.jornadaperfecta.com/blog/podcast-alineaciones-probables-jornada-37-2025-26/",
-      "date": "Fri, 15 May 2026 11:40:50 +0000"
+      "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para la jornada 37",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-fichajes-baratos-y-rentables-para-la-jornada-37/",
+      "date": "Fri, 15 May 2026 18:50:56 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Luis García Plaza: «Es mentira que estemos salvados»",
-      "link": "https://www.jornadaperfecta.com/blog/garcia-plaza-previa-sevilla-real-madrid-j37/",
-      "date": "Fri, 15 May 2026 11:38:28 +0000"
+      "title": "Gayà y Saravia, con roturas, apuntan a baja el resto de la temporada",
+      "link": "https://www.jornadaperfecta.com/blog/gaya-y-saravia-con-roturas-apuntan-a-baja-el-resto-de-la-temporada/",
+      "date": "Fri, 15 May 2026 18:50:47 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Promoción Jokerbet: ¡Cashback de hasta 10€ apostando a LaLiga y Segunda!",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-jokerbet-cashback-laliga-segunda/",
-      "date": "Fri, 15 May 2026 11:08:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Marcelino, sobre Gerard Moreno y la tercera plaza",
-      "link": "https://www.jornadaperfecta.com/blog/marcelino-previa-rayo-villarreal-j37/",
-      "date": "Fri, 15 May 2026 11:00:57 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sarabia explica el estado de André Silva y Rafa Mir",
-      "link": "https://www.jornadaperfecta.com/blog/sarabia-previa-elche-getafe-j37-25-26/",
-      "date": "Fri, 15 May 2026 10:40:57 +0000"
+      "title": "Yuri vuelve a entrenar, Berenguer es duda y Sancet entrena al margen",
+      "link": "https://www.jornadaperfecta.com/blog/yuri-vuelve-a-entrenar-berenguer-es-duda-y-sancet-entrena-al-margen/",
+      "date": "Fri, 15 May 2026 18:50:39 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-15T14:16:25.464Z",
+    "updatedAt": "2026-05-15T19:43:34.880Z",
     "players": [
       {
         "id": "3374",
