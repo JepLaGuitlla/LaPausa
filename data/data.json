@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T13:40:19.496Z",
+  "updatedAt": "2026-05-16T19:10:58.348Z",
   "players": [
     {
       "id": 11,
@@ -12035,6 +12035,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Parte médico de Gayà y Renzo Saravia: KO el resto de la temporada",
+      "link": "https://www.jornadaperfecta.com/blog/gaya-renzo-saravia-parte-medico-26/",
+      "date": "Sat, 16 May 2026 17:29:54 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Iñigo Pérez confirma a Trejo y habla del estado de Álvaro García",
+      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-rayo-villarreal-j37-25-26/",
+      "date": "Sat, 16 May 2026 17:21:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "BigUp: Gana dinero real con tus pronósticos del Levante &#8211; Mallorca",
+      "link": "https://www.jornadaperfecta.com/blog/bigup-levante-mallorca-j37-25-26/",
+      "date": "Sat, 16 May 2026 16:15:58 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Valverde habla de su último partido en San Mamés, Vivian, Yuri y Lekue",
+      "link": "https://www.jornadaperfecta.com/blog/valverde-previa-athletic-celta-j37-25-26/",
+      "date": "Sat, 16 May 2026 16:09:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Guedes vuelve a una lista sin Gorrotxategi",
+      "link": "https://www.jornadaperfecta.com/blog/guedes-estado-j37-25-26/",
+      "date": "Sat, 16 May 2026 15:35:38 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Lewandowski, Cazorla, Griezmann&#8230; Jugadores que se despiden a alinear en la Jornada 37",
       "link": "https://www.jornadaperfecta.com/blog/despedidas-fantasy-alinear-j37-25-26/",
       "date": "Sat, 16 May 2026 13:01:06 +0000"
@@ -12050,41 +12080,11 @@
       "title": "Quique confirma a Boyé, descarta cambios y habla de Koski",
       "link": "https://www.jornadaperfecta.com/blog/quique-previa-real-oviedo-alaves-j37-25-26/",
       "date": "Sat, 16 May 2026 12:22:27 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Corberán, sobre el estado de Gayà, Saravia y Beltrán",
-      "link": "https://www.jornadaperfecta.com/blog/corberan-previa-real-sociedad-valencia-j37-25-26/",
-      "date": "Sat, 16 May 2026 12:10:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Lewandowski dice adiós al Barça, ¿titular en la jornada 37?",
-      "link": "https://www.jornadaperfecta.com/blog/lewandowski-adios-fc-barcelona/",
-      "date": "Sat, 16 May 2026 12:10:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Flick confirma la baja de De Jong y duda con Rashford",
-      "link": "https://www.jornadaperfecta.com/blog/flick-previa-barcelona-betis-j37-25-26/",
-      "date": "Sat, 16 May 2026 12:01:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lesionados que podrían llegar a la jornada 37 y descartados",
-      "link": "https://www.jornadaperfecta.com/blog/lesionados-j37-25-26/",
-      "date": "Sat, 16 May 2026 12:00:33 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lisci aclara el estado de Víctor Muñoz, ¿está para jugar?",
-      "link": "https://www.jornadaperfecta.com/blog/lisci-previa-osasuna-espanyol-j37-25-26/",
-      "date": "Sat, 16 May 2026 11:59:28 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-16T13:40:19.496Z",
+    "updatedAt": "2026-05-16T19:10:58.347Z",
     "players": [
       {
         "id": "3374",
