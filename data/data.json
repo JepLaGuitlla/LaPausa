@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T19:43:35.656Z",
+  "updatedAt": "2026-05-16T03:32:51.740Z",
   "players": [
     {
       "id": 11,
@@ -9969,7 +9969,7 @@
     {
       "id": 38072,
       "slug": "andres-castrin",
-      "name": "Andr��s Castrín",
+      "name": "Andrés Castrín",
       "position": 2,
       "price": 1560000,
       "points": 89,
@@ -12035,6 +12035,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-15-5-26/",
+      "date": "Fri, 15 May 2026 20:54:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Bordalás confirma a Djené y por fin habla de Europa",
+      "link": "https://www.jornadaperfecta.com/blog/bordalas-previa-elche-getafe-j37-25-26/",
+      "date": "Fri, 15 May 2026 20:05:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 37",
       "link": "https://www.jornadaperfecta.com/blog/cronistas-j37-25-26/",
       "date": "Fri, 15 May 2026 19:25:10 +0000"
@@ -12068,23 +12080,11 @@
       "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para la jornada 37",
       "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-fichajes-baratos-y-rentables-para-la-jornada-37/",
       "date": "Fri, 15 May 2026 18:50:56 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Gayà y Saravia, con roturas, apuntan a baja el resto de la temporada",
-      "link": "https://www.jornadaperfecta.com/blog/gaya-y-saravia-con-roturas-apuntan-a-baja-el-resto-de-la-temporada/",
-      "date": "Fri, 15 May 2026 18:50:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Yuri vuelve a entrenar, Berenguer es duda y Sancet entrena al margen",
-      "link": "https://www.jornadaperfecta.com/blog/yuri-vuelve-a-entrenar-berenguer-es-duda-y-sancet-entrena-al-margen/",
-      "date": "Fri, 15 May 2026 18:50:39 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-15T19:43:34.880Z",
+    "updatedAt": "2026-05-16T03:32:50.283Z",
     "players": [
       {
         "id": "3374",
