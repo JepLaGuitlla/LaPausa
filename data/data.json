@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T08:25:27.845Z",
+  "updatedAt": "2026-05-17T13:39:16.736Z",
   "players": [
     {
       "id": 11,
@@ -12035,6 +12035,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Lesionados que podrían llegar a la jornada 37 y descartados",
+      "link": "https://www.jornadaperfecta.com/blog/lesionados-j37-25-26/",
+      "date": "Sun, 17 May 2026 11:30:33 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡5 mayores riesgos fantasy para la jornada 37 de LaLiga!",
+      "link": "https://www.jornadaperfecta.com/blog/riesgos-fantasy-j37-25-26/",
+      "date": "Sun, 17 May 2026 10:05:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mbappé, titular garantizado en la Jornada 37. ¿Alinear?",
+      "link": "https://www.jornadaperfecta.com/blog/mbappe-alinear-j37-25-26/",
+      "date": "Sun, 17 May 2026 09:42:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Actualizadas las Alineaciones Probables para la Jornada 37",
+      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-j37-laliga-25-26/",
+      "date": "Sun, 17 May 2026 09:12:42 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Onces en prensa del FC Barcelona &#8211; Real Betis",
       "link": "https://www.jornadaperfecta.com/blog/onces-en-prensa-barcelona-betis-j37-25-26/",
       "date": "Sun, 17 May 2026 08:17:38 +0000"
@@ -12056,35 +12080,11 @@
       "title": "COMPRAS OBLIGADAS: 5 equipos que te van a DAR LA LIGA",
       "link": "https://www.jornadaperfecta.com/blog/compras-fantasy-final-liga-25-26/",
       "date": "Sun, 17 May 2026 07:30:01 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Athletic vs Celta: consigue 5€ por cada gol con la Golmanía de RETAbet",
-      "link": "https://www.jornadaperfecta.com/blog/retabet-golmania-athletic-vs-celta/",
-      "date": "Sun, 17 May 2026 07:00:30 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Parte médico de Gayà y Renzo Saravia: KO el resto de la temporada",
-      "link": "https://www.jornadaperfecta.com/blog/gaya-renzo-saravia-parte-medico-26/",
-      "date": "Sat, 16 May 2026 17:29:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Iñigo Pérez confirma a Trejo y habla del estado de Álvaro García",
-      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-rayo-villarreal-j37-25-26/",
-      "date": "Sat, 16 May 2026 17:21:05 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "BigUp: Gana dinero real con tus pronósticos del Levante &#8211; Mallorca",
-      "link": "https://www.jornadaperfecta.com/blog/bigup-levante-mallorca-j37-25-26/",
-      "date": "Sat, 16 May 2026 16:15:58 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-17T08:25:27.313Z",
+    "updatedAt": "2026-05-17T13:39:16.735Z",
     "players": [
       {
         "id": "3374",
