@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T15:40:32.414Z",
+  "updatedAt": "2026-05-18T19:48:28.075Z",
   "players": [
     {
       "id": 11,
@@ -12067,16 +12067,30 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
-        4,
-        null,
-        null,
-        null,
-        null
+        4
       ],
       "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Crea tu liga del Mundial en Biwenger Fantasy y disfruta del Premium GRATIS!",
+      "link": "https://www.jornadaperfecta.com/blog/biwenger-fantasy-mundial-2026/",
+      "date": "Mon, 18 May 2026 19:11:04 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción YoSports Final Europa League: ¡consigue 10€ en apuestas gratis!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-yosports-final-europa-league-2026/",
+      "date": "Mon, 18 May 2026 19:00:44 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Chollos Fantasy que Tienes que Fichar YA para la J38 de Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j38-laliga/",
+      "date": "Mon, 18 May 2026 19:00:15 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Germán Valera sufre un golpe en el pie, ¿llega a la jornada 38?",
@@ -12106,29 +12120,11 @@
       "title": "José Mourinho será nuevo entrenador del Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/jose-mourinho-entrenador-real-madrid/",
       "date": "Mon, 18 May 2026 10:07:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Actualizadas las Alineaciones Probables para la Jornada 38",
-      "link": "https://www.jornadaperfecta.com/blog/alineaciones-probables-j38-laliga-25-26/",
-      "date": "Mon, 18 May 2026 09:00:12 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lesionados que podrían llegar a la jornada 38 y descartados",
-      "link": "https://www.jornadaperfecta.com/blog/lesionados-j38-25-26/",
-      "date": "Mon, 18 May 2026 07:00:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Francés y Bryan Gil, sustituidos por lesión en el Girona",
-      "link": "https://www.jornadaperfecta.com/blog/frances-bryan-gil-lesion-girona/",
-      "date": "Sun, 17 May 2026 18:59:03 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-18T15:40:32.414Z",
+    "updatedAt": "2026-05-18T19:48:26.547Z",
     "players": [
       {
         "id": "3374",
