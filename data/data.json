@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T10:12:30.449Z",
+  "updatedAt": "2026-05-18T15:40:32.414Z",
   "players": [
     {
       "id": 11,
@@ -12067,7 +12067,11 @@
       "teamId": 465,
       "status": "ok",
       "jForm": [
-        4
+        4,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     }
@@ -12075,15 +12079,33 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "José Mourinho será nuevo entrenador del Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/jose-mourinho-entrenador-real-madrid/",
-      "date": "Mon, 18 May 2026 10:07:26 +0000"
+      "title": "Germán Valera sufre un golpe en el pie, ¿llega a la jornada 38?",
+      "link": "https://www.jornadaperfecta.com/blog/german-valera-estado-j38-elche/",
+      "date": "Mon, 18 May 2026 15:08:19 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "¡Alarma Fermín! Fue sustituido por un problema en el pie",
+      "title": "Oficial: Hansi Flick renueva con el FC Barcelona hasta 2028",
+      "link": "https://www.jornadaperfecta.com/blog/hansi-flick-renovacion-fc-barcelona-2028/",
+      "date": "Mon, 18 May 2026 13:20:29 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Fermín dice adiós al Mundial! Parte médico oficial del FC Barcelona",
       "link": "https://www.jornadaperfecta.com/blog/fermin-lesion-metatarsiano/",
-      "date": "Mon, 18 May 2026 09:28:21 +0000"
+      "date": "Mon, 18 May 2026 12:10:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Dani Carvajal finaliza su etapa como jugador del Real Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/dani-carvajal-adios-real-madrid/",
+      "date": "Mon, 18 May 2026 11:49:43 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "José Mourinho será nuevo entrenador del Real Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/jose-mourinho-entrenador-real-madrid/",
+      "date": "Mon, 18 May 2026 10:07:26 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12102,29 +12124,11 @@
       "title": "Francés y Bryan Gil, sustituidos por lesión en el Girona",
       "link": "https://www.jornadaperfecta.com/blog/frances-bryan-gil-lesion-girona/",
       "date": "Sun, 17 May 2026 18:59:03 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Valjent pide el cambio por unas molestias musculares",
-      "link": "https://www.jornadaperfecta.com/blog/valjent-lesion-rcd-mallorca/",
-      "date": "Sun, 17 May 2026 18:42:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ferran Torres, baja de última hora en el FC Barcelona",
-      "link": "https://www.jornadaperfecta.com/blog/ferran-torres-lesion-barcelona-j37/",
-      "date": "Sun, 17 May 2026 18:15:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Toljan, sustituido por lesión en la primera mitad",
-      "link": "https://www.jornadaperfecta.com/blog/toljan-lesion-levante/",
-      "date": "Sun, 17 May 2026 17:41:16 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-18T10:12:29.558Z",
+    "updatedAt": "2026-05-18T15:40:32.414Z",
     "players": [
       {
         "id": "3374",
