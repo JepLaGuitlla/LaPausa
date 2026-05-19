@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T19:48:28.075Z",
+  "updatedAt": "2026-05-19T03:56:33.989Z",
   "players": [
     {
       "id": 11,
@@ -12075,6 +12075,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-18-5-26/",
+      "date": "Mon, 18 May 2026 21:00:03 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "¡Crea tu liga del Mundial en Biwenger Fantasy y disfruta del Premium GRATIS!",
       "link": "https://www.jornadaperfecta.com/blog/biwenger-fantasy-mundial-2026/",
       "date": "Mon, 18 May 2026 19:11:04 +0000"
@@ -12114,17 +12120,11 @@
       "title": "Dani Carvajal finaliza su etapa como jugador del Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/dani-carvajal-adios-real-madrid/",
       "date": "Mon, 18 May 2026 11:49:43 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "José Mourinho será nuevo entrenador del Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/jose-mourinho-entrenador-real-madrid/",
-      "date": "Mon, 18 May 2026 10:07:26 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-18T19:48:26.547Z",
+    "updatedAt": "2026-05-19T03:56:32.825Z",
     "players": [
       {
         "id": "3374",
