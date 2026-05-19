@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T09:53:31.412Z",
+  "updatedAt": "2026-05-19T15:33:16.824Z",
   "players": [
     {
       "id": 11,
@@ -1280,7 +1280,7 @@
     {
       "id": 2114,
       "slug": "cuellar",
-      "name": "Cuéllar",
+      "name": "Cu��llar",
       "position": 1,
       "price": 150000,
       "points": 0,
@@ -12075,6 +12075,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "No hay lesión grave de Francés, pero queda en duda para la «final» ante el Elche",
+      "link": "https://www.jornadaperfecta.com/blog/frances-estado-j38-25-26/",
+      "date": "Tue, 19 May 2026 15:17:13 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "LeoVegas: ¡Gana hasta 200€ extra con la Final de la Europa League!",
+      "link": "https://www.jornadaperfecta.com/blog/leovegas-final-europa-league-promocion/",
+      "date": "Tue, 19 May 2026 13:00:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Víctor Muñoz podría perderse el último partido de LaLiga",
+      "link": "https://www.jornadaperfecta.com/blog/victor-munoz-estado-j38/",
+      "date": "Tue, 19 May 2026 12:58:45 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Grandes subidas y bajadas del mercado fantasy para la Jornada 38",
       "link": "https://www.jornadaperfecta.com/blog/subidas-bajadas-j38-25-26/",
       "date": "Tue, 19 May 2026 09:00:29 +0000"
@@ -12102,29 +12120,11 @@
       "title": "Promoción YoSports Final Europa League: ¡consigue 10€ en apuestas gratis!",
       "link": "https://www.jornadaperfecta.com/blog/promocion-yosports-final-europa-league-2026/",
       "date": "Mon, 18 May 2026 19:00:44 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Chollos Fantasy que Tienes que Fichar YA para la J38 de Biwenger",
-      "link": "https://www.jornadaperfecta.com/blog/chollos-fantasy-biwenger-j38-laliga/",
-      "date": "Mon, 18 May 2026 19:00:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Germán Valera sufre un golpe en el pie, ¿llega a la jornada 38?",
-      "link": "https://www.jornadaperfecta.com/blog/german-valera-estado-j38-elche/",
-      "date": "Mon, 18 May 2026 15:08:19 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Hansi Flick renueva con el FC Barcelona hasta 2028",
-      "link": "https://www.jornadaperfecta.com/blog/hansi-flick-renovacion-fc-barcelona-2028/",
-      "date": "Mon, 18 May 2026 13:20:29 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-19T09:53:30.197Z",
+    "updatedAt": "2026-05-19T15:33:15.352Z",
     "players": [
       {
         "id": "3374",
