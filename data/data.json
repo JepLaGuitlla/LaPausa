@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T09:50:21.087Z",
+  "updatedAt": "2026-05-21T15:36:45.066Z",
   "players": [
     {
       "id": 11,
@@ -11112,7 +11112,7 @@
     {
       "id": 39357,
       "slug": "carlos-macia",
-      "name": "Carlos Maciá",
+      "name": "Carlos Maci��",
       "position": 3,
       "price": 150000,
       "points": 8,
@@ -12054,6 +12054,25 @@
       "clausula": null
     },
     {
+      "id": 41021,
+      "slug": "damian-caceres",
+      "name": "Damián Cáceres",
+      "position": 3,
+      "price": 240000,
+      "points": 5,
+      "trend": 0,
+      "playedHome": 1,
+      "playedAway": 1,
+      "teamName": "Getafe",
+      "teamId": 8,
+      "status": "ok",
+      "jForm": [
+        3,
+        2
+      ],
+      "clausula": null
+    },
+    {
       "id": 41112,
       "slug": "olaizola",
       "name": "Olaizola",
@@ -12075,56 +12094,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Castrín no entrena y podría ser baja en el último partido",
-      "link": "https://www.jornadaperfecta.com/blog/castrin-estado-j38/",
-      "date": "Thu, 21 May 2026 08:45:56 +0000"
+      "title": "Julián Alvarez, Molina, Nico y Giménez se marchan con sus selecciones antes de tiempo",
+      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-baja-j38-atleti/",
+      "date": "Thu, 21 May 2026 14:49:57 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Vinicius, Trent, Carvajal y Tchouameni no entrenan. ¿Llegan a la Jornada 38?",
+      "title": "Sorare Pro Global Cup 2026: más de $150K en premios durante el Mundial",
+      "link": "https://www.jornadaperfecta.com/blog/sorare-global-cup-mundial-26/",
+      "date": "Thu, 21 May 2026 14:00:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Amrabat no entrena con el grupo, ¿llega a la jornada 38?",
+      "link": "https://www.jornadaperfecta.com/blog/amrabat-estado-betis-j38/",
+      "date": "Thu, 21 May 2026 13:58:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Podcast: Alineaciones Probables Jornada 38 2025/26",
+      "link": "https://www.jornadaperfecta.com/blog/podcast-alineaciones-probables-j38-25-26/",
+      "date": "Thu, 21 May 2026 13:30:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Valverde se despide del Athletic y da suerte a Terzic",
+      "link": "https://www.jornadaperfecta.com/blog/valverde-previa-real-madrid-athletic-j38-25-26/",
+      "date": "Thu, 21 May 2026 12:57:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Lucas Beltrán sigue sin entrenar. Danjuma repite con el grupo",
+      "link": "https://www.jornadaperfecta.com/blog/lucas-beltran-estado-valencia-j38/",
+      "date": "Thu, 21 May 2026 12:41:04 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Vinicius vuelve a ausentarse y podría perderse la Jornada 38",
       "link": "https://www.jornadaperfecta.com/blog/vinicius-jr-estado-j38-25-26/",
-      "date": "Thu, 21 May 2026 08:39:14 +0000"
+      "date": "Thu, 21 May 2026 12:40:14 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Víctor Muñoz tiene «muy difícil» llegar a la jornada 38",
+      "title": "Víctor Muñoz y Raúl Moro, entrenan de forma individual. ¿Llegan a la J38?",
       "link": "https://www.jornadaperfecta.com/blog/victor-munoz-estado-j38/",
-      "date": "Thu, 21 May 2026 08:30:45 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Toljan y Víctor García siguen sin entrenar. ¿Llegan a la Jornada 38?",
-      "link": "https://www.jornadaperfecta.com/blog/toljan-victor-garcia-estado-j38/",
-      "date": "Thu, 21 May 2026 08:18:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ferrán, Rashford y De Jong entrenan con el Barça",
-      "link": "https://www.jornadaperfecta.com/blog/ferran-rashford-frenkie-estado-j38/",
-      "date": "Thu, 21 May 2026 07:57:31 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Las claves fantasy del Villarreal &#8211; Atlético: Onces, Lesiones y Apuestas",
-      "link": "https://www.jornadaperfecta.com/blog/alineaciones-villarreal-atletico-j38-25-26/",
-      "date": "Thu, 21 May 2026 06:45:32 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Las claves fantasy del Girona FC &#8211; Elche CF: Onces, Lesiones y Apuestas",
-      "link": "https://www.jornadaperfecta.com/blog/alineaciones-girona-elche-j38-25-26/",
-      "date": "Thu, 21 May 2026 06:40:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Las claves fantasy del Valencia CF &#8211; FC Barcelona: Onces, Lesiones y Apuestas",
-      "link": "https://www.jornadaperfecta.com/blog/alineaciones-valencia-barcelona-j38-25-26/",
-      "date": "Thu, 21 May 2026 06:35:37 +0000"
+      "date": "Thu, 21 May 2026 12:35:45 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-21T09:50:19.724Z",
+    "updatedAt": "2026-05-21T15:36:45.066Z",
     "players": [
       {
         "id": "3374",
