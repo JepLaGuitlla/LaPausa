@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T15:36:45.066Z",
+  "updatedAt": "2026-05-21T19:58:07.361Z",
   "players": [
     {
       "id": 11,
@@ -11112,7 +11112,7 @@
     {
       "id": 39357,
       "slug": "carlos-macia",
-      "name": "Carlos Maci��",
+      "name": "Carlos Maciá",
       "position": 3,
       "price": 150000,
       "points": 8,
@@ -12094,6 +12094,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Parte médico de Jon Pacheco: operado del tobillo derecho",
+      "link": "https://www.jornadaperfecta.com/blog/jon-pacheco-operacion-tobillo-alaves/",
+      "date": "Thu, 21 May 2026 18:16:16 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Julián Alvarez, Molina, Nico y Giménez se marchan con sus selecciones antes de tiempo",
       "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-baja-j38-atleti/",
       "date": "Thu, 21 May 2026 14:49:57 +0000"
@@ -12133,17 +12139,11 @@
       "title": "Vinicius vuelve a ausentarse y podría perderse la Jornada 38",
       "link": "https://www.jornadaperfecta.com/blog/vinicius-jr-estado-j38-25-26/",
       "date": "Thu, 21 May 2026 12:40:14 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Víctor Muñoz y Raúl Moro, entrenan de forma individual. ¿Llegan a la J38?",
-      "link": "https://www.jornadaperfecta.com/blog/victor-munoz-estado-j38/",
-      "date": "Thu, 21 May 2026 12:35:45 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-21T15:36:45.066Z",
+    "updatedAt": "2026-05-21T19:58:07.361Z",
     "players": [
       {
         "id": "3374",
