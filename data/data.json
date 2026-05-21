@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T20:22:34.582Z",
+  "updatedAt": "2026-05-21T04:06:02.784Z",
   "players": [
     {
       "id": 11,
@@ -12075,6 +12075,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-20-5-26/",
+      "date": "Wed, 20 May 2026 21:00:59 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Dani Vivian da la sorpresa en el entrenamiento del Athletic",
       "link": "https://www.jornadaperfecta.com/blog/vivian-estado-athletic-j38/",
       "date": "Wed, 20 May 2026 13:48:07 +0000"
@@ -12114,17 +12120,11 @@
       "title": "Víctor Muñoz, sin recaída pero duda para la jornada 38",
       "link": "https://www.jornadaperfecta.com/blog/victor-munoz-estado-j38/",
       "date": "Wed, 20 May 2026 11:10:45 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Los Ases de PixonFantasy para la Jornada 38",
-      "link": "https://www.jornadaperfecta.com/blog/ases-fantasy-j38-25-26/",
-      "date": "Wed, 20 May 2026 11:00:24 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-20T20:22:31.824Z",
+    "updatedAt": "2026-05-21T04:06:02.339Z",
     "players": [
       {
         "id": "3374",
