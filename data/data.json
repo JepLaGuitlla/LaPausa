@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T19:58:07.361Z",
+  "updatedAt": "2026-05-22T04:00:48.571Z",
   "players": [
     {
       "id": 11,
@@ -12094,6 +12094,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-21-5-26/",
+      "date": "Thu, 21 May 2026 21:00:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Parte médico de Jon Pacheco: operado del tobillo derecho",
       "link": "https://www.jornadaperfecta.com/blog/jon-pacheco-operacion-tobillo-alaves/",
       "date": "Thu, 21 May 2026 18:16:16 +0000"
@@ -12133,17 +12139,11 @@
       "title": "Lucas Beltrán sigue sin entrenar. Danjuma repite con el grupo",
       "link": "https://www.jornadaperfecta.com/blog/lucas-beltran-estado-valencia-j38/",
       "date": "Thu, 21 May 2026 12:41:04 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Vinicius vuelve a ausentarse y podría perderse la Jornada 38",
-      "link": "https://www.jornadaperfecta.com/blog/vinicius-jr-estado-j38-25-26/",
-      "date": "Thu, 21 May 2026 12:40:14 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-21T19:58:07.361Z",
+    "updatedAt": "2026-05-22T04:00:48.570Z",
     "players": [
       {
         "id": "3374",
