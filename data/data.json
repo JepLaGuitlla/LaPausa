@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T19:52:50.870Z",
+  "updatedAt": "2026-05-23T03:38:12.721Z",
   "players": [
     {
       "id": 11,
@@ -12094,6 +12094,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cinco noticias fantasy para antes de irte a dormir",
+      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-22-5-26/",
+      "date": "Fri, 22 May 2026 21:00:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción YoSports Real Madrid vs Athletic: ¡consigue hasta 15€ en apuestas gratis!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-yosports-real-madrid-vs-athletic/",
+      "date": "Fri, 22 May 2026 20:00:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Arda Güler entrena con el grupo, ¿llega al último partido?",
+      "link": "https://www.jornadaperfecta.com/blog/arda-guler-estado-j38-real-madrid/",
+      "date": "Fri, 22 May 2026 19:44:11 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Berenguer, baja en la convocatoria del Athletic Club",
       "link": "https://www.jornadaperfecta.com/blog/berenguer-baja-j38-athletic-club/",
       "date": "Fri, 22 May 2026 19:36:19 +0000"
@@ -12121,29 +12139,11 @@
       "title": "Conecta 5 Sportium Real Madrid vs Athletic: consigue hasta 5€ en freebets",
       "link": "https://www.jornadaperfecta.com/blog/sportium-conecta-5-real-madrid-vs-athletic/",
       "date": "Fri, 22 May 2026 17:14:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Lisci aclara el estado de Víctor Muñoz y Raúl Moro, ¿llegan?",
-      "link": "https://www.jornadaperfecta.com/blog/lisci-previa-getafe-osasuna-j38/",
-      "date": "Fri, 22 May 2026 16:14:13 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Iñigo Pérez recupera a Álvaro García para las dos «finales»",
-      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-alaves-rayo-j38/",
-      "date": "Fri, 22 May 2026 15:25:18 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Corberán confirma la baja de Beltrán; Danjuma, disponible",
-      "link": "https://www.jornadaperfecta.com/blog/corberan-previa-valencia-barcelona-j38/",
-      "date": "Fri, 22 May 2026 15:11:19 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-22T19:52:50.781Z",
+    "updatedAt": "2026-05-23T03:38:12.300Z",
     "players": [
       {
         "id": "3374",
