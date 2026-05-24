@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T13:43:42.976Z",
+  "updatedAt": "2026-05-24T19:22:10.673Z",
   "players": [
     {
       "id": 11,
@@ -12097,6 +12097,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Parte médico de Diego López: tiene roto el cruzado",
+      "link": "https://www.jornadaperfecta.com/blog/diego-lopez-parte-medico-cruzado-26/",
+      "date": "Sun, 24 May 2026 17:36:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Thiago Almada se cae de la última convocatoria del Atleti",
       "link": "https://www.jornadaperfecta.com/blog/thiago-almada-baja-j38-25-26/",
       "date": "Sun, 24 May 2026 10:14:39 +0000"
@@ -12136,17 +12142,11 @@
       "title": "Simeone, sobre Obeg Vargas y lograr el tercer puesto",
       "link": "https://www.jornadaperfecta.com/blog/simeone-previa-villarreal-atleti-j38/",
       "date": "Sat, 23 May 2026 11:43:40 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡Raphinha causa baja en la convocatoria del FC Barcelona!",
-      "link": "https://www.jornadaperfecta.com/blog/raphinha-baja-38-barcelona/",
-      "date": "Sat, 23 May 2026 11:04:26 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-24T13:43:42.975Z",
+    "updatedAt": "2026-05-24T19:22:10.672Z",
     "players": [
       {
         "id": "3374",
@@ -12286,11 +12286,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "Norway",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 13,
         "assists": 0,
         "penalties": 0,
-        "minutesPerGoal": 235
+        "minutesPerGoal": 242
       },
       {
         "id": "136646",
@@ -12298,11 +12298,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Georgia",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 12,
         "assists": 6,
         "penalties": 0,
-        "minutesPerGoal": 240
+        "minutesPerGoal": 248
       },
       {
         "id": "32415",
@@ -12382,11 +12382,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Spain",
-        "appearances": 36,
+        "appearances": 37,
         "goals": 10,
         "assists": 5,
         "penalties": 0,
-        "minutesPerGoal": 324
+        "minutesPerGoal": 333
       },
       {
         "id": "82132",
@@ -12526,11 +12526,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Ivory Coast",
-        "appearances": 36,
+        "appearances": 37,
         "goals": 8,
         "assists": 6,
         "penalties": 1,
-        "minutesPerGoal": 405
+        "minutesPerGoal": 416
       },
       {
         "id": "33358",
@@ -12622,11 +12622,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Canada",
-        "appearances": 34,
+        "appearances": 35,
         "goals": 7,
         "assists": 1,
         "penalties": 0,
-        "minutesPerGoal": 437
+        "minutesPerGoal": 450
       },
       {
         "id": "130324",
@@ -12670,11 +12670,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "France",
-        "appearances": 35,
+        "appearances": 36,
         "goals": 7,
         "assists": 3,
         "penalties": 0,
-        "minutesPerGoal": 450
+        "minutesPerGoal": 463
       },
       {
         "id": "140814",
@@ -12982,11 +12982,11 @@
         "team": "Villarreal CF",
         "position": "",
         "nationality": "Senegal",
-        "appearances": 31,
+        "appearances": 32,
         "goals": 4,
         "assists": 2,
         "penalties": 1,
-        "minutesPerGoal": 698
+        "minutesPerGoal": 720
       },
       {
         "id": "180061",
@@ -13054,11 +13054,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "Argentina",
-        "appearances": 32,
+        "appearances": 33,
         "goals": 4,
         "assists": 6,
         "penalties": 0,
-        "minutesPerGoal": 720
+        "minutesPerGoal": 743
       },
       {
         "id": "213043",
@@ -13174,11 +13174,11 @@
         "team": "Club Atlético de Madrid",
         "position": "",
         "nationality": "Nigeria",
-        "appearances": 13,
+        "appearances": 14,
         "goals": 4,
         "assists": 0,
         "penalties": 1,
-        "minutesPerGoal": 293
+        "minutesPerGoal": 315
       },
       {
         "id": "177180",
