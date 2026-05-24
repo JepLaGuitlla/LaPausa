@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T08:34:00.818Z",
+  "updatedAt": "2026-05-24T13:43:42.976Z",
   "players": [
     {
       "id": 11,
@@ -12097,6 +12097,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Thiago Almada se cae de la última convocatoria del Atleti",
+      "link": "https://www.jornadaperfecta.com/blog/thiago-almada-baja-j38-25-26/",
+      "date": "Sun, 24 May 2026 10:14:39 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "RETAbet Doblete: apuesta al goleador en el Villarreal vs Atlético y cobra el doble",
       "link": "https://www.jornadaperfecta.com/blog/retabet-doblete-villarreal-vs-atletico-2/",
       "date": "Sat, 23 May 2026 20:00:36 +0000"
@@ -12136,17 +12142,11 @@
       "title": "¡Raphinha causa baja en la convocatoria del FC Barcelona!",
       "link": "https://www.jornadaperfecta.com/blog/raphinha-baja-38-barcelona/",
       "date": "Sat, 23 May 2026 11:04:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "BigUp: Gana dinero real con tus pronósticos del Girona &#8211; Elche",
-      "link": "https://www.jornadaperfecta.com/blog/bigup-girona-elche-pronosticos/",
-      "date": "Sat, 23 May 2026 11:02:40 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-24T08:34:00.700Z",
+    "updatedAt": "2026-05-24T13:43:42.975Z",
     "players": [
       {
         "id": "3374",
