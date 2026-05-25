@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T15:16:56.765Z",
+  "updatedAt": "2026-05-25T19:46:43.866Z",
   "players": [
     {
       "id": 11,
@@ -5891,9 +5891,8 @@
       "jForm": [
         null,
         3,
-        null,
-        null,
-        null
+        0,
+        2
       ],
       "clausula": null
     },
@@ -12051,7 +12050,6 @@
       "jForm": [
         null,
         null,
-        null,
         5,
         11
       ],
@@ -12073,9 +12071,7 @@
       "jForm": [
         3,
         3,
-        2,
-        null,
-        null
+        2
       ],
       "clausula": null
     },
@@ -12094,10 +12090,7 @@
       "status": "ok",
       "jForm": [
         2,
-        4,
-        null,
-        null,
-        null
+        4
       ],
       "clausula": null
     }
@@ -12154,7 +12147,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-25T15:16:56.765Z",
+    "updatedAt": "2026-05-25T19:46:43.866Z",
     "players": [
       {
         "id": "3374",
