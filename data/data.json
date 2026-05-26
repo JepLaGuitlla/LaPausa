@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T19:46:43.866Z",
+  "updatedAt": "2026-05-26T03:56:56.481Z",
   "players": [
     {
       "id": 11,
@@ -1837,8 +1837,8 @@
       "trend": -20000,
       "playedHome": 19,
       "playedAway": 19,
-      "teamName": "Osasuna",
-      "teamId": 93,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         0,
@@ -12098,6 +12098,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oficial: Alessio Lisci, despedido como entrenador de Osasuna",
+      "link": "https://www.jornadaperfecta.com/blog/alessio-lisci-despedido-osasuna/",
+      "date": "Mon, 25 May 2026 19:59:18 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Supercuota YoSports PSG vs Arsenal: cuota mejorada a 4.00",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-psg-vs-arsenal-final-champions/",
       "date": "Mon, 25 May 2026 07:00:13 +0000"
@@ -12137,17 +12143,11 @@
       "title": "Consulta los onces titulares confirmados de la Jornada 38 de LaLiga",
       "link": "https://www.jornadaperfecta.com/blog/onces-titulares-jornada-38-laliga/",
       "date": "Sat, 23 May 2026 16:22:42 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¿Qué sanciones se deben cumplir en la primera jornada de la 2026/27?",
-      "link": "https://www.jornadaperfecta.com/blog/sanciones-j1-temporada-26-27/",
-      "date": "Sat, 23 May 2026 13:24:15 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-25T19:46:43.866Z",
+    "updatedAt": "2026-05-26T03:56:55.792Z",
     "players": [
       {
         "id": "3374",
