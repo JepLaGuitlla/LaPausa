@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T15:44:57.834Z",
+  "updatedAt": "2026-05-26T20:12:48.450Z",
   "players": [
     {
       "id": 11,
@@ -12098,6 +12098,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Supercuota Betfair: PSG y Rayo Vallecano ambos levantan la copa a cuota 6.0",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-psg-rayo-campeones/",
+      "date": "Tue, 26 May 2026 19:00:28 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Rayo Vallecano, alineación probable contra el Crystal Palace y dónde ver en TV",
+      "link": "https://www.jornadaperfecta.com/blog/rayo-alineacion-probable-conference-final/",
+      "date": "Tue, 26 May 2026 18:10:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Iñigo Pérez, sobre la ilusionante Final de la Conference League",
+      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-final-conference/",
+      "date": "Tue, 26 May 2026 18:01:57 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción MARCAapuestas Final Conference league: ¡Seguro del 50% hasta 10€ si fallas!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-marcaapuestas-final-conference-league/",
+      "date": "Tue, 26 May 2026 17:00:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "DAZN Bet regala 5€ por apostar en la Final de la Conference League",
       "link": "https://www.jornadaperfecta.com/blog/dazn-bet-final-conference-league-2026/",
       "date": "Tue, 26 May 2026 14:00:43 +0000"
@@ -12119,35 +12143,11 @@
       "title": "Ilias Akhomach acumula varios entrenos con el grupo. ¿Llega a la final?",
       "link": "https://www.jornadaperfecta.com/blog/ilias-akhomach-estado-final-conference-26/",
       "date": "Tue, 26 May 2026 10:42:39 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¿Qué sanciones se deben cumplir en la primera jornada de la 2026/27?",
-      "link": "https://www.jornadaperfecta.com/blog/sanciones-j1-temporada-26-27/",
-      "date": "Tue, 26 May 2026 07:24:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Alessio Lisci, despedido como entrenador de Osasuna",
-      "link": "https://www.jornadaperfecta.com/blog/alessio-lisci-despedido-osasuna/",
-      "date": "Mon, 25 May 2026 19:59:18 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota YoSports PSG vs Arsenal: cuota mejorada a 4.00",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-psg-vs-arsenal-final-champions/",
-      "date": "Mon, 25 May 2026 07:00:13 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Parte médico de Diego López: tiene roto el cruzado",
-      "link": "https://www.jornadaperfecta.com/blog/diego-lopez-parte-medico-cruzado-26/",
-      "date": "Sun, 24 May 2026 17:36:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-26T15:44:57.833Z",
+    "updatedAt": "2026-05-26T20:12:48.449Z",
     "players": [
       {
         "id": "3374",
