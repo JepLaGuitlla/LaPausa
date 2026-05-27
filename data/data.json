@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T15:54:20.757Z",
+  "updatedAt": "2026-05-27T20:23:31.831Z",
   "players": [
     {
       "id": 11,
@@ -12098,6 +12098,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Acuerdo total entre Barcelona y Anthony Gordon",
+      "link": "https://www.jornadaperfecta.com/blog/anthony-gordon-acuerdo-barcelona-26/",
+      "date": "Wed, 27 May 2026 19:15:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Promoción Luckia Final Conference League : ¡Apuesta con seguro de hasta 10€!",
       "link": "https://www.jornadaperfecta.com/blog/promocion-luckia-final-conference-league/",
       "date": "Wed, 27 May 2026 07:00:49 +0000"
@@ -12137,17 +12143,11 @@
       "title": "Sportium Final Conference League: recupera el 25% hasta 10€ con el Crystal Palace vs Rayo",
       "link": "https://www.jornadaperfecta.com/blog/sportium-final-conference-league-seguro/",
       "date": "Tue, 26 May 2026 11:20:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Parte médico de Pablo Durán: se pierde el inicio de la próxima temporada",
-      "link": "https://www.jornadaperfecta.com/blog/pablo-duran-parte-medico-hombro-25-26/",
-      "date": "Tue, 26 May 2026 10:57:50 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-27T15:54:20.756Z",
+    "updatedAt": "2026-05-27T20:23:31.671Z",
     "players": [
       {
         "id": "3374",
