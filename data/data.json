@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T10:10:32.868Z",
+  "updatedAt": "2026-05-28T16:08:16.708Z",
   "players": [
     {
       "id": 11,
@@ -12098,6 +12098,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "El Barça prepara la primera oferta por Julián Alvarez",
+      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-fichaje-barcelona/",
+      "date": "Thu, 28 May 2026 13:42:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Anthony Gordon viaja a Barcelona para cerrar su fichaje",
+      "link": "https://www.jornadaperfecta.com/blog/anthony-gordon-acuerdo-barcelona-26/",
+      "date": "Thu, 28 May 2026 11:30:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "¿Qué sanciones se deben cumplir en la primera jornada de la 2026/27?",
       "link": "https://www.jornadaperfecta.com/blog/sanciones-j1-temporada-26-27/",
       "date": "Thu, 28 May 2026 07:00:15 +0000"
@@ -12107,12 +12119,6 @@
       "title": "Supercuota YoSports PSG vs Arsenal: cuota mejorada a 4.00",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-psg-vs-arsenal-final-champions/",
       "date": "Thu, 28 May 2026 05:00:13 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Acuerdo total entre Barcelona y Anthony Gordon",
-      "link": "https://www.jornadaperfecta.com/blog/anthony-gordon-acuerdo-barcelona-26/",
-      "date": "Wed, 27 May 2026 19:15:49 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12137,17 +12143,11 @@
       "title": "Iñigo Pérez, sobre la ilusionante Final de la Conference League",
       "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-final-conference/",
       "date": "Tue, 26 May 2026 18:01:57 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción MARCAapuestas Final Conference league: ¡Seguro del 50% hasta 10€ si fallas!",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-marcaapuestas-final-conference-league/",
-      "date": "Tue, 26 May 2026 17:00:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-28T10:10:32.800Z",
+    "updatedAt": "2026-05-28T16:08:16.708Z",
     "players": [
       {
         "id": "3374",
