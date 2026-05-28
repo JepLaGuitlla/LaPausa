@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T16:08:16.708Z",
+  "updatedAt": "2026-05-28T20:29:00.130Z",
   "players": [
     {
       "id": 11,
@@ -12098,6 +12098,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Bernardo Silva, cerca de fichar por el Barça como agente libre",
+      "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-fichaje-barcelona/",
+      "date": "Thu, 28 May 2026 18:13:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Barça prepara la primera oferta por Julián Alvarez",
       "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-fichaje-barcelona/",
       "date": "Thu, 28 May 2026 13:42:17 +0000"
@@ -12137,17 +12143,11 @@
       "title": "Rayo Vallecano, alineación probable contra el Crystal Palace y dónde ver en TV",
       "link": "https://www.jornadaperfecta.com/blog/rayo-alineacion-probable-conference-final/",
       "date": "Tue, 26 May 2026 18:10:32 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Iñigo Pérez, sobre la ilusionante Final de la Conference League",
-      "link": "https://www.jornadaperfecta.com/blog/inigo-perez-previa-final-conference/",
-      "date": "Tue, 26 May 2026 18:01:57 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-28T16:08:16.708Z",
+    "updatedAt": "2026-05-28T20:29:00.129Z",
     "players": [
       {
         "id": "3374",
