@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T15:48:47.686Z",
+  "updatedAt": "2026-05-29T20:31:05.135Z",
   "players": [
     {
       "id": 11,
@@ -12098,6 +12098,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oficial: Anthony Gordon, nuevo jugador del FC Barcelona",
+      "link": "https://www.jornadaperfecta.com/blog/oficial-anthony-gordon-fichaje-barcelona/",
+      "date": "Fri, 29 May 2026 19:22:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción Sportium PSG vs Arsenal: ¡marca penaltis y gana tu premio!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-psg-arsenal-penaltis/",
+      "date": "Fri, 29 May 2026 19:00:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota Betfair Final Champions League: cuota mejorada a 9.00",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-final-champions-2026/",
+      "date": "Fri, 29 May 2026 17:00:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "¡TonyBet te regala una Apuesta Gratis de 100€ apostando a la Final de la Champions League!",
       "link": "https://www.jornadaperfecta.com/blog/tonybet-final-champions-2026/",
       "date": "Fri, 29 May 2026 15:00:58 +0000"
@@ -12125,29 +12143,11 @@
       "title": "Bernardo Silva, cerca de fichar por el Barça como agente libre",
       "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-fichaje-barcelona/",
       "date": "Thu, 28 May 2026 18:13:46 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Anthony Gordon viaja a Barcelona para cerrar su fichaje",
-      "link": "https://www.jornadaperfecta.com/blog/anthony-gordon-acuerdo-barcelona-26/",
-      "date": "Thu, 28 May 2026 11:30:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¿Qué sanciones se deben cumplir en la primera jornada de la 2026/27?",
-      "link": "https://www.jornadaperfecta.com/blog/sanciones-j1-temporada-26-27/",
-      "date": "Thu, 28 May 2026 07:00:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota YoSports PSG vs Arsenal: cuota mejorada a 4.00",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-psg-vs-arsenal-final-champions/",
-      "date": "Thu, 28 May 2026 05:00:13 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-29T15:48:47.685Z",
+    "updatedAt": "2026-05-29T20:31:03.944Z",
     "players": [
       {
         "id": "3374",
