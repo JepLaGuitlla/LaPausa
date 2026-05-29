@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T09:59:48.819Z",
+  "updatedAt": "2026-05-29T15:48:47.686Z",
   "players": [
     {
       "id": 11,
@@ -9617,7 +9617,7 @@
     {
       "id": 37711,
       "slug": "carlos-espi",
-      "name": "Esp��",
+      "name": "Espí",
       "position": 4,
       "price": 11850000,
       "points": 148,
@@ -12098,6 +12098,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "¡TonyBet te regala una Apuesta Gratis de 100€ apostando a la Final de la Champions League!",
+      "link": "https://www.jornadaperfecta.com/blog/tonybet-final-champions-2026/",
+      "date": "Fri, 29 May 2026 15:00:58 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Maxi Cuota Codere Champions League: PSG vs Arsenal a cuota 10.00",
+      "link": "https://www.jornadaperfecta.com/blog/codere-maxicuota-psg-arsenal-final/",
+      "date": "Fri, 29 May 2026 11:00:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Barça presenta su primera oferta por Julián Alvarez, de 100 millones",
       "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-fichaje-barcelona/",
       "date": "Fri, 29 May 2026 09:42:17 +0000"
@@ -12131,23 +12143,11 @@
       "title": "Supercuota YoSports PSG vs Arsenal: cuota mejorada a 4.00",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-psg-vs-arsenal-final-champions/",
       "date": "Thu, 28 May 2026 05:00:13 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Luckia Final Conference League : ¡Apuesta con seguro de hasta 10€!",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-luckia-final-conference-league/",
-      "date": "Wed, 27 May 2026 07:00:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair: PSG y Rayo Vallecano ambos levantan la copa a cuota 6.0",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-psg-rayo-campeones/",
-      "date": "Tue, 26 May 2026 19:00:28 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-29T09:59:47.785Z",
+    "updatedAt": "2026-05-29T15:48:47.685Z",
     "players": [
       {
         "id": "3374",
