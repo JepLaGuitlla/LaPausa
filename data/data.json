@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T19:22:39.768Z",
+  "updatedAt": "2026-05-31T04:12:50.199Z",
   "players": [
     {
       "id": 11,
@@ -4492,7 +4492,7 @@
     {
       "id": 19299,
       "slug": "sergio-gomez",
-      "name": "Sergio G��mez",
+      "name": "Sergio Gómez",
       "position": 2,
       "price": 3320000,
       "points": 142,
@@ -12163,7 +12163,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-30T19:22:39.767Z",
+    "updatedAt": "2026-05-31T04:12:49.239Z",
     "players": [
       {
         "id": "3374",
