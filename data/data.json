@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:52:47.404Z",
+  "updatedAt": "2026-05-31T19:22:08.132Z",
   "players": [
     {
       "id": 11,
@@ -12111,59 +12111,10 @@
       "clausula": null
     }
   ],
-  "news": [
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Codere Final Champions League: apuesta 20€ y juega seguro",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-codere-final-champions-2026/",
-      "date": "Sat, 30 May 2026 06:00:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Anthony Gordon, nuevo jugador del FC Barcelona",
-      "link": "https://www.jornadaperfecta.com/blog/oficial-anthony-gordon-fichaje-barcelona/",
-      "date": "Fri, 29 May 2026 19:22:09 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Sportium PSG vs Arsenal: ¡marca penaltis y gana tu premio!",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-psg-arsenal-penaltis/",
-      "date": "Fri, 29 May 2026 19:00:27 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair Final Champions League: cuota mejorada a 9.00",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-final-champions-2026/",
-      "date": "Fri, 29 May 2026 17:00:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡TonyBet te regala una Apuesta Gratis de 100€ apostando a la Final de la Champions League!",
-      "link": "https://www.jornadaperfecta.com/blog/tonybet-final-champions-2026/",
-      "date": "Fri, 29 May 2026 15:00:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Maxi Cuota Codere Champions League: PSG vs Arsenal a cuota 10.00",
-      "link": "https://www.jornadaperfecta.com/blog/codere-maxicuota-psg-arsenal-final/",
-      "date": "Fri, 29 May 2026 11:00:46 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Barça presenta su primera oferta por Julián Alvarez, de 100 millones",
-      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-fichaje-barcelona/",
-      "date": "Fri, 29 May 2026 09:42:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "William Hill Final Champions: ¡Consigue hasta 50€ en Apuestas Gratis con los goles en el PSG &#8211; Arsenal!",
-      "link": "https://www.jornadaperfecta.com/blog/william-hill-final-champions-psg-arsenal/",
-      "date": "Fri, 29 May 2026 08:30:51 +0000"
-    }
-  ],
+  "news": [],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-05-31T13:52:47.404Z",
+    "updatedAt": "2026-05-31T19:22:08.132Z",
     "players": [
       {
         "id": "3374",
