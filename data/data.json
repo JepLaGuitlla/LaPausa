@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T11:42:44.916Z",
+  "updatedAt": "2026-06-01T17:48:29.277Z",
   "players": [
     {
       "id": 11,
@@ -12114,6 +12114,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Flick da el &#8216;sí&#8217; al fichaje de Bernardo Silva por el Barça",
+      "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-fichaje-barcelona/",
+      "date": "Mon, 01 Jun 2026 16:01:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Únete a la MacroMundial Jornada Perfecta y compite contra los mejores managers en Biwenger",
+      "link": "https://www.jornadaperfecta.com/blog/macromundial-jornada-perfecta-2026/",
+      "date": "Mon, 01 Jun 2026 13:37:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Atleti cierra la puerta a la salida de Julián Álvarez al Barça",
+      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-fichaje-barcelona/",
+      "date": "Mon, 01 Jun 2026 12:10:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Aleix Febas se convierte en nuevo futbolista del Celta",
+      "link": "https://www.jornadaperfecta.com/blog/aleix-febas-fichaje-celta/",
+      "date": "Mon, 01 Jun 2026 12:08:22 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Oficial: Íñigo Pérez, nuevo entrenador del Villarreal",
       "link": "https://www.jornadaperfecta.com/blog/inigo-perez-nuevo-entrenador-villarreal/",
       "date": "Mon, 01 Jun 2026 10:22:47 +0000"
@@ -12135,35 +12159,11 @@
       "title": "Promoción Sportium PSG vs Arsenal: ¡marca penaltis y gana tu premio!",
       "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-psg-arsenal-penaltis/",
       "date": "Fri, 29 May 2026 19:00:27 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair Final Champions League: cuota mejorada a 9.00",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-final-champions-2026/",
-      "date": "Fri, 29 May 2026 17:00:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡TonyBet te regala una Apuesta Gratis de 100€ apostando a la Final de la Champions League!",
-      "link": "https://www.jornadaperfecta.com/blog/tonybet-final-champions-2026/",
-      "date": "Fri, 29 May 2026 15:00:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Maxi Cuota Codere Champions League: PSG vs Arsenal a cuota 10.00",
-      "link": "https://www.jornadaperfecta.com/blog/codere-maxicuota-psg-arsenal-final/",
-      "date": "Fri, 29 May 2026 11:00:46 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Barça presenta su primera oferta por Julián Alvarez, de 100 millones",
-      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-fichaje-barcelona/",
-      "date": "Fri, 29 May 2026 09:42:17 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-01T11:42:44.915Z",
+    "updatedAt": "2026-06-01T17:48:29.276Z",
     "players": [
       {
         "id": "3374",
