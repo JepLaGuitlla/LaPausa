@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T21:37:09.109Z",
+  "updatedAt": "2026-06-02T04:20:25.324Z",
   "players": [
     {
       "id": 11,
@@ -4631,8 +4631,8 @@
       "trend": 0,
       "playedHome": 19,
       "playedAway": 19,
-      "teamName": "Villarreal",
-      "teamId": 19,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         3,
@@ -4785,8 +4785,8 @@
       "trend": 0,
       "playedHome": 17,
       "playedAway": 19,
-      "teamName": "Elche",
-      "teamId": 75,
+      "teamName": "Celta",
+      "teamId": 5,
       "status": "ok",
       "jForm": [
         6,
@@ -5372,7 +5372,7 @@
     {
       "id": 24326,
       "slug": "pathe-ciss",
-      "name": "Pathé Ciss",
+      "name": "Path�� Ciss",
       "position": 3,
       "price": 4140000,
       "points": 142,
@@ -12109,6 +12109,22 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 41215,
+      "slug": "inigo-perez-3",
+      "name": "Iñigo Pérez",
+      "position": 5,
+      "price": 2030000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Villarreal",
+      "teamId": 19,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
@@ -12163,7 +12179,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-01T21:37:09.108Z",
+    "updatedAt": "2026-06-02T04:20:25.324Z",
     "players": [
       {
         "id": "3374",
