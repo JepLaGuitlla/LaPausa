@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T10:43:08.498Z",
+  "updatedAt": "2026-06-02T16:40:24.945Z",
   "players": [
     {
       "id": 11,
@@ -12130,6 +12130,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Konaté fichará por el Real Madrid como agente libre",
+      "link": "https://www.jornadaperfecta.com/blog/konate-fichaje-real-madrid/",
+      "date": "Tue, 02 Jun 2026 14:02:52 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción RETAbet Golmanía España vs Irak: ¡5€ gratis por cada gol!",
+      "link": "https://www.jornadaperfecta.com/blog/retabet-golmania-espana-vs-irak/",
+      "date": "Tue, 02 Jun 2026 12:15:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Llega Colors para celebrar la Copa del Mundo en Sorare!",
+      "link": "https://www.jornadaperfecta.com/blog/sorare-colors-2026/",
+      "date": "Tue, 02 Jun 2026 11:09:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Flick da el &#8216;sí&#8217; al fichaje de Bernardo Silva por el Barça",
       "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-fichaje-barcelona/",
       "date": "Mon, 01 Jun 2026 16:01:46 +0000"
@@ -12157,29 +12175,11 @@
       "title": "Oficial: Íñigo Pérez, nuevo entrenador del Villarreal",
       "link": "https://www.jornadaperfecta.com/blog/inigo-perez-nuevo-entrenador-villarreal/",
       "date": "Mon, 01 Jun 2026 10:22:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Codere Final Champions League: apuesta 20€ y juega seguro",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-codere-final-champions-2026/",
-      "date": "Sat, 30 May 2026 06:00:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Anthony Gordon, nuevo jugador del FC Barcelona",
-      "link": "https://www.jornadaperfecta.com/blog/oficial-anthony-gordon-fichaje-barcelona/",
-      "date": "Fri, 29 May 2026 19:22:09 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Sportium PSG vs Arsenal: ¡marca penaltis y gana tu premio!",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-psg-arsenal-penaltis/",
-      "date": "Fri, 29 May 2026 19:00:27 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-02T10:43:08.497Z",
+    "updatedAt": "2026-06-02T16:40:24.944Z",
     "players": [
       {
         "id": "3374",
