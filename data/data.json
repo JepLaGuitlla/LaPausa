@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T16:57:11.626Z",
+  "updatedAt": "2026-06-03T21:19:16.681Z",
   "players": [
     {
       "id": 11,
@@ -12130,6 +12130,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Florentino anuncia a Mourinho como el futuro entrenador del Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/jose-mourinho-entrenador-real-madrid/",
+      "date": "Wed, 03 Jun 2026 21:07:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Denzel Dumfries se convertirá en nuevo jugador del Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/dumfries-acuerdo-real-madrid/",
       "date": "Wed, 03 Jun 2026 07:58:08 +0000"
@@ -12169,17 +12175,11 @@
       "title": "Únete a la MacroMundial Jornada Perfecta y compite contra los mejores managers en Biwenger",
       "link": "https://www.jornadaperfecta.com/blog/macromundial-jornada-perfecta-2026/",
       "date": "Mon, 01 Jun 2026 13:37:27 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Atleti cierra la puerta a la salida de Julián Álvarez al Barça",
-      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-fichaje-barcelona/",
-      "date": "Mon, 01 Jun 2026 12:10:17 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-03T16:57:11.625Z",
+    "updatedAt": "2026-06-03T21:19:16.681Z",
     "players": [
       {
         "id": "3374",
