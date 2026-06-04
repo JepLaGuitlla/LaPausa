@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T15:27:59.130Z",
+  "updatedAt": "2026-06-04T20:09:49.467Z",
   "players": [
     {
       "id": 11,
@@ -12130,15 +12130,21 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Enrique Riquelme anuncia a Haaland como su fichaje &#8216;bomba&#8217;",
-      "link": "https://www.jornadaperfecta.com/blog/enrique-riquelme-fichaje-haaland/",
-      "date": "Wed, 03 Jun 2026 21:31:56 +0000"
+      "title": "Bono Betfair Mundial 2026: consigue hasta 200€ para apostar al fútbol",
+      "link": "https://www.jornadaperfecta.com/blog/betfair-nuevo-bono-bienvenida-2026/",
+      "date": "Thu, 04 Jun 2026 17:45:07 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Florentino anuncia a Mourinho como el futuro entrenador del Madrid",
+      "title": "El Benfica confirma el fichaje de Mourinho por el Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/jose-mourinho-entrenador-real-madrid/",
-      "date": "Wed, 03 Jun 2026 21:07:26 +0000"
+      "date": "Thu, 04 Jun 2026 08:15:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Enrique Riquelme anuncia a Haaland como su fichaje &#8216;bomba&#8217;",
+      "link": "https://www.jornadaperfecta.com/blog/enrique-riquelme-fichaje-haaland/",
+      "date": "Wed, 03 Jun 2026 21:31:56 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12169,17 +12175,11 @@
       "title": "¡Llega Colors para celebrar la Copa del Mundo en Sorare!",
       "link": "https://www.jornadaperfecta.com/blog/sorare-colors-2026/",
       "date": "Tue, 02 Jun 2026 11:09:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Flick da el &#8216;sí&#8217; al fichaje de Bernardo Silva por el Barça",
-      "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-fichaje-barcelona/",
-      "date": "Mon, 01 Jun 2026 16:01:46 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-04T15:27:59.130Z",
+    "updatedAt": "2026-06-04T20:09:49.466Z",
     "players": [
       {
         "id": "3374",
