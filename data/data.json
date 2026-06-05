@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T09:58:35.075Z",
+  "updatedAt": "2026-06-05T15:12:41.292Z",
   "players": [
     {
       "id": 11,
@@ -12130,6 +12130,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Fantasy Mundial Codere: ¡crea tu equipo gratis y compite por 3.000€ en freebets!",
+      "link": "https://www.jornadaperfecta.com/blog/fantasy-codere-mundial-2026/",
+      "date": "Fri, 05 Jun 2026 11:16:19 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Florentino confirma 3 fichajes y una oferta de 150 millones o más",
       "link": "https://www.jornadaperfecta.com/blog/florentino-oferta-150-millones/",
       "date": "Fri, 05 Jun 2026 08:02:28 +0000"
@@ -12169,17 +12175,11 @@
       "title": "Sportium España vs Irak con seguro: ¡recupera el 25% hasta 10€!",
       "link": "https://www.jornadaperfecta.com/blog/sportium-espana-vs-irak-seguro/",
       "date": "Wed, 03 Jun 2026 07:00:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Konaté fichará por el Real Madrid como agente libre",
-      "link": "https://www.jornadaperfecta.com/blog/konate-fichaje-real-madrid/",
-      "date": "Tue, 02 Jun 2026 14:02:52 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-05T09:58:34.904Z",
+    "updatedAt": "2026-06-05T15:12:41.024Z",
     "players": [
       {
         "id": "3374",
