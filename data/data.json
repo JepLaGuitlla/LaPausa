@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T15:12:41.292Z",
+  "updatedAt": "2026-06-05T19:59:57.606Z",
   "players": [
     {
       "id": 11,
@@ -12130,6 +12130,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Francia lidera Polymarket con un 18% de probabilidad implícita gracias a su plantilla, experiencia y rendimiento reciente",
+      "link": "https://www.jornadaperfecta.com/blog/francia-lidera-polymarket-apuestas-mundial/",
+      "date": "Fri, 05 Jun 2026 17:22:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Asegura tus combinadas a los Playoffs de Ascenso de Segunda División con Betsson!",
+      "link": "https://www.jornadaperfecta.com/blog/betsson-playoffs-segunda-division-promo/",
+      "date": "Fri, 05 Jun 2026 16:52:50 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Fantasy Mundial Codere: ¡crea tu equipo gratis y compite por 3.000€ en freebets!",
       "link": "https://www.jornadaperfecta.com/blog/fantasy-codere-mundial-2026/",
       "date": "Fri, 05 Jun 2026 11:16:19 +0000"
@@ -12163,23 +12175,11 @@
       "title": "Enrique Riquelme anuncia a Haaland como su fichaje &#8216;bomba&#8217;",
       "link": "https://www.jornadaperfecta.com/blog/enrique-riquelme-fichaje-haaland/",
       "date": "Wed, 03 Jun 2026 21:31:56 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Denzel Dumfries se convertirá en nuevo jugador del Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/dumfries-acuerdo-real-madrid/",
-      "date": "Wed, 03 Jun 2026 07:58:08 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sportium España vs Irak con seguro: ¡recupera el 25% hasta 10€!",
-      "link": "https://www.jornadaperfecta.com/blog/sportium-espana-vs-irak-seguro/",
-      "date": "Wed, 03 Jun 2026 07:00:25 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-05T15:12:41.024Z",
+    "updatedAt": "2026-06-05T19:59:57.606Z",
     "players": [
       {
         "id": "3374",
