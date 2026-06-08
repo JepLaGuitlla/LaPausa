@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T15:59:44.973Z",
+  "updatedAt": "2026-06-08T20:23:16.431Z",
   "players": [
     {
       "id": 11,
@@ -12130,6 +12130,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Sergio Canales llega a un acuerdo para volver al Racing",
+      "link": "https://www.jornadaperfecta.com/blog/sergio-canales-fichaje-racing/",
+      "date": "Mon, 08 Jun 2026 17:44:19 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Sportium Quiz Mundial 2026: ¡gana 0,50€ por cada acierto!",
       "link": "https://www.jornadaperfecta.com/blog/sportium-quiz-mundial-2026/",
       "date": "Mon, 08 Jun 2026 07:00:37 +0000"
@@ -12169,17 +12175,11 @@
       "title": "¡Asegura tus combinadas a los Playoffs de Ascenso de Segunda División con Betsson!",
       "link": "https://www.jornadaperfecta.com/blog/betsson-playoffs-segunda-division-promo/",
       "date": "Fri, 05 Jun 2026 16:52:50 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Fantasy Mundial Codere: ¡crea tu equipo gratis y compite por 3.000€ en freebets!",
-      "link": "https://www.jornadaperfecta.com/blog/fantasy-codere-mundial-2026/",
-      "date": "Fri, 05 Jun 2026 11:16:19 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-08T15:59:44.972Z",
+    "updatedAt": "2026-06-08T20:23:16.430Z",
     "players": [
       {
         "id": "3374",
