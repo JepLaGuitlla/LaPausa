@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T20:23:16.431Z",
+  "updatedAt": "2026-06-09T03:53:55.551Z",
   "players": [
     {
       "id": 11,
@@ -1823,28 +1823,6 @@
         7,
         2,
         7,
-        0
-      ],
-      "clausula": null
-    },
-    {
-      "id": 5475,
-      "slug": "alessio-lisci",
-      "name": "Alessio Lisci",
-      "position": 5,
-      "price": 440000,
-      "points": 42,
-      "trend": 0,
-      "playedHome": 19,
-      "playedAway": 19,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        0,
-        0,
-        0,
-        0,
         0
       ],
       "clausula": null
@@ -12179,7 +12157,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-08T20:23:16.430Z",
+    "updatedAt": "2026-06-09T03:53:55.550Z",
     "players": [
       {
         "id": "3374",
