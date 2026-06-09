@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T09:52:39.509Z",
+  "updatedAt": "2026-06-09T15:14:14.798Z",
   "players": [
     {
       "id": 11,
@@ -12108,6 +12108,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Promoción Sportium México vs Sudáfrica: ¡marca penaltis y gana tu premio!",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-mexico-sudafrica-penaltis/",
+      "date": "Tue, 09 Jun 2026 10:36:53 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Sergio Canales llega a un acuerdo para volver al Racing",
       "link": "https://www.jornadaperfecta.com/blog/sergio-canales-fichaje-racing/",
       "date": "Mon, 08 Jun 2026 17:44:19 +0000"
@@ -12147,17 +12153,11 @@
       "title": "Francia lidera Polymarket con un 18% de probabilidad implícita gracias a su plantilla, experiencia y rendimiento reciente",
       "link": "https://www.jornadaperfecta.com/blog/francia-lidera-polymarket-apuestas-mundial/",
       "date": "Fri, 05 Jun 2026 17:22:21 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡Asegura tus combinadas a los Playoffs de Ascenso de Segunda División con Betsson!",
-      "link": "https://www.jornadaperfecta.com/blog/betsson-playoffs-segunda-division-promo/",
-      "date": "Fri, 05 Jun 2026 16:52:50 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-09T09:52:39.509Z",
+    "updatedAt": "2026-06-09T15:14:14.521Z",
     "players": [
       {
         "id": "3374",
