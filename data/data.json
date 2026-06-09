@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T15:14:14.798Z",
+  "updatedAt": "2026-06-09T20:11:00.278Z",
   "players": [
     {
       "id": 11,
@@ -12108,6 +12108,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Comunicado oficial del Real Madrid: Julián Alvarez",
+      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-oferta-real-madrid/",
+      "date": "Tue, 09 Jun 2026 18:06:20 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Promoción Sportium México vs Sudáfrica: ¡marca penaltis y gana tu premio!",
       "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-mexico-sudafrica-penaltis/",
       "date": "Tue, 09 Jun 2026 10:36:53 +0000"
@@ -12147,17 +12153,11 @@
       "title": "Klopp, el entrenador elegido por Riquelme si gana las elecciones del Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/klopp-entrenador-real-madrid-riquelme/",
       "date": "Fri, 05 Jun 2026 21:30:40 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Francia lidera Polymarket con un 18% de probabilidad implícita gracias a su plantilla, experiencia y rendimiento reciente",
-      "link": "https://www.jornadaperfecta.com/blog/francia-lidera-polymarket-apuestas-mundial/",
-      "date": "Fri, 05 Jun 2026 17:22:21 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-09T15:14:14.521Z",
+    "updatedAt": "2026-06-09T20:11:00.278Z",
     "players": [
       {
         "id": "3374",
