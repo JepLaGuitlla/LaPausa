@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T10:09:33.965Z",
+  "updatedAt": "2026-06-10T15:45:59.127Z",
   "players": [
     {
       "id": 11,
@@ -9712,8 +9712,8 @@
       "trend": 0,
       "playedHome": 10,
       "playedAway": 9,
-      "teamName": "Real Madrid",
-      "teamId": 15,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         3,
@@ -10324,9 +10324,37 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 41253,
+      "slug": "ramis-2",
+      "name": "Ramis",
+      "position": 5,
+      "price": 440000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Osasuna",
+      "teamId": 93,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Jon Guridi, nuevo jugador del Sevilla FC",
+      "link": "https://www.jornadaperfecta.com/blog/jon-guridi-sevilla-fc-anuncio/",
+      "date": "Wed, 10 Jun 2026 14:10:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Barça no pagará la cláusula de Marcus Rashford, que vuelve al United",
+      "link": "https://www.jornadaperfecta.com/blog/barca-no-clausula-rashford/",
+      "date": "Wed, 10 Jun 2026 12:07:04 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Ramis se convierte en el nuevo entrenador de CA Osasuna",
@@ -10362,23 +10390,11 @@
       "title": "Sportium Quiz Mundial 2026: ¡gana 0,50€ por cada acierto!",
       "link": "https://www.jornadaperfecta.com/blog/sportium-quiz-mundial-2026/",
       "date": "Mon, 08 Jun 2026 07:00:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Cuotas 888Sport Mundial 2026: favoritos y bono de bienvenida",
-      "link": "https://www.jornadaperfecta.com/blog/888sport-mundial-2026-favoritos/",
-      "date": "Sun, 07 Jun 2026 07:00:39 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Jokerbet: ¡Cashback de hasta 10€ apostando a los playoffs de LaLiga 2!",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-jokerbet-cashback-playoffs-laliga-2/",
-      "date": "Sat, 06 Jun 2026 07:00:45 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-10T10:09:33.965Z",
+    "updatedAt": "2026-06-10T15:45:59.127Z",
     "players": [
       {
         "id": "3374",
