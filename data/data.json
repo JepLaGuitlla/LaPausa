@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T20:11:00.278Z",
+  "updatedAt": "2026-06-10T04:04:59.193Z",
   "players": [
     {
       "id": 11,
@@ -156,28 +156,6 @@
       "clausula": null
     },
     {
-      "id": 257,
-      "slug": "aaron-escandell",
-      "name": "Escandell",
-      "position": 1,
-      "price": 5510000,
-      "points": 213,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 18,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        5,
-        8,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 290,
       "slug": "manu-fernandez",
       "name": "Manu Fernández",
@@ -218,28 +196,6 @@
         10,
         2,
         0
-      ],
-      "clausula": null
-    },
-    {
-      "id": 755,
-      "slug": "david-costas",
-      "name": "David Costas",
-      "position": 2,
-      "price": 960000,
-      "points": 105,
-      "trend": 0,
-      "playedHome": 12,
-      "playedAway": 13,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        3,
-        2,
-        5,
-        2
       ],
       "clausula": null
     },
@@ -574,28 +530,6 @@
       "clausula": null
     },
     {
-      "id": 1673,
-      "slug": "ruben-blanco",
-      "name": "Rubén Blanco",
-      "position": 1,
-      "price": 150000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 1676,
       "slug": "jose-gimenez",
       "name": "Giménez",
@@ -728,28 +662,6 @@
       "clausula": null
     },
     {
-      "id": 1769,
-      "slug": "sergi-darder",
-      "name": "Darder",
-      "position": 3,
-      "price": 7440000,
-      "points": 169,
-      "trend": 0,
-      "playedHome": 19,
-      "playedAway": 19,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        6,
-        6,
-        2,
-        6,
-        6
-      ],
-      "clausula": null
-    },
-    {
       "id": 1780,
       "slug": "foulquier",
       "name": "Foulquier",
@@ -790,28 +702,6 @@
         4,
         6,
         5
-      ],
-      "clausula": null
-    },
-    {
-      "id": 1852,
-      "slug": "ter-stegen",
-      "name": "Ter Stegen",
-      "position": 1,
-      "price": 720000,
-      "points": 7,
-      "trend": 0,
-      "playedHome": 1,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
       ],
       "clausula": null
     },
@@ -904,28 +794,6 @@
       "clausula": null
     },
     {
-      "id": 1887,
-      "slug": "juan-carlos-martin",
-      "name": "Juan Carlos",
-      "position": 1,
-      "price": 150000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 1897,
       "slug": "oblak",
       "name": "Oblak",
@@ -943,28 +811,6 @@
         10,
         null,
         2,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 1908,
-      "slug": "alex-moreno",
-      "name": "Álex Moreno",
-      "position": 2,
-      "price": 3070000,
-      "points": 119,
-      "trend": 0,
-      "playedHome": 15,
-      "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        4,
-        5,
-        4,
         null
       ],
       "clausula": null
@@ -1075,28 +921,6 @@
         null,
         null,
         null,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 1992,
-      "slug": "eric-bailly",
-      "name": "Eric Bailly",
-      "position": 2,
-      "price": 1840000,
-      "points": 74,
-      "trend": 0,
-      "playedHome": 9,
-      "playedAway": 6,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        null,
-        3,
-        2,
         null
       ],
       "clausula": null
@@ -1256,50 +1080,6 @@
       "clausula": null
     },
     {
-      "id": 2100,
-      "slug": "raillo",
-      "name": "Raíllo",
-      "position": 2,
-      "price": 1560000,
-      "points": 104,
-      "trend": 0,
-      "playedHome": 12,
-      "playedAway": 12,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        5,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 2114,
-      "slug": "cuellar",
-      "name": "Cuéllar",
-      "position": 1,
-      "price": 150000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 2169,
       "slug": "bigas",
       "name": "Bigas",
@@ -1344,28 +1124,6 @@
       "clausula": null
     },
     {
-      "id": 2201,
-      "slug": "omar-mascarell",
-      "name": "Mascarell",
-      "position": 3,
-      "price": 2420000,
-      "points": 128,
-      "trend": 0,
-      "playedHome": 16,
-      "playedAway": 14,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        null,
-        11,
-        6,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 2219,
       "slug": "bakambu",
       "name": "Bakambu",
@@ -1384,28 +1142,6 @@
         null,
         null,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 2224,
-      "slug": "a-sanchez",
-      "name": "Antonio Sánchez",
-      "position": 3,
-      "price": 280000,
-      "points": 71,
-      "trend": 0,
-      "playedHome": 17,
-      "playedAway": 13,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        null,
-        3,
-        null,
-        3
       ],
       "clausula": null
     },
@@ -1916,28 +1652,6 @@
       "clausula": null
     },
     {
-      "id": 5800,
-      "slug": "david-lopez",
-      "name": "David López",
-      "position": 2,
-      "price": 250000,
-      "points": 15,
-      "trend": 0,
-      "playedHome": 4,
-      "playedAway": 2,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        4,
-        3,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 5807,
       "slug": "marc-roca",
       "name": "Marc Roca",
@@ -2066,28 +1780,6 @@
         9,
         4,
         6
-      ],
-      "clausula": null
-    },
-    {
-      "id": 8375,
-      "slug": "lato",
-      "name": "Lato",
-      "position": 2,
-      "price": 150000,
-      "points": 30,
-      "trend": 0,
-      "playedHome": 5,
-      "playedAway": 7,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        4,
-        null,
-        null,
-        3,
-        null
       ],
       "clausula": null
     },
@@ -2246,28 +1938,6 @@
       "clausula": null
     },
     {
-      "id": 9075,
-      "slug": "portu",
-      "name": "Portu",
-      "position": 4,
-      "price": 270000,
-      "points": 29,
-      "trend": 0,
-      "playedHome": 6,
-      "playedAway": 4,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 9090,
       "slug": "dmitrovic",
       "name": "Dmitrovic",
@@ -2356,50 +2026,6 @@
       "clausula": null
     },
     {
-      "id": 9484,
-      "slug": "fran-beltran",
-      "name": "Fran Beltrán",
-      "position": 3,
-      "price": 2040000,
-      "points": 96,
-      "trend": 0,
-      "playedHome": 13,
-      "playedAway": 14,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        4,
-        3,
-        3,
-        5,
-        4
-      ],
-      "clausula": null
-    },
-    {
-      "id": 9557,
-      "slug": "javi-lopez",
-      "name": "Javi López",
-      "position": 2,
-      "price": 900000,
-      "points": 77,
-      "trend": 0,
-      "playedHome": 12,
-      "playedAway": 13,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        1,
-        0,
-        null,
-        -3,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 9763,
       "slug": "januzaj",
       "name": "Januzaj",
@@ -2466,28 +2092,6 @@
       "clausula": null
     },
     {
-      "id": 9966,
-      "slug": "stuani",
-      "name": "Stuani",
-      "position": 4,
-      "price": 1950000,
-      "points": 80,
-      "trend": 0,
-      "playedHome": 10,
-      "playedAway": 11,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        2,
-        12,
-        9,
-        2
-      ],
-      "clausula": null
-    },
-    {
       "id": 9983,
       "slug": "djene",
       "name": "Djené",
@@ -2506,28 +2110,6 @@
         3,
         3,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 10030,
-      "slug": "maffeo",
-      "name": "Maffeo",
-      "position": 2,
-      "price": 2970000,
-      "points": 122,
-      "trend": 0,
-      "playedHome": 14,
-      "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        4,
-        3,
-        2,
-        null,
-        4
       ],
       "clausula": null
     },
@@ -2686,28 +2268,6 @@
       "clausula": null
     },
     {
-      "id": 10245,
-      "slug": "johan-mojica",
-      "name": "Mojica",
-      "position": 2,
-      "price": 2480000,
-      "points": 125,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        -3,
-        null,
-        3,
-        6
-      ],
-      "clausula": null
-    },
-    {
       "id": 10276,
       "slug": "cucho",
       "name": "Cucho",
@@ -2748,28 +2308,6 @@
         null,
         null,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 10525,
-      "slug": "nacho-vidal",
-      "name": "Nacho Vidal",
-      "position": 2,
-      "price": 390000,
-      "points": 77,
-      "trend": 0,
-      "playedHome": 15,
-      "playedAway": 14,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        1,
-        2,
-        3,
-        4,
-        0
       ],
       "clausula": null
     },
@@ -2858,28 +2396,6 @@
         null,
         2,
         2
-      ],
-      "clausula": null
-    },
-    {
-      "id": 11196,
-      "slug": "thomas-lemar",
-      "name": "Lemar",
-      "position": 3,
-      "price": 2860000,
-      "points": 112,
-      "trend": 0,
-      "playedHome": 13,
-      "playedAway": 14,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        6,
-        null,
-        5,
-        2,
-        3
       ],
       "clausula": null
     },
@@ -3055,28 +2571,6 @@
         null,
         4,
         1,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 12403,
-      "slug": "ivan-martin",
-      "name": "Iván Martín",
-      "position": 3,
-      "price": 2920000,
-      "points": 139,
-      "trend": 0,
-      "playedHome": 17,
-      "playedAway": 18,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        5,
-        4,
-        5,
-        2,
         null
       ],
       "clausula": null
@@ -3302,28 +2796,6 @@
       "clausula": null
     },
     {
-      "id": 14630,
-      "slug": "leo-roman",
-      "name": "Leo Román",
-      "position": 1,
-      "price": 3180000,
-      "points": 162,
-      "trend": 0,
-      "playedHome": 17,
-      "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        6,
-        -2,
-        3,
-        10
-      ],
-      "clausula": null
-    },
-    {
       "id": 14800,
       "slug": "pablo-ibanez",
       "name": "Pablo Ibáñez",
@@ -3478,28 +2950,6 @@
       "clausula": null
     },
     {
-      "id": 15471,
-      "slug": "santi-cazorla",
-      "name": "Cazorla",
-      "position": 3,
-      "price": 1830000,
-      "points": 103,
-      "trend": 0,
-      "playedHome": 16,
-      "playedAway": 12,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        7,
-        3,
-        6,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 15568,
       "slug": "vinicius-junior",
       "name": "Vinícius Jr",
@@ -3628,28 +3078,6 @@
         5,
         9,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 16625,
-      "slug": "manu-morlanes",
-      "name": "Morlanes",
-      "position": 3,
-      "price": 1450000,
-      "points": 117,
-      "trend": 0,
-      "playedHome": 16,
-      "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        13,
-        2,
-        1,
-        3,
-        4
       ],
       "clausula": null
     },
@@ -3984,28 +3412,6 @@
       "clausula": null
     },
     {
-      "id": 17690,
-      "slug": "bryan-gil",
-      "name": "Bryan Gil",
-      "position": 4,
-      "price": 1530000,
-      "points": 98,
-      "trend": 0,
-      "playedHome": 14,
-      "playedAway": 15,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        0,
-        2,
-        null,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 17731,
       "slug": "a-catena",
       "name": "Catena",
@@ -4266,50 +3672,6 @@
         -2,
         10,
         4
-      ],
-      "clausula": null
-    },
-    {
-      "id": 18399,
-      "slug": "martin-valjent",
-      "name": "Valjent",
-      "position": 2,
-      "price": 3180000,
-      "points": 128,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 19,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        5,
-        3,
-        -2,
-        6,
-        5
-      ],
-      "clausula": null
-    },
-    {
-      "id": 18415,
-      "slug": "abdon-prats",
-      "name": "Abdón Prats",
-      "position": 4,
-      "price": 150000,
-      "points": 21,
-      "trend": 0,
-      "playedHome": 8,
-      "playedAway": 7,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        1,
-        2,
-        1,
-        null,
-        null
       ],
       "clausula": null
     },
@@ -5040,50 +4402,6 @@
       "clausula": null
     },
     {
-      "id": 22067,
-      "slug": "juan-cruz",
-      "name": "Juan Cruz",
-      "position": 2,
-      "price": 250000,
-      "points": 39,
-      "trend": 0,
-      "playedHome": 10,
-      "playedAway": 5,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 22073,
-      "slug": "dani-calvo",
-      "name": "Calvo",
-      "position": 2,
-      "price": 740000,
-      "points": 85,
-      "trend": 0,
-      "playedHome": 9,
-      "playedAway": 11,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        6,
-        5,
-        null,
-        8,
-        2
-      ],
-      "clausula": null
-    },
-    {
       "id": 22690,
       "slug": "tete-morente",
       "name": "Tete Morente",
@@ -5300,28 +4618,6 @@
         null,
         2,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 23880,
-      "slug": "paulo-gazzaniga",
-      "name": "Gazzaniga",
-      "position": 1,
-      "price": 2800000,
-      "points": 157,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        3,
-        3,
-        7,
-        3
       ],
       "clausula": null
     },
@@ -5656,28 +4952,6 @@
       "clausula": null
     },
     {
-      "id": 25390,
-      "slug": "javi-llabres",
-      "name": "Javi Llabrés",
-      "position": 4,
-      "price": 150000,
-      "points": 25,
-      "trend": 0,
-      "playedHome": 6,
-      "playedAway": 10,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 25392,
       "slug": "jofre-carreras",
       "name": "Jofre Carreras",
@@ -5810,28 +5084,6 @@
       "clausula": null
     },
     {
-      "id": 25724,
-      "slug": "vedat-muriqi",
-      "name": "Muriqi",
-      "position": 4,
-      "price": 18700000,
-      "points": 256,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 19,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        11,
-        3,
-        3,
-        12,
-        1
-      ],
-      "clausula": null
-    },
-    {
       "id": 25778,
       "slug": "iker-benito",
       "name": "Iker Benito",
@@ -5893,28 +5145,6 @@
         4,
         3,
         7
-      ],
-      "clausula": null
-    },
-    {
-      "id": 26068,
-      "slug": "samu",
-      "name": "Samú Costa",
-      "position": 3,
-      "price": 7390000,
-      "points": 198,
-      "trend": 0,
-      "playedHome": 16,
-      "playedAway": 18,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        6,
-        null,
-        6,
-        13
       ],
       "clausula": null
     },
@@ -5981,28 +5211,6 @@
         6,
         -1,
         3
-      ],
-      "clausula": null
-    },
-    {
-      "id": 26095,
-      "slug": "arnau-martinez",
-      "name": "Arnau Martínez",
-      "position": 2,
-      "price": 3480000,
-      "points": 153,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        9,
-        2,
-        6,
-        4,
-        4
       ],
       "clausula": null
     },
@@ -6205,28 +5413,6 @@
       "clausula": null
     },
     {
-      "id": 26697,
-      "slug": "axel-witsel",
-      "name": "Witsel",
-      "position": 3,
-      "price": 4780000,
-      "points": 139,
-      "trend": 0,
-      "playedHome": 16,
-      "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        5,
-        5,
-        3,
-        5,
-        4
-      ],
-      "clausula": null
-    },
-    {
       "id": 26780,
       "slug": "inigo-perez-2",
       "name": "Íñigo Pérez",
@@ -6333,50 +5519,6 @@
         -1,
         2,
         11
-      ],
-      "clausula": null
-    },
-    {
-      "id": 26994,
-      "slug": "pablo-torre",
-      "name": "Pablo Torre",
-      "position": 3,
-      "price": 6870000,
-      "points": 152,
-      "trend": 0,
-      "playedHome": 17,
-      "playedAway": 18,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        13,
-        2,
-        5,
-        6,
-        5
-      ],
-      "clausula": null
-    },
-    {
-      "id": 27025,
-      "slug": "michel-4",
-      "name": "Michel",
-      "position": 5,
-      "price": 650000,
-      "points": 41,
-      "trend": 0,
-      "playedHome": 19,
-      "playedAway": 19,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        1,
-        0,
-        1,
-        1,
-        0
       ],
       "clausula": null
     },
@@ -6509,28 +5651,6 @@
         null,
         null,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 27945,
-      "slug": "joel-roca",
-      "name": "Joel Roca",
-      "position": 4,
-      "price": 2190000,
-      "points": 112,
-      "trend": 0,
-      "playedHome": 17,
-      "playedAway": 15,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        5,
-        5,
-        2,
-        2
       ],
       "clausula": null
     },
@@ -6799,28 +5919,6 @@
       "clausula": null
     },
     {
-      "id": 29072,
-      "slug": "jan-salas",
-      "name": "Jan Salas",
-      "position": 3,
-      "price": 150000,
-      "points": 4,
-      "trend": 0,
-      "playedHome": 2,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 29184,
       "slug": "pablo-barrios",
       "name": "Barrios",
@@ -6865,28 +5963,6 @@
       "clausula": null
     },
     {
-      "id": 29631,
-      "slug": "v-tsygankov",
-      "name": "Tsygankov",
-      "position": 4,
-      "price": 5570000,
-      "points": 153,
-      "trend": 0,
-      "playedHome": 15,
-      "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        4,
-        4,
-        5,
-        2
-      ],
-      "clausula": null
-    },
-    {
       "id": 29661,
       "slug": "jon-ander-olasagasti",
       "name": "Olasagasti",
@@ -6905,28 +5981,6 @@
         5,
         8,
         3
-      ],
-      "clausula": null
-    },
-    {
-      "id": 29907,
-      "slug": "ricard-artero-2",
-      "name": "Hassan",
-      "position": 4,
-      "price": 1670000,
-      "points": 147,
-      "trend": 0,
-      "playedHome": 19,
-      "playedAway": 18,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        1,
-        1,
-        6,
-        4,
-        2
       ],
       "clausula": null
     },
@@ -7239,28 +6293,6 @@
       "clausula": null
     },
     {
-      "id": 30787,
-      "slug": "ilyas-chaira",
-      "name": "Chaira",
-      "position": 4,
-      "price": 3850000,
-      "points": 145,
-      "trend": 0,
-      "playedHome": 19,
-      "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        3,
-        0,
-        5,
-        4
-      ],
-      "clausula": null
-    },
-    {
       "id": 30789,
       "slug": "g-simeone",
       "name": "Giuliano Simeone",
@@ -7389,28 +6421,6 @@
         null,
         null,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 31043,
-      "slug": "daley-blind",
-      "name": "Blind",
-      "position": 2,
-      "price": 4790000,
-      "points": 141,
-      "trend": 0,
-      "playedHome": 16,
-      "playedAway": 15,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        3
       ],
       "clausula": null
     },
@@ -7877,28 +6887,6 @@
       "clausula": null
     },
     {
-      "id": 32456,
-      "slug": "moldovan",
-      "name": "Moldovan",
-      "position": 1,
-      "price": 360000,
-      "points": 5,
-      "trend": 0,
-      "playedHome": 1,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        2,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 32460,
       "slug": "hector-fort",
       "name": "Héctor Fort",
@@ -8163,28 +7151,6 @@
       "clausula": null
     },
     {
-      "id": 33792,
-      "slug": "abel-ruiz",
-      "name": "Abel Ruiz",
-      "position": 4,
-      "price": 150000,
-      "points": 19,
-      "trend": 0,
-      "playedHome": 5,
-      "playedAway": 4,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 33839,
       "slug": "javier-rodriguez",
       "name": "Javi Rodríguez",
@@ -8295,50 +7261,6 @@
       "clausula": null
     },
     {
-      "id": 33972,
-      "slug": "mateu-morey",
-      "name": "Mateu Morey",
-      "position": 2,
-      "price": 310000,
-      "points": 48,
-      "trend": 0,
-      "playedHome": 8,
-      "playedAway": 10,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        2,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 33983,
-      "slug": "takuma-asano",
-      "name": "Asano",
-      "position": 4,
-      "price": 190000,
-      "points": 43,
-      "trend": 0,
-      "playedHome": 12,
-      "playedAway": 8,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        0,
-        3,
-        2,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 34034,
       "slug": "adrian",
       "name": "Adrián",
@@ -8379,28 +7301,6 @@
         4,
         3,
         4
-      ],
-      "clausula": null
-    },
-    {
-      "id": 34080,
-      "slug": "marash-kumbulla",
-      "name": "Kumbulla",
-      "position": 2,
-      "price": 160000,
-      "points": 20,
-      "trend": 0,
-      "playedHome": 4,
-      "playedAway": 4,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
       ],
       "clausula": null
     },
@@ -8449,28 +7349,6 @@
       "clausula": null
     },
     {
-      "id": 34131,
-      "slug": "d-van-de-beek",
-      "name": "Van de Beek",
-      "position": 3,
-      "price": 190000,
-      "points": 7,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 2,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 34149,
       "slug": "jiri-letacek",
       "name": "Letacek",
@@ -8511,28 +7389,6 @@
         null,
         null,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 34221,
-      "slug": "frances",
-      "name": "Francés",
-      "position": 2,
-      "price": 1960000,
-      "points": 90,
-      "trend": 0,
-      "playedHome": 12,
-      "playedAway": 12,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        7,
-        6,
-        3,
-        4
       ],
       "clausula": null
     },
@@ -8665,28 +7521,6 @@
         2,
         6,
         1
-      ],
-      "clausula": null
-    },
-    {
-      "id": 34541,
-      "slug": "lucas-bergstrom",
-      "name": "Bergström",
-      "position": 1,
-      "price": 320000,
-      "points": 26,
-      "trend": 0,
-      "playedHome": 2,
-      "playedAway": 3,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
       ],
       "clausula": null
     },
@@ -9153,28 +7987,6 @@
       "clausula": null
     },
     {
-      "id": 35815,
-      "slug": "david-lopez-2",
-      "name": "David López",
-      "position": 2,
-      "price": 340000,
-      "points": 44,
-      "trend": 0,
-      "playedHome": 6,
-      "playedAway": 8,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        0,
-        2,
-        3,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 35901,
       "slug": "thiago-almada",
       "name": "Thiago Almada",
@@ -9281,138 +8093,6 @@
         2,
         9,
         5
-      ],
-      "clausula": null
-    },
-    {
-      "id": 37451,
-      "slug": "federico-vinas",
-      "name": "Viñas",
-      "position": 4,
-      "price": 6150000,
-      "points": 184,
-      "trend": 0,
-      "playedHome": 17,
-      "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        3,
-        3,
-        6,
-        2
-      ],
-      "clausula": null
-    },
-    {
-      "id": 37453,
-      "slug": "kwasi-sibo",
-      "name": "Sibo",
-      "position": 3,
-      "price": 310000,
-      "points": 71,
-      "trend": 0,
-      "playedHome": 13,
-      "playedAway": 13,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        -2,
-        2
-      ],
-      "clausula": null
-    },
-    {
-      "id": 37455,
-      "slug": "lucas-ahijado",
-      "name": "Ahijado",
-      "position": 2,
-      "price": 290000,
-      "points": 62,
-      "trend": 0,
-      "playedHome": 9,
-      "playedAway": 11,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        1,
-        3,
-        1,
-        5,
-        2
-      ],
-      "clausula": null
-    },
-    {
-      "id": 37456,
-      "slug": "s-colombatto",
-      "name": "Colombatto",
-      "position": 3,
-      "price": 500000,
-      "points": 98,
-      "trend": 0,
-      "playedHome": 16,
-      "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        3,
-        1,
-        null,
-        2
-      ],
-      "clausula": null
-    },
-    {
-      "id": 37460,
-      "slug": "rahim-alhassane",
-      "name": "Alhassane",
-      "position": 2,
-      "price": 380000,
-      "points": 74,
-      "trend": 0,
-      "playedHome": 14,
-      "playedAway": 13,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        null,
-        1,
-        6,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 37466,
-      "slug": "v-krapyvtsov",
-      "name": "Krapyvtsov",
-      "position": 1,
-      "price": 220000,
-      "points": 6,
-      "trend": 0,
-      "playedHome": 1,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
       ],
       "clausula": null
     },
@@ -9611,28 +8291,6 @@
         2,
         5,
         9
-      ],
-      "clausula": null
-    },
-    {
-      "id": 37714,
-      "slug": "alex-fores",
-      "name": "Forés",
-      "position": 4,
-      "price": 150000,
-      "points": 42,
-      "trend": 0,
-      "playedHome": 9,
-      "playedAway": 9,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        2,
-        null,
-        2,
-        null
       ],
       "clausula": null
     },
@@ -9901,28 +8559,6 @@
       "clausula": null
     },
     {
-      "id": 37898,
-      "slug": "hugo-rincon",
-      "name": "Hugo Rincón",
-      "position": 2,
-      "price": 990000,
-      "points": 107,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 15,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        4,
-        null,
-        null,
-        2,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 38059,
       "slug": "matteo-ruggeri",
       "name": "Ruggeri",
@@ -10051,28 +8687,6 @@
         2,
         2,
         -1
-      ],
-      "clausula": null
-    },
-    {
-      "id": 38116,
-      "slug": "alberto-reina",
-      "name": "Alberto Reina",
-      "position": 3,
-      "price": 3030000,
-      "points": 149,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 19,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        4,
-        5,
-        7,
-        6
       ],
       "clausula": null
     },
@@ -10275,28 +8889,6 @@
       "clausula": null
     },
     {
-      "id": 38245,
-      "slug": "luka-ilic",
-      "name": "Luka Ilic",
-      "position": 3,
-      "price": 210000,
-      "points": 40,
-      "trend": 0,
-      "playedHome": 8,
-      "playedAway": 11,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 38275,
       "slug": "calebe",
       "name": "Calebe",
@@ -10451,28 +9043,6 @@
       "clausula": null
     },
     {
-      "id": 38365,
-      "slug": "mateo-joseph",
-      "name": "Mateo Joseph",
-      "position": 4,
-      "price": 640000,
-      "points": 106,
-      "trend": 0,
-      "playedHome": 14,
-      "playedAway": 15,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 38368,
       "slug": "filip-ugrinic",
       "name": "Filip Ugrinic",
@@ -10491,28 +9061,6 @@
         3,
         3,
         3
-      ],
-      "clausula": null
-    },
-    {
-      "id": 38369,
-      "slug": "vitor-reis",
-      "name": "Vitor Reis",
-      "position": 2,
-      "price": 5500000,
-      "points": 158,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 18,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        4,
-        5,
-        6,
-        6
       ],
       "clausula": null
     },
@@ -10583,28 +9131,6 @@
       "clausula": null
     },
     {
-      "id": 38423,
-      "slug": "ovie-ejaria",
-      "name": "Ejaria",
-      "position": 4,
-      "price": 150000,
-      "points": 24,
-      "trend": 0,
-      "playedHome": 6,
-      "playedAway": 2,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 38449,
       "slug": "rego",
       "name": "Rego",
@@ -10623,28 +9149,6 @@
         1,
         3,
         7
-      ],
-      "clausula": null
-    },
-    {
-      "id": 38467,
-      "slug": "dendoncker",
-      "name": "Dendoncker",
-      "position": 3,
-      "price": 380000,
-      "points": 56,
-      "trend": 0,
-      "playedHome": 10,
-      "playedAway": 9,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
       ],
       "clausula": null
     },
@@ -10737,50 +9241,6 @@
       "clausula": null
     },
     {
-      "id": 38843,
-      "slug": "jan-virgili",
-      "name": "Jan Virgili",
-      "position": 4,
-      "price": 5210000,
-      "points": 120,
-      "trend": 0,
-      "playedHome": 15,
-      "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        4,
-        2,
-        1,
-        4,
-        3
-      ],
-      "clausula": null
-    },
-    {
-      "id": 38847,
-      "slug": "david-carmo",
-      "name": "David Carmo",
-      "position": 2,
-      "price": 370000,
-      "points": 73,
-      "trend": 0,
-      "playedHome": 10,
-      "playedAway": 12,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 38854,
       "slug": "tani-oluwaseyi",
       "name": "Oluwaseyi",
@@ -10799,28 +9259,6 @@
         null,
         2,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 38867,
-      "slug": "azzedine-ounahi",
-      "name": "Ounahi",
-      "position": 3,
-      "price": 12380000,
-      "points": 166,
-      "trend": 0,
-      "playedHome": 12,
-      "playedAway": 12,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        10,
-        11,
-        3,
-        5
       ],
       "clausula": null
     },
@@ -10887,28 +9325,6 @@
         5,
         2,
         6
-      ],
-      "clausula": null
-    },
-    {
-      "id": 38959,
-      "slug": "vladyslav-vanat",
-      "name": "Vanat",
-      "position": 4,
-      "price": 1060000,
-      "points": 104,
-      "trend": 0,
-      "playedHome": 13,
-      "playedAway": 14,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
       ],
       "clausula": null
     },
@@ -11155,28 +9571,6 @@
       "clausula": null
     },
     {
-      "id": 39383,
-      "slug": "almada",
-      "name": "Almada",
-      "position": 5,
-      "price": 170000,
-      "points": 19,
-      "trend": 0,
-      "playedHome": 11,
-      "playedAway": 11,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "clausula": null
-    },
-    {
       "id": 39388,
       "slug": "tunde-2",
       "name": "Tunde",
@@ -11243,72 +9637,6 @@
       "clausula": null
     },
     {
-      "id": 39403,
-      "slug": "fonseca",
-      "name": "Fonseca",
-      "position": 3,
-      "price": 480000,
-      "points": 62,
-      "trend": 0,
-      "playedHome": 8,
-      "playedAway": 11,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        3,
-        4,
-        null,
-        2
-      ],
-      "clausula": null
-    },
-    {
-      "id": 39430,
-      "slug": "thiago-borbas",
-      "name": "Thiago Borbas",
-      "position": 4,
-      "price": 150000,
-      "points": 23,
-      "trend": 0,
-      "playedHome": 5,
-      "playedAway": 7,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        3,
-        null,
-        3,
-        1
-      ],
-      "clausula": null
-    },
-    {
-      "id": 39431,
-      "slug": "t-fernandez",
-      "name": "Thiago Fernández",
-      "position": 4,
-      "price": 2510000,
-      "points": 65,
-      "trend": 0,
-      "playedHome": 9,
-      "playedAway": 7,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        2,
-        1,
-        3,
-        4
-      ],
-      "clausula": null
-    },
-    {
       "id": 39664,
       "slug": "renzo-saravia",
       "name": "Renzo Saravia",
@@ -11327,28 +9655,6 @@
         -2,
         4,
         2
-      ],
-      "clausula": null
-    },
-    {
-      "id": 39672,
-      "slug": "gustavo-siviero",
-      "name": "Demichelis",
-      "position": 5,
-      "price": 680000,
-      "points": 18,
-      "trend": 0,
-      "playedHome": 7,
-      "playedAway": 6,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        0,
-        0,
-        1,
-        3
       ],
       "clausula": null
     },
@@ -11441,28 +9747,6 @@
       "clausula": null
     },
     {
-      "id": 39791,
-      "slug": "justin-kalumba",
-      "name": "Kalumba",
-      "position": 4,
-      "price": 150000,
-      "points": 7,
-      "trend": 0,
-      "playedHome": 1,
-      "playedAway": 2,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        2
-      ],
-      "clausula": null
-    },
-    {
       "id": 39792,
       "slug": "satriano",
       "name": "Satriano",
@@ -11525,28 +9809,6 @@
         12,
         6,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 39816,
-      "slug": "c-echeverri",
-      "name": "Echeverri",
-      "position": 3,
-      "price": 2240000,
-      "points": 59,
-      "trend": 0,
-      "playedHome": 8,
-      "playedAway": 9,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        3,
-        2,
-        2,
-        3
       ],
       "clausula": null
     },
@@ -11881,28 +10143,6 @@
       "clausula": null
     },
     {
-      "id": 40009,
-      "slug": "zito-luvumbo",
-      "name": "Luvumbo",
-      "position": 4,
-      "price": 2930000,
-      "points": 43,
-      "trend": 0,
-      "playedHome": 6,
-      "playedAway": 4,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        5,
-        -1,
-        9,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 40010,
       "slug": "buba-sangare",
       "name": "Sangaré",
@@ -12054,25 +10294,6 @@
       "clausula": null
     },
     {
-      "id": 41112,
-      "slug": "olaizola",
-      "name": "Olaizola",
-      "position": 2,
-      "price": 250000,
-      "points": 6,
-      "trend": 0,
-      "playedHome": 1,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        4
-      ],
-      "clausula": null
-    },
-    {
       "id": 41200,
       "slug": "anthony-gordon",
       "name": "Anthony Gordon",
@@ -12157,7 +10378,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-09T20:11:00.278Z",
+    "updatedAt": "2026-06-10T04:04:59.193Z",
     "players": [
       {
         "id": "3374",
