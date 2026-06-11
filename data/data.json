@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T10:42:52.037Z",
+  "updatedAt": "2026-06-11T16:09:27.127Z",
   "players": [
     {
       "id": 11,
@@ -10345,6 +10345,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "España a por el cetro más codiciado del fútbol mundial",
+      "link": "https://www.jornadaperfecta.com/blog/espana-cetro-futbol-mundial/",
+      "date": "Thu, 11 Jun 2026 11:47:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Juan Iglesias, nuevo jugador del Sevilla FC",
+      "link": "https://www.jornadaperfecta.com/blog/juan-iglesias-anuncio-sevilla-26/",
+      "date": "Thu, 11 Jun 2026 11:47:48 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Supercuota YoSports México vs Sudáfrica: cuota mejorada a 6.00",
       "link": "https://www.jornadaperfecta.com/blog/yosports-mexico-vs-sudafrica-mundial/",
       "date": "Thu, 11 Jun 2026 10:36:01 +0000"
@@ -10378,23 +10390,11 @@
       "title": "Comunicado oficial del Real Madrid: Julián Alvarez",
       "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-oferta-real-madrid/",
       "date": "Tue, 09 Jun 2026 18:06:20 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Sportium México vs Sudáfrica: ¡marca penaltis y gana tu premio!",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-mexico-sudafrica-penaltis/",
-      "date": "Tue, 09 Jun 2026 10:36:53 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sergio Canales llega a un acuerdo para volver al Racing",
-      "link": "https://www.jornadaperfecta.com/blog/sergio-canales-fichaje-racing/",
-      "date": "Mon, 08 Jun 2026 17:44:19 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-11T10:42:51.460Z",
+    "updatedAt": "2026-06-11T16:09:27.127Z",
     "players": [
       {
         "id": "3374",
