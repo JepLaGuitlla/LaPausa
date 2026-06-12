@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T20:26:19.682Z",
+  "updatedAt": "2026-06-12T04:21:04.526Z",
   "players": [
     {
       "id": 11,
@@ -1498,6 +1498,28 @@
       "clausula": null
     },
     {
+      "id": 4753,
+      "slug": "andres-martin",
+      "name": "Andrés Martín",
+      "position": 4,
+      "price": 2470000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 5069,
       "slug": "isi-palazon",
       "name": "Isi Palazón",
@@ -1692,6 +1714,28 @@
         1,
         1,
         1
+      ],
+      "clausula": null
+    },
+    {
+      "id": 6792,
+      "slug": "villalibre",
+      "name": "Villalibre",
+      "position": 4,
+      "price": 180000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -2378,6 +2422,28 @@
       "clausula": null
     },
     {
+      "id": 10980,
+      "slug": "jaime-mata",
+      "name": "Mata",
+      "position": 4,
+      "price": 150000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 11045,
       "slug": "fernando-calero",
       "name": "Calero",
@@ -2792,6 +2858,28 @@
         0,
         3,
         3
+      ],
+      "clausula": null
+    },
+    {
+      "id": 14707,
+      "slug": "damian-rodriguez",
+      "name": "Damián Rodríguez",
+      "position": 3,
+      "price": 380000,
+      "points": 2,
+      "trend": 0,
+      "playedHome": 1,
+      "playedAway": 1,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -3672,6 +3760,50 @@
         -2,
         10,
         4
+      ],
+      "clausula": null
+    },
+    {
+      "id": 18496,
+      "slug": "jokin-ezkieta",
+      "name": "Ezkieta",
+      "position": 1,
+      "price": 910000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 18564,
+      "slug": "inigo-vicente",
+      "name": "Iñigo Vicente",
+      "position": 4,
+      "price": 1250000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -7701,6 +7833,28 @@
       "clausula": null
     },
     {
+      "id": 35171,
+      "slug": "peio-canales",
+      "name": "Peio Canales",
+      "position": 3,
+      "price": 660000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 35249,
       "slug": "raul-asencio",
       "name": "Asencio",
@@ -7785,6 +7939,28 @@
         2,
         2,
         9
+      ],
+      "clausula": null
+    },
+    {
+      "id": 35408,
+      "slug": "pablo-ramon",
+      "name": "Pablo Ramón",
+      "position": 2,
+      "price": 240000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -10340,6 +10516,380 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 41259,
+      "slug": "sergio-martinez",
+      "name": "Sergio Martínez",
+      "position": 3,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41260,
+      "slug": "manex-lozano",
+      "name": "Manex Lozano",
+      "position": 4,
+      "price": 150000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41261,
+      "slug": "g-guliashvili",
+      "name": "Guliashvili",
+      "position": 4,
+      "price": 320000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41262,
+      "slug": "j-arana",
+      "name": "Juan Arana",
+      "position": 4,
+      "price": 320000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41263,
+      "slug": "manu-hernando",
+      "name": "Hernando",
+      "position": 2,
+      "price": 240000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41264,
+      "slug": "alvaro-mantilla",
+      "name": "Mantilla",
+      "position": 2,
+      "price": 240000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41265,
+      "slug": "i-sainz-maza",
+      "name": "Sainz-Maza",
+      "position": 3,
+      "price": 170000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41266,
+      "slug": "suleiman-camara",
+      "name": "Camara",
+      "position": 4,
+      "price": 150000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41267,
+      "slug": "maguette-gueye",
+      "name": "Gueye",
+      "position": 3,
+      "price": 200000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41268,
+      "slug": "simon-eriksson",
+      "name": "Eriksson",
+      "position": 1,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41269,
+      "slug": "aritz-aldasoro",
+      "name": "Aldasoro",
+      "position": 3,
+      "price": 240000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41270,
+      "slug": "jorge-salinas",
+      "name": "Jorge Salinas",
+      "position": 2,
+      "price": 210000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41271,
+      "slug": "gustavo-puerta",
+      "name": "Gustavo Puerta",
+      "position": 3,
+      "price": 400000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41272,
+      "slug": "mario-garcia",
+      "name": "Mario García",
+      "position": 2,
+      "price": 200000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41273,
+      "slug": "marco-sangalli",
+      "name": "Sangalli",
+      "position": 2,
+      "price": 200000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41274,
+      "slug": "javi-castro",
+      "name": "Javi Castro",
+      "position": 2,
+      "price": 260000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41275,
+      "slug": "f-gonzalez",
+      "name": "Facundo González",
+      "position": 2,
+      "price": 190000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
     }
   ],
   "news": [
@@ -10394,7 +10944,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-11T20:26:19.501Z",
+    "updatedAt": "2026-06-12T04:21:04.526Z",
     "players": [
       {
         "id": "3374",
