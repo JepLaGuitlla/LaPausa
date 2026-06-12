@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T10:19:39.759Z",
+  "updatedAt": "2026-06-12T15:23:21.460Z",
   "players": [
     {
       "id": 11,
@@ -10786,9 +10786,21 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Bernardo Silva, en negociaciones avanzadas con el Real Madrid",
+      "title": "Promoción Kirolbet Canadá vs Bosnia: consigue 10 € en freebets",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-kirolbet-canada-vs-bosnia/",
+      "date": "Fri, 12 Jun 2026 11:27:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Cómo ver el Mundial 2026 con una VPN: guía para no perderte ningún partido",
+      "link": "https://www.jornadaperfecta.com/blog/como-ver-mundial-2026-vpn/",
+      "date": "Fri, 12 Jun 2026 09:15:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Bernardo Silva al Real Madrid: HERE WE GO!",
       "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-fichaje-real-madrid/",
-      "date": "Thu, 11 Jun 2026 18:32:01 +0000"
+      "date": "Fri, 12 Jun 2026 08:32:01 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -10819,23 +10831,11 @@
       "title": "Oficial: Jon Guridi, nuevo jugador del Sevilla FC",
       "link": "https://www.jornadaperfecta.com/blog/jon-guridi-sevilla-fc-anuncio/",
       "date": "Wed, 10 Jun 2026 14:10:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Barça no pagará la cláusula de Marcus Rashford, que vuelve al United",
-      "link": "https://www.jornadaperfecta.com/blog/barca-no-clausula-rashford/",
-      "date": "Wed, 10 Jun 2026 12:07:04 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ramis se convierte en el nuevo entrenador de CA Osasuna",
-      "link": "https://www.jornadaperfecta.com/blog/ramis-nuevo-entrenador-osasuna/",
-      "date": "Wed, 10 Jun 2026 09:35:39 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-12T10:19:39.759Z",
+    "updatedAt": "2026-06-12T15:23:21.460Z",
     "players": [
       {
         "id": "3374",
