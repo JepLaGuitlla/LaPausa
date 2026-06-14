@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T14:11:33.908Z",
+  "updatedAt": "2026-06-14T19:41:19.480Z",
   "players": [
     {
       "id": 11,
@@ -10802,6 +10802,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Supercuota Betfair España vs Cabo Verde: cuota mejorada a 3.00",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-espana-vs-cabo-verde/",
+      "date": "Sun, 14 Jun 2026 19:39:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Bombazo: El Real Madrid cierra el fichaje de Cucurella",
+      "link": "https://www.jornadaperfecta.com/blog/cucurella-fichaje-real-madrid/",
+      "date": "Sun, 14 Jun 2026 16:34:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "España vs Cabo Verde: YoSports mejora a 6.00 una apuesta especial del Mundial",
+      "link": "https://www.jornadaperfecta.com/blog/yosports-espana-vs-cabo-verde-mundial/",
+      "date": "Sun, 14 Jun 2026 15:00:38 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Bono sin depósito Pastón Mundial 2026: consigue hasta 60€ por registrarte",
       "link": "https://www.jornadaperfecta.com/blog/paston-bono-sin-deposito-mundial-2026/",
       "date": "Sun, 14 Jun 2026 07:00:10 +0000"
@@ -10829,29 +10847,11 @@
       "title": "Bernardo Silva al Real Madrid: HERE WE GO!",
       "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-fichaje-real-madrid/",
       "date": "Fri, 12 Jun 2026 08:32:01 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: José Mourinho, nuevo técnico del Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/jose-mourinho-anuncio-real-madrid/",
-      "date": "Thu, 11 Jun 2026 18:20:52 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "España a por el cetro más codiciado del fútbol mundial",
-      "link": "https://www.jornadaperfecta.com/blog/espana-cetro-futbol-mundial/",
-      "date": "Thu, 11 Jun 2026 11:47:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Juan Iglesias, nuevo jugador del Sevilla FC",
-      "link": "https://www.jornadaperfecta.com/blog/juan-iglesias-anuncio-sevilla-26/",
-      "date": "Thu, 11 Jun 2026 11:47:48 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-14T14:11:33.907Z",
+    "updatedAt": "2026-06-14T19:41:18.788Z",
     "players": [
       {
         "id": "3374",
