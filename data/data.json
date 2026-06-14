@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T19:41:51.161Z",
+  "updatedAt": "2026-06-14T04:26:38.580Z",
   "players": [
     {
       "id": 11,
@@ -4990,7 +4990,7 @@
     {
       "id": 25158,
       "slug": "carlos-martin",
-      "name": "Carlos Martín",
+      "name": "Carlos Mart��n",
       "position": 4,
       "price": 260000,
       "points": 22,
@@ -9013,8 +9013,8 @@
       "trend": 10000,
       "playedHome": 19,
       "playedAway": 19,
-      "teamName": "Elche",
-      "teamId": 75,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         1,
@@ -10781,6 +10781,22 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 41388,
+      "slug": "anselmi",
+      "name": "Anselmi",
+      "position": 5,
+      "price": 390000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Elche",
+      "teamId": 75,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
@@ -10835,7 +10851,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-13T19:41:51.161Z",
+    "updatedAt": "2026-06-14T04:26:38.580Z",
     "players": [
       {
         "id": "3374",
