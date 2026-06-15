@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T12:23:54.427Z",
+  "updatedAt": "2026-06-15T21:08:19.680Z",
   "players": [
     {
       "id": 11,
@@ -10802,6 +10802,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Rafa Mir, condenado a ocho años y medio de cárcel",
+      "link": "https://www.jornadaperfecta.com/blog/rafa-mir-condena-carcel/",
+      "date": "Mon, 15 Jun 2026 13:06:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Qué jugadores españoles de LaLiga pueden convertirse en estrellas del Mundial 2026",
+      "link": "https://www.jornadaperfecta.com/blog/jugadores-laliga-estrellas-mundial-2026/",
+      "date": "Mon, 15 Jun 2026 13:02:22 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Oficial: Marc Cucurella, nuevo jugador del Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/cucurella-real-madrid-anuncio/",
       "date": "Mon, 15 Jun 2026 09:36:29 +0000"
@@ -10835,23 +10847,11 @@
       "title": "España vs Cabo Verde: YoSports mejora a 6.00 una apuesta especial del Mundial",
       "link": "https://www.jornadaperfecta.com/blog/yosports-espana-vs-cabo-verde-mundial/",
       "date": "Sun, 14 Jun 2026 15:00:38 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Bono sin depósito Pastón Mundial 2026: consigue hasta 60€ por registrarte",
-      "link": "https://www.jornadaperfecta.com/blog/paston-bono-sin-deposito-mundial-2026/",
-      "date": "Sun, 14 Jun 2026 07:00:10 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sportium Pro6: pronostica 6 partidos y gana hasta 5.000 €",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-sportium-pro6/",
-      "date": "Sat, 13 Jun 2026 07:00:37 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-15T12:23:54.084Z",
+    "updatedAt": "2026-06-15T21:08:19.680Z",
     "players": [
       {
         "id": "3374",
