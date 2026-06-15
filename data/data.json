@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T19:41:19.480Z",
+  "updatedAt": "2026-06-15T04:50:17.307Z",
   "players": [
     {
       "id": 11,
@@ -2721,8 +2721,8 @@
       "trend": 0,
       "playedHome": 2,
       "playedAway": 3,
-      "teamName": "Atlético",
-      "teamId": 2,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         3,
@@ -2765,8 +2765,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 4,
-      "teamName": "Atlético",
-      "teamId": 2,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         3,
@@ -2787,8 +2787,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 1,
-      "teamName": "Atlético",
-      "teamId": 2,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -2809,8 +2809,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 2,
-      "teamName": "Atlético",
-      "teamId": 2,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -9695,8 +9695,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 1,
-      "teamName": "Real Madrid",
-      "teamId": 15,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -9805,8 +9805,8 @@
       "trend": -10000,
       "playedHome": 0,
       "playedAway": 4,
-      "teamName": "Atlético",
-      "teamId": 2,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -10399,8 +10399,8 @@
       "trend": -10000,
       "playedHome": 1,
       "playedAway": 1,
-      "teamName": "Atlético",
-      "teamId": 2,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -10802,6 +10802,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "CuotaPlus Sportium para España vs Cabo Verde: aumenta tu cuota un 50%",
+      "link": "https://www.jornadaperfecta.com/blog/sportium-cuotaplus-espana-vs-cabo-verde/",
+      "date": "Sun, 14 Jun 2026 21:00:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Supercuota Betfair España vs Cabo Verde: cuota mejorada a 3.00",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-espana-vs-cabo-verde/",
       "date": "Sun, 14 Jun 2026 19:39:27 +0000"
@@ -10841,17 +10847,11 @@
       "title": "Cómo ver el Mundial 2026 con una VPN: guía para no perderte ningún partido",
       "link": "https://www.jornadaperfecta.com/blog/como-ver-mundial-2026-vpn/",
       "date": "Fri, 12 Jun 2026 09:15:40 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Bernardo Silva al Real Madrid: HERE WE GO!",
-      "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-fichaje-real-madrid/",
-      "date": "Fri, 12 Jun 2026 08:32:01 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-14T19:41:18.788Z",
+    "updatedAt": "2026-06-15T04:50:17.307Z",
     "players": [
       {
         "id": "3374",
