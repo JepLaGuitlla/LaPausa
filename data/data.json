@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T11:18:55.591Z",
+  "updatedAt": "2026-06-16T17:01:41.369Z",
   "players": [
     {
       "id": 11,
@@ -10405,6 +10405,22 @@
       "clausula": null
     },
     {
+      "id": 40910,
+      "slug": "arouna-sangante",
+      "name": "Arouna Sangante",
+      "position": 2,
+      "price": 1880000,
+      "points": 0,
+      "trend": 10000,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Sevilla",
+      "teamId": 17,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
       "id": 41021,
       "slug": "damian-caceres",
       "name": "Damián Cáceres",
@@ -10796,6 +10812,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Supercuota Betfair Mundial Argentina y Francia: cuota mejorada a 6.00",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-argentina-y-francia-mundial/",
+      "date": "Tue, 16 Jun 2026 15:24:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Arouna Sangante, nuevo fichaje del Sevilla FC",
+      "link": "https://www.jornadaperfecta.com/blog/sangante-fichaje-sevilla/",
+      "date": "Tue, 16 Jun 2026 12:04:30 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Promoción Codere Mundial 2026: 10€ en Freebets para el Argentina vs Argelia",
       "link": "https://www.jornadaperfecta.com/blog/promocion-codere-argentina-vs-argelia/",
       "date": "Tue, 16 Jun 2026 10:59:37 +0000"
@@ -10829,23 +10857,11 @@
       "title": "Cuotas 888Sport para el España vs Cabo Verde del Mundial 2026",
       "link": "https://www.jornadaperfecta.com/blog/888sport-espana-vs-cabo-verde-cuotas/",
       "date": "Mon, 15 Jun 2026 05:00:41 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "CuotaPlus Sportium para España vs Cabo Verde: aumenta tu cuota un 50%",
-      "link": "https://www.jornadaperfecta.com/blog/sportium-cuotaplus-espana-vs-cabo-verde/",
-      "date": "Sun, 14 Jun 2026 21:00:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair España vs Cabo Verde: cuota mejorada a 3.00",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-espana-vs-cabo-verde/",
-      "date": "Sun, 14 Jun 2026 19:39:27 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-16T11:18:55.591Z",
+    "updatedAt": "2026-06-16T17:01:41.369Z",
     "players": [
       {
         "id": "3374",
