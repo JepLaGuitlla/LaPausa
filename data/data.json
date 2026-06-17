@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T11:03:53.939Z",
+  "updatedAt": "2026-06-17T15:42:42.840Z",
   "players": [
     {
       "id": 11,
@@ -11233,13 +11233,7 @@
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11311,7 +11305,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-17T11:03:53.939Z",
+    "updatedAt": "2026-06-17T15:42:42.840Z",
     "players": [
       {
         "id": "3374",
