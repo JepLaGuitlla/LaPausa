@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T15:42:42.840Z",
+  "updatedAt": "2026-06-17T20:18:22.380Z",
   "players": [
     {
       "id": 11,
@@ -11256,6 +11256,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Dani Ceballos saldrá libre del Real Madrid y el Betis acecha",
+      "link": "https://www.jornadaperfecta.com/blog/dani-ceballos-salida-real-madrid/",
+      "date": "Wed, 17 Jun 2026 16:23:19 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Oficial: Bernardo Silva nuevo futbolista del Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/oficial-bernardo-silva-real-madrid/",
       "date": "Wed, 17 Jun 2026 10:04:48 +0000"
@@ -11295,17 +11301,11 @@
       "title": "Rafa Mir, condenado a ocho años y medio de cárcel",
       "link": "https://www.jornadaperfecta.com/blog/rafa-mir-condena-carcel/",
       "date": "Mon, 15 Jun 2026 13:06:09 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Qué jugadores españoles de LaLiga pueden convertirse en estrellas del Mundial 2026",
-      "link": "https://www.jornadaperfecta.com/blog/jugadores-laliga-estrellas-mundial-2026/",
-      "date": "Mon, 15 Jun 2026 13:02:22 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-17T15:42:42.840Z",
+    "updatedAt": "2026-06-17T20:18:22.379Z",
     "players": [
       {
         "id": "3374",
