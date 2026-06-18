@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T20:18:22.380Z",
+  "updatedAt": "2026-06-18T04:20:48.905Z",
   "players": [
     {
       "id": 11,
@@ -2285,8 +2285,8 @@
       "trend": -180000,
       "playedHome": 19,
       "playedAway": 18,
-      "teamName": "Getafe",
-      "teamId": 8,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         5,
@@ -11305,7 +11305,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-17T20:18:22.379Z",
+    "updatedAt": "2026-06-18T04:20:48.905Z",
     "players": [
       {
         "id": "3374",
