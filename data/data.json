@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T15:33:45.930Z",
+  "updatedAt": "2026-06-18T20:29:41.514Z",
   "players": [
     {
       "id": 11,
@@ -8415,8 +8415,8 @@
       "trend": -130000,
       "playedHome": 17,
       "playedAway": 17,
-      "teamName": "Osasuna",
-      "teamId": 93,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -10901,6 +10901,44 @@
       "clausula": null
     },
     {
+      "id": 41087,
+      "slug": "konate",
+      "name": "Konaté",
+      "position": 2,
+      "price": 5520000,
+      "points": 0,
+      "trend": 20000,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Real Madrid",
+      "teamId": 15,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 41088,
+      "slug": "san-jose",
+      "name": "San José",
+      "position": 5,
+      "price": 450000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Rayo Vallecano",
+      "teamId": 70,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 41200,
       "slug": "anthony-gordon",
       "name": "Anthony Gordon",
@@ -11233,7 +11271,13 @@
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11249,7 +11293,13 @@
       "teamName": "Elche",
       "teamId": 75,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     }
   ],
@@ -11305,7 +11355,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-18T15:33:45.930Z",
+    "updatedAt": "2026-06-18T20:29:41.514Z",
     "players": [
       {
         "id": "3374",
