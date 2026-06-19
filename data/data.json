@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T20:29:41.514Z",
+  "updatedAt": "2026-06-19T04:48:18.708Z",
   "players": [
     {
       "id": 11,
@@ -10929,13 +10929,7 @@
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11271,13 +11265,7 @@
       "teamName": "Real Madrid",
       "teamId": 15,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11293,13 +11281,7 @@
       "teamName": "Elche",
       "teamId": 75,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     }
   ],
@@ -11355,7 +11337,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-18T20:29:41.514Z",
+    "updatedAt": "2026-06-19T04:48:18.707Z",
     "players": [
       {
         "id": "3374",
