@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T15:27:58.538Z",
+  "updatedAt": "2026-06-19T19:53:19.013Z",
   "players": [
     {
       "id": 11,
@@ -11288,6 +11288,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oficial: Teun Gijselhart, nuevo fichaje del Deportivo",
+      "link": "https://www.jornadaperfecta.com/blog/teun-gijselhart-fichaje-deportivo/",
+      "date": "Fri, 19 Jun 2026 18:42:53 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Sergio Canales llega a un acuerdo por dos años con el Racing",
       "link": "https://www.jornadaperfecta.com/blog/sergio-canales-fichaje-racing/",
       "date": "Fri, 19 Jun 2026 13:01:19 +0000"
@@ -11327,17 +11333,11 @@
       "title": "Caliente.mx te permite ver partidos en vivo mientras apuestas",
       "link": "https://www.jornadaperfecta.com/blog/caliente-mx-ver-partidos-en-vivo-apuestas/",
       "date": "Thu, 18 Jun 2026 08:12:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Sportium Conecta5 Mundial: ¡Gana hasta 5€ gratis con el España vs Arabia Saudí!",
-      "link": "https://www.jornadaperfecta.com/blog/sportium-conecta5-espana-vs-arabia-saudi/",
-      "date": "Thu, 18 Jun 2026 07:00:29 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-19T15:27:58.537Z",
+    "updatedAt": "2026-06-19T19:53:19.013Z",
     "players": [
       {
         "id": "3374",
