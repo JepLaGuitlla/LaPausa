@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T10:43:28.281Z",
+  "updatedAt": "2026-06-19T15:27:58.538Z",
   "players": [
     {
       "id": 11,
@@ -11288,6 +11288,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Sergio Canales llega a un acuerdo por dos años con el Racing",
+      "link": "https://www.jornadaperfecta.com/blog/sergio-canales-fichaje-racing/",
+      "date": "Fri, 19 Jun 2026 13:01:19 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Bwin Crea tus 7+: recompensas diarias para apostar con Crea tu Apuesta",
+      "link": "https://www.jornadaperfecta.com/blog/promocion-bwin-crea-tus-7/",
+      "date": "Fri, 19 Jun 2026 12:44:40 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Promoción RETAbet Golmanía España vs Arabia Saudí: ¡5€ gratis por cada gol!",
       "link": "https://www.jornadaperfecta.com/blog/retabet-golmania-espana-vs-arabia-saudi/",
       "date": "Fri, 19 Jun 2026 07:00:25 +0000"
@@ -11321,23 +11333,11 @@
       "title": "Promoción Sportium Conecta5 Mundial: ¡Gana hasta 5€ gratis con el España vs Arabia Saudí!",
       "link": "https://www.jornadaperfecta.com/blog/sportium-conecta5-espana-vs-arabia-saudi/",
       "date": "Thu, 18 Jun 2026 07:00:29 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Dani Ceballos saldrá libre del Real Madrid y el Betis acecha",
-      "link": "https://www.jornadaperfecta.com/blog/dani-ceballos-salida-real-madrid/",
-      "date": "Wed, 17 Jun 2026 16:23:19 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Bernardo Silva nuevo futbolista del Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/oficial-bernardo-silva-real-madrid/",
-      "date": "Wed, 17 Jun 2026 10:04:48 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-19T10:43:27.934Z",
+    "updatedAt": "2026-06-19T15:27:58.537Z",
     "players": [
       {
         "id": "3374",
