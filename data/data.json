@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T19:53:19.013Z",
+  "updatedAt": "2026-06-20T04:03:08.025Z",
   "players": [
     {
       "id": 11,
@@ -1917,8 +1917,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Levante",
-      "teamId": 10,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -6092,8 +6092,8 @@
       "trend": -10000,
       "playedHome": 1,
       "playedAway": 0,
-      "teamName": "Villarreal",
-      "teamId": 19,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -6906,8 +6906,8 @@
       "trend": -10000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Real Sociedad",
-      "teamId": 13,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -7434,8 +7434,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Osasuna",
-      "teamId": 93,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -8305,8 +8305,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 1,
-      "teamName": "Real Sociedad",
-      "teamId": 13,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -10933,6 +10933,22 @@
       "clausula": null
     },
     {
+      "id": 41090,
+      "slug": "gijselhart",
+      "name": "Gijselhart",
+      "position": 3,
+      "price": 210000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Deportivo",
+      "teamId": 6,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
       "id": 41200,
       "slug": "anthony-gordon",
       "name": "Anthony Gordon",
@@ -11288,6 +11304,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Sorare 27: nuevo gameplay, modos de juego, Arena, Pro y recompensas",
+      "link": "https://www.jornadaperfecta.com/blog/sorare-27-nuevo-gameplay/",
+      "date": "Fri, 19 Jun 2026 20:36:52 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Consigue créditos de apuesta con bet365 en el España vs Arabia Saudí",
+      "link": "https://www.jornadaperfecta.com/blog/espana-arabia-saudi-creditos-apuesta-bet365/",
+      "date": "Fri, 19 Jun 2026 20:10:28 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Oficial: Teun Gijselhart, nuevo fichaje del Deportivo",
       "link": "https://www.jornadaperfecta.com/blog/teun-gijselhart-fichaje-deportivo/",
       "date": "Fri, 19 Jun 2026 18:42:53 +0000"
@@ -11321,23 +11349,11 @@
       "title": "Oficial: Beñat San José, nuevo entrenador del Rayo Vallecano",
       "link": "https://www.jornadaperfecta.com/blog/benat-san-jose-nuevo-entrenador-rayo-vallecano/",
       "date": "Thu, 18 Jun 2026 09:40:43 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Ibrahima Konaté, nuevo jugador del Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/konate-real-madrid-anuncio/",
-      "date": "Thu, 18 Jun 2026 09:35:10 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Caliente.mx te permite ver partidos en vivo mientras apuestas",
-      "link": "https://www.jornadaperfecta.com/blog/caliente-mx-ver-partidos-en-vivo-apuestas/",
-      "date": "Thu, 18 Jun 2026 08:12:34 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-19T19:53:19.013Z",
+    "updatedAt": "2026-06-20T04:03:08.025Z",
     "players": [
       {
         "id": "3374",
