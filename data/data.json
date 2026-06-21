@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T19:42:24.887Z",
+  "updatedAt": "2026-06-21T04:44:23.662Z",
   "players": [
     {
       "id": 11,
@@ -958,6 +958,28 @@
       "clausula": null
     },
     {
+      "id": 1984,
+      "slug": "luismi",
+      "name": "Luismi",
+      "position": 3,
+      "price": 370000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 1995,
       "slug": "williams",
       "name": "Iñaki Williams",
@@ -1502,6 +1524,28 @@
       "clausula": null
     },
     {
+      "id": 4070,
+      "slug": "einar-galilea",
+      "name": "Einar Galilea",
+      "position": 2,
+      "price": 200000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 4245,
       "slug": "pablo-martinez",
       "name": "Pablo Martínez",
@@ -1734,6 +1778,28 @@
         1,
         2,
         3
+      ],
+      "clausula": null
+    },
+    {
+      "id": 5802,
+      "slug": "brasanac",
+      "name": "Brasanac",
+      "position": 3,
+      "price": 220000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -2776,6 +2842,28 @@
       "clausula": null
     },
     {
+      "id": 12550,
+      "slug": "francisco-montero",
+      "name": "Francisco Montero",
+      "position": 2,
+      "price": 220000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 12596,
       "slug": "junior-firpo",
       "name": "Firpo",
@@ -3156,6 +3244,28 @@
         4,
         1,
         18
+      ],
+      "clausula": null
+    },
+    {
+      "id": 15642,
+      "slug": "lobete",
+      "name": "Lobete",
+      "position": 4,
+      "price": 290000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -3909,6 +4019,28 @@
       "teamId": 812,
       "status": "ok",
       "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 18570,
+      "slug": "joaquin-munoz",
+      "name": "Joaquín Muñoz",
+      "position": 4,
+      "price": 240000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -4992,7 +5124,7 @@
     {
       "id": 24734,
       "slug": "jesus-vazquez",
-      "name": "Jesús Vázquez",
+      "name": "Jes��s Vázquez",
       "position": 2,
       "price": 260000,
       "points": 64,
@@ -6655,6 +6787,28 @@
       "clausula": null
     },
     {
+      "id": 31167,
+      "slug": "carlos-dotor",
+      "name": "Dotor",
+      "position": 3,
+      "price": 360000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 31228,
       "slug": "unai-marrero",
       "name": "Unai Marrero",
@@ -8175,6 +8329,28 @@
       "playedAway": 2,
       "teamName": "Getafe",
       "teamId": 8,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 35706,
+      "slug": "adrian-nino",
+      "name": "Adrián Niño",
+      "position": 4,
+      "price": 290000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
       "status": "ok",
       "jForm": [
         null,
@@ -10563,7 +10739,7 @@
     {
       "id": 40910,
       "slug": "arouna-sangante",
-      "name": "Arouna Sangante",
+      "name": "Sangante",
       "position": 2,
       "price": 1990000,
       "points": 0,
@@ -10573,7 +10749,13 @@
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -10949,6 +11131,204 @@
       "clausula": null
     },
     {
+      "id": 41091,
+      "slug": "carlos-lopez",
+      "name": "Carlos López",
+      "position": 1,
+      "price": 170000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41092,
+      "slug": "rafa-rodriguez",
+      "name": "Rafa Rodríguez",
+      "position": 3,
+      "price": 190000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41093,
+      "slug": "rafita-garrido",
+      "name": "Rafael Garrido",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41095,
+      "slug": "eneko-jauregi",
+      "name": "Jauregi",
+      "position": 4,
+      "price": 200000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41096,
+      "slug": "victor-garcia-2",
+      "name": "Víctor García",
+      "position": 2,
+      "price": 190000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41097,
+      "slug": "aaron-ochoa",
+      "name": "Aarón Ochoa",
+      "position": 3,
+      "price": 190000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41098,
+      "slug": "izan-merino",
+      "name": "Izan Merino",
+      "position": 3,
+      "price": 210000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41100,
+      "slug": "alex-pastor",
+      "name": "Álex Pastor",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41101,
+      "slug": "alfonso-herrero",
+      "name": "Alfonso Herrero",
+      "position": 1,
+      "price": 180000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
       "id": 41200,
       "slug": "anthony-gordon",
       "name": "Anthony Gordon",
@@ -11299,9 +11679,279 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 41410,
+      "slug": "josue-dorrio",
+      "name": "Josué Dorrio",
+      "position": 4,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41411,
+      "slug": "ramon-enriquez",
+      "name": "Ramón Enríquez",
+      "position": 3,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41412,
+      "slug": "david-larrubia",
+      "name": "Larrubia",
+      "position": 4,
+      "price": 200000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41413,
+      "slug": "diego-murillo",
+      "name": "Diego Murillo",
+      "position": 2,
+      "price": 170000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41414,
+      "slug": "dani-sanchez",
+      "name": "Dani Sánchez",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41415,
+      "slug": "juanpe-2",
+      "name": "Juanpe Melero",
+      "position": 3,
+      "price": 180000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41416,
+      "slug": "carlos-puga",
+      "name": "Carlos Puga",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41417,
+      "slug": "jokin-gabilondo",
+      "name": "Jokin Gabilondo",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41418,
+      "slug": "dani-lorenzo",
+      "name": "Dani Lorenzo",
+      "position": 3,
+      "price": 190000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41419,
+      "slug": "angel-recio",
+      "name": "Ángel Recio",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41420,
+      "slug": "chupe",
+      "name": "Chupe",
+      "position": 4,
+      "price": 210000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41421,
+      "slug": "haitam-abaida",
+      "name": "Haitam Abaida",
+      "position": 4,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Super Combinada Betway para el España vs Arabia Saudí: Lamine Yamal, protagonista del Mundial 2026",
+      "link": "https://www.jornadaperfecta.com/blog/betway-super-combinada-espana-vs-arabia/",
+      "date": "Sat, 20 Jun 2026 21:13:30 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Promoción Betsson con España: freebet de 10€ si no aciertas tu apuesta",
@@ -11343,17 +11993,11 @@
       "title": "Bwin Crea tus 7+: recompensas diarias para apostar con Crea tu Apuesta",
       "link": "https://www.jornadaperfecta.com/blog/promocion-bwin-crea-tus-7/",
       "date": "Fri, 19 Jun 2026 12:44:40 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción RETAbet Golmanía España vs Arabia Saudí: ¡5€ gratis por cada gol!",
-      "link": "https://www.jornadaperfecta.com/blog/retabet-golmania-espana-vs-arabia-saudi/",
-      "date": "Fri, 19 Jun 2026 07:00:25 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-20T19:42:24.887Z",
+    "updatedAt": "2026-06-21T04:44:23.662Z",
     "players": [
       {
         "id": "3374",
