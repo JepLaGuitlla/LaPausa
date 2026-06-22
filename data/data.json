@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T12:11:20.211Z",
+  "updatedAt": "2026-06-22T20:52:16.754Z",
   "players": [
     {
       "id": 11,
@@ -263,6 +263,22 @@
         2,
         null
       ],
+      "clausula": null
+    },
+    {
+      "id": 947,
+      "slug": "canales",
+      "name": "Canales",
+      "position": 3,
+      "price": 2550000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [],
       "clausula": null
     },
     {
@@ -2556,7 +2572,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11265,7 +11287,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11281,7 +11309,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11297,7 +11331,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11313,7 +11353,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11345,7 +11391,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11409,7 +11461,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11473,7 +11531,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11521,7 +11585,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11768,6 +11838,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oficial: Sergio Canales, nuevo jugador del Racing de Santander",
+      "link": "https://www.jornadaperfecta.com/blog/oficial-sergio-canales-fichaje-racing/",
+      "date": "Mon, 22 Jun 2026 16:43:16 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Segunda pantalla y deporte en directo: cómo el móvil cambia la forma de seguir los partidos",
+      "link": "https://www.jornadaperfecta.com/blog/segunda-pantalla-deporte-en-directo/",
+      "date": "Mon, 22 Jun 2026 15:36:10 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota Betfair Francia vs Irak: cuota 4.00 para el Mundial 2026",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-francia-vs-irak-cuota-4-00-para-el-mundial-2026/",
+      "date": "Mon, 22 Jun 2026 13:01:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Supercuota Betfair España vs Arabia Saudí: cuota mejorada a 2.50",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-espana-vs-arabia/",
       "date": "Sun, 21 Jun 2026 08:56:51 +0000"
@@ -11795,29 +11883,11 @@
       "title": "España vs Arabia Saudí: YoSports mejora a 3.00 una apuesta especial del Mundial",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-espana-arabia-saudi/",
       "date": "Sat, 20 Jun 2026 07:00:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sorare 27: nuevo gameplay, modos de juego, Arena, Pro y recompensas",
-      "link": "https://www.jornadaperfecta.com/blog/sorare-27-nuevo-gameplay/",
-      "date": "Fri, 19 Jun 2026 20:36:52 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Consigue créditos de apuesta con bet365 en el España vs Arabia Saudí",
-      "link": "https://www.jornadaperfecta.com/blog/espana-arabia-saudi-creditos-apuesta-bet365/",
-      "date": "Fri, 19 Jun 2026 20:10:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Teun Gijselhart, nuevo fichaje del Deportivo",
-      "link": "https://www.jornadaperfecta.com/blog/teun-gijselhart-fichaje-deportivo/",
-      "date": "Fri, 19 Jun 2026 18:42:53 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-22T12:11:20.211Z",
+    "updatedAt": "2026-06-22T20:52:16.753Z",
     "players": [
       {
         "id": "3374",
