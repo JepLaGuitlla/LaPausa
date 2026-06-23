@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T20:52:16.754Z",
+  "updatedAt": "2026-06-23T03:54:37.567Z",
   "players": [
     {
       "id": 11,
@@ -2572,13 +2572,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11309,13 +11303,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11331,13 +11319,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11353,13 +11335,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11391,13 +11367,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11461,13 +11431,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11887,7 +11851,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-22T20:52:16.753Z",
+    "updatedAt": "2026-06-23T03:54:37.567Z",
     "players": [
       {
         "id": "3374",
