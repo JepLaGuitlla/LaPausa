@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T14:38:56.947Z",
+  "updatedAt": "2026-06-24T19:50:59.386Z",
   "players": [
     {
       "id": 11,
@@ -11784,6 +11784,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Grimaldo fichará por el Atlético de Madrid: HERE WE GO!",
+      "link": "https://www.jornadaperfecta.com/blog/grimaldo-fichara-atletico-de-madrid/",
+      "date": "Wed, 24 Jun 2026 16:33:33 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Apuesta con la Roja Betsson: promoción con freebet de 10€ en el Uruguay vs España",
+      "link": "https://www.jornadaperfecta.com/blog/betsson-apuesta-con-la-roja-espana-vs-uruguay/",
+      "date": "Wed, 24 Jun 2026 16:00:00 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Supercuota Uruguay vs España en Sportium: apuesta a &#8216;La Roja&#8217; a cuota 7.00",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-sportium-uruguay-espana/",
       "date": "Wed, 24 Jun 2026 07:00:53 +0000"
@@ -11817,23 +11829,11 @@
       "title": "Segunda pantalla y deporte en directo: cómo el móvil cambia la forma de seguir los partidos",
       "link": "https://www.jornadaperfecta.com/blog/segunda-pantalla-deporte-en-directo/",
       "date": "Mon, 22 Jun 2026 15:36:10 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair Francia vs Irak: cuota 4.00 para el Mundial 2026",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-francia-vs-irak-cuota-4-00-para-el-mundial-2026/",
-      "date": "Mon, 22 Jun 2026 13:01:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair España vs Arabia Saudí: cuota mejorada a 2.50",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-espana-vs-arabia/",
-      "date": "Sun, 21 Jun 2026 08:56:51 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-24T14:38:56.946Z",
+    "updatedAt": "2026-06-24T19:50:59.385Z",
     "players": [
       {
         "id": "3374",
