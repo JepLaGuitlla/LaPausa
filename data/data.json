@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T19:50:59.386Z",
+  "updatedAt": "2026-06-25T03:56:59.511Z",
   "players": [
     {
       "id": 11,
@@ -10134,28 +10134,6 @@
       "clausula": null
     },
     {
-      "id": 39769,
-      "slug": "alvaro-arbeloa",
-      "name": "Álvaro Arbeloa",
-      "position": 5,
-      "price": 3370000,
-      "points": 41,
-      "trend": 0,
-      "playedHome": 10,
-      "playedAway": 9,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        3,
-        3,
-        0,
-        3
-      ],
-      "clausula": null
-    },
-    {
       "id": 39785,
       "slug": "ugo-raghouber",
       "name": "Raghouber",
@@ -11833,7 +11811,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-24T19:50:59.385Z",
+    "updatedAt": "2026-06-25T03:56:59.511Z",
     "players": [
       {
         "id": "3374",
