@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T09:28:25.894Z",
+  "updatedAt": "2026-06-25T14:39:31.464Z",
   "players": [
     {
       "id": 11,
@@ -11762,6 +11762,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Cómo organizar una jornada perfecta: trabajo, deporte y el mejor ocio digital para cerrar el día",
+      "link": "https://www.jornadaperfecta.com/blog/trabajo-deporte-y-ocio-digital/",
+      "date": "Thu, 25 Jun 2026 10:18:34 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Scouting de Segunda: jugadores fantasy a seguir en el Racing de Santander",
       "link": "https://www.jornadaperfecta.com/blog/scouting-segunda-fantasy-racing-santander/",
       "date": "Thu, 25 Jun 2026 08:00:00 +0000"
@@ -11801,17 +11807,11 @@
       "title": "Julián Álvarez pide salir del Atleti, pero el club cierra la puerta al Barça",
       "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-pide-salir-atleti/",
       "date": "Tue, 23 Jun 2026 07:37:48 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Conecta5 Sportium para el Uruguay vs España: gana hasta 5€ en freebets",
-      "link": "https://www.jornadaperfecta.com/blog/sportium-conecta5-uruguay-vs-espana/",
-      "date": "Tue, 23 Jun 2026 07:00:35 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-25T09:28:25.893Z",
+    "updatedAt": "2026-06-25T14:39:14.504Z",
     "players": [
       {
         "id": "3374",
