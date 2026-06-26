@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T09:33:43.611Z",
+  "updatedAt": "2026-06-26T14:32:35.287Z",
   "players": [
     {
       "id": 11,
@@ -11762,6 +11762,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Conecta5 Sportium para el Uruguay vs España: gana hasta 5€ en freebets",
+      "link": "https://www.jornadaperfecta.com/blog/sportium-conecta5-uruguay-vs-espana/",
+      "date": "Fri, 26 Jun 2026 11:00:35 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Scouting de Segunda: jugadores fantasy a seguir en el Málaga",
       "link": "https://www.jornadaperfecta.com/blog/scouting-segunda-fantasy-malaga/",
       "date": "Fri, 26 Jun 2026 08:00:44 +0000"
@@ -11798,20 +11804,14 @@
     },
     {
       "source": "Jornada Perfecta",
-      "title": "El Real Madrid recomprará a Nico Paz por 9 millones",
+      "title": "El Real Madrid recompra a Nico Paz y lo vuelve a vender al Como",
       "link": "https://www.jornadaperfecta.com/blog/nico-paz-recompra-real-madrid/",
       "date": "Thu, 25 Jun 2026 16:01:42 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair Mundial: cinco goleadores a cuota mejorada de 33.0",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-mundial-2026-goleadores-j3/",
-      "date": "Thu, 25 Jun 2026 15:46:48 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-26T09:33:43.610Z",
+    "updatedAt": "2026-06-26T14:32:35.287Z",
     "players": [
       {
         "id": "3374",
