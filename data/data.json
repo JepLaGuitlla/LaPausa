@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T19:54:20.681Z",
+  "updatedAt": "2026-06-27T03:49:57.874Z",
   "players": [
     {
       "id": 11,
@@ -4021,28 +4021,6 @@
       "teamId": 65,
       "status": "ok",
       "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 18916,
-      "slug": "nemanja-gudelj",
-      "name": "Gudelj",
-      "position": 3,
-      "price": 800000,
-      "points": 108,
-      "trend": 0,
-      "playedHome": 17,
-      "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        2,
-        3,
-        2,
-        3
-      ],
       "clausula": null
     },
     {
@@ -10795,26 +10773,6 @@
       "clausula": null
     },
     {
-      "id": 41021,
-      "slug": "damian-caceres",
-      "name": "Damián Cáceres",
-      "position": 3,
-      "price": 200000,
-      "points": 8,
-      "trend": 0,
-      "playedHome": 2,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        3,
-        2
-      ],
-      "clausula": null
-    },
-    {
       "id": 41031,
       "slug": "miguel-loureiro",
       "name": "Loureiro",
@@ -11811,7 +11769,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-26T19:54:20.681Z",
+    "updatedAt": "2026-06-27T03:49:57.874Z",
     "players": [
       {
         "id": "3374",
