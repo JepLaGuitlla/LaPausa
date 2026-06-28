@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T19:25:57.204Z",
+  "updatedAt": "2026-06-28T04:11:19.821Z",
   "players": [
     {
       "id": 11,
@@ -9276,28 +9276,6 @@
       "clausula": null
     },
     {
-      "id": 38236,
-      "slug": "eder-sarabia",
-      "name": "Eder Sarabia",
-      "position": 5,
-      "price": 390000,
-      "points": 43,
-      "trend": 0,
-      "playedHome": 19,
-      "playedAway": 19,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        1,
-        3,
-        0,
-        1,
-        0
-      ],
-      "clausula": null
-    },
-    {
       "id": 38275,
       "slug": "calebe",
       "name": "Calebe",
@@ -11769,7 +11747,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-27T19:25:57.203Z",
+    "updatedAt": "2026-06-28T04:11:19.821Z",
     "players": [
       {
         "id": "3374",
