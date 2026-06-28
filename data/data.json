@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T13:55:19.657Z",
+  "updatedAt": "2026-06-28T19:26:20.798Z",
   "players": [
     {
       "id": 11,
@@ -5428,7 +5428,7 @@
     {
       "id": 25815,
       "slug": "nacho-perez",
-      "name": "Nacho Pérez",
+      "name": "Nacho P��rez",
       "position": 2,
       "price": 210000,
       "points": 5,
@@ -11747,7 +11747,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-28T13:55:19.656Z",
+    "updatedAt": "2026-06-28T19:26:20.798Z",
     "players": [
       {
         "id": "3374",
