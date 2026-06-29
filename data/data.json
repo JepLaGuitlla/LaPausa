@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T19:26:20.798Z",
+  "updatedAt": "2026-06-29T04:18:12.986Z",
   "players": [
     {
       "id": 11,
@@ -2878,28 +2878,6 @@
       "clausula": null
     },
     {
-      "id": 12734,
-      "slug": "javi-morcillo",
-      "name": "Javi Morcillo",
-      "position": 3,
-      "price": 160000,
-      "points": 17,
-      "trend": 0,
-      "playedHome": 2,
-      "playedAway": 3,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        3,
-        null,
-        null,
-        5
-      ],
-      "clausula": null
-    },
-    {
       "id": 13994,
       "slug": "thierry-correia",
       "name": "Correia",
@@ -2935,72 +2913,6 @@
       "teamId": 6,
       "status": "ok",
       "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 14373,
-      "slug": "javi-bonar",
-      "name": "Boñar",
-      "position": 2,
-      "price": 240000,
-      "points": 24,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 4,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        3,
-        null,
-        null,
-        null,
-        5
-      ],
-      "clausula": null
-    },
-    {
-      "id": 14424,
-      "slug": "dani-martinez",
-      "name": "Dani Martínez",
-      "position": 2,
-      "price": 160000,
-      "points": 2,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 14512,
-      "slug": "belaid",
-      "name": "Belaid",
-      "position": 3,
-      "price": 160000,
-      "points": 3,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 2,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        1
-      ],
       "clausula": null
     },
     {
@@ -5428,7 +5340,7 @@
     {
       "id": 25815,
       "slug": "nacho-perez",
-      "name": "Nacho P��rez",
+      "name": "Nacho Pérez",
       "position": 2,
       "price": 210000,
       "points": 5,
@@ -9936,28 +9848,6 @@
       "clausula": null
     },
     {
-      "id": 39377,
-      "slug": "valdepenas",
-      "name": "Valdepeñas",
-      "position": 2,
-      "price": 160000,
-      "points": 3,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 39388,
       "slug": "tunde-2",
       "name": "Tunde",
@@ -10042,28 +9932,6 @@
         -2,
         4,
         2
-      ],
-      "clausula": null
-    },
-    {
-      "id": 39673,
-      "slug": "julio-diaz",
-      "name": "Julio Díaz",
-      "position": 2,
-      "price": 160000,
-      "points": 19,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 4,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        5
       ],
       "clausula": null
     },
@@ -10605,8 +10473,8 @@
       "trend": 0,
       "playedHome": 2,
       "playedAway": 2,
-      "teamName": "Barcelona",
-      "teamId": 3,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         -3,
@@ -10614,27 +10482,6 @@
         4,
         null,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 40551,
-      "slug": "miguel-cubo",
-      "name": "Miguel Cubo",
-      "position": 4,
-      "price": 450000,
-      "points": 16,
-      "trend": 0,
-      "playedHome": 1,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        5,
-        11
       ],
       "clausula": null
     },
@@ -11747,7 +11594,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-28T19:26:20.798Z",
+    "updatedAt": "2026-06-29T04:18:12.986Z",
     "players": [
       {
         "id": "3374",
