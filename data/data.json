@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T14:26:31.879Z",
+  "updatedAt": "2026-06-30T20:03:07.206Z",
   "players": [
     {
       "id": 11,
@@ -2736,13 +2736,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -5706,9 +5700,8 @@
       "jForm": [
         null,
         3,
-        null,
-        null,
-        null
+        0,
+        2
       ],
       "clausula": null
     },
@@ -11647,13 +11640,7 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -12135,13 +12122,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -12205,13 +12186,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -12227,13 +12202,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -12345,13 +12314,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -12367,13 +12330,7 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -12882,6 +12839,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oficial: Javi Galán, nuevo jugador del RC Celta",
+      "link": "https://www.jornadaperfecta.com/blog/javi-galan-fichaje-celta/",
+      "date": "Tue, 30 Jun 2026 19:16:11 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Calendario de LaLiga 2026/27: Fechas más importantes del campeonato",
+      "link": "https://www.jornadaperfecta.com/blog/calendario-laliga-2026-2027/",
+      "date": "Tue, 30 Jun 2026 17:50:58 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Betfair mejora la cuota para el Mundial 2026: Inglaterra y Francia ganan con goles de Kane y Dembélé",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-inglaterra-francia-mundial/",
+      "date": "Tue, 30 Jun 2026 15:56:35 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Grimaldo, nuevo fichaje del Atlético de Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/grimaldo-fichaje-atletico-de-madrid/",
+      "date": "Tue, 30 Jun 2026 15:41:33 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El viaje de Mourinho por Europa antes de regresar al Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/mourinho-trayectoria-entrenador/",
       "date": "Tue, 30 Jun 2026 12:46:05 +0000"
@@ -12903,35 +12884,11 @@
       "title": "CuotaPlus Sportium Brasil vs Japón: mejora tus ganancias un 25% en el Mundial 2026",
       "link": "https://www.jornadaperfecta.com/blog/sportium-cuotaplus-brasil-vs-japon/",
       "date": "Mon, 29 Jun 2026 07:00:48 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción YoSports Sudáfrica vs Canadá: consigue 5€ en Apuestas Gratis para el Mundial 2026",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-yosports-sudafrica-vs-canada/",
-      "date": "Sun, 28 Jun 2026 13:52:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Bono de bienvenida DAZN Bet: 200€ + 10€ en apuestas gratis y todo el Mundial gratis en DAZN",
-      "link": "https://www.jornadaperfecta.com/blog/dazn-bet-mundial-2026-gratis-promo/",
-      "date": "Fri, 26 Jun 2026 16:00:52 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Conecta5 Sportium para el Uruguay vs España: gana hasta 5€ en freebets",
-      "link": "https://www.jornadaperfecta.com/blog/sportium-conecta5-uruguay-vs-espana/",
-      "date": "Fri, 26 Jun 2026 11:00:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Scouting de Segunda: jugadores fantasy a seguir en el Málaga",
-      "link": "https://www.jornadaperfecta.com/blog/scouting-segunda-fantasy-malaga/",
-      "date": "Fri, 26 Jun 2026 08:00:44 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-30T14:26:31.879Z",
+    "updatedAt": "2026-06-30T20:03:07.206Z",
     "players": [
       {
         "id": "3374",
