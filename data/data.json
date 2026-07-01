@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T20:03:07.206Z",
+  "updatedAt": "2026-07-01T04:14:25.638Z",
   "players": [
     {
       "id": 11,
@@ -1149,8 +1149,8 @@
       "trend": 0,
       "playedHome": 14,
       "playedAway": 13,
-      "teamName": "Villarreal",
-      "teamId": 19,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         5,
@@ -1586,7 +1586,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -1707,22 +1713,6 @@
         null,
         null
       ],
-      "clausula": null
-    },
-    {
-      "id": 5157,
-      "slug": "m-morro",
-      "name": "Miguel Ángel Morro",
-      "position": 1,
-      "price": 170000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "Rayo Vallecano",
-      "teamId": 70,
-      "status": "ok",
-      "jForm": [],
       "clausula": null
     },
     {
@@ -1952,7 +1942,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2267,8 +2263,8 @@
       "trend": 0,
       "playedHome": 3,
       "playedAway": 4,
-      "teamName": "Rayo Vallecano",
-      "teamId": 70,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -2292,7 +2288,13 @@
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2682,7 +2684,13 @@
       "teamName": "Celta",
       "teamId": 5,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2736,7 +2744,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -3253,7 +3267,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -3848,8 +3868,8 @@
       "trend": -10000,
       "playedHome": 15,
       "playedAway": 10,
-      "teamName": "Osasuna",
-      "teamId": 93,
+      "teamName": "Celta",
+      "teamId": 5,
       "status": "ok",
       "jForm": [
         5,
@@ -5471,7 +5491,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -5640,6 +5666,8 @@
       "teamId": 75,
       "status": "ok",
       "jForm": [
+        null,
+        null,
         null,
         null,
         null
@@ -6158,7 +6186,13 @@
       "teamName": "Elche",
       "teamId": 75,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -6999,8 +7033,8 @@
       "trend": 0,
       "playedHome": 10,
       "playedAway": 14,
-      "teamName": "Betis",
-      "teamId": 87,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -7068,7 +7102,13 @@
       "teamName": "Celta",
       "teamId": 5,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -7390,7 +7430,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -7484,7 +7530,7 @@
     {
       "id": 32338,
       "slug": "lucien-agoume",
-      "name": "Agoumé",
+      "name": "Agoum��",
       "position": 3,
       "price": 1490000,
       "points": 133,
@@ -7822,7 +7868,13 @@
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -7989,7 +8041,9 @@
       "jForm": [
         null,
         null,
-        2
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -8289,6 +8343,8 @@
       "jForm": [
         null,
         null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -8570,7 +8626,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -8779,9 +8841,6 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
-        null,
-        null,
-        null,
         null,
         null
       ],
@@ -9039,6 +9098,8 @@
       "jForm": [
         null,
         null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -9078,7 +9139,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -9157,8 +9224,8 @@
       "trend": 0,
       "playedHome": 11,
       "playedAway": 13,
-      "teamName": "Betis",
-      "teamId": 87,
+      "teamName": "Rayo Vallecano",
+      "teamId": 70,
       "status": "ok",
       "jForm": [
         4,
@@ -9455,9 +9522,9 @@
       "status": "ok",
       "jForm": [
         null,
-        -2,
         null,
-        2,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -10085,7 +10152,13 @@
       "teamName": "Betis",
       "teamId": 87,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -10828,11 +10901,11 @@
       "teamId": 91,
       "status": "ok",
       "jForm": [
+        null,
         2,
         4,
         2,
-        2,
-        3
+        null
       ],
       "clausula": null
     },
@@ -11528,7 +11601,13 @@
       "teamName": "Sevilla",
       "teamId": 17,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11736,13 +11815,7 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -11892,7 +11965,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12122,7 +12201,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12138,7 +12223,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12154,7 +12245,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12170,7 +12267,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12186,7 +12289,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12202,7 +12311,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12218,7 +12333,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12234,7 +12355,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12250,7 +12377,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12266,7 +12399,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12282,7 +12421,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12298,7 +12443,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12314,7 +12465,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12330,7 +12487,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12346,7 +12509,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12598,7 +12767,7 @@
     {
       "id": 41556,
       "slug": "a-yaakobishvili",
-      "name": "Á. Yaakobishvili",
+      "name": "Yaakobishvili",
       "position": 1,
       "price": 190000,
       "points": 0,
@@ -12614,9 +12783,9 @@
     {
       "id": 41557,
       "slug": "yeray-cabanzon",
-      "name": "Yeray Cabanzón",
+      "name": "Cabanzón",
       "position": 4,
-      "price": 160000,
+      "price": 250000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12624,15 +12793,21 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
       "id": 41558,
       "slug": "neco-celorio",
-      "name": "Neco Celorio",
+      "name": "Celorio",
       "position": 3,
-      "price": 170000,
+      "price": 220000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12640,7 +12815,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12648,7 +12829,7 @@
       "slug": "edgar-alcaniz",
       "name": "Edgar Alcañiz",
       "position": 3,
-      "price": 160000,
+      "price": 200000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12664,7 +12845,7 @@
       "slug": "selu-diallo",
       "name": "Selu Diallo",
       "position": 3,
-      "price": 170000,
+      "price": 240000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12672,15 +12853,21 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
       "id": 41561,
       "slug": "g-fernandes",
-      "name": "G. Fernandes",
+      "name": "Guilherme Fernandes",
       "position": 1,
-      "price": 170000,
+      "price": 190000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12688,15 +12875,21 @@
       "teamName": "Betis",
       "teamId": 87,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
       "id": 41562,
       "slug": "jairo-noriega",
-      "name": "Jairo Noriega",
+      "name": "Noriega",
       "position": 3,
-      "price": 170000,
+      "price": 220000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12704,7 +12897,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12712,7 +12911,7 @@
       "slug": "ruben-lopez",
       "name": "Rubén López",
       "position": 4,
-      "price": 160000,
+      "price": 200000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12720,15 +12919,21 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
       "id": 41564,
       "slug": "c-michelin",
-      "name": "C. Michelin",
+      "name": "Michelin",
       "position": 2,
-      "price": 160000,
+      "price": 230000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12736,15 +12941,21 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
       "id": 41565,
       "slug": "abiel-osorio",
-      "name": "Abiel Osorio",
+      "name": "Osorio",
       "position": 4,
-      "price": 170000,
+      "price": 860000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12752,15 +12963,21 @@
       "teamName": "Elche",
       "teamId": 75,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
       "id": 41566,
       "slug": "b-gerenabarrena",
-      "name": "B. Gerenabarrena",
+      "name": "Gerenabarrena",
       "position": 3,
-      "price": 190000,
+      "price": 260000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12768,15 +12985,21 @@
       "teamName": "Athletic",
       "teamId": 1,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
       "id": 41567,
       "slug": "kevin-sanchez",
-      "name": "Kevin Sánchez",
+      "name": "Kevin S��nchez",
       "position": 4,
-      "price": 160000,
+      "price": 240000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12784,15 +13007,21 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
       "id": 41568,
       "slug": "m-bouldini",
-      "name": "M. Bouldini",
+      "name": "Bouldini",
       "position": 4,
-      "price": 160000,
+      "price": 230000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12800,7 +13029,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12808,7 +13043,7 @@
       "slug": "luis-chacon",
       "name": "Luis Chacón",
       "position": 4,
-      "price": 170000,
+      "price": 260000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
@@ -12816,7 +13051,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12824,13 +13065,51 @@
       "slug": "diego-gomez",
       "name": "Diego Gómez",
       "position": 4,
-      "price": 160000,
+      "price": 230000,
       "points": 0,
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
       "teamName": "Deportivo",
       "teamId": 6,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 41683,
+      "slug": "patrik-mercado",
+      "name": "Mercado",
+      "position": 3,
+      "price": 1110000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Sevilla",
+      "teamId": 17,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 41684,
+      "slug": "grimaldo",
+      "name": "Grimaldo",
+      "position": 2,
+      "price": 3690000,
+      "points": 0,
+      "trend": -50000,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Atlético",
+      "teamId": 2,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12888,7 +13167,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-06-30T20:03:07.206Z",
+    "updatedAt": "2026-07-01T04:14:25.638Z",
     "players": [
       {
         "id": "3374",
