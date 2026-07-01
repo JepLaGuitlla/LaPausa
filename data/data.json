@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T14:44:15.192Z",
+  "updatedAt": "2026-07-01T20:00:50.548Z",
   "players": [
     {
       "id": 11,
@@ -7796,7 +7796,7 @@
     {
       "id": 33608,
       "slug": "djalo",
-      "name": "Djal��",
+      "name": "Djaló",
       "position": 4,
       "price": 1710000,
       "points": 0,
@@ -12822,6 +12822,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oferta de bet365 al España &#8211; Austria: Consigue créditos de apuesta",
+      "link": "https://www.jornadaperfecta.com/blog/oferta-bet365-espana-austria-mundial-2026/",
+      "date": "Wed, 01 Jul 2026 19:00:59 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Valencia anuncia su primer fichaje: Justin de Haas",
       "link": "https://www.jornadaperfecta.com/blog/justin-de-haas-fichaje-valencia/",
       "date": "Wed, 01 Jul 2026 11:57:57 +0000"
@@ -12861,17 +12867,11 @@
       "title": "Betfair mejora la cuota para el Mundial 2026: Inglaterra y Francia ganan con goles de Kane y Dembélé",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-inglaterra-francia-mundial/",
       "date": "Tue, 30 Jun 2026 15:56:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Grimaldo, nuevo fichaje del Atlético de Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/grimaldo-fichaje-atletico-de-madrid/",
-      "date": "Tue, 30 Jun 2026 15:41:33 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-01T14:44:12.722Z",
+    "updatedAt": "2026-07-01T20:00:48.766Z",
     "players": []
   }
 }
