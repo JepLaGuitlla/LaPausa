@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:00:50.548Z",
+  "updatedAt": "2026-07-02T03:54:47.565Z",
   "players": [
     {
       "id": 11,
@@ -55,8 +55,8 @@
       "trend": 0,
       "playedHome": 6,
       "playedAway": 5,
-      "teamName": "Real Madrid",
-      "teamId": 15,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         3,
@@ -291,8 +291,8 @@
       "trend": 0,
       "playedHome": 17,
       "playedAway": 15,
-      "teamName": "Villarreal",
-      "teamId": 19,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         10,
@@ -577,8 +577,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Deportivo",
-      "teamId": 6,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -637,8 +637,8 @@
       "trend": -10000,
       "playedHome": 12,
       "playedAway": 5,
-      "teamName": "Real Madrid",
-      "teamId": 15,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         5,
@@ -747,8 +747,8 @@
       "trend": -10000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Deportivo",
-      "teamId": 6,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -767,6 +767,10 @@
       "teamId": 13,
       "status": "ok",
       "jForm": [
+        null,
+        null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -825,8 +829,8 @@
       "trend": 0,
       "playedHome": 9,
       "playedAway": 11,
-      "teamName": "Levante",
-      "teamId": 10,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -935,8 +939,8 @@
       "trend": -20000,
       "playedHome": 14,
       "playedAway": 11,
-      "teamName": "Villarreal",
-      "teamId": 19,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -1045,8 +1049,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Málaga",
-      "teamId": 65,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -1127,8 +1131,8 @@
       "trend": 0,
       "playedHome": 8,
       "playedAway": 8,
-      "teamName": "Real Sociedad",
-      "teamId": 13,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         3,
@@ -1171,8 +1175,8 @@
       "trend": 0,
       "playedHome": 10,
       "playedAway": 6,
-      "teamName": "Real Madrid",
-      "teamId": 15,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -1253,8 +1257,8 @@
       "trend": -30000,
       "playedHome": 18,
       "playedAway": 18,
-      "teamName": "Levante",
-      "teamId": 10,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         5,
@@ -1275,8 +1279,8 @@
       "trend": 0,
       "playedHome": 7,
       "playedAway": 11,
-      "teamName": "Betis",
-      "teamId": 87,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -1385,8 +1389,8 @@
       "trend": 0,
       "playedHome": 8,
       "playedAway": 4,
-      "teamName": "Athletic",
-      "teamId": 1,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -1517,8 +1521,8 @@
       "trend": -10000,
       "playedHome": 17,
       "playedAway": 17,
-      "teamName": "Getafe",
-      "teamId": 8,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         4,
@@ -1586,7 +1590,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -1637,8 +1647,8 @@
       "trend": -40000,
       "playedHome": 13,
       "playedAway": 14,
-      "teamName": "Levante",
-      "teamId": 10,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         7,
@@ -1659,8 +1669,8 @@
       "trend": 0,
       "playedHome": 8,
       "playedAway": 8,
-      "teamName": "Barcelona",
-      "teamId": 3,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -1785,8 +1795,8 @@
       "trend": 0,
       "playedHome": 13,
       "playedAway": 15,
-      "teamName": "Getafe",
-      "teamId": 8,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -1873,8 +1883,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Málaga",
-      "teamId": 65,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -1933,8 +1943,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Alavés",
-      "teamId": 91,
+      "teamName": "Racing",
+      "teamId": 812,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -1949,8 +1959,8 @@
       "trend": -10000,
       "playedHome": 7,
       "playedAway": 12,
-      "teamName": "Atlético",
-      "teamId": 2,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         -1,
@@ -2185,8 +2195,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Alavés",
-      "teamId": 91,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -2276,7 +2286,13 @@
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2333,8 +2349,8 @@
       "trend": 0,
       "playedHome": 6,
       "playedAway": 6,
-      "teamName": "Sevilla",
-      "teamId": 17,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -2355,8 +2371,8 @@
       "trend": 0,
       "playedHome": 7,
       "playedAway": 9,
-      "teamName": "Betis",
-      "teamId": 87,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         3,
@@ -2452,28 +2468,6 @@
         null,
         null,
         null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 10139,
-      "slug": "mauro-arambarri",
-      "name": "Arambarri",
-      "position": 3,
-      "price": 6510000,
-      "points": 180,
-      "trend": 0,
-      "playedHome": 19,
-      "playedAway": 18,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        5,
-        3,
-        8,
-        6,
-        -2
       ],
       "clausula": null
     },
@@ -2717,8 +2711,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Racing",
-      "teamId": 812,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -2752,8 +2746,8 @@
       "trend": 20000,
       "playedHome": 14,
       "playedAway": 14,
-      "teamName": "Espanyol",
-      "teamId": 7,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         5,
@@ -3054,8 +3048,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Málaga",
-      "teamId": 65,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -3401,7 +3395,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -3436,8 +3436,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Celta",
-      "teamId": 5,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -3546,8 +3546,8 @@
       "trend": -10000,
       "playedHome": 13,
       "playedAway": 18,
-      "teamName": "Elche",
-      "teamId": 75,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -3590,8 +3590,8 @@
       "trend": 0,
       "playedHome": 9,
       "playedAway": 6,
-      "teamName": "Getafe",
-      "teamId": 8,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         7,
@@ -4169,7 +4169,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -4270,8 +4276,8 @@
       "trend": 0,
       "playedHome": 16,
       "playedAway": 14,
-      "teamName": "Rayo Vallecano",
-      "teamId": 70,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         4,
@@ -4556,8 +4562,8 @@
       "trend": 0,
       "playedHome": 4,
       "playedAway": 4,
-      "teamName": "Celta",
-      "teamId": 5,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -4644,8 +4650,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Barcelona",
-      "teamId": 3,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -4990,8 +4996,8 @@
       "trend": -30000,
       "playedHome": 17,
       "playedAway": 17,
-      "teamName": "Celta",
-      "teamId": 5,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         0,
@@ -5056,8 +5062,8 @@
       "trend": -30000,
       "playedHome": 19,
       "playedAway": 18,
-      "teamName": "Getafe",
-      "teamId": 8,
+      "teamName": "Sevilla",
+      "teamId": 17,
       "status": "ok",
       "jForm": [
         6,
@@ -5455,7 +5461,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -5598,8 +5610,8 @@
       "trend": 0,
       "playedHome": 6,
       "playedAway": 11,
-      "teamName": "Valencia",
-      "teamId": 18,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -5941,8 +5953,8 @@
       "trend": 0,
       "playedHome": 5,
       "playedAway": 5,
-      "teamName": "Rayo Vallecano",
-      "teamId": 70,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -6224,7 +6236,13 @@
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -6369,8 +6387,8 @@
       "trend": 0,
       "playedHome": 2,
       "playedAway": 1,
-      "teamName": "Rayo Vallecano",
-      "teamId": 70,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -6659,6 +6677,8 @@
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        null,
+        null,
         null,
         null,
         null
@@ -7005,8 +7025,8 @@
       "trend": 0,
       "playedHome": 9,
       "playedAway": 8,
-      "teamName": "Sevilla",
-      "teamId": 17,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         3,
@@ -7166,6 +7186,24 @@
       "clausula": null
     },
     {
+      "id": 31410,
+      "slug": "toni-fernandez",
+      "name": "Toni Fernández",
+      "position": 4,
+      "price": 270000,
+      "points": 4,
+      "trend": 0,
+      "playedHome": 1,
+      "playedAway": 0,
+      "teamName": "Barcelona",
+      "teamId": 3,
+      "status": "ok",
+      "jForm": [
+        4
+      ],
+      "clausula": null
+    },
+    {
       "id": 31465,
       "slug": "torrents",
       "name": "Torrents",
@@ -7219,8 +7257,8 @@
       "trend": 0,
       "playedHome": 2,
       "playedAway": 3,
-      "teamName": "Sevilla",
-      "teamId": 17,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         -1,
@@ -7247,6 +7285,8 @@
       "jForm": [
         null,
         null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -7261,8 +7301,8 @@
       "trend": 0,
       "playedHome": 2,
       "playedAway": 3,
-      "teamName": "Celta",
-      "teamId": 5,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -7374,7 +7414,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -8113,8 +8159,8 @@
       "trend": 0,
       "playedHome": 1,
       "playedAway": 0,
-      "teamName": "Betis",
-      "teamId": 87,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         10,
@@ -8353,8 +8399,8 @@
       "trend": 0,
       "playedHome": 12,
       "playedAway": 11,
-      "teamName": "Betis",
-      "teamId": 87,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -8375,8 +8421,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Celta",
-      "teamId": 5,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -8554,7 +8600,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -8696,7 +8748,13 @@
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -9014,6 +9072,8 @@
       "jForm": [
         null,
         null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -9053,7 +9113,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -9321,8 +9387,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Espanyol",
-      "teamId": 7,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -9639,8 +9705,8 @@
       "trend": -10000,
       "playedHome": 4,
       "playedAway": 4,
-      "teamName": "Levante",
-      "teamId": 10,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -10271,8 +10337,8 @@
       "trend": 0,
       "playedHome": 17,
       "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
+      "teamName": "Sevilla",
+      "teamId": 17,
       "status": "ok",
       "jForm": [
         null,
@@ -10645,8 +10711,8 @@
       "trend": -50000,
       "playedHome": 15,
       "playedAway": 13,
-      "teamName": "Sevilla",
-      "teamId": 17,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -10702,6 +10768,26 @@
       "clausula": null
     },
     {
+      "id": 39223,
+      "slug": "samu-becerra",
+      "name": "Samu Becerra",
+      "position": 3,
+      "price": 210000,
+      "points": 3,
+      "trend": 0,
+      "playedHome": 2,
+      "playedAway": 1,
+      "teamName": "Rayo Vallecano",
+      "teamId": 70,
+      "status": "ok",
+      "jForm": [
+        0,
+        0,
+        3
+      ],
+      "clausula": null
+    },
+    {
       "id": 39301,
       "slug": "kochen",
       "name": "Kochen",
@@ -10742,6 +10828,27 @@
         null,
         null,
         null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 39350,
+      "slug": "miguel-sierra",
+      "name": "Miguel Sierra",
+      "position": 4,
+      "price": 260000,
+      "points": 10,
+      "trend": 0,
+      "playedHome": 3,
+      "playedAway": 1,
+      "teamName": "Sevilla",
+      "teamId": 17,
+      "status": "ok",
+      "jForm": [
+        2,
+        2,
+        3,
+        3
       ],
       "clausula": null
     },
@@ -10909,8 +11016,8 @@
       "trend": 0,
       "playedHome": 3,
       "playedAway": 2,
-      "teamName": "Valencia",
-      "teamId": 18,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -11384,6 +11491,25 @@
       "clausula": null
     },
     {
+      "id": 40033,
+      "slug": "tommy-marques",
+      "name": "Tommy Marqués",
+      "position": 3,
+      "price": 200000,
+      "points": 3,
+      "trend": 0,
+      "playedHome": 1,
+      "playedAway": 1,
+      "teamName": "Barcelona",
+      "teamId": 3,
+      "status": "ok",
+      "jForm": [
+        1,
+        2
+      ],
+      "clausula": null
+    },
+    {
       "id": 40045,
       "slug": "cestero",
       "name": "Cestero",
@@ -11478,8 +11604,8 @@
       "trend": 0,
       "playedHome": 2,
       "playedAway": 2,
-      "teamName": "",
-      "teamId": null,
+      "teamName": "Barcelona",
+      "teamId": 3,
       "status": "ok",
       "jForm": [
         -3,
@@ -11600,6 +11726,24 @@
       "teamId": 6,
       "status": "ok",
       "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 41022,
+      "slug": "alvaro-cortes",
+      "name": "Álvaro Cortés",
+      "position": 2,
+      "price": 320000,
+      "points": 5,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 1,
+      "teamName": "Barcelona",
+      "teamId": 3,
+      "status": "ok",
+      "jForm": [
+        5
+      ],
       "clausula": null
     },
     {
@@ -11839,7 +11983,13 @@
       "teamName": "Rayo Vallecano",
       "teamId": 70,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11887,7 +12037,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11903,7 +12059,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11916,8 +12078,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Málaga",
-      "teamId": 65,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -11932,8 +12094,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Málaga",
-      "teamId": 65,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -11951,7 +12113,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11983,7 +12151,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12000,6 +12174,24 @@
       "teamId": 65,
       "status": "ok",
       "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 41153,
+      "slug": "inaki-ruperez",
+      "name": "Iñaki Rupérez",
+      "position": 2,
+      "price": 190000,
+      "points": 1,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 1,
+      "teamName": "Real Sociedad",
+      "teamId": 13,
+      "status": "ok",
+      "jForm": [
+        1
+      ],
       "clausula": null
     },
     {
@@ -12268,8 +12460,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Racing",
-      "teamId": 812,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12364,8 +12556,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Málaga",
-      "teamId": 65,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12383,7 +12575,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12431,7 +12629,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12444,8 +12648,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Málaga",
-      "teamId": 65,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12463,7 +12667,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12476,8 +12686,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Málaga",
-      "teamId": 65,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12511,7 +12721,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12543,7 +12759,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12575,7 +12797,13 @@
       "teamName": "Racing",
       "teamId": 812,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12588,8 +12816,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Racing",
-      "teamId": 812,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12623,7 +12851,13 @@
       "teamName": "Alavés",
       "teamId": 91,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12684,8 +12918,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Racing",
-      "teamId": 812,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12817,6 +13051,98 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42267,
+      "slug": "kazunari-kita",
+      "name": "Kita",
+      "position": 2,
+      "price": 180000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Real Sociedad",
+      "teamId": 13,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 42268,
+      "slug": "belal-ateya",
+      "name": "Ateya",
+      "position": 3,
+      "price": 150000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Racing",
+      "teamId": 812,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 42269,
+      "slug": "pablo-arriaza",
+      "name": "Pablo Arriaza",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 42270,
+      "slug": "egoitz-munoz",
+      "name": "Egoitz Muñoz",
+      "position": 2,
+      "price": 180000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Alavés",
+      "teamId": 91,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 42271,
+      "slug": "justin-de-haas",
+      "name": "Justin de Haas",
+      "position": 2,
+      "price": 1360000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Valencia",
+      "teamId": 18,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
@@ -12871,7 +13197,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-01T20:00:48.766Z",
+    "updatedAt": "2026-07-02T03:54:45.461Z",
     "players": []
   }
 }
