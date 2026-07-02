@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T09:18:16.218Z",
+  "updatedAt": "2026-07-02T14:10:02.510Z",
   "players": [
     {
       "id": 11,
@@ -12978,6 +12978,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Supercuota Betfair España vs Austria: cuota mejorada a 2.0",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-espana-vs-austria/",
+      "date": "Thu, 02 Jul 2026 13:29:39 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "La Maxicuota Codere del Portugal &#8211; Croacia: ¡Apuesta por Cristiano a 5.00 euros!",
       "link": "https://www.jornadaperfecta.com/blog/codere-maxicuota-portugal-croacia-cristiano/",
       "date": "Thu, 02 Jul 2026 09:00:01 +0000"
@@ -13017,17 +13023,11 @@
       "title": "Odysseas Vlachodimos seguirá siendo guardameta del Sevilla FC",
       "link": "https://www.jornadaperfecta.com/blog/odysseas-vlachodimos-nueva-cesion-sevilla/",
       "date": "Wed, 01 Jul 2026 11:45:18 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Maxicuota de Codere para el España &#8211; Austria: ¡Apuesta a cuota 7.00!",
-      "link": "https://www.jornadaperfecta.com/blog/maxicuota-codere-espana-austria/",
-      "date": "Wed, 01 Jul 2026 08:08:04 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-02T09:18:14.240Z",
+    "updatedAt": "2026-07-02T14:10:00.191Z",
     "players": []
   }
 }
