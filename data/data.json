@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T19:35:42.787Z",
+  "updatedAt": "2026-07-03T03:37:11.222Z",
   "players": [
     {
       "id": 11,
@@ -1624,7 +1624,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2660,7 +2666,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2715,6 +2727,9 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -2774,8 +2789,8 @@
       "trend": -20000,
       "playedHome": 16,
       "playedAway": 13,
-      "teamName": "Real Sociedad",
-      "teamId": 13,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -3070,8 +3085,8 @@
       "trend": 0,
       "playedHome": 11,
       "playedAway": 13,
-      "teamName": "Valencia",
-      "teamId": 18,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -3111,7 +3126,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -4147,7 +4168,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -4336,8 +4363,8 @@
       "trend": 0,
       "playedHome": 18,
       "playedAway": 19,
-      "teamName": "Getafe",
-      "teamId": 8,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         13,
@@ -6051,8 +6078,8 @@
       "trend": -190000,
       "playedHome": 15,
       "playedAway": 16,
-      "teamName": "Barcelona",
-      "teamId": 3,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         9,
@@ -7906,7 +7933,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -8754,6 +8787,9 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -8881,7 +8917,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -9141,28 +9183,6 @@
       "clausula": null
     },
     {
-      "id": 37473,
-      "slug": "victor-munoz",
-      "name": "Víctor Muñoz",
-      "position": 4,
-      "price": 7010000,
-      "points": 195,
-      "trend": 0,
-      "playedHome": 17,
-      "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        12,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 37488,
       "slug": "dani-requena",
       "name": "Dani Requena",
@@ -9302,6 +9322,9 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -9987,8 +10010,8 @@
       "trend": -10000,
       "playedHome": 16,
       "playedAway": 16,
-      "teamName": "Elche",
-      "teamId": 75,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -10771,8 +10794,8 @@
       "trend": 0,
       "playedHome": 3,
       "playedAway": 1,
-      "teamName": "Sevilla",
-      "teamId": 17,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         2,
@@ -11961,7 +11984,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11977,7 +12006,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12025,7 +12060,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12057,7 +12098,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12475,7 +12522,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12523,7 +12576,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12587,7 +12646,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12603,7 +12668,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12955,7 +13026,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12973,9 +13050,47 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42327,
+      "slug": "alex-calatrava",
+      "name": "Álex Calatrava",
+      "position": 3,
+      "price": 410000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Espanyol",
+      "teamId": 7,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 42328,
+      "slug": "moussa-diarra-2",
+      "name": "Moussa Diarra",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Real Betis cierra un acuerdo por Facundo Bernal",
+      "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-betis-acuerdo/",
+      "date": "Thu, 02 Jul 2026 21:50:07 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Supercuota Betfair España vs Austria: cuota mejorada a 2.0",
@@ -13017,17 +13132,11 @@
       "title": "Sportium mejora la cuota de España ante Austria: ¡Apuesta 10€ y gana 50€!",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-sportium-espana-austria/",
       "date": "Wed, 01 Jul 2026 11:47:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Odysseas Vlachodimos seguirá siendo guardameta del Sevilla FC",
-      "link": "https://www.jornadaperfecta.com/blog/odysseas-vlachodimos-nueva-cesion-sevilla/",
-      "date": "Wed, 01 Jul 2026 11:45:18 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-02T19:35:40.606Z",
+    "updatedAt": "2026-07-03T03:37:08.899Z",
     "players": []
   }
 }
