@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T09:24:08.256Z",
+  "updatedAt": "2026-07-03T14:15:32.303Z",
   "players": [
     {
       "id": 11,
@@ -11137,7 +11137,7 @@
     {
       "id": 39885,
       "slug": "angel-perez",
-      "name": "Ángel Pérez",
+      "name": "Ángel P��rez",
       "position": 4,
       "price": 1560000,
       "points": 71,
@@ -12988,6 +12988,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "CuotaPlus Sportium Argentina vs Cabo Verde: mejora tus ganancias en el Mundial 2026",
+      "link": "https://www.jornadaperfecta.com/blog/cuotaplus-sportium-argentina-vs-cabo-verde/",
+      "date": "Fri, 03 Jul 2026 12:13:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Guido Rodríguez ficha de forma definitiva por el Valencia CF",
+      "link": "https://www.jornadaperfecta.com/blog/guido-rodriguez-fichaje-permanente-valencia/",
+      "date": "Fri, 03 Jul 2026 10:30:35 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Real Betis cierra un acuerdo por Facundo Bernal",
       "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-betis-acuerdo/",
       "date": "Thu, 02 Jul 2026 21:50:07 +0000"
@@ -13021,23 +13033,11 @@
       "title": "Oferta de bet365 al España &#8211; Austria: Consigue créditos de apuesta",
       "link": "https://www.jornadaperfecta.com/blog/oferta-bet365-espana-austria-mundial-2026/",
       "date": "Wed, 01 Jul 2026 19:00:59 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Valencia anuncia su primer fichaje: Justin de Haas",
-      "link": "https://www.jornadaperfecta.com/blog/justin-de-haas-fichaje-valencia/",
-      "date": "Wed, 01 Jul 2026 11:57:57 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sportium mejora la cuota de España ante Austria: ¡Apuesta 10€ y gana 50€!",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-sportium-espana-austria/",
-      "date": "Wed, 01 Jul 2026 11:47:54 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-03T09:24:06.202Z",
+    "updatedAt": "2026-07-03T14:15:30.188Z",
     "players": []
   }
 }
