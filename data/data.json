@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T14:15:32.303Z",
+  "updatedAt": "2026-07-03T19:34:34.125Z",
   "players": [
     {
       "id": 11,
@@ -11137,7 +11137,7 @@
     {
       "id": 39885,
       "slug": "angel-perez",
-      "name": "Ángel P��rez",
+      "name": "Ángel Pérez",
       "position": 4,
       "price": 1560000,
       "points": 71,
@@ -12988,6 +12988,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Betway te regala 5€ en Apuesta Gratis por apostar al España &#8211; Portugal",
+      "link": "https://www.jornadaperfecta.com/blog/apostar-espana-portugal-betway/",
+      "date": "Fri, 03 Jul 2026 19:00:19 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Fri, 03 Jul 2026 18:19:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Leo Román, nuevo jugador del Deportivo de A Coruña",
+      "link": "https://www.jornadaperfecta.com/blog/leo-roman-deportivo-anuncio/",
+      "date": "Fri, 03 Jul 2026 17:17:42 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "CuotaPlus Sportium Argentina vs Cabo Verde: mejora tus ganancias en el Mundial 2026",
       "link": "https://www.jornadaperfecta.com/blog/cuotaplus-sportium-argentina-vs-cabo-verde/",
       "date": "Fri, 03 Jul 2026 12:13:08 +0000"
@@ -13015,29 +13033,11 @@
       "title": "La Maxicuota Codere del Portugal &#8211; Croacia: ¡Apuesta por Cristiano a 5.00 euros!",
       "link": "https://www.jornadaperfecta.com/blog/codere-maxicuota-portugal-croacia-cristiano/",
       "date": "Thu, 02 Jul 2026 09:00:01 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "La maldición del Ranking FIFA: ¿puede el nº1 ganar el Mundial 2026?",
-      "link": "https://www.jornadaperfecta.com/blog/apuestas-mundial-2026-ranking-fifa/",
-      "date": "Thu, 02 Jul 2026 08:38:05 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción MARCAapuestas España vs Austria: ¡Seguro del 25% hasta 10€ si fallas!",
-      "link": "https://www.jornadaperfecta.com/blog/marcaapuestas-espana-vs-austria-seguro/",
-      "date": "Thu, 02 Jul 2026 07:00:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oferta de bet365 al España &#8211; Austria: Consigue créditos de apuesta",
-      "link": "https://www.jornadaperfecta.com/blog/oferta-bet365-espana-austria-mundial-2026/",
-      "date": "Wed, 01 Jul 2026 19:00:59 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-03T14:15:30.188Z",
+    "updatedAt": "2026-07-03T19:34:32.130Z",
     "players": []
   }
 }
