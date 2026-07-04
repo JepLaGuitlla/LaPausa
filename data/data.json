@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T13:41:01.300Z",
+  "updatedAt": "2026-07-04T19:19:22.875Z",
   "players": [
     {
       "id": 11,
@@ -12900,6 +12900,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Supercuota YoSports Portugal vs España: apuesta mejorada a cuota 7.00",
+      "link": "https://www.jornadaperfecta.com/blog/yosports-superapuesta-portugal-vs-espana/",
+      "date": "Sat, 04 Jul 2026 19:00:34 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Sat, 04 Jul 2026 15:30:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Portugal vs España: mejores cuotas 888Sport para los Octavos del Mundial 2026",
       "link": "https://www.jornadaperfecta.com/blog/888sport-portugal-vs-espana-cuotas/",
       "date": "Sat, 04 Jul 2026 07:00:32 +0000"
@@ -12909,12 +12921,6 @@
       "title": "Betway te regala 5€ en Apuesta Gratis por apostar al España &#8211; Portugal",
       "link": "https://www.jornadaperfecta.com/blog/apostar-espana-portugal-betway/",
       "date": "Fri, 03 Jul 2026 19:00:19 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Fri, 03 Jul 2026 18:19:36 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12939,17 +12945,11 @@
       "title": "El Real Betis cierra un acuerdo por Facundo Bernal",
       "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-betis-acuerdo/",
       "date": "Thu, 02 Jul 2026 21:50:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota Betfair España vs Austria: cuota mejorada a 2.0",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-betfair-espana-vs-austria/",
-      "date": "Thu, 02 Jul 2026 13:29:39 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-04T13:40:59.450Z",
+    "updatedAt": "2026-07-04T19:19:21.000Z",
     "players": []
   }
 }
