@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T08:42:11.639Z",
+  "updatedAt": "2026-07-04T13:41:01.300Z",
   "players": [
     {
       "id": 11,
@@ -26,7 +26,7 @@
     {
       "id": 20,
       "slug": "eric-garcia",
-      "name": "Eric Garc��a",
+      "name": "Eric García",
       "position": 2,
       "price": 10560000,
       "points": 205,
@@ -12949,7 +12949,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-04T08:42:09.779Z",
+    "updatedAt": "2026-07-04T13:40:59.450Z",
     "players": []
   }
 }
