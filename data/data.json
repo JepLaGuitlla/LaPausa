@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:34:34.125Z",
+  "updatedAt": "2026-07-04T03:30:29.042Z",
   "players": [
     {
       "id": 11,
@@ -1624,7 +1624,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2044,28 +2050,6 @@
         3,
         3,
         1,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 8517,
-      "slug": "alejandro-primo",
-      "name": "Álex Primo",
-      "position": 1,
-      "price": 180000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
         null,
         null
       ],
@@ -2774,8 +2758,8 @@
       "trend": 0,
       "playedHome": 16,
       "playedAway": 13,
-      "teamName": "",
-      "teamId": null,
+      "teamName": "Real Sociedad",
+      "teamId": 13,
       "status": "ok",
       "jForm": [
         null,
@@ -3133,6 +3117,28 @@
         0,
         3,
         3
+      ],
+      "clausula": null
+    },
+    {
+      "id": 14630,
+      "slug": "leo-roman",
+      "name": "Leo Román",
+      "position": 1,
+      "price": 3180000,
+      "points": 162,
+      "trend": 0,
+      "playedHome": 17,
+      "playedAway": 16,
+      "teamName": "Deportivo",
+      "teamId": 6,
+      "status": "ok",
+      "jForm": [
+        3,
+        6,
+        -2,
+        3,
+        10
       ],
       "clausula": null
     },
@@ -6426,28 +6432,6 @@
       "clausula": null
     },
     {
-      "id": 28187,
-      "slug": "pau-cabanes",
-      "name": "Pau Cabanes",
-      "position": 4,
-      "price": 160000,
-      "points": 2,
-      "trend": 0,
-      "playedHome": 1,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        2,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 28309,
       "slug": "carlos-alvarez",
       "name": "Carlos Álvarez",
@@ -7314,28 +7298,6 @@
       "clausula": null
     },
     {
-      "id": 32017,
-      "slug": "alberto-dadie",
-      "name": "Alberto Dadie",
-      "position": 4,
-      "price": 170000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 32020,
       "slug": "jon-aramburu",
       "name": "Aramburu",
@@ -8009,28 +7971,6 @@
       "teamId": 10,
       "status": "ok",
       "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 33921,
-      "slug": "ander-yoldi",
-      "name": "Ander Yoldi",
-      "position": 4,
-      "price": 190000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
       "clausula": null
     },
     {
@@ -9008,28 +8948,6 @@
       "teamId": 70,
       "status": "ok",
       "jForm": [
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
-      "id": 36556,
-      "slug": "mariezkurrena",
-      "name": "Mariezkurrena",
-      "position": 4,
-      "price": 180000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 1,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
         null,
         null,
         null
@@ -11617,7 +11535,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12501,7 +12425,13 @@
       "teamName": "Málaga",
       "teamId": 65,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12514,8 +12444,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
+      "teamName": "Málaga",
+      "teamId": 65,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -13037,7 +12967,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-03T19:34:32.130Z",
+    "updatedAt": "2026-07-04T03:30:26.899Z",
     "players": []
   }
 }
