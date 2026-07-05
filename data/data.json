@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T19:19:22.875Z",
+  "updatedAt": "2026-07-05T03:48:00.111Z",
   "players": [
     {
       "id": 11,
@@ -7616,28 +7616,6 @@
       "clausula": null
     },
     {
-      "id": 33243,
-      "slug": "risco",
-      "name": "Risco",
-      "position": 3,
-      "price": 170000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 33447,
       "slug": "jon-martin",
       "name": "Jon Martín",
@@ -10617,8 +10595,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Barcelona",
-      "teamId": 3,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -12949,7 +12927,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-04T19:19:21.000Z",
+    "updatedAt": "2026-07-05T03:47:58.039Z",
     "players": []
   }
 }
