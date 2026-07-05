@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T13:47:56.605Z",
+  "updatedAt": "2026-07-05T19:23:16.306Z",
   "players": [
     {
       "id": 11,
@@ -1756,7 +1756,7 @@
     {
       "id": 5618,
       "slug": "alvaro-fernandez",
-      "name": "��lvaro Fernández",
+      "name": "Álvaro Fernández",
       "position": 1,
       "price": 540000,
       "points": 0,
@@ -12878,6 +12878,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Kang-in Lee, a un paso de firmar por el Atlético de Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/kang-in-lee-atletico-fichaje/",
+      "date": "Sun, 05 Jul 2026 19:00:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Sun, 05 Jul 2026 18:30:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Promoción Sportium Portugal vs España: apuesta 5€ y recibe 25€ gratis",
       "link": "https://www.jornadaperfecta.com/blog/sportium-portugal-vs-espana-promocion/",
       "date": "Sun, 05 Jul 2026 11:09:59 +0000"
@@ -12887,12 +12899,6 @@
       "title": "Oficial: Denzel Dumfries, nuevo jugador del Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/dumfries-real-madrid-anuncio/",
       "date": "Sun, 05 Jul 2026 10:25:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Sun, 05 Jul 2026 10:00:36 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12917,17 +12923,11 @@
       "title": "Oficial: Leo Román, nuevo jugador del Deportivo de A Coruña",
       "link": "https://www.jornadaperfecta.com/blog/leo-roman-deportivo-anuncio/",
       "date": "Fri, 03 Jul 2026 17:17:42 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "CuotaPlus Sportium Argentina vs Cabo Verde: mejora tus ganancias en el Mundial 2026",
-      "link": "https://www.jornadaperfecta.com/blog/cuotaplus-sportium-argentina-vs-cabo-verde/",
-      "date": "Fri, 03 Jul 2026 12:13:08 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-05T13:47:54.081Z",
+    "updatedAt": "2026-07-05T19:23:14.247Z",
     "players": []
   }
 }
