@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T08:57:19.501Z",
+  "updatedAt": "2026-07-05T13:47:56.605Z",
   "players": [
     {
       "id": 11,
@@ -1756,7 +1756,7 @@
     {
       "id": 5618,
       "slug": "alvaro-fernandez",
-      "name": "Álvaro Fernández",
+      "name": "��lvaro Fernández",
       "position": 1,
       "price": 540000,
       "points": 0,
@@ -3913,7 +3913,7 @@
     {
       "id": 18173,
       "slug": "eder-militao",
-      "name": "Milit��o",
+      "name": "Militão",
       "position": 2,
       "price": 1850000,
       "points": 104,
@@ -12878,15 +12878,27 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Supercuota YoSports Portugal vs España: apuesta mejorada a cuota 7.00",
-      "link": "https://www.jornadaperfecta.com/blog/yosports-superapuesta-portugal-vs-espana/",
-      "date": "Sat, 04 Jul 2026 19:00:34 +0000"
+      "title": "Promoción Sportium Portugal vs España: apuesta 5€ y recibe 25€ gratis",
+      "link": "https://www.jornadaperfecta.com/blog/sportium-portugal-vs-espana-promocion/",
+      "date": "Sun, 05 Jul 2026 11:09:59 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Denzel Dumfries, nuevo jugador del Real Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/dumfries-real-madrid-anuncio/",
+      "date": "Sun, 05 Jul 2026 10:25:15 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
       "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Sat, 04 Jul 2026 15:30:36 +0000"
+      "date": "Sun, 05 Jul 2026 10:00:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota YoSports Portugal vs España: apuesta mejorada a cuota 7.00",
+      "link": "https://www.jornadaperfecta.com/blog/yosports-superapuesta-portugal-vs-espana/",
+      "date": "Sat, 04 Jul 2026 19:00:34 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12911,23 +12923,11 @@
       "title": "CuotaPlus Sportium Argentina vs Cabo Verde: mejora tus ganancias en el Mundial 2026",
       "link": "https://www.jornadaperfecta.com/blog/cuotaplus-sportium-argentina-vs-cabo-verde/",
       "date": "Fri, 03 Jul 2026 12:13:08 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Guido Rodríguez ficha de forma definitiva por el Valencia CF",
-      "link": "https://www.jornadaperfecta.com/blog/guido-rodriguez-fichaje-permanente-valencia/",
-      "date": "Fri, 03 Jul 2026 10:30:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Real Betis cierra un acuerdo por Facundo Bernal",
-      "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-betis-acuerdo/",
-      "date": "Thu, 02 Jul 2026 21:50:07 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-05T08:57:17.562Z",
+    "updatedAt": "2026-07-05T13:47:54.081Z",
     "players": []
   }
 }
