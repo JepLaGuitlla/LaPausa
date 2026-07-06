@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T19:23:16.306Z",
+  "updatedAt": "2026-07-06T03:55:46.783Z",
   "players": [
     {
       "id": 11,
@@ -4112,8 +4112,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Racing",
-      "teamId": 812,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12873,6 +12873,22 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42362,
+      "slug": "denzel-dumfries",
+      "name": "Dumfries",
+      "position": 2,
+      "price": 4070000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Real Madrid",
+      "teamId": 15,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
@@ -12927,7 +12943,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-05T19:23:14.247Z",
+    "updatedAt": "2026-07-06T03:55:44.715Z",
     "players": []
   }
 }
