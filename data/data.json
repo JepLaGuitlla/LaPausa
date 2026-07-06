@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T15:40:34.064Z",
+  "updatedAt": "2026-07-06T20:02:33.404Z",
   "players": [
     {
       "id": 11,
@@ -12894,6 +12894,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Zaid Romero regresa al Getafe y firma hasta 2030",
+      "link": "https://www.jornadaperfecta.com/blog/zaid-romero-regreso-getafe-fichaje/",
+      "date": "Mon, 06 Jul 2026 18:35:35 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Mon, 06 Jul 2026 18:30:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Facundo Bernal, nuevo jugador del Real Betis",
+      "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-betis-anuncio-fichaje/",
+      "date": "Mon, 06 Jul 2026 18:22:59 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Promoción DAZN Bet Portugal vs España: 5€ gratis por cada victoria de La Roja",
       "link": "https://www.jornadaperfecta.com/blog/dazn-bet-portugal-vs-espana/",
       "date": "Mon, 06 Jul 2026 12:05:43 +0000"
@@ -12918,32 +12936,14 @@
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Sun, 05 Jul 2026 18:30:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
       "title": "Promoción Sportium Portugal vs España: apuesta 5€ y recibe 25€ gratis",
       "link": "https://www.jornadaperfecta.com/blog/sportium-portugal-vs-espana-promocion/",
       "date": "Sun, 05 Jul 2026 11:09:59 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Denzel Dumfries, nuevo jugador del Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/dumfries-real-madrid-anuncio/",
-      "date": "Sun, 05 Jul 2026 10:25:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota YoSports Portugal vs España: apuesta mejorada a cuota 7.00",
-      "link": "https://www.jornadaperfecta.com/blog/yosports-superapuesta-portugal-vs-espana/",
-      "date": "Sat, 04 Jul 2026 19:00:34 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-06T15:40:31.560Z",
+    "updatedAt": "2026-07-06T20:02:31.256Z",
     "players": []
   }
 }
