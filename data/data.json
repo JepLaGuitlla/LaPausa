@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T10:43:51.641Z",
+  "updatedAt": "2026-07-06T15:40:34.064Z",
   "players": [
     {
       "id": 11,
@@ -12894,15 +12894,27 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Alfon González llega lesionado a Sevilla y se pierde el inicio de LaLiga",
-      "link": "https://www.jornadaperfecta.com/blog/alfon-gonzalez-lesionado-pretemporada/",
-      "date": "Mon, 06 Jul 2026 10:12:01 +0000"
+      "title": "Promoción DAZN Bet Portugal vs España: 5€ gratis por cada victoria de La Roja",
+      "link": "https://www.jornadaperfecta.com/blog/dazn-bet-portugal-vs-espana/",
+      "date": "Mon, 06 Jul 2026 12:05:43 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Kang-in Lee, a un paso de firmar por el Atlético de Madrid",
+      "title": "Ryunosuke Sato llega a Valencia para ser el tercer fichaje",
+      "link": "https://www.jornadaperfecta.com/blog/ryunosuke-sato-fichaje-valencia/",
+      "date": "Mon, 06 Jul 2026 12:02:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Kang-in Lee, nuevo futbolista del Atlético de Madrid, a falta de oficialidad",
       "link": "https://www.jornadaperfecta.com/blog/kang-in-lee-atletico-fichaje/",
-      "date": "Sun, 05 Jul 2026 19:00:26 +0000"
+      "date": "Mon, 06 Jul 2026 10:45:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Alfon González llega lesionado a Sevilla y se pierde el inicio de LaLiga",
+      "link": "https://www.jornadaperfecta.com/blog/alfon-gonzalez-lesionado-pretemporada/",
+      "date": "Mon, 06 Jul 2026 10:12:01 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12927,23 +12939,11 @@
       "title": "Supercuota YoSports Portugal vs España: apuesta mejorada a cuota 7.00",
       "link": "https://www.jornadaperfecta.com/blog/yosports-superapuesta-portugal-vs-espana/",
       "date": "Sat, 04 Jul 2026 19:00:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Portugal vs España: mejores cuotas 888Sport para los Octavos del Mundial 2026",
-      "link": "https://www.jornadaperfecta.com/blog/888sport-portugal-vs-espana-cuotas/",
-      "date": "Sat, 04 Jul 2026 07:00:32 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Betway te regala 5€ en Apuesta Gratis por apostar al España &#8211; Portugal",
-      "link": "https://www.jornadaperfecta.com/blog/apostar-espana-portugal-betway/",
-      "date": "Fri, 03 Jul 2026 19:00:19 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-06T10:43:49.093Z",
+    "updatedAt": "2026-07-06T15:40:31.560Z",
     "players": []
   }
 }
