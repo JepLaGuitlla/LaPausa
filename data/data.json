@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T14:44:28.856Z",
+  "updatedAt": "2026-07-07T20:00:52.881Z",
   "players": [
     {
       "id": 11,
@@ -2638,13 +2638,7 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -2699,9 +2693,6 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
-        null,
-        null,
-        null,
         null,
         null
       ],
@@ -8693,9 +8684,6 @@
       "status": "ok",
       "jForm": [
         null,
-        null,
-        null,
-        null,
         null
       ],
       "clausula": null
@@ -9200,9 +9188,6 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
-        null,
-        null,
-        null,
         null,
         null
       ],
@@ -10535,7 +10520,7 @@
     {
       "id": 38964,
       "slug": "alexis-sanchez",
-      "name": "Alexis Sánchez",
+      "name": "Alexis S��nchez",
       "position": 4,
       "price": 1000000,
       "points": 105,
@@ -11686,13 +11671,7 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -12894,13 +12873,7 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -12980,17 +12953,47 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Aliou Dieng, nuevo jugador del Valencia CF",
+      "link": "https://www.jornadaperfecta.com/blog/aliou-dieng-valencia-anuncio-fichaje/",
+      "date": "Tue, 07 Jul 2026 19:30:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Aliou Dieng, a punto de ser el cuarto fichaje del Valencia",
+      "link": "https://www.jornadaperfecta.com/blog/aliou-dieng-fichaje-valencia/",
+      "date": "Tue, 07 Jul 2026 17:12:30 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Tue, 07 Jul 2026 16:38:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Joselu Mato estaría muy cerca de volver a LaLiga con el Deportivo de A Coruña",
+      "link": "https://www.jornadaperfecta.com/blog/joselu-deportivo-a-coruna-fichaje/",
+      "date": "Tue, 07 Jul 2026 15:40:18 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Atlético de Madrid aprieta por Morten Hjulmand",
+      "link": "https://www.jornadaperfecta.com/blog/atletico-fichaje-hjulmand-26-27/",
+      "date": "Tue, 07 Jul 2026 15:21:34 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "João Cancelo, cerca de volver al FC Barcelona en propiedad",
+      "link": "https://www.jornadaperfecta.com/blog/cancelo-vuelta-barcelona-26-27/",
+      "date": "Tue, 07 Jul 2026 14:58:57 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Oficial: Quilindschy Hartman, nuevo jugador del RCD Espanyol",
@@ -12999,50 +13002,14 @@
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Tue, 07 Jul 2026 14:38:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
       "title": "Francia vs Marruecos: cuotas 888Sport para los Cuartos del Mundial 2026",
       "link": "https://www.jornadaperfecta.com/blog/cuotas-888sport-francia-vs-marruecos/",
       "date": "Tue, 07 Jul 2026 14:28:27 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Bright Ede, nuevo jugador del Deportivo de A Coruña",
-      "link": "https://www.jornadaperfecta.com/blog/bright-ede-depor-anuncio/",
-      "date": "Tue, 07 Jul 2026 14:20:48 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Getafe y Villarreal acuerdan la cesión de Jean Ives Valou",
-      "link": "https://www.jornadaperfecta.com/blog/getafe-villarreal-cesion-jean-ives-valou/",
-      "date": "Tue, 07 Jul 2026 12:35:44 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ryunosuke Sato llega a Valencia para ser el tercer fichaje",
-      "link": "https://www.jornadaperfecta.com/blog/ryunosuke-sato-fichaje-valencia/",
-      "date": "Tue, 07 Jul 2026 10:02:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Zaid Romero regresa al Getafe y firma hasta 2030",
-      "link": "https://www.jornadaperfecta.com/blog/zaid-romero-regreso-getafe-fichaje/",
-      "date": "Mon, 06 Jul 2026 18:35:35 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Facundo Bernal, nuevo jugador del Real Betis",
-      "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-betis-anuncio-fichaje/",
-      "date": "Mon, 06 Jul 2026 18:22:59 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-07T14:44:26.214Z",
+    "updatedAt": "2026-07-07T20:00:51.231Z",
     "players": []
   }
 }
