@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T20:02:33.404Z",
+  "updatedAt": "2026-07-07T03:46:09.526Z",
   "players": [
     {
       "id": 11,
@@ -1734,7 +1734,7 @@
     {
       "id": 5352,
       "slug": "o-valentin",
-      "name": "Óscar Valentín",
+      "name": "��scar Valentín",
       "position": 3,
       "price": 1470000,
       "points": 126,
@@ -2931,7 +2931,13 @@
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -5474,6 +5480,8 @@
       "jForm": [
         null,
         null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -7695,9 +7703,11 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
-        4,
-        3,
-        15
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -8563,9 +8573,9 @@
       "jForm": [
         null,
         null,
-        2,
         null,
-        3
+        null,
+        null
       ],
       "clausula": null
     },
@@ -9924,7 +9934,13 @@
       "teamName": "Betis",
       "teamId": 87,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -10924,8 +10940,8 @@
       "trend": 0,
       "playedHome": 7,
       "playedAway": 8,
-      "teamName": "",
-      "teamId": null,
+      "teamName": "Getafe",
+      "teamId": 8,
       "status": "ok",
       "jForm": [
         6,
@@ -12244,8 +12260,8 @@
       "trend": 10000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Racing",
-      "teamId": 812,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12599,7 +12615,13 @@
       "teamName": "Betis",
       "teamId": 87,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12804,8 +12826,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Racing",
-      "teamId": 812,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12889,20 +12911,36 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42370,
+      "slug": "facundo-bernal",
+      "name": "Facundo Bernal",
+      "position": 3,
+      "price": 600000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Betis",
+      "teamId": 87,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Zaid Romero regresa al Getafe y firma hasta 2030",
-      "link": "https://www.jornadaperfecta.com/blog/zaid-romero-regreso-getafe-fichaje/",
-      "date": "Mon, 06 Jul 2026 18:35:35 +0000"
+      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Mon, 06 Jul 2026 18:40:36 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Mon, 06 Jul 2026 18:30:36 +0000"
+      "title": "Zaid Romero regresa al Getafe y firma hasta 2030",
+      "link": "https://www.jornadaperfecta.com/blog/zaid-romero-regreso-getafe-fichaje/",
+      "date": "Mon, 06 Jul 2026 18:35:35 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12943,7 +12981,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-06T20:02:31.256Z",
+    "updatedAt": "2026-07-07T03:46:07.167Z",
     "players": []
   }
 }
