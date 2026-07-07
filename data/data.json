@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T09:48:51.307Z",
+  "updatedAt": "2026-07-07T14:44:28.856Z",
   "players": [
     {
       "id": 11,
@@ -2638,7 +2638,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2693,6 +2699,9 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -3073,7 +3082,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -3089,7 +3104,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -7840,7 +7861,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -8666,6 +8693,9 @@
       "status": "ok",
       "jForm": [
         null,
+        null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -9170,6 +9200,9 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -11653,7 +11686,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12855,7 +12894,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12905,14 +12950,82 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42389,
+      "slug": "ryunosuke",
+      "name": "Ryunosuke",
+      "position": 3,
+      "price": 390000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Valencia",
+      "teamId": 18,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 42390,
+      "slug": "q-hartman",
+      "name": "Hartman",
+      "position": 2,
+      "price": 1450000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Espanyol",
+      "teamId": 7,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
     }
   ],
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de invierno de LaLiga 26/27: altas y bajas oficiales",
+      "title": "Oficial: Quilindschy Hartman, nuevo jugador del RCD Espanyol",
+      "link": "https://www.jornadaperfecta.com/blog/quilindschy-hartman-espanyol-fichaje-26/",
+      "date": "Tue, 07 Jul 2026 14:39:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
       "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Mon, 06 Jul 2026 18:40:36 +0000"
+      "date": "Tue, 07 Jul 2026 14:38:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Francia vs Marruecos: cuotas 888Sport para los Cuartos del Mundial 2026",
+      "link": "https://www.jornadaperfecta.com/blog/cuotas-888sport-francia-vs-marruecos/",
+      "date": "Tue, 07 Jul 2026 14:28:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Bright Ede, nuevo jugador del Deportivo de A Coruña",
+      "link": "https://www.jornadaperfecta.com/blog/bright-ede-depor-anuncio/",
+      "date": "Tue, 07 Jul 2026 14:20:48 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Getafe y Villarreal acuerdan la cesión de Jean Ives Valou",
+      "link": "https://www.jornadaperfecta.com/blog/getafe-villarreal-cesion-jean-ives-valou/",
+      "date": "Tue, 07 Jul 2026 12:35:44 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Ryunosuke Sato llega a Valencia para ser el tercer fichaje",
+      "link": "https://www.jornadaperfecta.com/blog/ryunosuke-sato-fichaje-valencia/",
+      "date": "Tue, 07 Jul 2026 10:02:36 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -12925,41 +13038,11 @@
       "title": "Oficial: Facundo Bernal, nuevo jugador del Real Betis",
       "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-betis-anuncio-fichaje/",
       "date": "Mon, 06 Jul 2026 18:22:59 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción DAZN Bet Portugal vs España: 5€ gratis por cada victoria de La Roja",
-      "link": "https://www.jornadaperfecta.com/blog/dazn-bet-portugal-vs-espana/",
-      "date": "Mon, 06 Jul 2026 12:05:43 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ryunosuke Sato llega a Valencia para ser el tercer fichaje",
-      "link": "https://www.jornadaperfecta.com/blog/ryunosuke-sato-fichaje-valencia/",
-      "date": "Mon, 06 Jul 2026 12:02:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Kang-in Lee, nuevo futbolista del Atlético de Madrid, a falta de oficialidad",
-      "link": "https://www.jornadaperfecta.com/blog/kang-in-lee-atletico-fichaje/",
-      "date": "Mon, 06 Jul 2026 10:45:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Alfon González llega lesionado a Sevilla y se pierde el inicio de LaLiga",
-      "link": "https://www.jornadaperfecta.com/blog/alfon-gonzalez-lesionado-pretemporada/",
-      "date": "Mon, 06 Jul 2026 10:12:01 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Sportium Portugal vs España: apuesta 5€ y recibe 25€ gratis",
-      "link": "https://www.jornadaperfecta.com/blog/sportium-portugal-vs-espana-promocion/",
-      "date": "Sun, 05 Jul 2026 11:09:59 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-07T09:48:49.006Z",
+    "updatedAt": "2026-07-07T14:44:26.214Z",
     "players": []
   }
 }
