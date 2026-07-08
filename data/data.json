@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T20:00:52.881Z",
+  "updatedAt": "2026-07-08T03:14:08.899Z",
   "players": [
     {
       "id": 11,
@@ -1218,7 +1218,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -3073,13 +3079,7 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -3095,13 +3095,7 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -3227,7 +3221,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -4848,8 +4848,8 @@
       "trend": 0,
       "playedHome": 12,
       "playedAway": 7,
-      "teamName": "Elche",
-      "teamId": 75,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -6214,7 +6214,13 @@
       "teamName": "Valencia",
       "teamId": 18,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -6381,8 +6387,8 @@
       "trend": 0,
       "playedHome": 15,
       "playedAway": 17,
-      "teamName": "Celta",
-      "teamId": 5,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         7,
@@ -6627,6 +6633,8 @@
       "teamId": 18,
       "status": "ok",
       "jForm": [
+        null,
+        null,
         null,
         null,
         null
@@ -7707,9 +7715,11 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
-        4,
-        3,
-        15
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -7852,13 +7862,7 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "jForm": [],
       "clausula": null
     },
     {
@@ -8581,9 +8585,9 @@
       "jForm": [
         null,
         null,
-        2,
         null,
-        3
+        null,
+        null
       ],
       "clausula": null
     },
@@ -10520,7 +10524,7 @@
     {
       "id": 38964,
       "slug": "alexis-sanchez",
-      "name": "Alexis S��nchez",
+      "name": "Alexis Sánchez",
       "position": 4,
       "price": 1000000,
       "points": 105,
@@ -10708,6 +10712,25 @@
         5,
         12,
         3,
+        0
+      ],
+      "clausula": null
+    },
+    {
+      "id": 39385,
+      "slug": "david-jimenez",
+      "name": "David Jiménez",
+      "position": 2,
+      "price": 300000,
+      "points": 5,
+      "trend": 0,
+      "playedHome": 1,
+      "playedAway": 1,
+      "teamName": "Real Madrid",
+      "teamId": 15,
+      "status": "ok",
+      "jForm": [
+        5,
         0
       ],
       "clausula": null
@@ -11335,8 +11358,8 @@
       "trend": 0,
       "playedHome": 1,
       "playedAway": 1,
-      "teamName": "Real Madrid",
-      "teamId": 15,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -11461,7 +11484,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11509,7 +11538,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11525,7 +11560,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11541,7 +11582,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11623,7 +11670,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11639,7 +11692,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11655,7 +11714,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11687,7 +11752,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11751,7 +11822,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11815,7 +11892,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12633,7 +12716,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12742,8 +12831,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Deportivo",
-      "teamId": 6,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -12761,7 +12850,13 @@
       "teamName": "Deportivo",
       "teamId": 6,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12955,9 +13050,75 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42394,
+      "slug": "jean-ives-valou",
+      "name": "Ives Valou",
+      "position": 2,
+      "price": 180000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Getafe",
+      "teamId": 8,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 42395,
+      "slug": "bright-ede",
+      "name": "Bright Ede",
+      "position": 2,
+      "price": 160000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Deportivo",
+      "teamId": 6,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
+    },
+    {
+      "id": 42396,
+      "slug": "aliou-dieng",
+      "name": "Aliou Dieng",
+      "position": 3,
+      "price": 1550000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Valencia",
+      "teamId": 18,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Las cinco claves del mercado de fichajes del 7 de julio",
+      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-7-7-26/",
+      "date": "Tue, 07 Jul 2026 22:12:52 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Oficial: Aliou Dieng, nuevo jugador del Valencia CF",
@@ -12999,17 +13160,11 @@
       "title": "Oficial: Quilindschy Hartman, nuevo jugador del RCD Espanyol",
       "link": "https://www.jornadaperfecta.com/blog/quilindschy-hartman-espanyol-fichaje-26/",
       "date": "Tue, 07 Jul 2026 14:39:46 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Francia vs Marruecos: cuotas 888Sport para los Cuartos del Mundial 2026",
-      "link": "https://www.jornadaperfecta.com/blog/cuotas-888sport-francia-vs-marruecos/",
-      "date": "Tue, 07 Jul 2026 14:28:27 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-07T20:00:51.231Z",
+    "updatedAt": "2026-07-08T03:14:07.042Z",
     "players": []
   }
 }
