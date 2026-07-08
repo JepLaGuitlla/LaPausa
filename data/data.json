@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T08:34:43.644Z",
+  "updatedAt": "2026-07-08T14:22:37.783Z",
   "players": [
     {
       "id": 11,
@@ -13009,6 +13009,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "El Betis cierra el fichaje de Fran García con el Real Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/betis-fichaje-fran-garcia/",
+      "date": "Wed, 08 Jul 2026 11:14:48 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Apúntate a la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
       "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
       "date": "Wed, 08 Jul 2026 07:22:54 +0000"
@@ -13048,17 +13054,11 @@
       "title": "El Atlético de Madrid aprieta por Morten Hjulmand",
       "link": "https://www.jornadaperfecta.com/blog/atletico-fichaje-hjulmand-26-27/",
       "date": "Tue, 07 Jul 2026 15:21:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "João Cancelo, cerca de volver al FC Barcelona en propiedad",
-      "link": "https://www.jornadaperfecta.com/blog/cancelo-vuelta-barcelona-26-27/",
-      "date": "Tue, 07 Jul 2026 14:58:57 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-08T08:34:41.028Z",
+    "updatedAt": "2026-07-08T14:22:35.821Z",
     "players": []
   }
 }
