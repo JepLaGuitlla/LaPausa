@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T14:22:37.783Z",
+  "updatedAt": "2026-07-08T19:37:39.183Z",
   "players": [
     {
       "id": 11,
@@ -13009,6 +13009,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oficial: Fran García, nuevo jugador del Real Betis",
+      "link": "https://www.jornadaperfecta.com/blog/fran-garcia-betis-fichaje-anuncio-26/",
+      "date": "Wed, 08 Jul 2026 19:06:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Wed, 08 Jul 2026 17:20:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Ramón Terrats, nuevo jugador del Getafe CF",
+      "link": "https://www.jornadaperfecta.com/blog/ramon-terrats-anuncio-vuelta-getafe/",
+      "date": "Wed, 08 Jul 2026 16:06:13 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota YoSports España vs Bélgica: cuota 5.00 para el Mundial 2026",
+      "link": "https://www.jornadaperfecta.com/blog/yosports-superapuesta-espana-vs-belgica/",
+      "date": "Wed, 08 Jul 2026 15:54:04 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Gabriel Moscardó, nuevo jugador del RCD Espanyol",
+      "link": "https://www.jornadaperfecta.com/blog/gabriel-moscardo-espanyol-anuncio/",
+      "date": "Wed, 08 Jul 2026 14:44:13 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Betis cierra el fichaje de Fran García con el Real Madrid",
       "link": "https://www.jornadaperfecta.com/blog/betis-fichaje-fran-garcia/",
       "date": "Wed, 08 Jul 2026 11:14:48 +0000"
@@ -13024,41 +13054,11 @@
       "title": "Las cinco claves del mercado de fichajes del 7 de julio",
       "link": "https://www.jornadaperfecta.com/blog/claves-mercado-7-7-26/",
       "date": "Tue, 07 Jul 2026 22:12:52 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Aliou Dieng, nuevo jugador del Valencia CF",
-      "link": "https://www.jornadaperfecta.com/blog/aliou-dieng-valencia-anuncio-fichaje/",
-      "date": "Tue, 07 Jul 2026 19:30:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Aliou Dieng, a punto de ser el cuarto fichaje del Valencia",
-      "link": "https://www.jornadaperfecta.com/blog/aliou-dieng-fichaje-valencia/",
-      "date": "Tue, 07 Jul 2026 17:12:30 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Tue, 07 Jul 2026 16:38:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Joselu Mato estaría muy cerca de volver a LaLiga con el Deportivo de A Coruña",
-      "link": "https://www.jornadaperfecta.com/blog/joselu-deportivo-a-coruna-fichaje/",
-      "date": "Tue, 07 Jul 2026 15:40:18 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Atlético de Madrid aprieta por Morten Hjulmand",
-      "link": "https://www.jornadaperfecta.com/blog/atletico-fichaje-hjulmand-26-27/",
-      "date": "Tue, 07 Jul 2026 15:21:34 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-08T14:22:35.821Z",
+    "updatedAt": "2026-07-08T19:37:36.763Z",
     "players": []
   }
 }
