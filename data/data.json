@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T15:17:11.616Z",
+  "updatedAt": "2026-07-09T19:50:57.029Z",
   "players": [
     {
       "id": 11,
@@ -13041,6 +13041,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "El Borussia Dortmund rechaza la primera oferta por Adeyemi",
+      "link": "https://www.jornadaperfecta.com/blog/barca-negocia-fichaje-adeyemi/",
+      "date": "Thu, 09 Jul 2026 17:40:23 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Akor Adams y Nianzou, cerca de abandonar el Sevilla",
+      "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
+      "date": "Thu, 09 Jul 2026 17:37:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Valencia, cerca de cerrar la llegada de Thomas Meunier",
+      "link": "https://www.jornadaperfecta.com/blog/thomas-meunier-valencia-fichaje/",
+      "date": "Thu, 09 Jul 2026 17:13:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción Sportium: Supercuota 5.00 en el España &#8211; Bélgica",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-sportium-espana-belgica-mundial/",
+      "date": "Thu, 09 Jul 2026 16:00:28 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
       "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
       "date": "Thu, 09 Jul 2026 15:00:36 +0000"
@@ -13062,35 +13086,11 @@
       "title": "Oficial: Lorenzo Amatucci, nuevo jugador del Deportivo de A Coruña",
       "link": "https://www.jornadaperfecta.com/blog/amatucci-deportivo-fichaje-anuncio/",
       "date": "Thu, 09 Jul 2026 08:03:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Barça negocia el fichaje de Karim Adeyemi con el Dortmund",
-      "link": "https://www.jornadaperfecta.com/blog/barca-negocia-fichaje-adeyemi/",
-      "date": "Thu, 09 Jul 2026 07:48:23 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Apuesta con la Roja en Betsson: freebet de 10€ para el España vs Bélgica",
-      "link": "https://www.jornadaperfecta.com/blog/betsson-apuesta-con-la-roja-espana-vs-belgica/",
-      "date": "Thu, 09 Jul 2026 07:00:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Atlético de Madrid cierra el fichaje de Morten Hjulmand",
-      "link": "https://www.jornadaperfecta.com/blog/atletico-fichaje-hjulmand-26-27/",
-      "date": "Thu, 09 Jul 2026 07:00:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Las cinco claves del mercado de fichajes del 8 de julio",
-      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-8-7-26/",
-      "date": "Wed, 08 Jul 2026 21:02:52 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-09T15:17:09.741Z",
+    "updatedAt": "2026-07-09T19:50:54.820Z",
     "players": []
   }
 }
