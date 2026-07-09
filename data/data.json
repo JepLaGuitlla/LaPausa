@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T19:37:39.183Z",
+  "updatedAt": "2026-07-09T03:38:14.645Z",
   "players": [
     {
       "id": 11,
@@ -1719,8 +1719,8 @@
       "trend": 0,
       "playedHome": 6,
       "playedAway": 7,
-      "teamName": "Real Madrid",
-      "teamId": 15,
+      "teamName": "Betis",
+      "teamId": 87,
       "status": "ok",
       "jForm": [
         null,
@@ -2622,7 +2622,13 @@
       "teamName": "Celta",
       "teamId": 5,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -2635,8 +2641,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Espanyol",
-      "teamId": 7,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -2693,6 +2699,9 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -2931,7 +2940,13 @@
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -3073,7 +3088,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -3089,7 +3110,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -5474,6 +5501,8 @@
       "jForm": [
         null,
         null,
+        null,
+        null,
         null
       ],
       "clausula": null
@@ -5743,8 +5772,8 @@
       "trend": 10000,
       "playedHome": 16,
       "playedAway": 13,
-      "teamName": "Villarreal",
-      "teamId": 19,
+      "teamName": "Getafe",
+      "teamId": 8,
       "status": "ok",
       "jForm": [
         2,
@@ -6369,8 +6398,8 @@
       "trend": 0,
       "playedHome": 15,
       "playedAway": 17,
-      "teamName": "",
-      "teamId": null,
+      "teamName": "Celta",
+      "teamId": 5,
       "status": "ok",
       "jForm": [
         7,
@@ -7008,7 +7037,13 @@
       "teamName": "Celta",
       "teamId": 5,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -7109,8 +7144,8 @@
       "trend": 10000,
       "playedHome": 12,
       "playedAway": 14,
-      "teamName": "Athletic",
-      "teamId": 1,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         -1,
@@ -7323,8 +7358,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Alavés",
-      "teamId": 91,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -7695,9 +7730,11 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
-        4,
-        3,
-        15
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -7837,8 +7874,8 @@
       "trend": -20000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Espanyol",
-      "teamId": 7,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -8563,9 +8600,9 @@
       "jForm": [
         null,
         null,
-        2,
         null,
-        3
+        null,
+        null
       ],
       "clausula": null
     },
@@ -8665,6 +8702,9 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -9170,6 +9210,9 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -9924,7 +9967,13 @@
       "teamName": "Betis",
       "teamId": 87,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -11672,7 +11721,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12618,7 +12673,13 @@
       "teamName": "Betis",
       "teamId": 87,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12874,7 +12935,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12954,7 +13021,13 @@
       "teamName": "Espanyol",
       "teamId": 7,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12970,7 +13043,13 @@
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -13004,9 +13083,37 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42412,
+      "slug": "g-moscardo",
+      "name": "Moscardo",
+      "position": 3,
+      "price": 540000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Espanyol",
+      "teamId": 7,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Las cinco claves del mercado de fichajes del 8 de julio",
+      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-8-7-26/",
+      "date": "Wed, 08 Jul 2026 21:02:52 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Oficial: Fran García, nuevo jugador del Real Betis",
@@ -13048,17 +13155,11 @@
       "title": "Apúntate a la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
       "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
       "date": "Wed, 08 Jul 2026 07:22:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Las cinco claves del mercado de fichajes del 7 de julio",
-      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-7-7-26/",
-      "date": "Tue, 07 Jul 2026 22:12:52 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-08T19:37:36.763Z",
+    "updatedAt": "2026-07-09T03:38:12.337Z",
     "players": []
   }
 }
