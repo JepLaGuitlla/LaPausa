@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T19:37:27.653Z",
+  "updatedAt": "2026-07-11T02:54:28.530Z",
   "players": [
     {
       "id": 11,
@@ -4395,7 +4395,7 @@
     {
       "id": 19506,
       "slug": "bordalas",
-      "name": "Bordalás",
+      "name": "Bordal��s",
       "position": 5,
       "price": 850000,
       "points": 51,
@@ -13041,6 +13041,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Noruega vs Inglaterra: cuotas 888Sport para los Cuartos del Mundial 2026",
+      "link": "https://www.jornadaperfecta.com/blog/888sport-noruega-vs-inglaterra-mundial/",
+      "date": "Fri, 10 Jul 2026 21:00:42 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Acuerdo Barcelona &#8211; Borussia Dortmund por Karim Adeyemi",
       "link": "https://www.jornadaperfecta.com/blog/barca-negocia-fichaje-adeyemi/",
       "date": "Fri, 10 Jul 2026 16:15:23 +0000"
@@ -13080,17 +13086,11 @@
       "title": "Promoción Sportium: Supercuota 5.00 en el España &#8211; Bélgica",
       "link": "https://www.jornadaperfecta.com/blog/supercuota-sportium-espana-belgica-mundial/",
       "date": "Thu, 09 Jul 2026 16:00:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Thu, 09 Jul 2026 15:00:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-10T19:37:25.843Z",
+    "updatedAt": "2026-07-11T02:54:26.581Z",
     "players": []
   }
 }
