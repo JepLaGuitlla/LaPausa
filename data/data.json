@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T08:01:13.517Z",
+  "updatedAt": "2026-07-11T13:27:01.022Z",
   "players": [
     {
       "id": 11,
@@ -13041,6 +13041,42 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "La Jornada 1 de LaLiga EA Sports apunta a ser fragmentada",
+      "link": "https://www.jornadaperfecta.com/blog/jornada-1-laliga-aplazamiento-26/",
+      "date": "Sat, 11 Jul 2026 11:55:06 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Courtois tranquiliza sobre su estado tras su lesión con Bélgica",
+      "link": "https://www.jornadaperfecta.com/blog/courtois-estado-lesion-cuadriceps-26/",
+      "date": "Sat, 11 Jul 2026 11:27:07 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El PSG aprieta para hacerse con Ferran Torres",
+      "link": "https://www.jornadaperfecta.com/blog/ferran-torres-posible-salida-barcelona/",
+      "date": "Sat, 11 Jul 2026 11:12:13 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Acuerdo para la salida de Akor Adams del Sevilla",
+      "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
+      "date": "Sat, 11 Jul 2026 10:50:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Sat, 11 Jul 2026 10:45:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Hjulmand, nuevo jugador del Atlético de Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/hjulmand-atletico-anuncio-fichaje/",
+      "date": "Sat, 11 Jul 2026 09:29:07 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Noruega vs Inglaterra: cuotas 888Sport para los Cuartos del Mundial 2026",
       "link": "https://www.jornadaperfecta.com/blog/888sport-noruega-vs-inglaterra-mundial/",
       "date": "Fri, 10 Jul 2026 21:00:42 +0000"
@@ -13050,47 +13086,11 @@
       "title": "Acuerdo Barcelona &#8211; Borussia Dortmund por Karim Adeyemi",
       "link": "https://www.jornadaperfecta.com/blog/barca-negocia-fichaje-adeyemi/",
       "date": "Fri, 10 Jul 2026 16:15:23 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Apuesta al España vs Bélgica con seguro del 25% en MARCAapuestas",
-      "link": "https://www.jornadaperfecta.com/blog/marcaapuestas-seguro-espana-vs-belgica/",
-      "date": "Fri, 10 Jul 2026 07:00:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Las cinco claves del mercado de fichajes del 9 de julio",
-      "link": "https://www.jornadaperfecta.com/blog/las-cinco-claves-del-mercado-de-fichajes-del-9-de-julio/",
-      "date": "Thu, 09 Jul 2026 22:37:45 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Maxicuotas de Codere para el España &#8211; Bélgica: ¡Ganancias mejoradas!",
-      "link": "https://www.jornadaperfecta.com/blog/codere-maxicuotas-espana-belgica/",
-      "date": "Thu, 09 Jul 2026 20:00:50 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Akor Adams y Nianzou, cerca de abandonar el Sevilla",
-      "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
-      "date": "Thu, 09 Jul 2026 17:37:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Valencia, cerca de cerrar la llegada de Thomas Meunier",
-      "link": "https://www.jornadaperfecta.com/blog/thomas-meunier-valencia-fichaje/",
-      "date": "Thu, 09 Jul 2026 17:13:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Sportium: Supercuota 5.00 en el España &#8211; Bélgica",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-sportium-espana-belgica-mundial/",
-      "date": "Thu, 09 Jul 2026 16:00:28 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-11T08:01:11.425Z",
+    "updatedAt": "2026-07-11T13:26:58.933Z",
     "players": []
   }
 }
