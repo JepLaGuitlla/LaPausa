@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T19:09:17.009Z",
+  "updatedAt": "2026-07-12T03:19:45.206Z",
   "players": [
     {
       "id": 11,
@@ -2931,7 +2931,13 @@
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -5468,8 +5474,8 @@
       "trend": -10000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Getafe",
-      "teamId": 8,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -7695,9 +7701,11 @@
       "teamId": 8,
       "status": "ok",
       "jForm": [
-        4,
-        3,
-        15
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "clausula": null
     },
@@ -8563,9 +8571,9 @@
       "jForm": [
         null,
         null,
-        2,
         null,
-        3
+        null,
+        null
       ],
       "clausula": null
     },
@@ -9525,8 +9533,8 @@
       "trend": 0,
       "playedHome": 7,
       "playedAway": 6,
-      "teamName": "Athletic",
-      "teamId": 1,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         7,
@@ -12794,7 +12802,13 @@
       "teamName": "Atlético",
       "teamId": 2,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -12970,7 +12984,13 @@
       "teamName": "Getafe",
       "teamId": 8,
       "status": "ok",
-      "jForm": [],
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "clausula": null
     },
     {
@@ -13036,6 +13056,28 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42444,
+      "slug": "morten-hjulmand",
+      "name": "Morten Hjulmand",
+      "position": 3,
+      "price": 8110000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Atlético",
+      "teamId": 2,
+      "status": "ok",
+      "jForm": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "clausula": null
     }
   ],
   "news": [
@@ -13090,7 +13132,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-11T19:09:14.832Z",
+    "updatedAt": "2026-07-12T03:19:43.761Z",
     "players": []
   }
 }
