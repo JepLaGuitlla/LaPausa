@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T09:33:51.866Z",
+  "updatedAt": "2026-07-13T14:41:44.406Z",
   "players": [
     {
       "id": 11,
@@ -13057,6 +13057,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Las 5 Maxicuotas de Codere para el Francia &#8211; España &#124; ¡Hasta 4.75 euros!",
+      "link": "https://www.jornadaperfecta.com/blog/maxicuotas-codere-francia-espana/",
+      "date": "Mon, 13 Jul 2026 10:06:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Betis, pendiente de Deossa para seguir el mercado",
       "link": "https://www.jornadaperfecta.com/blog/deossa-betis-salida-laliga/",
       "date": "Mon, 13 Jul 2026 09:32:15 +0000"
@@ -13096,17 +13102,11 @@
       "title": "Hugo Sotelo y Manu Sánchez, cerca del Levante UD",
       "link": "https://www.jornadaperfecta.com/blog/levante-acuerdo-hugo-sotelo-26/",
       "date": "Sun, 12 Jul 2026 11:15:34 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ferran Torres tendría un acuerdo con el PSG",
-      "link": "https://www.jornadaperfecta.com/blog/ferran-torres-posible-salida-barcelona/",
-      "date": "Sun, 12 Jul 2026 10:45:13 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-13T09:33:49.880Z",
+    "updatedAt": "2026-07-13T14:41:42.398Z",
     "players": []
   }
 }
