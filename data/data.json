@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T13:51:53.822Z",
+  "updatedAt": "2026-07-14T19:24:16.818Z",
   "players": [
     {
       "id": 11,
@@ -10658,6 +10658,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Juanlu sufre una pequeña lesión en mitad de rumores",
+      "link": "https://www.jornadaperfecta.com/blog/juanlu-molestias-pretemporada-sevilla/",
+      "date": "Tue, 14 Jul 2026 16:54:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Álvaro Rodríguez se marcha y el Elche busca delanteros",
+      "link": "https://www.jornadaperfecta.com/blog/elche-delanteros-mercado/",
+      "date": "Tue, 14 Jul 2026 16:25:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Contratiempo en la pretemporada de la Real Sociedad",
+      "link": "https://www.jornadaperfecta.com/blog/pablo-marin-lesion-real-j1/",
+      "date": "Tue, 14 Jul 2026 14:39:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Cardoso acelera en su recuperación",
+      "link": "https://www.jornadaperfecta.com/blog/cardoso-recuperacion-atleti-laliga/",
+      "date": "Tue, 14 Jul 2026 14:25:29 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "¡Alarma De Jong! Posible lesión de varios meses",
+      "link": "https://www.jornadaperfecta.com/blog/de-jong-lesion-rodilla-barca/",
+      "date": "Tue, 14 Jul 2026 14:14:33 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Oficial: Fernando Calero, nuevo jugador del Málaga CF",
       "link": "https://www.jornadaperfecta.com/blog/fernando-calero-malaga-fichaje-26/",
       "date": "Tue, 14 Jul 2026 12:30:56 +0000"
@@ -10673,41 +10703,11 @@
       "title": "Thiago Almada saldrá este mercado del Atlético de Madrid",
       "link": "https://www.jornadaperfecta.com/blog/thiago-almada-salida-atletico-26/",
       "date": "Tue, 14 Jul 2026 11:17:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Andrés García, a un paso de ser nuevo jugador del Getafe",
-      "link": "https://www.jornadaperfecta.com/blog/andres-garcia-acuerdo-getafe-26/",
-      "date": "Tue, 14 Jul 2026 10:58:41 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Se cae la llegada de Thomas Meunier al Valencia",
-      "link": "https://www.jornadaperfecta.com/blog/thomas-meunier-valencia-fichaje/",
-      "date": "Tue, 14 Jul 2026 09:40:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Aprende a interpretar el valor de mercado de un futbolista en los Fantasy de LaLiga",
-      "link": "https://www.jornadaperfecta.com/blog/interpretar-valor-mercado-fantasy/",
-      "date": "Tue, 14 Jul 2026 09:27:40 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "OFICIAL: La Jornada 1 de LaLiga EA Sports será fragmentada",
-      "link": "https://www.jornadaperfecta.com/blog/jornada-1-laliga-aplazamiento-26/",
-      "date": "Tue, 14 Jul 2026 09:20:06 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Kang-in Lee pasa reconocimiento médico en Corea para fichar por el Atlético de Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/kang-in-lee-atletico-fichaje/",
-      "date": "Tue, 14 Jul 2026 09:10:26 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-14T13:51:51.487Z",
+    "updatedAt": "2026-07-14T19:24:14.508Z",
     "players": []
   }
 }
