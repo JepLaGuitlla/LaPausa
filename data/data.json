@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T19:26:45.016Z",
+  "updatedAt": "2026-07-14T02:46:34.043Z",
   "players": [
     {
       "id": 11,
@@ -10069,8 +10069,8 @@
       "trend": 0,
       "playedHome": 8,
       "playedAway": 11,
-      "teamName": "Valencia",
-      "teamId": 18,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [
         null,
@@ -13052,9 +13052,43 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42459,
+      "slug": "asp-jensen",
+      "name": "Jensen",
+      "position": 3,
+      "price": 630000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Deportivo",
+      "teamId": 6,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Fernando Calero estaría a un paso del Málaga CF",
+      "link": "https://www.jornadaperfecta.com/blog/fernando-calero-acuerdo-malaga/",
+      "date": "Mon, 13 Jul 2026 22:24:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Las cinco claves del mercado de fichajes del 13 de julio",
+      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-13-7-26/",
+      "date": "Mon, 13 Jul 2026 21:00:33 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota YoSports para el Francia vs España: cuota 6.50",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-francia-vs-espana/",
+      "date": "Mon, 13 Jul 2026 21:00:20 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Rayo Vallecano y Chelsea, en negociaciones por Pep Chavarría",
@@ -13084,29 +13118,11 @@
       "title": "La Jornada 1 de LaLiga EA Sports apunta a ser fragmentada",
       "link": "https://www.jornadaperfecta.com/blog/jornada-1-laliga-aplazamiento-26/",
       "date": "Mon, 13 Jul 2026 17:25:06 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Courtois pasa pruebas en Valdebebas tras el Mundial. ¿Preocupa?",
-      "link": "https://www.jornadaperfecta.com/blog/courtois-estado-lesion-cuadriceps-26/",
-      "date": "Mon, 13 Jul 2026 17:15:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Asp Jensen, nuevo jugador del Deportivo de A Coruña",
-      "link": "https://www.jornadaperfecta.com/blog/jonathan-asp-jensen-fichaje-depor/",
-      "date": "Mon, 13 Jul 2026 17:10:53 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Mon, 13 Jul 2026 17:00:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-13T19:26:42.963Z",
+    "updatedAt": "2026-07-14T02:46:32.234Z",
     "players": []
   }
 }
