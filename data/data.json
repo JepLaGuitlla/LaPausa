@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T13:49:58.178Z",
+  "updatedAt": "2026-07-15T19:16:40.450Z",
   "players": [
     {
       "id": 11,
@@ -9988,6 +9988,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "El Betis negocia con el Villarreal por Diego Conde",
+      "link": "https://www.jornadaperfecta.com/blog/diego-conde-fichaje-betis/",
+      "date": "Wed, 15 Jul 2026 16:44:53 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Depor, cerca de cerrar una bomba en la delantera",
+      "link": "https://www.jornadaperfecta.com/blog/aubameyang-depor-fichaje/",
+      "date": "Wed, 15 Jul 2026 16:33:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Diego Rico, en el radar del Málaga",
       "link": "https://www.jornadaperfecta.com/blog/diego-rico-malaga-fichaje/",
       "date": "Wed, 15 Jul 2026 09:22:35 +0000"
@@ -10021,23 +10033,11 @@
       "title": "Álvaro Rodríguez se marcha y el Elche busca delanteros",
       "link": "https://www.jornadaperfecta.com/blog/elche-delanteros-mercado/",
       "date": "Tue, 14 Jul 2026 16:25:21 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Contratiempo en la pretemporada de la Real Sociedad",
-      "link": "https://www.jornadaperfecta.com/blog/pablo-marin-lesion-real-j1/",
-      "date": "Tue, 14 Jul 2026 14:39:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Cardoso acelera en su recuperación",
-      "link": "https://www.jornadaperfecta.com/blog/cardoso-recuperacion-atleti-laliga/",
-      "date": "Tue, 14 Jul 2026 14:25:29 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-15T13:49:56.041Z",
+    "updatedAt": "2026-07-15T19:16:38.505Z",
     "players": []
   }
 }
