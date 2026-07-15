@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T08:20:00.404Z",
+  "updatedAt": "2026-07-15T13:49:58.178Z",
   "players": [
     {
       "id": 11,
@@ -9988,6 +9988,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Diego Rico, en el radar del Málaga",
+      "link": "https://www.jornadaperfecta.com/blog/diego-rico-malaga-fichaje/",
+      "date": "Wed, 15 Jul 2026 09:22:35 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Vesga trabaja al margen, ¿posible salida del Athletic?",
+      "link": "https://www.jornadaperfecta.com/blog/vesga-futuro-athletic/",
+      "date": "Wed, 15 Jul 2026 09:00:59 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Ter Stegen, a un paso de jugar en el Ajax",
+      "link": "https://www.jornadaperfecta.com/blog/ter-stegen-cesion-ajax/",
+      "date": "Wed, 15 Jul 2026 08:41:48 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Apúntate a la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
       "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
       "date": "Wed, 15 Jul 2026 06:00:54 +0000"
@@ -10015,29 +10033,11 @@
       "title": "Cardoso acelera en su recuperación",
       "link": "https://www.jornadaperfecta.com/blog/cardoso-recuperacion-atleti-laliga/",
       "date": "Tue, 14 Jul 2026 14:25:29 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "¡Alarma De Jong! Posible lesión de varios meses",
-      "link": "https://www.jornadaperfecta.com/blog/de-jong-lesion-rodilla-barca/",
-      "date": "Tue, 14 Jul 2026 14:14:33 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Fernando Calero, nuevo jugador del Málaga CF",
-      "link": "https://www.jornadaperfecta.com/blog/fernando-calero-malaga-fichaje-26/",
-      "date": "Tue, 14 Jul 2026 12:30:56 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El fichaje de Patrick Mercado por el Sevilla sigue paralizado",
-      "link": "https://www.jornadaperfecta.com/blog/patrick-mercado-sevilla-fichaje-reconocimiento/",
-      "date": "Tue, 14 Jul 2026 11:44:37 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-15T08:19:58.261Z",
+    "updatedAt": "2026-07-15T13:49:56.041Z",
     "players": []
   }
 }
