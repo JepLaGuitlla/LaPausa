@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T14:01:07.962Z",
+  "updatedAt": "2026-07-16T19:17:14.738Z",
   "players": [
     {
       "id": 11,
@@ -554,7 +554,7 @@
     {
       "id": 1874,
       "slug": "pau-lopez",
-      "name": "Pau López",
+      "name": "Pau L��pez",
       "position": 1,
       "price": 220000,
       "points": 0,
@@ -9010,6 +9010,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Juan Cruz despierta interés en un nuevo equipo de Primera",
+      "link": "https://www.jornadaperfecta.com/blog/juan-cruz-malaga-fichaje/",
+      "date": "Thu, 16 Jul 2026 18:27:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Vivian sufre una lesión en el aductor",
+      "link": "https://www.jornadaperfecta.com/blog/vivian-problemas-aductor-athletic/",
+      "date": "Thu, 16 Jul 2026 15:45:54 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Problemas para Sannadi en el primer amistoso",
+      "link": "https://www.jornadaperfecta.com/blog/sannadi-molestias-rodilla-athletic/",
+      "date": "Thu, 16 Jul 2026 14:24:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Christantus Uche vuelve al Getafe&#8230; ¿Para quedarse?",
       "link": "https://www.jornadaperfecta.com/blog/christantus-uche-getafe-continuidad-26-27/",
       "date": "Thu, 16 Jul 2026 11:47:42 +0000"
@@ -9037,29 +9055,11 @@
       "title": "Primer susto con Morten Hjulmand en el Atlético de Madrid",
       "link": "https://www.jornadaperfecta.com/blog/morten-hjulmand-molestias-rodilla-pretemporada-26/",
       "date": "Thu, 16 Jul 2026 10:03:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Andrés García, nuevo jugador del Getafe CF",
-      "link": "https://www.jornadaperfecta.com/blog/andres-garcia-getafe-fichaje-anuncio-26/",
-      "date": "Thu, 16 Jul 2026 09:42:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Mikel Rodríguez, nuevo jugador del Deportivo Alavés",
-      "link": "https://www.jornadaperfecta.com/blog/mikel-rodriguez-alaves-fichaje-anuncio-26/",
-      "date": "Thu, 16 Jul 2026 09:37:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Aïssa Mandi, nuevo jugador del Levante UD",
-      "link": "https://www.jornadaperfecta.com/blog/aissa-mandi-levante-fichaje-anuncio-26/",
-      "date": "Thu, 16 Jul 2026 09:18:46 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-16T14:01:04.713Z",
+    "updatedAt": "2026-07-16T19:17:12.118Z",
     "players": []
   }
 }
