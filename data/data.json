@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T13:45:44.413Z",
+  "updatedAt": "2026-07-17T19:15:29.991Z",
   "players": [
     {
       "id": 11,
@@ -561,8 +561,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Betis",
-      "teamId": 87,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -6029,8 +6029,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Villarreal",
-      "teamId": 19,
+      "teamName": "Levante",
+      "teamId": 10,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -8949,6 +8949,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Abqar y Andrés García, sustituidos por molestias",
+      "link": "https://www.jornadaperfecta.com/blog/abqar-andres-garcia-molestias-getafe/",
+      "date": "Fri, 17 Jul 2026 17:47:45 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Bono mejorado de bwin al España &#8211; Argentina: ¡30€ gratis + Supercuota!",
+      "link": "https://www.jornadaperfecta.com/blog/bono-bwin-espana-argentina-mundial-2026/",
+      "date": "Fri, 17 Jul 2026 17:00:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Parte médico de Ilaix Moriba y Pablo Durán",
+      "link": "https://www.jornadaperfecta.com/blog/parte-medico-ilaix-moriba-duran/",
+      "date": "Fri, 17 Jul 2026 14:51:48 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Dani Requena, nuevo jugador del Levante UD",
+      "link": "https://www.jornadaperfecta.com/blog/dani-requena-levante-anuncio-fichaje-26/",
+      "date": "Fri, 17 Jul 2026 14:22:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Nicolas Raskin, cerca de ser nuevo jugador del Villarreal",
       "link": "https://www.jornadaperfecta.com/blog/nicolas-raskin-villarreal-negociacion/",
       "date": "Fri, 17 Jul 2026 12:49:38 +0000"
@@ -8970,35 +8994,11 @@
       "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
       "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
       "date": "Fri, 17 Jul 2026 11:20:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Javi Puado da una fecha de vuelta tras su grave lesión de cruzado",
-      "link": "https://www.jornadaperfecta.com/blog/javi-puado-fecha-vuelta-lesion-cruzado-26/",
-      "date": "Fri, 17 Jul 2026 10:56:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Comunicado del Atleti sobre Julián: «Ni por 100, ni por 150, ni por 200 millones»",
-      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-pide-salir-atleti/",
-      "date": "Fri, 17 Jul 2026 10:45:48 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Último entrenamiento de Akor Adams antes de su salida",
-      "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
-      "date": "Fri, 17 Jul 2026 10:00:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Aubameyang pasa reconocimiento médico con el Dépor",
-      "link": "https://www.jornadaperfecta.com/blog/aubameyang-depor-fichaje/",
-      "date": "Fri, 17 Jul 2026 09:55:49 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-17T13:45:42.007Z",
+    "updatedAt": "2026-07-17T19:15:27.607Z",
     "players": []
   }
 }
