@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T13:23:00.816Z",
+  "updatedAt": "2026-07-18T19:09:54.562Z",
   "players": [
     {
       "id": 11,
@@ -6230,7 +6230,7 @@
     {
       "id": 37719,
       "slug": "alvaro-nunez",
-      "name": "Álvaro Nú��ez",
+      "name": "Álvaro Núñez",
       "position": 2,
       "price": 570000,
       "points": 0,
@@ -8949,6 +8949,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Consigue hasta 15€ en Apuestas Gratis con DAZN Bet en el España vs Argentina",
+      "link": "https://www.jornadaperfecta.com/blog/dazn-bet-espana-vs-argentina-final-mundial/",
+      "date": "Sat, 18 Jul 2026 19:00:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Apuesta en el España vs Argentina con devolución en MARCAapuestas",
       "link": "https://www.jornadaperfecta.com/blog/marcaapuestas-espana-vs-argentina-final-mundial/",
       "date": "Sat, 18 Jul 2026 13:00:27 +0000"
@@ -8988,17 +8994,11 @@
       "title": "Bono mejorado de bwin al España &#8211; Argentina: ¡30€ gratis + Supercuota!",
       "link": "https://www.jornadaperfecta.com/blog/bono-bwin-espana-argentina-mundial-2026/",
       "date": "Fri, 17 Jul 2026 17:00:21 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Parte médico de Ilaix Moriba y Pablo Durán",
-      "link": "https://www.jornadaperfecta.com/blog/parte-medico-ilaix-moriba-duran/",
-      "date": "Fri, 17 Jul 2026 14:51:48 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-18T13:22:59.211Z",
+    "updatedAt": "2026-07-18T19:09:52.606Z",
     "players": []
   }
 }
