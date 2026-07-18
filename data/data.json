@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T07:57:28.886Z",
+  "updatedAt": "2026-07-18T13:23:00.816Z",
   "players": [
     {
       "id": 11,
@@ -6230,7 +6230,7 @@
     {
       "id": 37719,
       "slug": "alvaro-nunez",
-      "name": "Álvaro Núñez",
+      "name": "Álvaro Nú��ez",
       "position": 2,
       "price": 570000,
       "points": 0,
@@ -8949,6 +8949,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Apuesta en el España vs Argentina con devolución en MARCAapuestas",
+      "link": "https://www.jornadaperfecta.com/blog/marcaapuestas-espana-vs-argentina-final-mundial/",
+      "date": "Sat, 18 Jul 2026 13:00:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "MaxiCuota de España y Yamal para la Final: ¡9.00 euros en Codere!",
       "link": "https://www.jornadaperfecta.com/blog/maxicuota-espana-argentina-final-mundial-codere/",
       "date": "Sat, 18 Jul 2026 07:00:51 +0000"
@@ -8988,17 +8994,11 @@
       "title": "Parte médico de Ilaix Moriba y Pablo Durán",
       "link": "https://www.jornadaperfecta.com/blog/parte-medico-ilaix-moriba-duran/",
       "date": "Fri, 17 Jul 2026 14:51:48 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Dani Requena, nuevo jugador del Levante UD",
-      "link": "https://www.jornadaperfecta.com/blog/dani-requena-levante-anuncio-fichaje-26/",
-      "date": "Fri, 17 Jul 2026 14:22:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-18T07:57:27.261Z",
+    "updatedAt": "2026-07-18T13:22:59.211Z",
     "players": []
   }
 }
