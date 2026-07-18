@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T19:15:29.991Z",
+  "updatedAt": "2026-07-18T02:46:14.001Z",
   "players": [
     {
       "id": 11,
@@ -8949,6 +8949,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oficial: Pierre-Emerick Aubameyang, nuevo jugador del Deportivo de A Coruña",
+      "link": "https://www.jornadaperfecta.com/blog/aubameyang-deportivo-anuncio-fichaje-26/",
+      "date": "Fri, 17 Jul 2026 22:11:14 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Betway te da 5€ gratis con tu apuesta al España &#8211; Argentina de la Final",
+      "link": "https://www.jornadaperfecta.com/blog/apuesta-betway-espana-argentina-freebet/",
+      "date": "Fri, 17 Jul 2026 21:00:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Las cinco claves del mercado de fichajes del 17 de julio",
+      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-17-7-26/",
+      "date": "Fri, 17 Jul 2026 21:00:45 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Abqar y Andrés García, sustituidos por molestias",
       "link": "https://www.jornadaperfecta.com/blog/abqar-andres-garcia-molestias-getafe/",
       "date": "Fri, 17 Jul 2026 17:47:45 +0000"
@@ -8976,29 +8994,11 @@
       "title": "Nicolas Raskin, cerca de ser nuevo jugador del Villarreal",
       "link": "https://www.jornadaperfecta.com/blog/nicolas-raskin-villarreal-negociacion/",
       "date": "Fri, 17 Jul 2026 12:49:38 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "La lesión de Copete se agrava: se pierde el inicio de Liga",
-      "link": "https://www.jornadaperfecta.com/blog/copete-recaida-lesion-menisco-26/",
-      "date": "Fri, 17 Jul 2026 11:41:30 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Real Betis cierra la llegada de Diego Conde",
-      "link": "https://www.jornadaperfecta.com/blog/diego-conde-fichaje-betis/",
-      "date": "Fri, 17 Jul 2026 11:24:53 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Fri, 17 Jul 2026 11:20:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-17T19:15:27.607Z",
+    "updatedAt": "2026-07-18T02:46:12.099Z",
     "players": []
   }
 }
