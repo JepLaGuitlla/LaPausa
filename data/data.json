@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:24:28.237Z",
+  "updatedAt": "2026-07-19T19:10:46.381Z",
   "players": [
     {
       "id": 11,
@@ -3142,7 +3142,7 @@
     {
       "id": 22975,
       "slug": "dani-cardenas",
-      "name": "Dani C��rdenas",
+      "name": "Dani Cárdenas",
       "position": 1,
       "price": 190000,
       "points": 0,
@@ -4211,6 +4211,22 @@
       "playedAway": 0,
       "teamName": "Sevilla",
       "teamId": 17,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 28282,
+      "slug": "juan-cruz-2",
+      "name": "Juan Cruz Díaz",
+      "position": 4,
+      "price": 310000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Málaga",
+      "teamId": 65,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -6246,7 +6262,7 @@
     {
       "id": 37719,
       "slug": "alvaro-nunez",
-      "name": "Álvaro Nú��ez",
+      "name": "Álvaro Núñez",
       "position": 2,
       "price": 570000,
       "points": 0,
@@ -9008,7 +9024,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-19T13:24:26.141Z",
+    "updatedAt": "2026-07-19T19:10:44.617Z",
     "players": []
   }
 }
