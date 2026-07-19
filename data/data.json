@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T08:24:09.503Z",
+  "updatedAt": "2026-07-19T13:24:28.237Z",
   "players": [
     {
       "id": 11,
@@ -3142,7 +3142,7 @@
     {
       "id": 22975,
       "slug": "dani-cardenas",
-      "name": "Dani Cárdenas",
+      "name": "Dani C��rdenas",
       "position": 1,
       "price": 190000,
       "points": 0,
@@ -8959,6 +8959,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Oficial: Juan Cruz, nuevo jugador del Málaga CF",
+      "link": "https://www.jornadaperfecta.com/blog/juan-cruz-malaga-anuncio-fichaje-26/",
+      "date": "Sun, 19 Jul 2026 11:24:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Se cae el acuerdo del Levante con Julio Díaz, que irá al Sevilla",
+      "link": "https://www.jornadaperfecta.com/blog/julio-diaz-acuerdo-levante-26/",
+      "date": "Sun, 19 Jul 2026 10:15:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Supercuota YoSports para España vs Argentina: cuota 7.50 por victoria de España y gol de Lamine Yamal",
+      "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-espana-vs-argentina-final-mundial/",
+      "date": "Sun, 19 Jul 2026 10:00:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Sun, 19 Jul 2026 09:55:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Promoción Kirolbet España vs Argentina: consigue 10 € en freebets",
       "link": "https://www.jornadaperfecta.com/blog/kirolbet-final-mundial-espana-vs-argentina/",
       "date": "Sun, 19 Jul 2026 07:00:12 +0000"
@@ -8980,35 +9004,11 @@
       "title": "MaxiCuota de España y Yamal para la Final: ¡9.00 euros en Codere!",
       "link": "https://www.jornadaperfecta.com/blog/maxicuota-espana-argentina-final-mundial-codere/",
       "date": "Sat, 18 Jul 2026 07:00:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Pierre-Emerick Aubameyang, nuevo jugador del Deportivo de A Coruña",
-      "link": "https://www.jornadaperfecta.com/blog/aubameyang-deportivo-anuncio-fichaje-26/",
-      "date": "Fri, 17 Jul 2026 22:11:14 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Betway te da 5€ gratis con tu apuesta al España &#8211; Argentina de la Final",
-      "link": "https://www.jornadaperfecta.com/blog/apuesta-betway-espana-argentina-freebet/",
-      "date": "Fri, 17 Jul 2026 21:00:46 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Las cinco claves del mercado de fichajes del 17 de julio",
-      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-17-7-26/",
-      "date": "Fri, 17 Jul 2026 21:00:45 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Abqar y Andrés García, sustituidos por molestias",
-      "link": "https://www.jornadaperfecta.com/blog/abqar-andres-garcia-molestias-getafe/",
-      "date": "Fri, 17 Jul 2026 17:47:45 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-19T08:24:07.274Z",
+    "updatedAt": "2026-07-19T13:24:26.141Z",
     "players": []
   }
 }
