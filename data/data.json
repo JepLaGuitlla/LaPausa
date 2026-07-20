@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T19:10:46.381Z",
+  "updatedAt": "2026-07-20T03:30:24.467Z",
   "players": [
     {
       "id": 11,
@@ -1952,7 +1952,7 @@
     {
       "id": 14707,
       "slug": "damian-rodriguez",
-      "name": "Damián Rodríguez",
+      "name": "Dami��n Rodríguez",
       "position": 3,
       "price": 270000,
       "points": 0,
@@ -2601,22 +2601,6 @@
       "playedAway": 0,
       "teamName": "Osasuna",
       "teamId": 93,
-      "status": "ok",
-      "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 18496,
-      "slug": "jokin-ezkieta",
-      "name": "Ezkieta",
-      "position": 1,
-      "price": 820000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -9024,7 +9008,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-19T19:10:44.617Z",
+    "updatedAt": "2026-07-20T03:30:22.202Z",
     "players": []
   }
 }
