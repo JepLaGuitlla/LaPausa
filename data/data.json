@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T14:12:57.964Z",
+  "updatedAt": "2026-07-20T19:46:47.325Z",
   "players": [
     {
       "id": 11,
@@ -8959,6 +8959,42 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Acuerdo cerrado para la salida de Akor Adams",
+      "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
+      "date": "Mon, 20 Jul 2026 19:20:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Manu Sánchez, muy cerca de volver a jugar en el Levante UD",
+      "link": "https://www.jornadaperfecta.com/blog/manu-sanchez-vuelta-levante-26/",
+      "date": "Mon, 20 Jul 2026 19:16:46 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Promoción Betsson Champions League: apuesta 20€ y recibe 10€ en Freebet",
+      "link": "https://www.jornadaperfecta.com/blog/betsson-champions-league-clasificacion-promocion/",
+      "date": "Mon, 20 Jul 2026 18:56:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Apúntate a la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
+      "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
+      "date": "Mon, 20 Jul 2026 17:00:54 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Carlos Dotor, muy cerca de volver al Málaga CF",
+      "link": "https://www.jornadaperfecta.com/blog/carlos-dotor-regreso-malaga-26-27/",
+      "date": "Mon, 20 Jul 2026 15:23:56 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Hugo Sotelo, nuevo jugador del Levante UD",
+      "link": "https://www.jornadaperfecta.com/blog/hugo-sotelo-levante-fichaje-26/",
+      "date": "Mon, 20 Jul 2026 14:24:28 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Oficial: Diego Conde, nuevo jugador del Real Betis",
       "link": "https://www.jornadaperfecta.com/blog/diego-conde-betis-anuncio-fichaje-26/",
       "date": "Mon, 20 Jul 2026 12:52:39 +0000"
@@ -8968,47 +9004,11 @@
       "title": "Diego Conde ya está en Sevilla para cerrar su cesión al Betis",
       "link": "https://www.jornadaperfecta.com/blog/diego-conde-fichaje-betis/",
       "date": "Mon, 20 Jul 2026 10:24:53 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Mon, 20 Jul 2026 07:55:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Comunicado del Atleti sobre Julián: «Ni por 100, ni por 150, ni por 200 millones»",
-      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-pide-salir-atleti/",
-      "date": "Sun, 19 Jul 2026 18:45:48 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Juan Cruz, nuevo jugador del Málaga CF",
-      "link": "https://www.jornadaperfecta.com/blog/juan-cruz-malaga-anuncio-fichaje-26/",
-      "date": "Sun, 19 Jul 2026 11:24:21 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Se cae el acuerdo del Levante con Julio Díaz, que irá al Sevilla",
-      "link": "https://www.jornadaperfecta.com/blog/julio-diaz-acuerdo-levante-26/",
-      "date": "Sun, 19 Jul 2026 10:15:21 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Supercuota YoSports para España vs Argentina: cuota 7.50 por victoria de España y gol de Lamine Yamal",
-      "link": "https://www.jornadaperfecta.com/blog/supercuota-yosports-espana-vs-argentina-final-mundial/",
-      "date": "Sun, 19 Jul 2026 10:00:05 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Kirolbet España vs Argentina: consigue 10 € en freebets",
-      "link": "https://www.jornadaperfecta.com/blog/kirolbet-final-mundial-espana-vs-argentina/",
-      "date": "Sun, 19 Jul 2026 07:00:12 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-20T14:12:55.905Z",
+    "updatedAt": "2026-07-20T19:46:45.469Z",
     "players": []
   }
 }
