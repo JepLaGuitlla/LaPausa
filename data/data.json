@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T08:34:17.647Z",
+  "updatedAt": "2026-07-21T19:36:22.574Z",
   "players": [
     {
       "id": 11,
@@ -7669,8 +7669,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Espanyol",
-      "teamId": 7,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -8629,8 +8629,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Deportivo",
-      "teamId": 6,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -8927,56 +8927,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Apúntate a la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
-      "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
-      "date": "Tue, 21 Jul 2026 05:00:54 +0000"
+      "title": "Sergio Canales vuelve a su casa, el Racing, ¿chollo fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/canales-analisis-fantasy-racing/",
+      "date": "Tue, 21 Jul 2026 19:00:15 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Las cinco claves del mercado de fichajes del 20 de julio",
-      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-20-7-26/",
-      "date": "Mon, 20 Jul 2026 21:00:02 +0000"
+      "title": "El Real Madrid se plantea el fichaje de Rodri, aún sin el OK de Florentino",
+      "link": "https://www.jornadaperfecta.com/blog/rodri-real-madrid-posible-fichaje-26/",
+      "date": "Tue, 21 Jul 2026 17:38:17 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Acuerdo cerrado para la salida de Akor Adams",
-      "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
-      "date": "Mon, 20 Jul 2026 19:20:47 +0000"
+      "title": "Juan Iglesias cambia Getafe por Sevilla. ¿Será una pieza clave?",
+      "link": "https://www.jornadaperfecta.com/blog/juan-iglesias-analisis-fantasy-fichaje-sevilla/",
+      "date": "Tue, 21 Jul 2026 17:00:04 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Manu Sánchez, muy cerca de volver a jugar en el Levante UD",
-      "link": "https://www.jornadaperfecta.com/blog/manu-sanchez-vuelta-levante-26/",
-      "date": "Mon, 20 Jul 2026 19:16:46 +0000"
+      "title": "El Barça se plantea la opción Laporte para repetir la pareja de la Selección",
+      "link": "https://www.jornadaperfecta.com/blog/laporte-barcelona-posible-fichaje-26/",
+      "date": "Tue, 21 Jul 2026 16:50:27 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Promoción Betsson Champions League: apuesta 20€ y recibe 10€ en Freebet",
-      "link": "https://www.jornadaperfecta.com/blog/betsson-champions-league-clasificacion-promocion/",
-      "date": "Mon, 20 Jul 2026 18:56:08 +0000"
+      "title": "Osasuna se mueve por Dubasin, que aprieta para llegar a El Sadar",
+      "link": "https://www.jornadaperfecta.com/blog/dubasin-osasuna-posible-fichaje-26/",
+      "date": "Tue, 21 Jul 2026 16:29:09 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Carlos Dotor, muy cerca de volver al Málaga CF",
+      "title": "Gorrotxategi sigue ausente y aumenta la incertidumbre",
+      "link": "https://www.jornadaperfecta.com/blog/gorrotxategi-estado-real-sociedad-j1-2/",
+      "date": "Tue, 21 Jul 2026 16:00:37 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Carlos Dotor vuelve a ser cedido al Málaga CF",
       "link": "https://www.jornadaperfecta.com/blog/carlos-dotor-regreso-malaga-26-27/",
-      "date": "Mon, 20 Jul 2026 15:23:56 +0000"
+      "date": "Tue, 21 Jul 2026 12:55:56 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Oficial: Hugo Sotelo, nuevo jugador del Levante UD",
-      "link": "https://www.jornadaperfecta.com/blog/hugo-sotelo-levante-fichaje-26/",
-      "date": "Mon, 20 Jul 2026 14:24:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Diego Conde, nuevo jugador del Real Betis",
-      "link": "https://www.jornadaperfecta.com/blog/diego-conde-betis-anuncio-fichaje-26/",
-      "date": "Mon, 20 Jul 2026 12:52:39 +0000"
+      "title": "Oficial, Manu Sánchez regresa al Levante UD como cedido",
+      "link": "https://www.jornadaperfecta.com/blog/manu-sanchez-vuelta-levante-26/",
+      "date": "Tue, 21 Jul 2026 11:16:46 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-21T08:34:15.562Z",
+    "updatedAt": "2026-07-21T19:36:19.785Z",
     "players": []
   }
 }
