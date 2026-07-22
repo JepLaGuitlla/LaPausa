@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T14:03:12.043Z",
+  "updatedAt": "2026-07-22T19:25:21.621Z",
   "players": [
     {
       "id": 11,
@@ -8883,6 +8883,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Aubameyang, fichaje estrella del Dépor. ¿Fichajazo en fantasy o muy arriesgado?",
+      "link": "https://www.jornadaperfecta.com/blog/aubameyang-deportivo-analisis-fantasy-fichaje-26/",
+      "date": "Wed, 22 Jul 2026 19:00:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Aleix Febas ficha por el Celta. ¿Volverá a ser un TOP fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/febas-analisis-fantasy-celta/",
+      "date": "Wed, 22 Jul 2026 17:00:24 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Siguen avanzando las negociaciones para la vuelta de João Cancelo",
+      "link": "https://www.jornadaperfecta.com/blog/cancelo-vuelta-barcelona-26-27/",
+      "date": "Wed, 22 Jul 2026 16:15:57 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Real Madrid se decide: ¡irá a por Rodri Hernández!",
+      "link": "https://www.jornadaperfecta.com/blog/rodri-real-madrid-posible-fichaje-26/",
+      "date": "Wed, 22 Jul 2026 14:15:17 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El rol de Bernardo Silva en el Real Madrid: ¿será un TOP fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-analisis-fantasy-real-madrid/",
+      "date": "Wed, 22 Jul 2026 13:00:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Isco, Abde y Antony causan baja en el primer amistoso",
       "link": "https://www.jornadaperfecta.com/blog/isco-abde-y-antony-bajas-amistoso/",
       "date": "Wed, 22 Jul 2026 11:41:49 +0000"
@@ -8898,41 +8928,11 @@
       "title": "Facundo Bernal, refuerzo de lujo del Betis. ¿El nuevo Johnny Cardoso?",
       "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-analisis-betis/",
       "date": "Wed, 22 Jul 2026 11:00:41 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El rol de Bernardo Silva en el Real Madrid: ¿será un TOP fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-analisis-fantasy-real-madrid/",
-      "date": "Wed, 22 Jul 2026 09:00:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Apúntate a la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
-      "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
-      "date": "Wed, 22 Jul 2026 08:00:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Gana un 50% extra apostando en bwin a los partidos del 22 de julio",
-      "link": "https://www.jornadaperfecta.com/blog/bwin-apuestas-mejoradas-22-julio/",
-      "date": "Wed, 22 Jul 2026 07:00:57 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Wed, 22 Jul 2026 07:00:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Flash en Movistar Plus+: ¡50% de Descuento durante 3 meses!",
-      "link": "https://www.jornadaperfecta.com/blog/movistar-plus-promocion-verano-26/",
-      "date": "Tue, 21 Jul 2026 22:20:09 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-22T14:03:10.007Z",
+    "updatedAt": "2026-07-22T19:25:19.538Z",
     "players": []
   }
 }
