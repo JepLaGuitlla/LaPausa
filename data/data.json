@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:33:54.174Z",
+  "updatedAt": "2026-07-22T14:03:12.043Z",
   "players": [
     {
       "id": 11,
@@ -4712,6 +4712,22 @@
       "clausula": null
     },
     {
+      "id": 31465,
+      "slug": "torrents",
+      "name": "Torrents",
+      "position": 2,
+      "price": 170000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Barcelona",
+      "teamId": 3,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
       "id": 31475,
       "slug": "arsen-zakharyan",
       "name": "Zakharyan",
@@ -8867,6 +8883,30 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Isco, Abde y Antony causan baja en el primer amistoso",
+      "link": "https://www.jornadaperfecta.com/blog/isco-abde-y-antony-bajas-amistoso/",
+      "date": "Wed, 22 Jul 2026 11:41:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Franco Mastantuono saldrá cedido&#8230; ¡Y apunta a LaLiga!",
+      "link": "https://www.jornadaperfecta.com/blog/mastantuono-saldra-real-madrid/",
+      "date": "Wed, 22 Jul 2026 11:07:18 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Facundo Bernal, refuerzo de lujo del Betis. ¿El nuevo Johnny Cardoso?",
+      "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-analisis-betis/",
+      "date": "Wed, 22 Jul 2026 11:00:41 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El rol de Bernardo Silva en el Real Madrid: ¿será un TOP fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-analisis-fantasy-real-madrid/",
+      "date": "Wed, 22 Jul 2026 09:00:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Apúntate a la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
       "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
       "date": "Wed, 22 Jul 2026 08:00:54 +0000"
@@ -8888,35 +8928,11 @@
       "title": "Promoción Flash en Movistar Plus+: ¡50% de Descuento durante 3 meses!",
       "link": "https://www.jornadaperfecta.com/blog/movistar-plus-promocion-verano-26/",
       "date": "Tue, 21 Jul 2026 22:20:09 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Real Madrid se decide: ¡irá a por Rodri Hernández!",
-      "link": "https://www.jornadaperfecta.com/blog/rodri-real-madrid-posible-fichaje-26/",
-      "date": "Tue, 21 Jul 2026 22:15:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Las cinco claves del mercado de fichajes del 21 de julio",
-      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-21-7-26/",
-      "date": "Tue, 21 Jul 2026 21:00:58 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sergio Canales vuelve a su casa, el Racing, ¿chollo fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/canales-analisis-fantasy-racing/",
-      "date": "Tue, 21 Jul 2026 19:00:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Juan Iglesias cambia Getafe por Sevilla. ¿Será una pieza clave?",
-      "link": "https://www.jornadaperfecta.com/blog/juan-iglesias-analisis-fantasy-fichaje-sevilla/",
-      "date": "Tue, 21 Jul 2026 17:00:04 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-22T08:33:52.169Z",
+    "updatedAt": "2026-07-22T14:03:10.007Z",
     "players": []
   }
 }
