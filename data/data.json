@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T19:25:21.621Z",
+  "updatedAt": "2026-07-23T03:16:14.683Z",
   "players": [
     {
       "id": 11,
@@ -1587,22 +1587,6 @@
       "playedAway": 0,
       "teamName": "Celta",
       "teamId": 5,
-      "status": "ok",
-      "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 10716,
-      "slug": "justin-smith",
-      "name": "Justin Smith",
-      "position": 3,
-      "price": 240000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -4674,28 +4658,6 @@
       "clausula": null
     },
     {
-      "id": 31348,
-      "slug": "unai-gomez",
-      "name": "Unai Gómez",
-      "position": 3,
-      "price": 230000,
-      "points": 66,
-      "trend": 0,
-      "playedHome": 12,
-      "playedAway": 14,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        -1,
-        4,
-        4,
-        2,
-        1
-      ],
-      "clausula": null
-    },
-    {
       "id": 31410,
       "slug": "toni-fernandez",
       "name": "Toni Fernández",
@@ -4803,22 +4765,6 @@
       "playedAway": 0,
       "teamName": "Real Sociedad",
       "teamId": 13,
-      "status": "ok",
-      "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 32022,
-      "slug": "unai-ropero",
-      "name": "Unai Ropero",
-      "position": 4,
-      "price": 220000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -5187,22 +5133,6 @@
       "playedAway": 0,
       "teamName": "Espanyol",
       "teamId": 7,
-      "status": "ok",
-      "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 33706,
-      "slug": "omar-sadik",
-      "name": "Sadik",
-      "position": 4,
-      "price": 200000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -5927,8 +5857,8 @@
       "trend": -40000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Sevilla",
-      "teamId": 17,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -6775,28 +6705,6 @@
       "teamId": 13,
       "status": "ok",
       "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 38442,
-      "slug": "albarracin",
-      "name": "Albarracín",
-      "position": 3,
-      "price": 160000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
       "clausula": null
     },
     {
@@ -8883,6 +8791,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "El Sevilla hace oficial la venta de Akor Adams al Venezia",
+      "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
+      "date": "Wed, 22 Jul 2026 20:50:47 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Wed, 22 Jul 2026 20:00:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Aubameyang, fichaje estrella del Dépor. ¿Fichajazo en fantasy o muy arriesgado?",
       "link": "https://www.jornadaperfecta.com/blog/aubameyang-deportivo-analisis-fantasy-fichaje-26/",
       "date": "Wed, 22 Jul 2026 19:00:17 +0000"
@@ -8901,38 +8821,26 @@
     },
     {
       "source": "Jornada Perfecta",
+      "title": "Sergio Canales vuelve a su casa, el Racing, ¿chollo fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/canales-analisis-fantasy-racing/",
+      "date": "Wed, 22 Jul 2026 16:00:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Anthony Gordon, nuevo fichaje del Barça: ¿interesante en fantasy o muy caro?",
+      "link": "https://www.jornadaperfecta.com/blog/anthony-gordon-analisis-fantasy-barcelona/",
+      "date": "Wed, 22 Jul 2026 15:00:55 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "El Real Madrid se decide: ¡irá a por Rodri Hernández!",
       "link": "https://www.jornadaperfecta.com/blog/rodri-real-madrid-posible-fichaje-26/",
       "date": "Wed, 22 Jul 2026 14:15:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El rol de Bernardo Silva en el Real Madrid: ¿será un TOP fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/bernardo-silva-analisis-fantasy-real-madrid/",
-      "date": "Wed, 22 Jul 2026 13:00:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Isco, Abde y Antony causan baja en el primer amistoso",
-      "link": "https://www.jornadaperfecta.com/blog/isco-abde-y-antony-bajas-amistoso/",
-      "date": "Wed, 22 Jul 2026 11:41:49 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Franco Mastantuono saldrá cedido&#8230; ¡Y apunta a LaLiga!",
-      "link": "https://www.jornadaperfecta.com/blog/mastantuono-saldra-real-madrid/",
-      "date": "Wed, 22 Jul 2026 11:07:18 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Facundo Bernal, refuerzo de lujo del Betis. ¿El nuevo Johnny Cardoso?",
-      "link": "https://www.jornadaperfecta.com/blog/facundo-bernal-analisis-betis/",
-      "date": "Wed, 22 Jul 2026 11:00:41 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-22T19:25:19.538Z",
+    "updatedAt": "2026-07-23T03:16:12.391Z",
     "players": []
   }
 }
