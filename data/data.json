@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T14:09:13.335Z",
+  "updatedAt": "2026-07-23T19:23:07.511Z",
   "players": [
     {
       "id": 11,
@@ -8646,7 +8646,7 @@
     {
       "id": 42389,
       "slug": "ryunosuke",
-      "name": "Ryunosuke",
+      "name": "Ryunosuke Sato",
       "position": 3,
       "price": 1110000,
       "points": 0,
@@ -8807,9 +8807,39 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Isco y Antony entrenan con normalidad, tras ser baja en el último amistoso",
+      "title": "Fran García llega al Betis para volver a ser importante. ¿Chollo fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/fran-garcia-analisis-betis/",
+      "date": "Thu, 23 Jul 2026 19:00:52 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Consigue una Freebet de 5€ con la promoción de la Copa Sudamericana en Betsson",
+      "link": "https://www.jornadaperfecta.com/blog/betsson-copa-sudamericana/",
+      "date": "Thu, 23 Jul 2026 18:54:28 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Frenkie de Jong estará varios meses de baja: Parte médico oficial",
+      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-rotura-ligamento/",
+      "date": "Thu, 23 Jul 2026 17:08:10 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Odysseas Vlachodimos jugará un año más en el Sevilla FC. ¿Seguirá siendo clave?",
+      "link": "https://www.jornadaperfecta.com/blog/odysseas-vlachodimos-analisis-vuelta-sevilla-26/",
+      "date": "Thu, 23 Jul 2026 17:00:55 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Kike Salas, baja en el Sevilla por molestias. ¿Preocupa?",
+      "link": "https://www.jornadaperfecta.com/blog/kike-salas-molestias-cuadriceps/",
+      "date": "Thu, 23 Jul 2026 16:38:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Isco y Antony entrenan con el grupo, a pesar de unas molestias del español",
       "link": "https://www.jornadaperfecta.com/blog/isco-abde-y-antony-bajas-amistoso/",
-      "date": "Thu, 23 Jul 2026 11:41:49 +0000"
+      "date": "Thu, 23 Jul 2026 15:30:49 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -8822,41 +8852,11 @@
       "title": "Hartman refuerza la defensa del Espanyol. ¿Titular fijo y chollo fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/hartman-analisis-fantasy-fichaje-espanyol/",
       "date": "Thu, 23 Jul 2026 11:02:03 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Fermín entrena con el grupo y podría estar en el inicio de LaLiga",
-      "link": "https://www.jornadaperfecta.com/blog/fermin-recuperacion-fractura-pie/",
-      "date": "Thu, 23 Jul 2026 09:01:15 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Edin Terzic: Beneficiados y perjudicados fantasy en el Athletic Club",
-      "link": "https://www.jornadaperfecta.com/blog/terzic-entrenador-analisis-athletic/",
-      "date": "Thu, 23 Jul 2026 09:00:20 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Principio de acuerdo entre Rodri y el Real Madrid hasta 2030",
-      "link": "https://www.jornadaperfecta.com/blog/rodri-real-madrid-posible-fichaje-26/",
-      "date": "Thu, 23 Jul 2026 07:30:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Flash en Movistar Plus+: ¡50% de Descuento durante 3 meses!",
-      "link": "https://www.jornadaperfecta.com/blog/movistar-plus-promocion-verano-26/",
-      "date": "Thu, 23 Jul 2026 07:20:09 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El Sevilla hace oficial la venta de Akor Adams al Venezia",
-      "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
-      "date": "Wed, 22 Jul 2026 20:50:47 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-23T14:09:11.204Z",
+    "updatedAt": "2026-07-23T19:23:05.416Z",
     "players": []
   }
 }
