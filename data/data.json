@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T08:35:18.906Z",
+  "updatedAt": "2026-07-23T14:09:13.335Z",
   "players": [
     {
       "id": 11,
@@ -8786,9 +8786,55 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42557,
+      "slug": "adeyemi",
+      "name": "Adeyemi",
+      "position": 4,
+      "price": 7220000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Barcelona",
+      "teamId": 3,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Isco y Antony entrenan con normalidad, tras ser baja en el último amistoso",
+      "link": "https://www.jornadaperfecta.com/blog/isco-abde-y-antony-bajas-amistoso/",
+      "date": "Thu, 23 Jul 2026 11:41:49 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Oficial: Karim Adeyemi, nuevo jugador del FC Barcelona",
+      "link": "https://www.jornadaperfecta.com/blog/adeyemi-barcelona-fichaje-oficial/",
+      "date": "Thu, 23 Jul 2026 11:05:55 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Hartman refuerza la defensa del Espanyol. ¿Titular fijo y chollo fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/hartman-analisis-fantasy-fichaje-espanyol/",
+      "date": "Thu, 23 Jul 2026 11:02:03 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Fermín entrena con el grupo y podría estar en el inicio de LaLiga",
+      "link": "https://www.jornadaperfecta.com/blog/fermin-recuperacion-fractura-pie/",
+      "date": "Thu, 23 Jul 2026 09:01:15 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Edin Terzic: Beneficiados y perjudicados fantasy en el Athletic Club",
+      "link": "https://www.jornadaperfecta.com/blog/terzic-entrenador-analisis-athletic/",
+      "date": "Thu, 23 Jul 2026 09:00:20 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Principio de acuerdo entre Rodri y el Real Madrid hasta 2030",
@@ -8806,41 +8852,11 @@
       "title": "El Sevilla hace oficial la venta de Akor Adams al Venezia",
       "link": "https://www.jornadaperfecta.com/blog/akor-adams-salida-sevilla-26/",
       "date": "Wed, 22 Jul 2026 20:50:47 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Wed, 22 Jul 2026 20:00:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Aubameyang, fichaje estrella del Dépor. ¿Fichajazo en fantasy o muy arriesgado?",
-      "link": "https://www.jornadaperfecta.com/blog/aubameyang-deportivo-analisis-fantasy-fichaje-26/",
-      "date": "Wed, 22 Jul 2026 19:00:17 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Aleix Febas ficha por el Celta. ¿Volverá a ser un TOP fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/febas-analisis-fantasy-celta/",
-      "date": "Wed, 22 Jul 2026 17:00:24 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Siguen avanzando las negociaciones para la vuelta de João Cancelo",
-      "link": "https://www.jornadaperfecta.com/blog/cancelo-vuelta-barcelona-26-27/",
-      "date": "Wed, 22 Jul 2026 16:15:57 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Sergio Canales vuelve a su casa, el Racing, ¿chollo fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/canales-analisis-fantasy-racing/",
-      "date": "Wed, 22 Jul 2026 16:00:15 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-23T08:35:16.756Z",
+    "updatedAt": "2026-07-23T14:09:11.204Z",
     "players": []
   }
 }
