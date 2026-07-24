@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T19:23:07.511Z",
+  "updatedAt": "2026-07-24T02:54:58.679Z",
   "players": [
     {
       "id": 11,
@@ -5618,28 +5618,6 @@
       "clausula": null
     },
     {
-      "id": 35283,
-      "slug": "coba-gomes",
-      "name": "Coba Gomes",
-      "position": 4,
-      "price": 280000,
-      "points": 36,
-      "trend": 0,
-      "playedHome": 8,
-      "playedAway": 6,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 35308,
       "slug": "iker-cordoba",
       "name": "Iker Cordoba",
@@ -8020,22 +7998,6 @@
       "clausula": null
     },
     {
-      "id": 41269,
-      "slug": "aritz-aldasoro",
-      "name": "Aldasoro",
-      "position": 3,
-      "price": 220000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [],
-      "clausula": null
-    },
-    {
       "id": 41270,
       "slug": "jorge-salinas",
       "name": "Jorge Salinas",
@@ -8856,7 +8818,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-23T19:23:05.416Z",
+    "updatedAt": "2026-07-24T02:54:56.983Z",
     "players": []
   }
 }
