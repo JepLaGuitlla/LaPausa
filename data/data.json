@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T13:51:39.026Z",
+  "updatedAt": "2026-07-24T19:34:10.018Z",
   "players": [
     {
       "id": 11,
@@ -7856,7 +7856,7 @@
     {
       "id": 41259,
       "slug": "sergio-martinez",
-      "name": "Sergio Mart��nez",
+      "name": "Sergio Martínez",
       "position": 3,
       "price": 150000,
       "points": 0,
@@ -8833,6 +8833,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Promoción Flash en Movistar Plus+: ¡50% de Descuento durante 3 meses!",
+      "link": "https://www.jornadaperfecta.com/blog/movistar-plus-promocion-verano-26/",
+      "date": "Fri, 24 Jul 2026 17:20:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Fri, 24 Jul 2026 17:00:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Rodri ha sido operado de la espalda, ¿impedimento para fichar por el Madrid?",
       "link": "https://www.jornadaperfecta.com/blog/rodri-operacion-espalda-fichaje-madrid/",
       "date": "Fri, 24 Jul 2026 13:14:01 +0000"
@@ -8866,23 +8878,11 @@
       "title": "El sorprendente elegido para la portería del Villarreal",
       "link": "https://www.jornadaperfecta.com/blog/gulacsi-candidato-porteria-villarreal/",
       "date": "Fri, 24 Jul 2026 09:21:26 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Take Kubo ya está en Zubieta, pero entrena en solitario. ¿Llega al inicio de LaLiga?",
-      "link": "https://www.jornadaperfecta.com/blog/take-kubo-evolucion-lesion-rodilla/",
-      "date": "Fri, 24 Jul 2026 08:11:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Últimas 50 plazas para jugar la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
-      "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
-      "date": "Fri, 24 Jul 2026 08:00:54 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-24T13:51:37.440Z",
+    "updatedAt": "2026-07-24T19:34:07.979Z",
     "players": []
   }
 }
