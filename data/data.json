@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T08:31:42.361Z",
+  "updatedAt": "2026-07-24T13:51:39.026Z",
   "players": [
     {
       "id": 11,
@@ -7856,7 +7856,7 @@
     {
       "id": 41259,
       "slug": "sergio-martinez",
-      "name": "Sergio Martínez",
+      "name": "Sergio Mart��nez",
       "position": 3,
       "price": 150000,
       "points": 0,
@@ -8833,6 +8833,42 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Rodri ha sido operado de la espalda, ¿impedimento para fichar por el Madrid?",
+      "link": "https://www.jornadaperfecta.com/blog/rodri-operacion-espalda-fichaje-madrid/",
+      "date": "Fri, 24 Jul 2026 13:14:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Alejandro Balde comienza la pretemporada con pubalgia",
+      "link": "https://www.jornadaperfecta.com/blog/balde-pretemporada-pubalgia/",
+      "date": "Fri, 24 Jul 2026 13:04:44 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Karim Adeyemi llega al FC Barcelona. ¿Será un TOP fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/adeyemi-barcelona-analisis-fichaje/",
+      "date": "Fri, 24 Jul 2026 12:00:29 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Fajardo tranquiliza con el estado de Isco: «No hay quye preocuparse»",
+      "link": "https://www.jornadaperfecta.com/blog/isco-molestias-tobillo/",
+      "date": "Fri, 24 Jul 2026 11:55:53 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Arouna Sangante, nuevo central para el Sevilla. ¿Titular y Chollo Fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/arouna-sangante-sevilla-analisis-fichaje/",
+      "date": "Fri, 24 Jul 2026 10:13:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El sorprendente elegido para la portería del Villarreal",
+      "link": "https://www.jornadaperfecta.com/blog/gulacsi-candidato-porteria-villarreal/",
+      "date": "Fri, 24 Jul 2026 09:21:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Take Kubo ya está en Zubieta, pero entrena en solitario. ¿Llega al inicio de LaLiga?",
       "link": "https://www.jornadaperfecta.com/blog/take-kubo-evolucion-lesion-rodilla/",
       "date": "Fri, 24 Jul 2026 08:11:28 +0000"
@@ -8842,47 +8878,11 @@
       "title": "Últimas 50 plazas para jugar la Liga LEF 2026/27&#8230; ¡la mayor competición fantasy!",
       "link": "https://www.jornadaperfecta.com/blog/liga-lef-26-27/",
       "date": "Fri, 24 Jul 2026 08:00:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Codere Bono Despedida Mundial: regalos diarios para casino y deportes",
-      "link": "https://www.jornadaperfecta.com/blog/promocion-codere-bono-despedida-mundial/",
-      "date": "Fri, 24 Jul 2026 07:00:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Fran García llega al Betis para volver a ser importante. ¿Chollo fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/fran-garcia-analisis-betis/",
-      "date": "Thu, 23 Jul 2026 19:00:52 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Consigue una Freebet de 5€ con la promoción de la Copa Sudamericana en Betsson",
-      "link": "https://www.jornadaperfecta.com/blog/betsson-copa-sudamericana/",
-      "date": "Thu, 23 Jul 2026 18:54:28 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Frenkie de Jong estará varios meses de baja: Parte médico oficial",
-      "link": "https://www.jornadaperfecta.com/blog/frenkie-de-jong-rotura-ligamento/",
-      "date": "Thu, 23 Jul 2026 17:08:10 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Odysseas Vlachodimos jugará un año más en el Sevilla FC. ¿Seguirá siendo clave?",
-      "link": "https://www.jornadaperfecta.com/blog/odysseas-vlachodimos-analisis-vuelta-sevilla-26/",
-      "date": "Thu, 23 Jul 2026 17:00:55 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Kike Salas, baja en el Sevilla por molestias. ¿Preocupa?",
-      "link": "https://www.jornadaperfecta.com/blog/kike-salas-molestias-cuadriceps/",
-      "date": "Thu, 23 Jul 2026 16:38:21 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-24T08:31:40.638Z",
+    "updatedAt": "2026-07-24T13:51:37.440Z",
     "players": []
   }
 }
