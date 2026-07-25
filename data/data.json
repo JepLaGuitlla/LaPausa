@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T19:34:10.018Z",
+  "updatedAt": "2026-07-25T02:54:43.116Z",
   "players": [
     {
       "id": 11,
@@ -239,28 +239,6 @@
       "teamId": 87,
       "status": "ok",
       "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 1153,
-      "slug": "griezmann",
-      "name": "Griezmann",
-      "position": 4,
-      "price": 3750000,
-      "points": 157,
-      "trend": 0,
-      "playedHome": 18,
-      "playedAway": 16,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        5,
-        10,
-        5,
-        3,
-        5
-      ],
       "clausula": null
     },
     {
@@ -1656,28 +1634,6 @@
       "clausula": null
     },
     {
-      "id": 11610,
-      "slug": "brais-mendez",
-      "name": "Brais Méndez",
-      "position": 3,
-      "price": 2310000,
-      "points": 127,
-      "trend": 0,
-      "playedHome": 16,
-      "playedAway": 13,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        4,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 11633,
       "slug": "raba",
       "name": "Raba",
@@ -1977,22 +1933,6 @@
       "playedAway": 0,
       "teamName": "Real Madrid",
       "teamId": 15,
-      "status": "ok",
-      "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 15395,
-      "slug": "alex-petxa",
-      "name": "Álex Petxa",
-      "position": 2,
-      "price": 210000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -2608,7 +2548,7 @@
     {
       "id": 18570,
       "slug": "joaquin-munoz",
-      "name": "Joaquín Muñoz",
+      "name": "Joaquín Mu��oz",
       "position": 4,
       "price": 1550000,
       "points": 0,
@@ -8030,22 +7970,6 @@
       "clausula": null
     },
     {
-      "id": 41272,
-      "slug": "mario-garcia",
-      "name": "Mario García",
-      "position": 2,
-      "price": 170000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [],
-      "clausula": null
-    },
-    {
       "id": 41275,
       "slug": "f-gonzalez",
       "name": "Facundo González",
@@ -8833,6 +8757,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "CuotaPlus Sportium: aumenta un 25% tus ganancias con Crear Apuesta",
+      "link": "https://www.jornadaperfecta.com/blog/cuotaplus-sportium-julio-26/",
+      "date": "Fri, 24 Jul 2026 22:01:08 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Promoción Flash en Movistar Plus+: ¡50% de Descuento durante 3 meses!",
       "link": "https://www.jornadaperfecta.com/blog/movistar-plus-promocion-verano-26/",
       "date": "Fri, 24 Jul 2026 17:20:09 +0000"
@@ -8872,17 +8802,11 @@
       "title": "Arouna Sangante, nuevo central para el Sevilla. ¿Titular y Chollo Fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/arouna-sangante-sevilla-analisis-fichaje/",
       "date": "Fri, 24 Jul 2026 10:13:08 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "El sorprendente elegido para la portería del Villarreal",
-      "link": "https://www.jornadaperfecta.com/blog/gulacsi-candidato-porteria-villarreal/",
-      "date": "Fri, 24 Jul 2026 09:21:26 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-24T19:34:07.979Z",
+    "updatedAt": "2026-07-25T02:54:41.089Z",
     "players": []
   }
 }
