@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T13:41:53.779Z",
+  "updatedAt": "2026-07-25T19:12:31.510Z",
   "players": [
     {
       "id": 11,
@@ -8757,6 +8757,36 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Denzel Dumfries refuerza la defensa del Madrid, ¿será titular fijo?",
+      "link": "https://www.jornadaperfecta.com/blog/denzel-dumfries-analisis-fantasy-madrid/",
+      "date": "Sat, 25 Jul 2026 17:00:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "El Arsenal intentará el fichaje de Vinicius Jr",
+      "link": "https://www.jornadaperfecta.com/blog/arsenal-fichaje-vinicius-jr/",
+      "date": "Sat, 25 Jul 2026 16:32:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
+      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
+      "date": "Sat, 25 Jul 2026 16:00:36 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Kike Salas supera sus molestias y ya entrena con en el Sevilla",
+      "link": "https://www.jornadaperfecta.com/blog/kike-salas-molestias-cuadriceps/",
+      "date": "Sat, 25 Jul 2026 16:00:21 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Ofensiva del Real Madrid por Yan Diomandé. Esta es la cifra de salida",
+      "link": "https://www.jornadaperfecta.com/blog/yan-diomande-oferta-real-madrid/",
+      "date": "Sat, 25 Jul 2026 11:05:22 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Calero vuelve a Málaga, ¿será el líder de la defensa?",
       "link": "https://www.jornadaperfecta.com/blog/calero-analisis-fantasy-malaga/",
       "date": "Sat, 25 Jul 2026 11:00:37 +0000"
@@ -8769,44 +8799,14 @@
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Ofensiva del Real Madrid por Yan Diomandé. Esta es la cifra de salida",
-      "link": "https://www.jornadaperfecta.com/blog/yan-diomande-oferta-real-madrid/",
-      "date": "Sat, 25 Jul 2026 09:00:22 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
       "title": "Carlos Romero vuelve al Villarreal. ¿Seguirá siendo un Chollo Fantasy?",
       "link": "https://www.jornadaperfecta.com/blog/carlos-romero-villarreal-analisis-fantasy/",
       "date": "Sat, 25 Jul 2026 09:00:16 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: Kang-in Lee, nuevo jugador del Atlético de Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/kang-in-lee-atletico-anuncio/",
-      "date": "Sat, 25 Jul 2026 08:16:54 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "CuotaPlus Sportium: aumenta un 25% tus ganancias con Crear Apuesta",
-      "link": "https://www.jornadaperfecta.com/blog/cuotaplus-sportium-julio-26/",
-      "date": "Fri, 24 Jul 2026 22:01:08 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Promoción Flash en Movistar Plus+: ¡50% de Descuento durante 3 meses!",
-      "link": "https://www.jornadaperfecta.com/blog/movistar-plus-promocion-verano-26/",
-      "date": "Fri, 24 Jul 2026 17:20:09 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
-      "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Fri, 24 Jul 2026 17:00:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-25T13:41:51.018Z",
+    "updatedAt": "2026-07-25T19:12:29.484Z",
     "players": []
   }
 }
