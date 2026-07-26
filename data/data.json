@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T19:12:31.510Z",
+  "updatedAt": "2026-07-26T03:20:35.518Z",
   "players": [
     {
       "id": 11,
@@ -475,8 +475,8 @@
       "trend": -20000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Real Sociedad",
-      "teamId": 13,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -1835,8 +1835,8 @@
       "trend": 0,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Espanyol",
-      "teamId": 7,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -2978,6 +2978,22 @@
       "clausula": null
     },
     {
+      "id": 22061,
+      "slug": "josan",
+      "name": "Josan",
+      "position": 3,
+      "price": 180000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Elche",
+      "teamId": 75,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
       "id": 22690,
       "slug": "tete-morente",
       "name": "Tete Morente",
@@ -3407,26 +3423,6 @@
       "teamId": 7,
       "status": "ok",
       "jForm": [],
-      "clausula": null
-    },
-    {
-      "id": 25394,
-      "slug": "peter-gonzalez",
-      "name": "Peter Federico",
-      "position": 4,
-      "price": 300000,
-      "points": 0,
-      "trend": 0,
-      "playedHome": 0,
-      "playedAway": 0,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null
-      ],
       "clausula": null
     },
     {
@@ -6214,28 +6210,6 @@
       "clausula": null
     },
     {
-      "id": 37893,
-      "slug": "urko-izeta",
-      "name": "Urko Izeta",
-      "position": 4,
-      "price": 150000,
-      "points": 32,
-      "trend": 0,
-      "playedHome": 7,
-      "playedAway": 6,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        7,
-        2,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 37894,
       "slug": "pablo-campos",
       "name": "Pablo Campos",
@@ -6699,8 +6673,8 @@
       "trend": -10000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Villarreal",
-      "teamId": 19,
+      "teamName": "",
+      "teamId": null,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -8806,7 +8780,7 @@
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-25T19:12:29.484Z",
+    "updatedAt": "2026-07-26T03:20:33.782Z",
     "players": []
   }
 }
