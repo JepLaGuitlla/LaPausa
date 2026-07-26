@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T13:36:33.741Z",
+  "updatedAt": "2026-07-26T19:16:38.769Z",
   "players": [
     {
       "id": 11,
@@ -8747,15 +8747,27 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Rosier enciende las alarmas por una posible recaída",
+      "title": "Osasuna ojea el mercado ante una lesión de larga duración de Rosier",
       "link": "https://www.jornadaperfecta.com/blog/rosier-lesion-biceps-femoral-pretemporada-26/",
-      "date": "Sun, 26 Jul 2026 12:04:50 +0000"
+      "date": "Sun, 26 Jul 2026 17:30:50 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Diego Conde, lesionado en su debut con el Real Betis",
+      "title": "Malas impresiones con la lesión de Diego Conde",
       "link": "https://www.jornadaperfecta.com/blog/diego-conde-lesion-hombro-pretemporada-26/",
-      "date": "Sun, 26 Jul 2026 11:49:27 +0000"
+      "date": "Sun, 26 Jul 2026 17:25:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Kang-in Lee, el nuevo &#8216;7&#8217; del Atleti. ¿Un futbolista clave para el Cholo?",
+      "link": "https://www.jornadaperfecta.com/blog/kang-in-lee-atleti-analisis-fichaje-26/",
+      "date": "Sun, 26 Jul 2026 17:11:30 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Principio de acuerdo entre Real Madrid y Leizpig por Diomandé",
+      "link": "https://www.jornadaperfecta.com/blog/yan-diomande-oferta-real-madrid/",
+      "date": "Sun, 26 Jul 2026 15:55:22 +0000"
     },
     {
       "source": "Jornada Perfecta",
@@ -8777,26 +8789,14 @@
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Se empieza a dar por cerrada la llegada de Diomandé al Real Madrid",
-      "link": "https://www.jornadaperfecta.com/blog/yan-diomande-oferta-real-madrid/",
-      "date": "Sun, 26 Jul 2026 10:10:22 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
       "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
       "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
       "date": "Sun, 26 Jul 2026 10:00:36 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Álex Calatrava se hace con las llaves de la mediapunta del Espanyol. ¿Chollo fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/alex-calatrava-analisis-fantasy-espanyol/",
-      "date": "Sun, 26 Jul 2026 09:00:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-26T13:36:31.654Z",
+    "updatedAt": "2026-07-26T19:16:36.656Z",
     "players": []
   }
 }
