@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T08:31:54.118Z",
+  "updatedAt": "2026-07-26T13:36:33.741Z",
   "players": [
     {
       "id": 11,
@@ -8747,56 +8747,56 @@
   "news": [
     {
       "source": "Jornada Perfecta",
-      "title": "Denzel Dumfries refuerza la defensa del Madrid, ¿será titular fijo?",
-      "link": "https://www.jornadaperfecta.com/blog/denzel-dumfries-analisis-fantasy-madrid/",
-      "date": "Sat, 25 Jul 2026 17:00:09 +0000"
+      "title": "Rosier enciende las alarmas por una posible recaída",
+      "link": "https://www.jornadaperfecta.com/blog/rosier-lesion-biceps-femoral-pretemporada-26/",
+      "date": "Sun, 26 Jul 2026 12:04:50 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "El Arsenal intentará el fichaje de Vinicius Jr",
-      "link": "https://www.jornadaperfecta.com/blog/arsenal-fichaje-vinicius-jr/",
-      "date": "Sat, 25 Jul 2026 16:32:09 +0000"
+      "title": "Diego Conde, lesionado en su debut con el Real Betis",
+      "link": "https://www.jornadaperfecta.com/blog/diego-conde-lesion-hombro-pretemporada-26/",
+      "date": "Sun, 26 Jul 2026 11:49:27 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Martín Satriano seguirá en el Getafe. ¿Seguirá siendo importante?",
+      "link": "https://www.jornadaperfecta.com/blog/satriano-getafe-analisis-fichaje-26-27/",
+      "date": "Sun, 26 Jul 2026 11:08:45 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Osasuna cierra el fichaje de Jonathan Dubasin para la delantera",
+      "link": "https://www.jornadaperfecta.com/blog/dubasin-osasuna-posible-fichaje-26/",
+      "date": "Sun, 26 Jul 2026 10:45:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Carlos Espí estaría a un paso de salir del Levante UD",
+      "link": "https://www.jornadaperfecta.com/blog/espi-levante-salida-26/",
+      "date": "Sun, 26 Jul 2026 10:43:01 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Se empieza a dar por cerrada la llegada de Diomandé al Real Madrid",
+      "link": "https://www.jornadaperfecta.com/blog/yan-diomande-oferta-real-madrid/",
+      "date": "Sun, 26 Jul 2026 10:10:22 +0000"
     },
     {
       "source": "Jornada Perfecta",
       "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
       "link": "https://www.jornadaperfecta.com/blog/mercado-fichajes-verano-26-27/",
-      "date": "Sat, 25 Jul 2026 16:00:36 +0000"
+      "date": "Sun, 26 Jul 2026 10:00:36 +0000"
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Kike Salas supera sus molestias y ya entrena con en el Sevilla",
-      "link": "https://www.jornadaperfecta.com/blog/kike-salas-molestias-cuadriceps/",
-      "date": "Sat, 25 Jul 2026 16:00:21 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Ofensiva del Real Madrid por Yan Diomandé. Esta es la cifra de salida",
-      "link": "https://www.jornadaperfecta.com/blog/yan-diomande-oferta-real-madrid/",
-      "date": "Sat, 25 Jul 2026 11:05:22 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Calero vuelve a Málaga, ¿será el líder de la defensa?",
-      "link": "https://www.jornadaperfecta.com/blog/calero-analisis-fantasy-malaga/",
-      "date": "Sat, 25 Jul 2026 11:00:37 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Abde ya pisa césped y ultima su regreso, ¿llega al inicio liguero?",
-      "link": "https://www.jornadaperfecta.com/blog/abde-vuelta-lesion/",
-      "date": "Sat, 25 Jul 2026 10:29:00 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Carlos Romero vuelve al Villarreal. ¿Seguirá siendo un Chollo Fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/carlos-romero-villarreal-analisis-fantasy/",
-      "date": "Sat, 25 Jul 2026 09:00:16 +0000"
+      "title": "Álex Calatrava se hace con las llaves de la mediapunta del Espanyol. ¿Chollo fantasy?",
+      "link": "https://www.jornadaperfecta.com/blog/alex-calatrava-analisis-fantasy-espanyol/",
+      "date": "Sun, 26 Jul 2026 09:00:36 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-26T08:31:51.966Z",
+    "updatedAt": "2026-07-26T13:36:31.654Z",
     "players": []
   }
 }
