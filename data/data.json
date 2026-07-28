@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T19:39:22.079Z",
+  "updatedAt": "2026-07-28T02:46:45.458Z",
   "players": [
     {
       "id": 11,
@@ -6546,28 +6546,6 @@
       "clausula": null
     },
     {
-      "id": 38361,
-      "slug": "b-santamaria",
-      "name": "Santamaria",
-      "position": 3,
-      "price": 190000,
-      "points": 53,
-      "trend": 0,
-      "playedHome": 8,
-      "playedAway": 11,
-      "teamName": "",
-      "teamId": null,
-      "status": "ok",
-      "jForm": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "clausula": null
-    },
-    {
       "id": 38368,
       "slug": "filip-ugrinic",
       "name": "Filip Ugrinic",
@@ -8779,6 +8757,12 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Las cinco claves del mercado de fichajes del 27 de julio",
+      "link": "https://www.jornadaperfecta.com/blog/claves-mercado-27-7-26/",
+      "date": "Mon, 27 Jul 2026 21:00:41 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Fermín y Araújo vuelven a un grupo pendiente de Raphinha",
       "link": "https://www.jornadaperfecta.com/blog/de-jong-fermin-raphinha-pretemporada-barca/",
       "date": "Mon, 27 Jul 2026 19:00:04 +0000"
@@ -8818,17 +8802,11 @@
       "title": "Javi Galán vuelve al Celta: ¿fichaje recomendable?",
       "link": "https://www.jornadaperfecta.com/blog/javi-galan-analisis-fantasy-celta-26-27/",
       "date": "Mon, 27 Jul 2026 16:58:30 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Fer Niño será nuevo jugador del Elche CF",
-      "link": "https://www.jornadaperfecta.com/blog/fer-nino-elche-acuerdo-fichaje-26/",
-      "date": "Mon, 27 Jul 2026 15:49:51 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-27T19:39:20.170Z",
+    "updatedAt": "2026-07-28T02:46:43.509Z",
     "players": []
   }
 }
