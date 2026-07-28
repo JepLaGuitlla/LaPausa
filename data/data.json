@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T08:39:20.097Z",
+  "updatedAt": "2026-07-28T14:16:19.396Z",
   "players": [
     {
       "id": 11,
@@ -6171,8 +6171,8 @@
       "trend": 10000,
       "playedHome": 0,
       "playedAway": 0,
-      "teamName": "Espanyol",
-      "teamId": 7,
+      "teamName": "Málaga",
+      "teamId": 65,
       "status": "ok",
       "jForm": [],
       "clausula": null
@@ -7762,6 +7762,22 @@
       "clausula": null
     },
     {
+      "id": 41157,
+      "slug": "alassane-diatta",
+      "name": "Alassane Diatta",
+      "position": 3,
+      "price": 240000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Villarreal",
+      "teamId": 19,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
       "id": 41200,
       "slug": "anthony-gordon",
       "name": "Gordon",
@@ -8752,9 +8768,65 @@
       "status": "ok",
       "jForm": [],
       "clausula": null
+    },
+    {
+      "id": 42604,
+      "slug": "dylan-vanney",
+      "name": "Dylan Vanney",
+      "position": 4,
+      "price": 170000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Betis",
+      "teamId": 87,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
+    },
+    {
+      "id": 42605,
+      "slug": "wanjala",
+      "name": "Wanjala",
+      "position": 2,
+      "price": 180000,
+      "points": 0,
+      "trend": 0,
+      "playedHome": 0,
+      "playedAway": 0,
+      "teamName": "Valencia",
+      "teamId": 18,
+      "status": "ok",
+      "jForm": [],
+      "clausula": null
     }
   ],
   "news": [
+    {
+      "source": "Jornada Perfecta",
+      "title": "Isco, Abde y Ruibal siguen sin entrenar con el grupo",
+      "link": "https://www.jornadaperfecta.com/blog/isco-abde-ruibal-entrenamiento-real-betis/",
+      "date": "Tue, 28 Jul 2026 11:59:32 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Juan Cruz vuelve a Primera con el Málaga. ¿Volverá a brillar?",
+      "link": "https://www.jornadaperfecta.com/blog/juan-cruz-malaga-analisis-fichaje-26/",
+      "date": "Tue, 28 Jul 2026 11:00:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Íñigo Vicente cae lesionado, ¿llega al inicio de LaLiga?",
+      "link": "https://www.jornadaperfecta.com/blog/inigo-vicente-lesion-racing-santander-laliga/",
+      "date": "Tue, 28 Jul 2026 09:26:26 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Hugo Sotelo llega al Levante. ¿El centrocampista perfecto para Luis Castro?",
+      "link": "https://www.jornadaperfecta.com/blog/hugo-sotelo-levante-analisis-fichaje-26/",
+      "date": "Tue, 28 Jul 2026 09:00:07 +0000"
+    },
     {
       "source": "Jornada Perfecta",
       "title": "Mercado de fichajes de verano de LaLiga 26/27: altas y bajas oficiales",
@@ -8778,35 +8850,11 @@
       "title": "Las cinco claves del mercado de fichajes del 27 de julio",
       "link": "https://www.jornadaperfecta.com/blog/claves-mercado-27-7-26/",
       "date": "Mon, 27 Jul 2026 21:00:41 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Fermín y Araújo vuelven a un grupo pendiente de Raphinha",
-      "link": "https://www.jornadaperfecta.com/blog/de-jong-fermin-raphinha-pretemporada-barca/",
-      "date": "Mon, 27 Jul 2026 19:00:04 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Jon Guridi, nuevo jugador del Sevilla FC. ¿Jugador interesante en fantasy?",
-      "link": "https://www.jornadaperfecta.com/blog/jon-guridi-sevilla-analisis-fichaje-26/",
-      "date": "Mon, 27 Jul 2026 18:58:51 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Oficial: José Salinas, nuevo jugador del Málaga CF",
-      "link": "https://www.jornadaperfecta.com/blog/jose-salinas-malaga-anuncio-fichaje-26/",
-      "date": "Mon, 27 Jul 2026 18:53:40 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Informe pretemporada 2026: onces, claves y goleadores",
-      "link": "https://www.jornadaperfecta.com/blog/informe-pretemporada-2026/",
-      "date": "Mon, 27 Jul 2026 18:34:48 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-07-28T08:39:17.893Z",
+    "updatedAt": "2026-07-28T14:16:17.100Z",
     "players": []
   }
 }
