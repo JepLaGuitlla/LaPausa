@@ -109,10 +109,9 @@ async function login() {
 async function fetchPlayers() {
   console.log('📥 Descargando jugadores LaLiga...');
 
-  const cbName = 'jsonp_cb';
   const res = await request({
     hostname: 'cf.biwenger.com',
-    path:     `/api/v2/competitions/la-liga/data?lang=es&score=5&callback=${cbName}`,
+    path:     '/api/v2/competitions/la-liga/data?lang=es&score=5',
     method:   'GET',
     headers:  COMMON_HEADERS,
   });
@@ -122,10 +121,22 @@ async function fetchPlayers() {
     process.exit(1);
   }
 
-  const match = res.raw.match(/^[^(]+\(([\s\S]*)\)\s*;?\s*$/);
-  if (!match) { console.error('❌ No se pudo parsear JSONP'); process.exit(1); }
+  // El endpoint devolvía JSONP (envuelto en un callback) y desde 2026-07 pasó
+  // a JSON plano. Se prueba JSON directo primero y solo si falla se intenta
+  // desenvolver JSONP, por si algún día vuelve a envolver la respuesta.
+  let parsed;
+  try {
+    parsed = JSON.parse(res.raw);
+  } catch (e) {
+    const match = res.raw.match(/^[^(]+\(([\s\S]*)\)\s*;?\s*$/);
+    if (!match) { console.error('❌ No se pudo parsear la respuesta de jugadores'); process.exit(1); }
+    try {
+      parsed = JSON.parse(match[1]);
+    } catch (e2) {
+      console.error('❌ No se pudo parsear JSONP'); process.exit(1);
+    }
+  }
 
-  const parsed     = JSON.parse(match[1]);
   const rawPlayers = parsed?.data?.players;
   const rawTeams   = parsed?.data?.teams || {};
 
