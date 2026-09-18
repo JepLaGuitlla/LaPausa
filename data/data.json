@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:50:39.965Z",
+  "updatedAt": "2026-09-18T10:12:10.694Z",
   "players": [
     {
       "id": 11,
@@ -11941,6 +11941,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Roberto Fernández, gran novedad en la convocatoria de la Selección Española",
+      "link": "https://www.jornadaperfecta.com/blog/convocatoria-seleccion-espana-09-26/",
+      "date": "Fri, 18 Sep 2026 10:10:09 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Terzic deja en duda a Peio Canales",
+      "link": "https://www.jornadaperfecta.com/blog/terzic-previa-athletic-alaves-j7/",
+      "date": "Fri, 18 Sep 2026 09:56:05 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Guido Rodríguez, Gayà y Danjuma vuelven a entrenar con el grupo",
       "link": "https://www.jornadaperfecta.com/blog/guido-rodriguez-estado-j7/",
       "date": "Fri, 18 Sep 2026 09:15:55 +0000"
@@ -11974,23 +11986,11 @@
       "title": "Cinco noticias fantasy para antes de irte a dormir",
       "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-17-9-26/",
       "date": "Thu, 17 Sep 2026 21:00:12 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Comesaña pide el cambio y peligra para la Jornada 7",
-      "link": "https://www.jornadaperfecta.com/blog/comesana-lesion-estado-j7-villarreal/",
-      "date": "Thu, 17 Sep 2026 20:27:21 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 7",
-      "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j7-26-27/",
-      "date": "Thu, 17 Sep 2026 19:00:07 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-09-18T09:50:34.689Z",
+    "updatedAt": "2026-09-18T10:12:04.017Z",
     "players": [
       {
         "id": "37428",
