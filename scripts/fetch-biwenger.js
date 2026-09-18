@@ -18,7 +18,7 @@ const crypto  = require('crypto');
 
 const EMAIL    = process.env.BIWENGER_EMAIL;
 const PASSWORD = process.env.BIWENGER_PASSWORD;
-const VERSION  = '630';
+const VERSION  = '631';
 const FD_TOKEN = '00308a91cfc84b248611ecc22550c9de';
 
 // Liga privada de amigos (TOMAQUET) dentro de Biwenger. x-user es obligatorio
