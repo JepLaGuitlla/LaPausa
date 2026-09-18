@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:06:04.671Z",
+  "updatedAt": "2026-09-18T09:50:39.965Z",
   "players": [
     {
       "id": 11,
@@ -11941,6 +11941,24 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Guido Rodríguez, Gayà y Danjuma vuelven a entrenar con el grupo",
+      "link": "https://www.jornadaperfecta.com/blog/guido-rodriguez-estado-j7/",
+      "date": "Fri, 18 Sep 2026 09:15:55 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Onces en prensa del Espanyol &#8211; Elche",
+      "link": "https://www.jornadaperfecta.com/blog/onces-prensa-espanyol-elche-j7/",
+      "date": "Fri, 18 Sep 2026 08:44:35 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Apuesta Gratis de 11€ en Sportium para el Atlético &#8211; Madrid: cómo conseguirla",
+      "link": "https://www.jornadaperfecta.com/blog/apuesta-gratis-sportium-atletico-real-madrid/",
+      "date": "Fri, 18 Sep 2026 08:28:12 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Joan García no estaría descartado ante el Sevilla: parte médico oficial",
       "link": "https://www.jornadaperfecta.com/blog/joan-garcia-lesion-menisco/",
       "date": "Fri, 18 Sep 2026 08:00:25 +0000"
@@ -11968,29 +11986,11 @@
       "title": "La Previa de las Picas: Todo sobre los Cronistas de la Jornada 7",
       "link": "https://www.jornadaperfecta.com/blog/previa-picas-cronistas-j7-26-27/",
       "date": "Thu, 17 Sep 2026 19:00:07 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Peio Canales entrena con el grupo y se apunta a la Jornada 7",
-      "link": "https://www.jornadaperfecta.com/blog/peio-canales-entrenamiento-estado-j7-athletic/",
-      "date": "Thu, 17 Sep 2026 18:40:52 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Danjuma pasa pruebas médicas, ¿peligra para la jornada 7?",
-      "link": "https://www.jornadaperfecta.com/blog/danjuma-estado-j7-valencia/",
-      "date": "Thu, 17 Sep 2026 18:16:08 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Chollos LaLiga Fantasy: Fichajes Baratos y Rentables para la jornada 7",
-      "link": "https://www.jornadaperfecta.com/blog/chollos-laliga-fantasy-j7-26-27/",
-      "date": "Thu, 17 Sep 2026 18:00:14 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-09-18T08:06:00.124Z",
+    "updatedAt": "2026-09-18T09:50:34.689Z",
     "players": [
       {
         "id": "37428",
