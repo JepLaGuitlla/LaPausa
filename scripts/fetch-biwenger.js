@@ -21,8 +21,10 @@ const PASSWORD = process.env.BIWENGER_PASSWORD;
 const VERSION  = '630';
 const FD_TOKEN = '00308a91cfc84b248611ecc22550c9de';
 
-// Liga privada de amigos (TOMAQUET) dentro de Biwenger.
+// Liga privada de amigos (TOMAQUET) dentro de Biwenger. x-user es obligatorio
+// en las llamadas de liga privada (400 sin él, aunque el login sea correcto).
 const LEAGUE_ID = '44700';
+const LEAGUE_USER_ID = '6541195';
 
 // Cuenta de servicio de Firebase, con permiso limitado a Realtime Database,
 // para escribir directamente liga/2026-27/managers sin pasar por la app.
@@ -128,6 +130,7 @@ async function fetchLeagueRound(token) {
       ...COMMON_HEADERS,
       'Authorization': `Bearer ${token}`,
       'x-league':       LEAGUE_ID,
+      'x-user':         LEAGUE_USER_ID,
       'x-lang':          'es',
     }
   });
