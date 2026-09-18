@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T10:12:10.694Z",
+  "updatedAt": "2026-09-18T10:21:15.414Z",
   "players": [
     {
       "id": 11,
@@ -11941,6 +11941,18 @@
   "news": [
     {
       "source": "Jornada Perfecta",
+      "title": "Julián Álvarez vuelve a entrenar, ¿disponible para la Jornada 7?",
+      "link": "https://www.jornadaperfecta.com/blog/julian-alvarez-estado-j7-atleti/",
+      "date": "Fri, 18 Sep 2026 10:16:13 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
+      "title": "Joan García, baja confirmada ante el Sevilla y con España",
+      "link": "https://www.jornadaperfecta.com/blog/joan-garcia-lesion-menisco/",
+      "date": "Fri, 18 Sep 2026 10:10:25 +0000"
+    },
+    {
+      "source": "Jornada Perfecta",
       "title": "Roberto Fernández, gran novedad en la convocatoria de la Selección Española",
       "link": "https://www.jornadaperfecta.com/blog/convocatoria-seleccion-espana-09-26/",
       "date": "Fri, 18 Sep 2026 10:10:09 +0000"
@@ -11971,26 +11983,14 @@
     },
     {
       "source": "Jornada Perfecta",
-      "title": "Joan García no estaría descartado ante el Sevilla: parte médico oficial",
-      "link": "https://www.jornadaperfecta.com/blog/joan-garcia-lesion-menisco/",
-      "date": "Fri, 18 Sep 2026 08:00:25 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
       "title": "Los Mejores Capitanes Fantasy para la jornada 7 de LaLiga",
       "link": "https://www.jornadaperfecta.com/blog/capitanes-fantasy-j7-laliga-26-27/",
       "date": "Fri, 18 Sep 2026 07:00:10 +0000"
-    },
-    {
-      "source": "Jornada Perfecta",
-      "title": "Cinco noticias fantasy para antes de irte a dormir",
-      "link": "https://www.jornadaperfecta.com/blog/noticias-fantasy-17-9-26/",
-      "date": "Thu, 17 Sep 2026 21:00:12 +0000"
     }
   ],
   "playerStats": {
     "source": "football-data",
-    "updatedAt": "2026-09-18T10:12:04.017Z",
+    "updatedAt": "2026-09-18T10:21:11.037Z",
     "players": [
       {
         "id": "37428",
