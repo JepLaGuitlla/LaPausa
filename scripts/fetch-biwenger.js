@@ -12,13 +12,23 @@
 
 'use strict';
 
-const https = require('https');
-const fs    = require('fs');
+const https   = require('https');
+const fs      = require('fs');
+const crypto  = require('crypto');
 
 const EMAIL    = process.env.BIWENGER_EMAIL;
 const PASSWORD = process.env.BIWENGER_PASSWORD;
 const VERSION  = '630';
 const FD_TOKEN = '00308a91cfc84b248611ecc22550c9de';
+
+// Liga privada de amigos (TOMAQUET) dentro de Biwenger.
+const LEAGUE_ID = '44700';
+
+// Cuenta de servicio de Firebase, con permiso limitado a Realtime Database,
+// para escribir directamente liga/2026-27/managers sin pasar por la app.
+// Secret opcional: si no está, se salta esa parte sin romper el resto.
+const FIREBASE_SERVICE_ACCOUNT_JSON = process.env.FIREBASE_SERVICE_ACCOUNT || '';
+const FIREBASE_DB_URL = 'https://tomaquet-56585-default-rtdb.europe-west1.firebasedatabase.app';
 
 const RSS_SOURCES = [
   { id:'jp', label:'Jornada Perfecta', url:'https://www.jornadaperfecta.com/feed/' },
@@ -102,6 +112,168 @@ async function login() {
 
   console.log('✅ Login correcto');
   return token;
+}
+
+// ── 1b. RONDA DE LA LIGA PRIVADA (clasificación de la jornada actual) ─
+// Reutiliza el token del login de arriba, no hace un segundo login.
+
+async function fetchLeagueRound(token) {
+  console.log('🏆 Descargando ronda de la liga privada...');
+
+  const res = await requestJSON({
+    hostname: 'biwenger.as.com',
+    path:     '/api/v2/rounds/league',
+    method:   'GET',
+    headers: {
+      ...COMMON_HEADERS,
+      'Authorization': `Bearer ${token}`,
+      'x-league':       LEAGUE_ID,
+      'x-lang':          'es',
+    }
+  });
+
+  if (res.status !== 200) {
+    console.warn('⚠️ No se pudo leer la ronda de la liga privada. Status:', res.status);
+    return null;
+  }
+
+  const roundId   = res.body?.data?.round?.id;
+  const standings = res.body?.data?.league?.standings;
+  if (!roundId || !Array.isArray(standings) || !standings.length) {
+    console.warn('⚠️ Respuesta de ronda de liga sin datos utilizables');
+    return null;
+  }
+
+  console.log(`✅ Ronda ${roundId} — ${standings.length} managers`);
+
+  return {
+    roundId,
+    // Orden de clasificación acumulada de la temporada (standings ya viene
+    // ordenado por posición).
+    standingsOrder: standings.map(s => s.name),
+    // Puntos de ESTA ronda concreta por manager (null si aún no se sabe).
+    roundPoints: standings.map(s => ({
+      name:   s.name,
+      points: (s.lineup && typeof s.lineup.points === 'number') ? s.lineup.points : null,
+    })),
+  };
+}
+
+// ── 1c. CAMPEONES DE JORNADA (recuento acumulado, sin mapear nombres) ─
+// No sabemos traducir el id de ronda de Biwenger a "jornada N" de LaLiga,
+// así que en vez de eso detectamos cuándo la ronda cambia: en ese momento,
+// la ronda anterior ya se puede dar por cerrada y se cuenta su 1º/2º/3º.
+
+const JORNADAS_LEAGUE_FILE = 'data/jornadas-biwenger.json';
+
+function updateJornadasLiga(snapshot) {
+  let state = { lastSeenRoundId: null, lastRoundPoints: null, processedRounds: [], tally: {} };
+  try {
+    if (fs.existsSync(JORNADAS_LEAGUE_FILE)) {
+      state = Object.assign(state, JSON.parse(fs.readFileSync(JORNADAS_LEAGUE_FILE, 'utf8')));
+    }
+  } catch (e) {
+    console.warn('⚠️ No se pudo leer jornadas-biwenger.json, iniciando desde cero');
+  }
+
+  if (!snapshot) {
+    fs.writeFileSync(JORNADAS_LEAGUE_FILE, JSON.stringify(state, null, 2), 'utf8');
+    return;
+  }
+
+  const roundChanged = state.lastSeenRoundId != null && state.lastSeenRoundId !== snapshot.roundId;
+  const alreadyDone  = state.processedRounds.includes(state.lastSeenRoundId);
+
+  if (roundChanged && !alreadyDone && state.lastRoundPoints) {
+    const top3 = state.lastRoundPoints
+      .filter(m => typeof m.points === 'number')
+      .sort((a, b) => b.points - a.points)
+      .slice(0, 3);
+
+    top3.forEach((m, i) => {
+      if (!state.tally[m.name]) state.tally[m.name] = [0, 0, 0];
+      state.tally[m.name][i]++;
+    });
+
+    state.processedRounds.push(state.lastSeenRoundId);
+    state.lastClosed = { roundId: state.lastSeenRoundId, top3, closedAt: new Date().toISOString() };
+    console.log(`🏅 Ronda ${state.lastSeenRoundId} cerrada — 1º ${top3[0]?.name || '—'} · 2º ${top3[1]?.name || '—'} · 3º ${top3[2]?.name || '—'}`);
+  }
+
+  state.lastSeenRoundId  = snapshot.roundId;
+  state.lastRoundPoints  = snapshot.roundPoints;
+  state.updatedAt        = new Date().toISOString();
+
+  fs.writeFileSync(JORNADAS_LEAGUE_FILE, JSON.stringify(state, null, 2), 'utf8');
+  console.log(`💾 ${JORNADAS_LEAGUE_FILE} guardado (ronda actual: ${snapshot.roundId})`);
+}
+
+// ── 1d. ESPEJO DE NOMBRES EN FIREBASE (liga/2026-27/managers) ────────
+// Escribe directo en Realtime Database con una cuenta de servicio propia,
+// limitada solo a Realtime Database. Si el secret no está puesto, se salta
+// sin romper el resto del script.
+
+function base64url(buf) {
+  return buf.toString('base64').replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+}
+
+async function getFirebaseAccessToken(serviceAccount) {
+  const header = { alg: 'RS256', typ: 'JWT' };
+  const now = Math.floor(Date.now() / 1000);
+  const claims = {
+    iss:   serviceAccount.client_email,
+    scope: 'https://www.googleapis.com/auth/firebase.database https://www.googleapis.com/auth/userinfo.email',
+    aud:   'https://oauth2.googleapis.com/token',
+    iat:   now,
+    exp:   now + 3600,
+  };
+  const unsigned = base64url(Buffer.from(JSON.stringify(header))) + '.' + base64url(Buffer.from(JSON.stringify(claims)));
+  const signature = crypto.createSign('RSA-SHA256').update(unsigned).sign(serviceAccount.private_key);
+  const jwt = unsigned + '.' + base64url(signature);
+
+  const body = 'grant_type=' + encodeURIComponent('urn:ietf:params:oauth:grant-type:jwt-bearer') + '&assertion=' + jwt;
+  const res = await requestJSON({
+    hostname: 'oauth2.googleapis.com',
+    path:     '/token',
+    method:   'POST',
+    headers:  { 'Content-Type': 'application/x-www-form-urlencoded', 'Content-Length': Buffer.byteLength(body) },
+  }, body);
+
+  if (res.status !== 200 || !res.body?.access_token) {
+    throw new Error('No se pudo obtener token de Firebase: ' + JSON.stringify(res.body));
+  }
+  return res.body.access_token;
+}
+
+async function writeManagersMirror(standingsOrder) {
+  if (!FIREBASE_SERVICE_ACCOUNT_JSON) {
+    console.log('ℹ️ Sin FIREBASE_SERVICE_ACCOUNT — no se actualiza el espejo de managers');
+    return;
+  }
+  console.log('🪞 Actualizando espejo de managers en Firebase...');
+
+  try {
+    const serviceAccount = JSON.parse(FIREBASE_SERVICE_ACCOUNT_JSON);
+    const accessToken     = await getFirebaseAccessToken(serviceAccount);
+    const url             = new URL('/liga/2026-27/managers.json', FIREBASE_DB_URL);
+    const body             = JSON.stringify(standingsOrder);
+
+    const res = await requestJSON({
+      hostname: url.hostname,
+      path:     url.pathname,
+      method:   'PUT',
+      headers: {
+        'Authorization': `Bearer ${accessToken}`,
+        'Content-Type':  'application/json',
+        'Content-Length': Buffer.byteLength(body),
+      },
+    }, body);
+
+    if (res.status !== 200) throw new Error('PUT fallo: ' + res.status + ' ' + JSON.stringify(res.body));
+    console.log(`✅ Espejo actualizado — ${standingsOrder.length} managers`);
+  } catch (e) {
+    console.warn('⚠️ No se pudo actualizar el espejo de managers:', e.message);
+  }
 }
 
 // ── 2. JUGADORES (público, sin auth) ─────────────────
@@ -383,6 +555,11 @@ async function main() {
     // Login necesario para jornadas históricas
     const token   = await login();
     const players = await fetchPlayers();
+
+    console.log('\n--- Liga privada (TOMAQUET) ---');
+    const leagueRound = await fetchLeagueRound(token);
+    updateJornadasLiga(leagueRound);
+    if (leagueRound) await writeManagersMirror(leagueRound.standingsOrder);
 
     console.log('\n--- Datos públicos (paralelo) ---');
     const [news, playerStats] = await Promise.all([
